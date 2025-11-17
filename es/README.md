@@ -14,4 +14,4 @@ Mientras tanto, consulte el [README en inglés](../README.md) para obtener la li
 
 ¡Este es un esfuerzo impulsado por la comunidad! Estaríamos encantados de recibir su ayuda para traducir los nombres y descripciones de las herramientas.
 
-Si es un hablante nativo y desea contribuir al esfuerzo de traducción, comuníquese con el encargado de mantenimiento en Telegram: **@saddex.x** 💬
+Si es un hablante nativo y desea contribuir al esfuerzo de traducción, comuníquese con el encargado de mantenimiento en Telegram: [**Saddex__x**](https://t.me/Saddex_x)
