@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "000bfdc8-7f1c-4370-b46a-7b17a7e337a8",
+    "name": "Amazon Polly",
+    "description": "AWS cloud-based text-to-speech service with Standard, Neural, Long-Form, and Generative voice options. Features pay-as-you-go pricing, speech marks support, and enterprise-grade reliability and scalability.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://aws.amazon.com/polly/",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "Amazon Polly",
+        "description": "AWS cloud-based text-to-speech service with Standard, Neural, Long-Form, and Generative voice options. Features pay-as-you-go pricing, speech marks support, and enterprise-grade reliability and scalability."
+      },
+      "ar": {
+        "name": "\u0623\u0645\u0627\u0632\u0648\u0646 \u0628\u0648\u0644\u064a",
+        "description": "\u062e\u062f\u0645\u0629 \u062a\u062d\u0648\u064a\u0644 \u0627\u0644\u0646\u0635 \u0625\u0644\u0649 \u0643\u0644\u0627\u0645 \u0642\u0627\u0626\u0645\u0629 \u0639\u0644\u0649 \u0633\u062d\u0627\u0628\u0629 AWS \u0645\u0639 \u062e\u064a\u0627\u0631\u0627\u062a \u0635\u0648\u062a\u064a\u0629 \u0642\u064a\u0627\u0633\u064a\u0629\u060c \u0639\u0635\u0628\u064a\u0629\u060c \u0637\u0648\u064a\u0644\u0629 \u0627\u0644\u0645\u062f\u0649\u060c \u0648\u062a\u0648\u0644\u064a\u062f\u064a\u0629. \u062a\u062a\u0645\u064a\u0632 \u0628\u062a\u0633\u0639\u064a\u0631 \u062d\u0633\u0628 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u060c \u062f\u0639\u0645 \u0639\u0644\u0627\u0645\u0627\u062a \u0627\u0644\u0643\u0644\u0627\u0645\u060c \u0648\u0645\u0648\u062b\u0648\u0642\u064a\u0629 \u0648\u0642\u0627\u0628\u0644\u064a\u0629 \u062a\u0648\u0633\u0639 \u0628\u0645\u0633\u062a\u0648\u0649 \u0627\u0644\u0645\u0624\u0633\u0633\u0627\u062a."
+      },
+      "zh": {
+        "name": "\u4e9a\u9a6c\u900a\u6ce2\u5229",
+        "description": "AWS\u57fa\u4e8e\u4e91\u7684\u6587\u672c\u8f6c\u8bed\u97f3\u670d\u52a1\uff0c\u63d0\u4f9b\u6807\u51c6\u3001\u795e\u7ecf\u7f51\u7edc\u3001\u957f\u683c\u5f0f\u548c\u751f\u6210\u5f0f\u8bed\u97f3\u9009\u9879\u3002\u5177\u5907\u6309\u9700\u4ed8\u8d39\u5b9a\u4ef7\u3001\u8bed\u97f3\u6807\u8bb0\u652f\u6301\u4ee5\u53ca\u4f01\u4e1a\u7ea7\u7684\u53ef\u9760\u6027\u548c\u53ef\u6269\u5c55\u6027\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u092e\u0947\u091c\u093c\u0928 \u092a\u0949\u0932\u0940",
+        "description": "AWS \u0915\u094d\u0932\u093e\u0909\u0921-\u0906\u0927\u093e\u0930\u093f\u0924 \u091f\u0947\u0915\u094d\u0938\u094d\u091f-\u091f\u0942-\u0938\u094d\u092a\u0940\u091a \u0938\u0947\u0935\u093e \u091c\u093f\u0938\u092e\u0947\u0902 \u0938\u094d\u091f\u0948\u0902\u0921\u0930\u094d\u0921, \u0928\u094d\u092f\u0942\u0930\u0932, \u0932\u0949\u0928\u094d\u0917-\u092b\u0949\u0930\u094d\u092e \u0914\u0930 \u091c\u0928\u0930\u0947\u091f\u093f\u0935 \u0935\u0949\u0907\u0938 \u0935\u093f\u0915\u0932\u094d\u092a \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0907\u0938\u092e\u0947\u0902 \u092a\u0947-\u090f\u091c\u093c-\u092f\u0942-\u0917\u094b \u092e\u0942\u0932\u094d\u092f \u0928\u093f\u0930\u094d\u0927\u093e\u0930\u0923, \u0938\u094d\u092a\u0940\u091a \u092e\u093e\u0930\u094d\u0915\u094d\u0938 \u0938\u092e\u0930\u094d\u0925\u0928, \u0914\u0930 \u090f\u0902\u091f\u0930\u092a\u094d\u0930\u093e\u0907\u091c-\u0917\u094d\u0930\u0947\u0921 \u0935\u093f\u0936\u094d\u0935\u0938\u0928\u0940\u092f\u0924\u093e \u0914\u0930 \u0938\u094d\u0915\u0947\u0932\u0947\u092c\u093f\u0932\u093f\u091f\u0940 \u0915\u0940 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0902 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Amazon Polly",
+        "description": "Servicio de texto a voz basado en la nube de AWS con opciones de voz Est\u00e1ndar, Neural, de Forma Larga y Generativa. Ofrece precios de pago por uso, soporte para marcas de voz y fiabilidad y escalabilidad de nivel empresarial."
+      },
+      "fr": {
+        "name": "Amazon Polly",
+        "description": "Service de synth\u00e8se vocale bas\u00e9 sur le cloud AWS avec options de voix Standard, Neurale, Longue Dur\u00e9e et G\u00e9n\u00e9rative. Propose une tarification \u00e0 l'usage, prise en charge des marques vocales, ainsi qu'une fiabilit\u00e9 et une \u00e9volutivit\u00e9 de niveau entreprise."
+      }
+    }
+  },
+  {
+    "id": "002f7706-1821-428e-86c3-e11067a71e62",
+    "name": "Apollo.io",
+    "description": "Apollo provides access to actionable information on 250M buyers making it the world's largest and most accurate B2B database. Engage with contacts and automate your entire workflow, all from one, centralized platform.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/apollo-io",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "Apollo.io",
+        "description": "Apollo provides access to actionable information on 250M buyers making it the world's largest and most accurate B2B database. Engage with contacts and automate your entire workflow, all from one, centralized platform."
+      },
+      "ar": {
+        "name": "\u0623\u0628\u0648\u0644\u0648.\u0622\u064a \u0623\u0648",
+        "description": "\u0623\u0628\u0648\u0644\u0648 \u064a\u0648\u0641\u0631 \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0646\u0641\u064a\u0630 \u062d\u0648\u0644 250 \u0645\u0644\u064a\u0648\u0646 \u0645\u0634\u062a\u0631\u064a\u060c \u0645\u0645\u0627 \u064a\u062c\u0639\u0644\u0647 \u0623\u0643\u0628\u0631 \u0648\u0623\u062f\u0642 \u0642\u0627\u0639\u062f\u0629 \u0628\u064a\u0627\u0646\u0627\u062a \u0644\u0644\u0623\u0639\u0645\u0627\u0644 \u0628\u064a\u0646 \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645. \u062a\u0648\u0627\u0635\u0644 \u0645\u0639 \u062c\u0647\u0627\u062a \u0627\u0644\u0627\u062a\u0635\u0627\u0644 \u0648\u0642\u0645 \u0628\u0623\u062a\u0645\u062a\u0629 \u0633\u064a\u0631 \u0639\u0645\u0644\u0643 \u0628\u0627\u0644\u0643\u0627\u0645\u0644\u060c \u0643\u0644 \u0630\u0644\u0643 \u0645\u0646 \u0645\u0646\u0635\u0629 \u0648\u0627\u062d\u062f\u0629 \u0645\u0631\u0643\u0632\u064a\u0629."
+      },
+      "zh": {
+        "name": "Apollo.io",
+        "description": "Apollo \u63d0\u4f9b\u5bf92.5\u4ebf\u4e70\u5bb6\u7684\u53ef\u64cd\u4f5c\u4fe1\u606f\u8bbf\u95ee\uff0c\u662f\u5168\u7403\u6700\u5927\u4e14\u6700\u51c6\u786e\u7684B2B\u6570\u636e\u5e93\u3002\u901a\u8fc7\u4e00\u4e2a\u96c6\u4e2d\u5e73\u53f0\u4e0e\u8054\u7cfb\u4eba\u4e92\u52a8\u5e76\u81ea\u52a8\u5316\u60a8\u7684\u6574\u4e2a\u5de5\u4f5c\u6d41\u7a0b\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u092a\u094b\u0932\u094b.\u0906\u0908\u0913",
+        "description": "\u0905\u092a\u094b\u0932\u094b 250 \u092e\u093f\u0932\u093f\u092f\u0928 \u0916\u0930\u0940\u0926\u093e\u0930\u094b\u0902 \u092a\u0930 \u0915\u094d\u0930\u093f\u092f\u093e\u0936\u0940\u0932 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u0924\u0915 \u092a\u0939\u0941\u0902\u091a \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948, \u091c\u093f\u0938\u0938\u0947 \u092f\u0939 \u0926\u0941\u0928\u093f\u092f\u093e \u0915\u093e \u0938\u092c\u0938\u0947 \u092c\u0921\u093c\u093e \u0914\u0930 \u0938\u092c\u0938\u0947 \u0938\u091f\u0940\u0915 B2B \u0921\u0947\u091f\u093e\u092c\u0947\u0938 \u092c\u0928 \u091c\u093e\u0924\u093e \u0939\u0948\u0964 \u0938\u0902\u092a\u0930\u094d\u0915\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 \u091c\u0941\u0921\u093c\u0947\u0902 \u0914\u0930 \u0905\u092a\u0928\u0947 \u092a\u0942\u0930\u0947 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u094d\u0935\u091a\u093e\u0932\u093f\u0924 \u0915\u0930\u0947\u0902, \u0935\u0939 \u092d\u0940 \u090f\u0915 \u0939\u0940 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u0938\u0947\u0964"
+      },
+      "es": {
+        "name": "Apollo.io",
+        "description": "Apollo ofrece acceso a informaci\u00f3n procesable sobre 250 millones de compradores, convirti\u00e9ndolo en la base de datos B2B m\u00e1s grande y precisa del mundo. Interact\u00fae con contactos y automatice todo su flujo de trabajo, todo desde una plataforma centralizada."
+      },
+      "fr": {
+        "name": "Apollo.io",
+        "description": "Apollo offre un acc\u00e8s \u00e0 des informations exploitables sur 250 millions d'acheteurs, ce qui en fait la plus grande et la plus pr\u00e9cise base de donn\u00e9es B2B au monde. Interagissez avec les contacts et automatisez l'ensemble de votre flux de travail, le tout depuis une plateforme centralis\u00e9e."
+      }
+    }
+  },
+  {
+    "id": "08c8465d82fe",
+    "name": "AI21 Studio",
+    "description": "AI-powered assistant for research and academic applications",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://ai21studio.com",
+    "pricing": "Commercial",
+    "translations": {
+      "en": {
+        "name": "AI21 Studio",
+        "description": "AI-powered assistant for research and academic applications"
+      },
+      "ar": {
+        "name": "\u0627\u0633\u062a\u0648\u062f\u064a\u0648 AI21",
+        "description": "\u0645\u0633\u0627\u0639\u062f \u0645\u062f\u0639\u0648\u0645 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0644\u0628\u062d\u062b \u0648\u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629"
+      },
+      "zh": {
+        "name": "AI21\u5de5\u4f5c\u5ba4",
+        "description": "\u57fa\u4e8e\u4eba\u5de5\u667a\u80fd\u7684\u7814\u7a76\u4e0e\u5b66\u672f\u5e94\u7528\u52a9\u624b"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u090821 \u0938\u094d\u091f\u0942\u0921\u093f\u092f\u094b",
+        "description": "\u0936\u094b\u0927 \u0914\u0930 \u0936\u0948\u0915\u094d\u0937\u0923\u093f\u0915 \u0905\u0928\u0941\u092a\u094d\u0930\u092f\u094b\u0917\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0938\u0939\u093e\u092f\u0915"
+      },
+      "es": {
+        "name": "Estudio AI21",
+        "description": "Asistente impulsado por IA para investigaci\u00f3n y aplicaciones acad\u00e9micas"
+      },
+      "fr": {
+        "name": "Studio AI21",
+        "description": "Assistant intelligent pour la recherche et les applications acad\u00e9miques"
+      }
+    }
+  },
+  {
+    "id": "0bb2f131-9926-4554-b1dd-8aeac1c9d124",
+    "name": "Adobe Firefly",
+    "description": "An AI model used for generating and modifying images.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/adobe-firefly",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "Adobe Firefly",
+        "description": "An AI model used for generating and modifying images."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0648\u0628\u064a \u0641\u0627\u064a\u0631\u0641\u0644\u0627\u064a",
+        "description": "\u0646\u0645\u0648\u0630\u062c \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u064a\u064f\u0633\u062a\u062e\u062f\u0645 \u0644\u062a\u0648\u0644\u064a\u062f \u0648\u062a\u0639\u062f\u064a\u0644 \u0627\u0644\u0635\u0648\u0631."
+      },
+      "zh": {
+        "name": "Adobe \u706b\u82b1",
+        "description": "\u7528\u4e8e\u751f\u6210\u548c\u4fee\u6539\u56fe\u50cf\u7684\u4eba\u5de5\u667a\u80fd\u6a21\u578b\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0921\u094b\u092c \u092b\u093e\u092f\u0930\u092b\u094d\u0932\u093e\u0908",
+        "description": "\u090f\u0915 \u090f\u0906\u0908 \u092e\u0949\u0921\u0932 \u091c\u094b \u091b\u0935\u093f\u092f\u094b\u0902 \u0915\u094b \u0909\u0924\u094d\u092a\u0928\u094d\u0928 \u0915\u0930\u0928\u0947 \u0914\u0930 \u0938\u0902\u0936\u094b\u0927\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0909\u092a\u092f\u094b\u0917 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Adobe Firefly",
+        "description": "Un modelo de IA utilizado para generar y modificar im\u00e1genes."
+      },
+      "fr": {
+        "name": "Adobe Firefly",
+        "description": "Un mod\u00e8le d'IA utilis\u00e9 pour g\u00e9n\u00e9rer et modifier des images."
+      }
+    }
+  },
+  {
+    "id": "0cbf0ac3-6c65-49a2-b139-47896a6a2669",
+    "name": "Asana AI",
+    "description": "AI-powered project and task management",
+    "high_level_category": "Productivity & Assistant",
+    "url": "asanaai",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "translations": {
+      "en": {
+        "name": "Asana AI",
+        "description": "AI-powered project and task management"
+      },
+      "ar": {
+        "name": "\u0623\u0633\u0627\u0646\u0627 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a",
+        "description": "\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0634\u0627\u0631\u064a\u0639 \u0648\u0627\u0644\u0645\u0647\u0627\u0645 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a"
+      },
+      "zh": {
+        "name": "Asana \u4eba\u5de5\u667a\u80fd",
+        "description": "\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684\u9879\u76ee\u4e0e\u4efb\u52a1\u7ba1\u7406"
+      },
+      "hi": {
+        "name": "\u0905\u0938\u093e\u0928\u093e \u090f\u0906\u0908",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u092a\u0930\u093f\u092f\u094b\u091c\u0928\u093e \u0914\u0930 \u0915\u093e\u0930\u094d\u092f \u092a\u094d\u0930\u092c\u0902\u0927\u0928"
+      },
+      "es": {
+        "name": "Asana IA",
+        "description": "Gesti\u00f3n de proyectos y tareas impulsada por IA"
+      },
+      "fr": {
+        "name": "Asana IA",
+        "description": "Gestion de projets et de t\u00e2ches assist\u00e9e par IA"
+      }
+    }
+  },
+  {
+    "id": "113c1e6c-5300-4e20-8ed9-facf620a2d7e",
+    "name": "Azure OpenAI Service",
+    "description": "Build your own copilot and generative AI applications. The only platform other than OpenAI that serves OpenAI's models.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/azure-openai-service",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "Azure OpenAI Service",
+        "description": "Build your own copilot and generative AI applications. The only platform other than OpenAI that serves OpenAI's models."
+      },
+      "ar": {
+        "name": "\u062e\u062f\u0645\u0629 \u0623\u0632\u0648\u0631 \u0644\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u0645\u0641\u062a\u0648\u062d",
+        "description": "\u0627\u0628\u0646\u0650 \u0645\u0633\u0627\u0639\u062f\u0643 \u0627\u0644\u0634\u062e\u0635\u064a \u0648\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u062a\u0648\u0644\u064a\u062f\u064a\u0629 \u0627\u0644\u062e\u0627\u0635\u0629 \u0628\u0643. \u0627\u0644\u0645\u0646\u0635\u0629 \u0627\u0644\u0648\u062d\u064a\u062f\u0629 \u0628\u062e\u0644\u0627\u0641 OpenAI \u0627\u0644\u062a\u064a \u062a\u0642\u062f\u0645 \u0646\u0645\u0627\u0630\u062c OpenAI."
+      },
+      "zh": {
+        "name": "Azure \u5f00\u653e\u4eba\u5de5\u667a\u80fd\u670d\u52a1",
+        "description": "\u6784\u5efa\u60a8\u81ea\u5df1\u7684\u52a9\u7406\u548c\u751f\u6210\u5f0f\u4eba\u5de5\u667a\u80fd\u5e94\u7528\u3002\u552f\u4e00\u4e00\u4e2a\u9664OpenAI\u5916\u652f\u6301OpenAI\u6a21\u578b\u7684\u5e73\u53f0\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u091c\u093c\u094d\u092f\u094b\u0930 \u0913\u092a\u0928\u090f\u0906\u0908 \u0938\u0947\u0935\u093e",
+        "description": "\u0905\u092a\u0928\u093e \u0916\u0941\u0926 \u0915\u093e \u0915\u094b\u092a\u093e\u092f\u0932\u091f \u0914\u0930 \u091c\u0928\u0930\u0947\u091f\u093f\u0935 \u090f\u0906\u0908 \u090f\u092a\u094d\u0932\u093f\u0915\u0947\u0936\u0928 \u092c\u0928\u093e\u090f\u0902\u0964 OpenAI \u0915\u0947 \u092e\u0949\u0921\u0932\u094d\u0938 \u0915\u094b \u0938\u0947\u0935\u093e \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u093e OpenAI \u0915\u0947 \u0905\u0932\u093e\u0935\u093e \u090f\u0915\u092e\u093e\u0924\u094d\u0930 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e\u0964"
+      },
+      "es": {
+        "name": "Servicio Azure OpenAI",
+        "description": "Construya su propio copiloto y aplicaciones de IA generativa. La \u00fanica plataforma adem\u00e1s de OpenAI que ofrece los modelos de OpenAI."
+      },
+      "fr": {
+        "name": "Service Azure OpenAI",
+        "description": "Cr\u00e9ez votre propre copilote et applications d'IA g\u00e9n\u00e9rative. La seule plateforme autre qu'OpenAI \u00e0 proposer les mod\u00e8les d'OpenAI."
+      }
+    }
+  },
+  {
+    "id": "13a35bda-64b1-4b64-82b6-8030824d221e",
+    "name": "AI Tool 195",
+    "description": "AI Tool 195 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-195",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 195",
+        "description": "AI Tool 195 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 195",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 195 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177195",
+        "description": "AI\u5de5\u5177195\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 195",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 195 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0902 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0902 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 195",
+        "description": "Herramienta de IA 195 es una herramienta avanzada impulsada por IA dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 195",
+        "description": "Outil IA 195 est un outil avanc\u00e9 aliment\u00e9 par l'IA con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "15752935-9e31-4dbe-aa3b-1b3210402055",
+    "name": "Albato",
+    "description": "Automation platform targeting simple workflows for small businesses and startups with white-label capabilities, embedded experiences, and focus on no-code tool integration.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://albato.com",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "Albato",
+        "description": "Automation platform targeting simple workflows for small businesses and startups with white-label capabilities, embedded experiences, and focus on no-code tool integration."
+      },
+      "ar": {
+        "name": "\u0623\u0644\u0628\u0627\u062a\u0648",
+        "description": "\u0645\u0646\u0635\u0629 \u0623\u062a\u0645\u062a\u0629 \u062a\u0633\u062a\u0647\u062f\u0641 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u0628\u0633\u064a\u0637 \u0644\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0635\u063a\u064a\u0631\u0629 \u0648\u0627\u0644\u0634\u0631\u0643\u0627\u062a \u0627\u0644\u0646\u0627\u0634\u0626\u0629 \u0645\u0639 \u0642\u062f\u0631\u0627\u062a \u0627\u0644\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621\u060c \u062a\u062c\u0627\u0631\u0628 \u0645\u062f\u0645\u062c\u0629\u060c \u0648\u062a\u0631\u0643\u064a\u0632 \u0639\u0644\u0649 \u062a\u0643\u0627\u0645\u0644 \u0623\u062f\u0648\u0627\u062a \u0628\u062f\u0648\u0646 \u0643\u0648\u062f."
+      },
+      "zh": {
+        "name": "\u963f\u5c14\u5df4\u6258",
+        "description": "\u9762\u5411\u5c0f\u578b\u4f01\u4e1a\u548c\u521d\u521b\u516c\u53f8\u7684\u81ea\u52a8\u5316\u5e73\u53f0\uff0c\u652f\u6301\u767d\u6807\u529f\u80fd\u3001\u5d4c\u5165\u5f0f\u4f53\u9a8c\uff0c\u4e13\u6ce8\u4e8e\u65e0\u4ee3\u7801\u5de5\u5177\u96c6\u6210\uff0c\u9002\u7528\u4e8e\u7b80\u5355\u5de5\u4f5c\u6d41\u7a0b\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0932\u092c\u0948\u091f\u094b",
+        "description": "\u091b\u094b\u091f\u0947 \u0935\u094d\u092f\u0935\u0938\u093e\u092f\u094b\u0902 \u0914\u0930 \u0938\u094d\u091f\u093e\u0930\u094d\u091f\u0905\u092a\u094d\u0938 \u0915\u0947 \u0932\u093f\u090f \u0938\u0930\u0932 \u0935\u0930\u094d\u0915\u092b\u093c\u094d\u0932\u094b\u091c\u093c \u0915\u094b \u0932\u0915\u094d\u0937\u093f\u0924 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u093e \u0911\u091f\u094b\u092e\u0947\u0936\u0928 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e, \u091c\u093f\u0938\u092e\u0947\u0902 \u0935\u094d\u0939\u093e\u0907\u091f-\u0932\u0947\u092c\u0932 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0902, \u090f\u092e\u094d\u092c\u0947\u0921\u0947\u0921 \u0905\u0928\u0941\u092d\u0935, \u0914\u0930 \u0928\u094b-\u0915\u094b\u0921 \u091f\u0942\u0932 \u0907\u0902\u091f\u0940\u0917\u094d\u0930\u0947\u0936\u0928 \u092a\u0930 \u0927\u094d\u092f\u093e\u0928 \u0915\u0947\u0902\u0926\u094d\u0930\u093f\u0924 \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Albato",
+        "description": "Plataforma de automatizaci\u00f3n dirigida a flujos de trabajo simples para peque\u00f1as empresas y startups, con capacidades de marca blanca, experiencias integradas y enfoque en la integraci\u00f3n de herramientas sin c\u00f3digo."
+      },
+      "fr": {
+        "name": "Albato",
+        "description": "Plateforme d'automatisation ciblant les flux de travail simples pour les petites entreprises et les startups, avec des capacit\u00e9s en marque blanche, des exp\u00e9riences int\u00e9gr\u00e9es et un accent sur l'int\u00e9gration d'outils sans code."
+      }
+    }
+  },
+  {
+    "id": "15c3f0f7-9491-425c-922b-84e17dfbb81b",
+    "name": "AI Tool 219",
+    "description": "AI Tool 219 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-219",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 219",
+        "description": "AI Tool 219 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 219",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 219 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177219",
+        "description": "AI\u5de5\u5177219\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 219",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 219 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 219",
+        "description": "Herramienta de IA 219 es una herramienta avanzada impulsada por IA dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 219",
+        "description": "Outil IA 219 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "1df46e1d-f3d2-4040-9ceb-2c3aaba976b7",
+    "name": "AgentGPT",
+    "description": "Web-based AI agent platform that automates tasks through natural language instructions with autonomous execution, goal-oriented planning, and web interaction capabilities.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://agentgpt.reworkd.ai",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "AgentGPT",
+        "description": "Web-based AI agent platform that automates tasks through natural language instructions with autonomous execution, goal-oriented planning, and web interaction capabilities."
+      },
+      "ar": {
+        "name": "\u0627\u0644\u0648\u0643\u064a\u0644 GPT",
+        "description": "\u0645\u0646\u0635\u0629 \u0648\u0643\u064a\u0644 \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0642\u0627\u0626\u0645\u0629 \u0639\u0644\u0649 \u0627\u0644\u0648\u064a\u0628 \u062a\u0642\u0648\u0645 \u0628\u0623\u062a\u0645\u062a\u0629 \u0627\u0644\u0645\u0647\u0627\u0645 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u0639\u0644\u064a\u0645\u0627\u062a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u0629 \u0645\u0639 \u062a\u0646\u0641\u064a\u0630 \u0630\u0627\u062a\u064a\u060c \u062a\u062e\u0637\u064a\u0637 \u0645\u0648\u062c\u0647 \u0646\u062d\u0648 \u0627\u0644\u0623\u0647\u062f\u0627\u0641\u060c \u0648\u0642\u062f\u0631\u0627\u062a \u0627\u0644\u062a\u0641\u0627\u0639\u0644 \u0645\u0639 \u0627\u0644\u0648\u064a\u0628."
+      },
+      "zh": {
+        "name": "\u667a\u80fd\u4ee3\u7406GPT",
+        "description": "\u57fa\u4e8e\u7f51\u9875\u7684\u4eba\u5de5\u667a\u80fd\u4ee3\u7406\u5e73\u53f0\uff0c\u901a\u8fc7\u81ea\u7136\u8bed\u8a00\u6307\u4ee4\u5b9e\u73b0\u4efb\u52a1\u81ea\u52a8\u5316\uff0c\u5177\u5907\u81ea\u4e3b\u6267\u884c\u3001\u76ee\u6807\u5bfc\u5411\u89c4\u5212\u548c\u7f51\u9875\u4ea4\u4e92\u80fd\u529b\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u091c\u0947\u0902\u091f\u091c\u0940\u092a\u0940\u091f\u0940",
+        "description": "\u0935\u0947\u092c-\u0906\u0927\u093e\u0930\u093f\u0924 \u090f\u0906\u0908 \u090f\u091c\u0947\u0902\u091f \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u091c\u094b \u0938\u094d\u0935\u093e\u092f\u0924\u094d\u0924 \u0928\u093f\u0937\u094d\u092a\u093e\u0926\u0928, \u0932\u0915\u094d\u0937\u094d\u092f-\u0909\u0928\u094d\u092e\u0941\u0916 \u092f\u094b\u091c\u0928\u093e \u0914\u0930 \u0935\u0947\u092c \u0907\u0902\u091f\u0930\u0948\u0915\u094d\u0936\u0928 \u0915\u094d\u0937\u092e\u0924\u093e\u0913\u0902 \u0915\u0947 \u0938\u093e\u0925 \u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u092d\u093e\u0937\u093e \u0928\u093f\u0930\u094d\u0926\u0947\u0936\u094b\u0902 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u0915\u093e\u0930\u094d\u092f\u094b\u0902 \u0915\u094b \u0938\u094d\u0935\u091a\u093e\u0932\u093f\u0924 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "AgentGPT",
+        "description": "Plataforma de agentes de IA basada en la web que automatiza tareas mediante instrucciones en lenguaje natural con ejecuci\u00f3n aut\u00f3noma, planificaci\u00f3n orientada a objetivos y capacidades de interacci\u00f3n web."
+      },
+      "fr": {
+        "name": "AgentGPT",
+        "description": "Plateforme d'agents IA bas\u00e9e sur le web qui automatise les t\u00e2ches via des instructions en langage naturel avec ex\u00e9cution autonome, planification orient\u00e9e objectifs et capacit\u00e9s d'interaction web."
+      }
+    }
+  },
+  {
+    "id": "209145c8-06dc-4428-af43-405a68376ebf",
+    "name": "Augment Code",
+    "description": "Developer AI platform with deep codebase indexing for intelligent suggestions, agent-driven execution, and enterprise compliance features.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.augmentcode.com/",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "Augment Code",
+        "description": "Developer AI platform with deep codebase indexing for intelligent suggestions, agent-driven execution, and enterprise compliance features."
+      },
+      "ar": {
+        "name": "\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0634\u0641\u0631\u0629",
+        "description": "\u0645\u0646\u0635\u0629 \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0644\u0645\u0637\u0648\u0631\u064a\u0646 \u0645\u0639 \u0641\u0647\u0631\u0633\u0629 \u0639\u0645\u064a\u0642\u0629 \u0644\u0642\u0627\u0639\u062f\u0629 \u0627\u0644\u0634\u064a\u0641\u0631\u0629 \u0644\u062a\u0642\u062f\u064a\u0645 \u0627\u0642\u062a\u0631\u0627\u062d\u0627\u062a \u0630\u0643\u064a\u0629\u060c \u062a\u0646\u0641\u064a\u0630 \u0645\u062f\u0641\u0648\u0639 \u0628\u0627\u0644\u0648\u0643\u0644\u0627\u0621\u060c \u0648\u0645\u064a\u0632\u0627\u062a \u0627\u0644\u0627\u0645\u062a\u062b\u0627\u0644 \u0627\u0644\u0645\u0624\u0633\u0633\u064a."
+      },
+      "zh": {
+        "name": "\u589e\u5f3a\u4ee3\u7801",
+        "description": "\u5177\u5907\u6df1\u5ea6\u4ee3\u7801\u5e93\u7d22\u5f15\u7684\u5f00\u53d1\u8005\u4eba\u5de5\u667a\u80fd\u5e73\u53f0\uff0c\u63d0\u4f9b\u667a\u80fd\u5efa\u8bae\u3001\u4ee3\u7406\u9a71\u52a8\u6267\u884c\u53ca\u4f01\u4e1a\u5408\u89c4\u529f\u80fd\u3002"
+      },
+      "hi": {
+        "name": "\u0915\u094b\u0921 \u0938\u0902\u0935\u0930\u094d\u0927\u0928",
+        "description": "\u0921\u0947\u0935\u0932\u092a\u0930 \u090f\u0906\u0908 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u091c\u093f\u0938\u092e\u0947\u0902 \u0917\u0939\u0928 \u0915\u094b\u0921\u092c\u0947\u0938 \u0905\u0928\u0941\u0915\u094d\u0930\u092e\u0923 \u0915\u0947 \u0932\u093f\u090f \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u093e\u0928 \u0938\u0941\u091d\u093e\u0935, \u090f\u091c\u0947\u0902\u091f-\u091a\u093e\u0932\u093f\u0924 \u0928\u093f\u0937\u094d\u092a\u093e\u0926\u0928, \u0914\u0930 \u090f\u0902\u091f\u0930\u092a\u094d\u0930\u093e\u0907\u091c \u0905\u0928\u0941\u092a\u093e\u0932\u0928 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Aumentar C\u00f3digo",
+        "description": "Plataforma de IA para desarrolladores con indexaci\u00f3n profunda de bases de c\u00f3digo para sugerencias inteligentes, ejecuci\u00f3n dirigida por agentes y funciones de cumplimiento empresarial."
+      },
+      "fr": {
+        "name": "Augmenter le code",
+        "description": "Plateforme d'IA pour d\u00e9veloppeurs avec indexation approfondie du code source pour des suggestions intelligentes, ex\u00e9cution pilot\u00e9e par agents et fonctionnalit\u00e9s de conformit\u00e9 d'entreprise."
+      }
+    }
+  },
+  {
+    "id": "32b58c9b-90d5-45ba-83fc-a2fc6796862c",
+    "name": "AI Agent",
+    "description": "General-purpose AI agent application for task automation across various domains with natural language interaction, multi-step workflow execution, and integration capabilities.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://agentgpt.reworkd.ai",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Agent",
+        "description": "General-purpose AI agent application for task automation across various domains with natural language interaction, multi-step workflow execution, and integration capabilities."
+      },
+      "ar": {
+        "name": "\u0648\u0643\u064a\u0644 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a",
+        "description": "\u062a\u0637\u0628\u064a\u0642 \u0648\u0643\u064a\u0644 \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0639\u0627\u0645 \u0644\u0623\u062a\u0645\u062a\u0629 \u0627\u0644\u0645\u0647\u0627\u0645 \u0639\u0628\u0631 \u0645\u062c\u0627\u0644\u0627\u062a \u0645\u062a\u0639\u062f\u062f\u0629 \u0645\u0639 \u062a\u0641\u0627\u0639\u0644 \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0637\u0628\u064a\u0639\u064a\u0629\u060c \u062a\u0646\u0641\u064a\u0630 \u0633\u064a\u0631 \u0639\u0645\u0644 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u062e\u0637\u0648\u0627\u062a\u060c \u0648\u0642\u062f\u0631\u0627\u062a \u0627\u0644\u062a\u0643\u0627\u0645\u0644."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u4ee3\u7406",
+        "description": "\u901a\u7528\u4eba\u5de5\u667a\u80fd\u4ee3\u7406\u5e94\u7528\uff0c\u652f\u6301\u8de8\u9886\u57df\u4efb\u52a1\u81ea\u52a8\u5316\uff0c\u5177\u5907\u81ea\u7136\u8bed\u8a00\u4ea4\u4e92\u3001\u591a\u6b65\u9aa4\u5de5\u4f5c\u6d41\u6267\u884c\u53ca\u96c6\u6210\u80fd\u529b\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u090f\u091c\u0947\u0902\u091f",
+        "description": "\u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930\u094b\u0902 \u092e\u0947\u0902 \u0915\u093e\u0930\u094d\u092f \u0938\u094d\u0935\u091a\u093e\u0932\u0928 \u0915\u0947 \u0932\u093f\u090f \u0938\u093e\u092e\u093e\u0928\u094d\u092f \u092a\u094d\u0930\u092f\u094b\u091c\u0928 \u090f\u0906\u0908 \u090f\u091c\u0947\u0902\u091f \u090f\u092a\u094d\u0932\u093f\u0915\u0947\u0936\u0928, \u091c\u093f\u0938\u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u092d\u093e\u0937\u093e \u0938\u0902\u0935\u093e\u0926, \u092c\u0939\u0941-\u091a\u0930\u0923 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0928\u093f\u0937\u094d\u092a\u093e\u0926\u0928, \u0914\u0930 \u090f\u0915\u0940\u0915\u0930\u0923 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Agente de IA",
+        "description": "Aplicaci\u00f3n de agente de IA de prop\u00f3sito general para la automatizaci\u00f3n de tareas en diversos dominios con interacci\u00f3n en lenguaje natural, ejecuci\u00f3n de flujos de trabajo multietapa y capacidades de integraci\u00f3n."
+      },
+      "fr": {
+        "name": "Agent IA",
+        "description": "Application d'agent IA polyvalent pour l'automatisation des t\u00e2ches dans divers domaines avec interaction en langage naturel, ex\u00e9cution de flux de travail multi-\u00e9tapes et capacit\u00e9s d'int\u00e9gration."
+      }
+    }
+  },
+  {
+    "id": "333af41b-85fe-4ea6-b270-b48ca1fb0545",
+    "name": "AI Tool 207",
+    "description": "AI Tool 207 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-207",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 207",
+        "description": "AI Tool 207 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 207",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 207 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0648\u0641\u0631 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177207",
+        "description": "AI\u5de5\u5177207\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5730\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 207",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 207 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 207",
+        "description": "Herramienta de IA 207 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 207",
+        "description": "Outil IA 207 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "33478ac9-a93c-4718-b8bb-815d19a58451",
+    "name": "AI Tool 87",
+    "description": "AI Tool 87 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-87",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 87",
+        "description": "AI Tool 87 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 87",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 87 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u517787",
+        "description": "AI\u5de5\u517787\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 87",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 87 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0902 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0902 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 87",
+        "description": "Herramienta de IA 87 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados de manera m\u00e1s r\u00e1pida."
+      },
+      "fr": {
+        "name": "Outil IA 87",
+        "description": "Outil IA 87 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "37a29e66-8692-4147-a636-912769177175",
+    "name": "Aomni",
+    "description": "AI research platform designed for in-depth research capabilities with web scraping, data synthesis, comprehensive analysis, and research report generation.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://aomni.com",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "Aomni",
+        "description": "AI research platform designed for in-depth research capabilities with web scraping, data synthesis, comprehensive analysis, and research report generation."
+      },
+      "ar": {
+        "name": "\u0623\u0648\u0645\u0646\u064a",
+        "description": "\u0645\u0646\u0635\u0629 \u0623\u0628\u062d\u0627\u062b \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u0642\u062f\u0631\u0627\u062a \u0628\u062d\u062b \u0645\u062a\u0639\u0645\u0642\u0629 \u0645\u0639 \u062c\u0645\u0639 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646 \u0627\u0644\u0648\u064a\u0628\u060c \u062a\u0631\u0643\u064a\u0628 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\u060c \u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0634\u0627\u0645\u0644\u060c \u0648\u062a\u0648\u0644\u064a\u062f \u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0628\u062d\u062b."
+      },
+      "zh": {
+        "name": "\u5168\u77e5\u667a\u80fd",
+        "description": "\u9762\u5411\u6df1\u5165\u7814\u7a76\u7684\u4eba\u5de5\u667a\u80fd\u5e73\u53f0\uff0c\u5177\u5907\u7f51\u9875\u6293\u53d6\u3001\u6570\u636e\u5408\u6210\u3001\u5168\u9762\u5206\u6790\u53ca\u7814\u7a76\u62a5\u544a\u751f\u6210\u80fd\u529b\u3002"
+      },
+      "hi": {
+        "name": "\u0913\u092e\u094d\u0928\u0940",
+        "description": "\u0935\u0947\u092c \u0938\u094d\u0915\u094d\u0930\u0948\u092a\u093f\u0902\u0917, \u0921\u0947\u091f\u093e \u0938\u0902\u0936\u094d\u0932\u0947\u0937\u0923, \u0935\u094d\u092f\u093e\u092a\u0915 \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923 \u0914\u0930 \u0936\u094b\u0927 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u0947 \u0938\u093e\u0925 \u0917\u0939\u0928 \u0905\u0928\u0941\u0938\u0902\u0927\u093e\u0928 \u0915\u094d\u0937\u092e\u0924\u093e\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u090f\u0906\u0908 \u0905\u0928\u0941\u0938\u0902\u0927\u093e\u0928 \u092e\u0902\u091a\u0964"
+      },
+      "es": {
+        "name": "Aomni",
+        "description": "Plataforma de investigaci\u00f3n de IA dise\u00f1ada para capacidades de investigaci\u00f3n en profundidad con extracci\u00f3n de datos web, s\u00edntesis de datos, an\u00e1lisis integral y generaci\u00f3n de informes de investigaci\u00f3n."
+      },
+      "fr": {
+        "name": "Aomni",
+        "description": "Plateforme de recherche en IA con\u00e7ue pour des capacit\u00e9s de recherche approfondies avec extraction de donn\u00e9es web, synth\u00e8se de donn\u00e9es, analyse compl\u00e8te et g\u00e9n\u00e9ration de rapports de recherche."
+      }
+    }
+  },
+  {
+    "id": "3f0b1d60-d2e4-4f3f-af58-c08ff8b8974b",
+    "name": "AutoGPT (Hugging Face)",
+    "description": "Automate Your Tasks with AutoGPT by aliabid94",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "pricing": "{\"model\":\"Free\",\"details\":\"Pricing as listed in source\"}",
+    "translations": {
+      "en": {
+        "name": "AutoGPT (Hugging Face)",
+        "description": "Automate Your Tasks with AutoGPT by aliabid94"
+      },
+      "ar": {
+        "name": "\u0623\u0648\u062a\u0648 \u062c\u064a \u0628\u064a \u062a\u064a (\u0647\u0627\u062c\u064a\u0646\u063a \u0641\u064a\u0633)",
+        "description": "\u0642\u0645 \u0628\u0623\u062a\u0645\u062a\u0629 \u0645\u0647\u0627\u0645\u0643 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 AutoGPT \u0628\u0648\u0627\u0633\u0637\u0629 aliabid94"
+      },
+      "zh": {
+        "name": "AutoGPT\uff08Hugging Face\uff09",
+        "description": "\u4f7f\u7528 aliabid94 \u7684 AutoGPT \u81ea\u52a8\u5316\u60a8\u7684\u4efb\u52a1"
+      },
+      "hi": {
+        "name": "\u0911\u091f\u094b\u091c\u0940\u092a\u0940\u091f\u0940 (\u0939\u0917\u093f\u0902\u0917 \u092b\u0947\u0938)",
+        "description": "\u0905\u092a\u0928\u0947 \u0915\u093e\u0930\u094d\u092f\u094b\u0902 \u0915\u094b \u0911\u091f\u094bGPT \u0926\u094d\u0935\u093e\u0930\u093e aliabid94 \u0915\u0947 \u0938\u093e\u0925 \u0938\u094d\u0935\u091a\u093e\u0932\u093f\u0924 \u0915\u0930\u0947\u0902"
+      },
+      "es": {
+        "name": "AutoGPT (Hugging Face)",
+        "description": "Automatiza tus tareas con AutoGPT de aliabid94"
+      },
+      "fr": {
+        "name": "AutoGPT (Hugging Face)",
+        "description": "Automatisez vos t\u00e2ches avec AutoGPT par aliabid94"
+      }
+    }
+  },
+  {
+    "id": "49450a3b-6b16-4f8c-aaed-4faabb79650e",
+    "name": "Attrove AI",
+    "description": "AI productivity platform",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/attrove-ai",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "Attrove AI",
+        "description": "AI productivity platform"
+      },
+      "ar": {
+        "name": "\u0623\u062a\u0631\u0648\u0641 \u0625\u064a\u0647 \u0622\u064a",
+        "description": "\u0645\u0646\u0635\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629"
+      },
+      "zh": {
+        "name": "\u827e\u7279\u7f57\u592b\u4eba\u5de5\u667a\u80fd",
+        "description": "\u4eba\u5de5\u667a\u80fd\u751f\u4ea7\u529b\u5e73\u53f0"
+      },
+      "hi": {
+        "name": "\u090f\u091f\u094d\u0930\u094b\u0935 \u090f\u0906\u0908",
+        "description": "\u090f\u0906\u0908 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092e\u0902\u091a"
+      },
+      "es": {
+        "name": "Attrove IA",
+        "description": "Plataforma de productividad con IA"
+      },
+      "fr": {
+        "name": "Attrove IA",
+        "description": "Plateforme de productivit\u00e9 IA"
+      }
+    }
+  },
+  {
+    "id": "56972031-a654-44b5-9c96-9a62aa07011a",
+    "name": "Astra",
+    "description": "Astra turns website visitors into qualified customers 24/7. Learns your brand & docs for natural conversations, scores leads, and hands off to your CRM/Slack when they're ready to buy\u2014even while you sleep.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/astra",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "Astra",
+        "description": "Astra turns website visitors into qualified customers 24/7. Learns your brand & docs for natural conversations, scores leads, and hands off to your CRM/Slack when they're ready to buy\u2014even while you sleep."
+      },
+      "ar": {
+        "name": "\u0623\u0633\u062a\u0631\u0627",
+        "description": "\u0623\u0633\u062a\u0631\u0627 \u062a\u062d\u0648\u0644 \u0632\u0648\u0627\u0631 \u0627\u0644\u0645\u0648\u0642\u0639 \u0625\u0644\u0649 \u0639\u0645\u0644\u0627\u0621 \u0645\u0624\u0647\u0644\u064a\u0646 \u0639\u0644\u0649 \u0645\u062f\u0627\u0631 \u0627\u0644\u0633\u0627\u0639\u0629. \u062a\u062a\u0639\u0644\u0645 \u0639\u0644\u0627\u0645\u062a\u0643 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u0648\u0645\u0633\u062a\u0646\u062f\u0627\u062a\u0643 \u0644\u0625\u062c\u0631\u0627\u0621 \u0645\u062d\u0627\u062f\u062b\u0627\u062a \u0637\u0628\u064a\u0639\u064a\u0629\u060c \u062a\u0642\u064a\u0645 \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u0645\u062d\u062a\u0645\u0644\u064a\u0646\u060c \u0648\u062a\u0633\u0644\u0645\u0647\u0645 \u0625\u0644\u0649 \u0646\u0638\u0627\u0645 \u0625\u062f\u0627\u0631\u0629 \u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0623\u0648 \u0633\u0644\u0627\u0643 \u0639\u0646\u062f\u0645\u0627 \u064a\u0643\u0648\u0646\u0648\u0646 \u062c\u0627\u0647\u0632\u064a\u0646 \u0644\u0644\u0634\u0631\u0627\u0621\u2014\u062d\u062a\u0649 \u0623\u062b\u0646\u0627\u0621 \u0646\u0648\u0645\u0643."
+      },
+      "zh": {
+        "name": "\u963f\u65af\u7279\u62c9",
+        "description": "Astra\u5168\u5929\u5019\u5c06\u7f51\u7ad9\u8bbf\u5ba2\u8f6c\u5316\u4e3a\u5408\u683c\u5ba2\u6237\u3002\u901a\u8fc7\u5b66\u4e60\u60a8\u7684\u54c1\u724c\u548c\u6587\u6863\uff0c\u5b9e\u73b0\u81ea\u7136\u5bf9\u8bdd\uff0c\u8bc4\u4f30\u6f5c\u5728\u5ba2\u6237\uff0c\u5e76\u5728\u5ba2\u6237\u51c6\u5907\u8d2d\u4e70\u65f6\u5c06\u5176\u4ea4\u63a5\u81f3\u60a8\u7684CRM\u6216Slack\u2014\u2014\u5373\u4f7f\u60a8\u5728\u7761\u89c9\u65f6\u4e5f\u80fd\u6301\u7eed\u8fd0\u4f5c\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0938\u094d\u091f\u094d\u0930\u093e",
+        "description": "Astra \u0935\u0947\u092c\u0938\u093e\u0907\u091f \u0935\u093f\u091c\u093c\u093f\u091f\u0930\u094d\u0938 \u0915\u094b 24/7 \u092f\u094b\u0917\u094d\u092f \u0917\u094d\u0930\u093e\u0939\u0915 \u092e\u0947\u0902 \u092c\u0926\u0932\u0924\u093e \u0939\u0948\u0964 \u092f\u0939 \u0906\u092a\u0915\u0947 \u092c\u094d\u0930\u093e\u0902\u0921 \u0914\u0930 \u0926\u0938\u094d\u0924\u093e\u0935\u0947\u091c\u093c\u094b\u0902 \u0915\u094b \u0938\u0940\u0916\u0924\u093e \u0939\u0948 \u0924\u093e\u0915\u093f \u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915 \u092c\u093e\u0924\u091a\u0940\u0924 \u0939\u094b \u0938\u0915\u0947, \u0932\u0940\u0921\u094d\u0938 \u0915\u094b \u0938\u094d\u0915\u094b\u0930 \u0915\u0930\u0924\u093e \u0939\u0948, \u0914\u0930 \u091c\u092c \u0935\u0947 \u0916\u0930\u0940\u0926\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0924\u0948\u092f\u093e\u0930 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 \u0924\u094b \u0909\u0928\u094d\u0939\u0947\u0902 \u0906\u092a\u0915\u0947 CRM/Slack \u0915\u094b \u0938\u094c\u0902\u092a \u0926\u0947\u0924\u093e \u0939\u0948\u2014\u092f\u0939 \u0938\u092c \u0924\u092c \u092d\u0940 \u091c\u092c \u0906\u092a \u0938\u094b \u0930\u0939\u0947 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Astra",
+        "description": "Astra convierte a los visitantes del sitio web en clientes calificados las 24 horas del d\u00eda, los 7 d\u00edas de la semana. Aprende sobre tu marca y documentos para mantener conversaciones naturales, califica prospectos y los transfiere a tu CRM/Slack cuando est\u00e1n listos para comprar, incluso mientras duermes."
+      },
+      "fr": {
+        "name": "Astra",
+        "description": "Astra transforme les visiteurs de votre site web en clients qualifi\u00e9s 24h/24 et 7j/7. Elle apprend votre marque et vos documents pour des conversations naturelles, \u00e9value les prospects et les transf\u00e8re \u00e0 votre CRM/Slack lorsqu'ils sont pr\u00eats \u00e0 acheter, m\u00eame pendant votre sommeil."
+      }
+    }
+  },
+  {
+    "id": "5b63f359-d126-4832-be26-d1c290ed6f7f",
+    "name": "Ahrefs AI Content Helper",
+    "description": "AI content optimization tool for Ahrefs users to optimize content around real search intent without over-optimizing. Groups keywords by search intent, scores content based on topical coverage, and analyzes heading structures from top-performing pages.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://ahrefs.com/",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "Ahrefs AI Content Helper",
+        "description": "AI content optimization tool for Ahrefs users to optimize content around real search intent without over-optimizing. Groups keywords by search intent, scores content based on topical coverage, and analyzes heading structures from top-performing pages."
+      },
+      "ar": {
+        "name": "\u0645\u0633\u0627\u0639\u062f \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0630\u0643\u064a \u0645\u0646 Ahrefs",
+        "description": "\u0623\u062f\u0627\u0629 \u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a Ahrefs \u0644\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u0646\u064a\u0629 \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u062d\u0642\u064a\u0642\u064a\u0629 \u062f\u0648\u0646 \u0627\u0644\u0625\u0641\u0631\u0627\u0637 \u0641\u064a \u0627\u0644\u062a\u062d\u0633\u064a\u0646. \u062a\u0642\u0648\u0645 \u0628\u062a\u062c\u0645\u064a\u0639 \u0627\u0644\u0643\u0644\u0645\u0627\u062a \u0627\u0644\u0645\u0641\u062a\u0627\u062d\u064a\u0629 \u062d\u0633\u0628 \u0646\u064a\u0629 \u0627\u0644\u0628\u062d\u062b\u060c \u0648\u062a\u0642\u064a\u064a\u0645 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u062a\u063a\u0637\u064a\u0629 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u060c \u0648\u062a\u062d\u0644\u064a\u0644 \u0647\u064a\u0627\u0643\u0644 \u0627\u0644\u0639\u0646\u0627\u0648\u064a\u0646 \u0645\u0646 \u0627\u0644\u0635\u0641\u062d\u0627\u062a \u0627\u0644\u0623\u0639\u0644\u0649 \u0623\u062f\u0627\u0621\u064b."
+      },
+      "zh": {
+        "name": "Ahrefs \u4eba\u5de5\u667a\u80fd\u5185\u5bb9\u52a9\u624b",
+        "description": "\u9762\u5411Ahrefs\u7528\u6237\u7684AI\u5185\u5bb9\u4f18\u5316\u5de5\u5177\uff0c\u5e2e\u52a9\u56f4\u7ed5\u771f\u5b9e\u641c\u7d22\u610f\u56fe\u4f18\u5316\u5185\u5bb9\uff0c\u907f\u514d\u8fc7\u5ea6\u4f18\u5316\u3002\u6309\u641c\u7d22\u610f\u56fe\u5206\u7ec4\u5173\u952e\u8bcd\uff0c\u57fa\u4e8e\u4e3b\u9898\u8986\u76d6\u5ea6\u8bc4\u5206\u5185\u5bb9\uff0c\u5e76\u5206\u6790\u8868\u73b0\u6700\u4f73\u9875\u9762\u7684\u6807\u9898\u7ed3\u6784\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0939\u0930\u0947\u092b\u094d\u0938 \u090f\u0906\u0908 \u0915\u0902\u091f\u0947\u0902\u091f \u0939\u0947\u0932\u094d\u092a\u0930",
+        "description": "Ahrefs \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f AI \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0905\u0928\u0941\u0915\u0942\u0932\u0928 \u0909\u092a\u0915\u0930\u0923 \u091c\u094b \u0935\u093e\u0938\u094d\u0924\u0935\u093f\u0915 \u0916\u094b\u091c \u0907\u0930\u093e\u0926\u0947 \u0915\u0947 \u0906\u0927\u093e\u0930 \u092a\u0930 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0915\u094b \u092c\u093f\u0928\u093e \u0905\u0927\u093f\u0915 \u0905\u0928\u0941\u0915\u0942\u0932\u093f\u0924 \u0915\u093f\u090f \u0905\u0928\u0941\u0915\u0942\u0932\u093f\u0924 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0916\u094b\u091c \u0907\u0930\u093e\u0926\u0947 \u0915\u0947 \u0905\u0928\u0941\u0938\u093e\u0930 \u0915\u0940\u0935\u0930\u094d\u0921 \u0915\u094b \u0938\u092e\u0942\u0939\u093f\u0924 \u0915\u0930\u0924\u093e \u0939\u0948, \u0935\u093f\u0937\u092f\u0917\u0924 \u0915\u0935\u0930\u0947\u091c \u0915\u0947 \u0906\u0927\u093e\u0930 \u092a\u0930 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0915\u094b \u0938\u094d\u0915\u094b\u0930 \u0915\u0930\u0924\u093e \u0939\u0948, \u0914\u0930 \u0936\u0940\u0930\u094d\u0937 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0947 \u092a\u0943\u0937\u094d\u0920\u094b\u0902 \u0938\u0947 \u0939\u0947\u0921\u093f\u0902\u0917 \u0938\u0902\u0930\u091a\u0928\u093e\u0913\u0902 \u0915\u093e \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Asistente de Contenido AI de Ahrefs",
+        "description": "Herramienta de optimizaci\u00f3n de contenido con IA para usuarios de Ahrefs que optimiza el contenido seg\u00fan la intenci\u00f3n real de b\u00fasqueda sin sobreoptimizar. Agrupa palabras clave por intenci\u00f3n de b\u00fasqueda, punt\u00faa el contenido seg\u00fan la cobertura tem\u00e1tica y analiza la estructura de encabezados de las p\u00e1ginas con mejor rendimiento."
+      },
+      "fr": {
+        "name": "Assistant de contenu IA Ahrefs",
+        "description": "Outil d'optimisation de contenu IA pour les utilisateurs d'Ahrefs afin d'optimiser le contenu en fonction de l'intention r\u00e9elle de recherche sans sur-optimisation. Regroupe les mots-cl\u00e9s par intention de recherche, \u00e9value le contenu en fonction de la couverture th\u00e9matique et analyse la structure des titres des pages les plus performantes."
+      }
+    }
+  },
+  {
+    "id": "5ff6bbdd-9cf5-4495-af10-c337b043f0c9",
+    "name": "Activepieces",
+    "description": "Open-source automation platform with self-hosting options, white-label capabilities, and cost-effective deployment for customized automation experiences and engineering teams.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://activepieces.com",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "Activepieces",
+        "description": "Open-source automation platform with self-hosting options, white-label capabilities, and cost-effective deployment for customized automation experiences and engineering teams."
+      },
+      "ar": {
+        "name": "\u0623\u0643\u062a\u064a\u0641 \u0628\u064a\u0633\u0632",
+        "description": "\u0645\u0646\u0635\u0629 \u0623\u062a\u0645\u062a\u0629 \u0645\u0641\u062a\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631 \u0645\u0639 \u062e\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629\u060c \u0648\u0625\u0645\u0643\u0627\u0646\u064a\u0627\u062a \u0627\u0644\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621\u060c \u0648\u0646\u0634\u0631 \u0641\u0639\u0627\u0644 \u0645\u0646 \u062d\u064a\u062b \u0627\u0644\u062a\u0643\u0644\u0641\u0629 \u0644\u062a\u062c\u0627\u0631\u0628 \u0623\u062a\u0645\u062a\u0629 \u0645\u062e\u0635\u0635\u0629 \u0648\u0641\u0631\u0642 \u0647\u0646\u062f\u0633\u064a\u0629."
+      },
+      "zh": {
+        "name": "\u6d3b\u4ef6",
+        "description": "\u5f00\u6e90\u81ea\u52a8\u5316\u5e73\u53f0\uff0c\u652f\u6301\u81ea\u6258\u7ba1\u9009\u9879\u3001\u767d\u6807\u529f\u80fd\u53ca\u7ecf\u6d4e\u9ad8\u6548\u7684\u90e8\u7f72\uff0c\u9002\u7528\u4e8e\u5b9a\u5236\u5316\u81ea\u52a8\u5316\u4f53\u9a8c\u548c\u5de5\u7a0b\u56e2\u961f\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0915\u094d\u091f\u093f\u0935\u092a\u0940\u0938\u0947\u0938",
+        "description": "\u0938\u094d\u0935-\u0939\u094b\u0938\u094d\u091f\u093f\u0902\u0917 \u0935\u093f\u0915\u0932\u094d\u092a\u094b\u0902, \u0935\u094d\u0939\u093e\u0907\u091f-\u0932\u0947\u092c\u0932 \u0915\u094d\u0937\u092e\u0924\u093e\u0913\u0902, \u0914\u0930 \u0915\u0938\u094d\u091f\u092e\u093e\u0907\u091c\u094d\u0921 \u0911\u091f\u094b\u092e\u0947\u0936\u0928 \u0905\u0928\u0941\u092d\u0935\u094b\u0902 \u0924\u0925\u093e \u0907\u0902\u091c\u0940\u0928\u093f\u092f\u0930\u093f\u0902\u0917 \u091f\u0940\u092e\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0932\u093e\u0917\u0924-\u0915\u0941\u0936\u0932 \u0924\u0948\u0928\u093e\u0924\u0940 \u0915\u0947 \u0938\u093e\u0925 \u0913\u092a\u0928-\u0938\u094b\u0930\u094d\u0938 \u0911\u091f\u094b\u092e\u0947\u0936\u0928 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e\u0964"
+      },
+      "es": {
+        "name": "Activepieces",
+        "description": "Plataforma de automatizaci\u00f3n de c\u00f3digo abierto con opciones de autoalojamiento, capacidades de marca blanca y despliegue rentable para experiencias de automatizaci\u00f3n personalizadas y equipos de ingenier\u00eda."
+      },
+      "fr": {
+        "name": "Activepieces",
+        "description": "Plateforme d'automatisation open source avec options d'auto-h\u00e9bergement, capacit\u00e9s en marque blanche et d\u00e9ploiement \u00e9conomique pour des exp\u00e9riences d'automatisation personnalis\u00e9es et des \u00e9quipes d'ing\u00e9nierie."
+      }
+    }
+  },
+  {
+    "id": "635d0c85-b145-453b-80f6-40f81cb64249",
+    "name": "AI Tool 135",
+    "description": "AI Tool 135 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-135",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 135",
+        "description": "AI Tool 135 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 135",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 135 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177135",
+        "description": "AI\u5de5\u5177135\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u4f18\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 135",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 135 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u093c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 135",
+        "description": "Herramienta de IA 135 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados de manera m\u00e1s r\u00e1pida."
+      },
+      "fr": {
+        "name": "Outil IA 135",
+        "description": "Outil IA 135 est un outil avanc\u00e9 propuls\u00e9 par l'IA con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "6b7598eb-0db0-4f22-a795-57f0e206dbcf",
+    "name": "AI Tool 75",
+    "description": "AI Tool 75 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-75",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 75",
+        "description": "AI Tool 75 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 75",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 75 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u517775",
+        "description": "AI\u5de5\u517775\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5730\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 75",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 75 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 75",
+        "description": "Herramienta de IA 75 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 75",
+        "description": "Outil IA 75 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "733b258b-4bd3-489c-87e2-9aed6b153eb4",
+    "name": "AI Tool 99",
+    "description": "AI Tool 99 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-99",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 99",
+        "description": "AI Tool 99 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 99",
+        "description": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 99 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0648\u0641\u0631 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u517799",
+        "description": "AI\u5de5\u517799\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 99",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 99 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 99",
+        "description": "Herramienta de IA 99 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 99",
+        "description": "Outil IA 99 est un outil avanc\u00e9 propuls\u00e9 par l'IA, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "745bd9f3-451e-4ca3-a688-7073ddabd8ab",
+    "name": "AI Tool 231",
+    "description": "AI Tool 231 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-231",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 231",
+        "description": "AI Tool 231 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 231",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 231 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177231",
+        "description": "AI\u5de5\u5177231\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 231",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 231 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 231",
+        "description": "Herramienta de IA 231 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados de manera m\u00e1s r\u00e1pida."
+      },
+      "fr": {
+        "name": "Outil IA 231",
+        "description": "Outil IA 231 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "78ebfdac-a22d-4f38-96ef-e3fcc5521e7e",
+    "name": "AI Tool 243",
+    "description": "AI Tool 243 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-243",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 243",
+        "description": "AI Tool 243 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 243",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 243 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177243",
+        "description": "AI\u5de5\u5177243\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 243",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 243 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 243",
+        "description": "Herramienta de IA 243 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 243",
+        "description": "Outil IA 243 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "7c51d704-0506-439c-bb68-29438a0e0f20",
+    "name": "Akiflow",
+    "description": "AI calendar app that centralizes all productivity data into a single inbox, with AI task labeling, calendar manipulation via chat commands, time tracking, and daily reports.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://akiflow.com",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "Akiflow",
+        "description": "AI calendar app that centralizes all productivity data into a single inbox, with AI task labeling, calendar manipulation via chat commands, time tracking, and daily reports."
+      },
+      "ar": {
+        "name": "\u0623\u0643\u064a\u0641\u0644\u0648",
+        "description": "\u062a\u0637\u0628\u064a\u0642 \u062a\u0642\u0648\u064a\u0645 \u0630\u0643\u064a \u064a\u062f\u0645\u062c \u062c\u0645\u064a\u0639 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0641\u064a \u0635\u0646\u062f\u0648\u0642 \u0648\u0627\u0631\u062f \u0648\u0627\u062d\u062f\u060c \u0645\u0639 \u062a\u0635\u0646\u064a\u0641 \u0627\u0644\u0645\u0647\u0627\u0645 \u0628\u0648\u0627\u0633\u0637\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\u060c \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0639\u0628\u0631 \u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u062f\u0631\u062f\u0634\u0629\u060c \u062a\u062a\u0628\u0639 \u0627\u0644\u0648\u0642\u062a\u060c \u0648\u0627\u0644\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u064a\u0648\u0645\u064a\u0629."
+      },
+      "zh": {
+        "name": "Akiflow",
+        "description": "AI\u65e5\u5386\u5e94\u7528\uff0c\u5c06\u6240\u6709\u751f\u4ea7\u529b\u6570\u636e\u96c6\u4e2d\u5230\u5355\u4e00\u6536\u4ef6\u7bb1\uff0c\u5177\u5907AI\u4efb\u52a1\u6807\u7b7e\u3001\u901a\u8fc7\u804a\u5929\u547d\u4ee4\u64cd\u4f5c\u65e5\u5386\u3001\u65f6\u95f4\u8ddf\u8e2a\u53ca\u6bcf\u65e5\u62a5\u544a\u529f\u80fd\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0915\u0940\u092b\u094d\u0932\u094b",
+        "description": "\u090f\u0906\u0908 \u0915\u0948\u0932\u0947\u0902\u0921\u0930 \u0910\u092a \u091c\u094b \u0938\u092d\u0940 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u0921\u0947\u091f\u093e \u0915\u094b \u090f\u0915 \u0939\u0940 \u0907\u0928\u092c\u0949\u0915\u094d\u0938 \u092e\u0947\u0902 \u0915\u0947\u0902\u0926\u094d\u0930\u0940\u0915\u0943\u0924 \u0915\u0930\u0924\u093e \u0939\u0948, \u091c\u093f\u0938\u092e\u0947\u0902 \u090f\u0906\u0908 \u091f\u093e\u0938\u094d\u0915 \u0932\u0947\u092c\u0932\u093f\u0902\u0917, \u091a\u0948\u091f \u0915\u092e\u093e\u0902\u0921 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u0915\u0948\u0932\u0947\u0902\u0921\u0930 \u092a\u094d\u0930\u092c\u0902\u0927\u0928, \u0938\u092e\u092f \u091f\u094d\u0930\u0948\u0915\u093f\u0902\u0917 \u0914\u0930 \u0926\u0948\u0928\u093f\u0915 \u0930\u093f\u092a\u094b\u0930\u094d\u091f \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Akiflow",
+        "description": "Aplicaci\u00f3n de calendario con IA que centraliza todos los datos de productividad en una bandeja de entrada \u00fanica, con etiquetado de tareas mediante IA, manipulaci\u00f3n del calendario mediante comandos de chat, seguimiento del tiempo e informes diarios."
+      },
+      "fr": {
+        "name": "Akiflow",
+        "description": "Application de calendrier IA qui centralise toutes les donn\u00e9es de productivit\u00e9 dans une bo\u00eete de r\u00e9ception unique, avec \u00e9tiquetage des t\u00e2ches par IA, manipulation du calendrier via des commandes de chat, suivi du temps et rapports quotidiens."
+      }
+    }
+  },
+  {
+    "id": "8d67c0b0-2329-42e0-bafc-aa65777f8532",
+    "name": "AssemblyAI",
+    "description": "AI-powered transcription API with advanced features including sentiment analysis, topic detection, and custom vocabulary. Offers high accuracy with speaker separation and noise reduction.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.assemblyai.com/",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "AssemblyAI",
+        "description": "AI-powered transcription API with advanced features including sentiment analysis, topic detection, and custom vocabulary. Offers high accuracy with speaker separation and noise reduction."
+      },
+      "ar": {
+        "name": "\u0623\u0633\u064a\u0645\u0628\u0644\u064a \u0625\u064a\u0647 \u0622\u064a",
+        "description": "\u0648\u0627\u062c\u0647\u0629 \u0628\u0631\u0645\u062c\u0629 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0646\u0633\u062e \u0627\u0644\u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0639 \u0645\u064a\u0632\u0627\u062a \u0645\u062a\u0642\u062f\u0645\u0629 \u062a\u0634\u0645\u0644 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0645\u0634\u0627\u0639\u0631\u060c \u0648\u0627\u0643\u062a\u0634\u0627\u0641 \u0627\u0644\u0645\u0648\u0636\u0648\u0639\u0627\u062a\u060c \u0648\u0627\u0644\u0645\u0641\u0631\u062f\u0627\u062a \u0627\u0644\u0645\u062e\u0635\u0635\u0629. \u062a\u0648\u0641\u0631 \u062f\u0642\u0629 \u0639\u0627\u0644\u064a\u0629 \u0645\u0639 \u0641\u0635\u0644 \u0627\u0644\u0645\u062a\u062d\u062f\u062b \u0648\u062a\u0642\u0644\u064a\u0644 \u0627\u0644\u0636\u0648\u0636\u0627\u0621."
+      },
+      "zh": {
+        "name": "AssemblyAI\uff08\u7ec4\u88c5\u4eba\u5de5\u667a\u80fd\uff09",
+        "description": "\u5177\u5907\u60c5\u611f\u5206\u6790\u3001\u4e3b\u9898\u68c0\u6d4b\u548c\u81ea\u5b9a\u4e49\u8bcd\u6c47\u7b49\u9ad8\u7ea7\u529f\u80fd\u7684\u4eba\u5de5\u667a\u80fd\u8f6c\u5f55API\u3002\u63d0\u4f9b\u9ad8\u51c6\u786e\u7387\uff0c\u652f\u6301\u8bf4\u8bdd\u4eba\u5206\u79bb\u548c\u964d\u566a\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0938\u0947\u0902\u092c\u0932\u0940\u090f\u0906\u0908",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u091f\u094d\u0930\u093e\u0902\u0938\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u090f\u092a\u0940\u0906\u0908 \u091c\u093f\u0938\u092e\u0947\u0902 \u0909\u0928\u094d\u0928\u0924 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0902 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902 \u091c\u0948\u0938\u0947 \u092d\u093e\u0935\u0928\u093e \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923, \u0935\u093f\u0937\u092f \u092a\u0939\u091a\u093e\u0928, \u0914\u0930 \u0915\u0938\u094d\u091f\u092e \u0936\u092c\u094d\u0926\u093e\u0935\u0932\u0940\u0964 \u0909\u091a\u094d\u091a \u0938\u091f\u0940\u0915\u0924\u093e \u0915\u0947 \u0938\u093e\u0925 \u0935\u0915\u094d\u0924\u093e \u092a\u0943\u0925\u0915\u094d\u0915\u0930\u0923 \u0914\u0930 \u0936\u094b\u0930 \u0915\u092e \u0915\u0930\u0928\u0947 \u0915\u0940 \u0938\u0941\u0935\u093f\u0927\u093e \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "AssemblyAI",
+        "description": "API de transcripci\u00f3n impulsada por IA con funciones avanzadas que incluyen an\u00e1lisis de sentimientos, detecci\u00f3n de temas y vocabulario personalizado. Ofrece alta precisi\u00f3n con separaci\u00f3n de hablantes y reducci\u00f3n de ruido."
+      },
+      "fr": {
+        "name": "AssemblyAI",
+        "description": "API de transcription aliment\u00e9e par IA avec des fonctionnalit\u00e9s avanc\u00e9es incluant l'analyse de sentiment, la d\u00e9tection de sujets et un vocabulaire personnalis\u00e9. Offre une haute pr\u00e9cision avec s\u00e9paration des locuteurs et r\u00e9duction du bruit."
+      }
+    }
+  },
+  {
+    "id": "8e1aadc3-f977-44e1-82ab-412f91c8cf13",
+    "name": "Algolia",
+    "description": "An AI powered, search API combining semantic and keyword search.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/algolia",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "Algolia",
+        "description": "An AI powered, search API combining semantic and keyword search."
+      },
+      "ar": {
+        "name": "\u0623\u0644\u062c\u0648\u0644\u064a\u0627",
+        "description": "\u0648\u0627\u062c\u0647\u0629 \u0628\u0631\u0645\u062c\u0629 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0628\u062d\u062b \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u062a\u062c\u0645\u0639 \u0628\u064a\u0646 \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u062f\u0644\u0627\u0644\u064a \u0648\u0627\u0644\u0628\u062d\u062b \u0628\u0627\u0644\u0643\u0644\u0645\u0627\u062a \u0627\u0644\u0645\u0641\u062a\u0627\u062d\u064a\u0629."
+      },
+      "zh": {
+        "name": "\u963f\u5c14\u6208\u5229\u4e9a",
+        "description": "\u4e00\u6b3e\u7ed3\u5408\u8bed\u4e49\u641c\u7d22\u4e0e\u5173\u952e\u8bcd\u641c\u7d22\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u641c\u7d22API\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0932\u094d\u0917\u094b\u0932\u093f\u092f\u093e",
+        "description": "\u090f\u0915 \u090f\u0906\u0908 \u0938\u0902\u091a\u093e\u0932\u093f\u0924, \u0938\u0947\u092e\u093e\u0902\u091f\u093f\u0915 \u0914\u0930 \u0915\u0940\u0935\u0930\u094d\u0921 \u0916\u094b\u091c \u0915\u094b \u0938\u0902\u092f\u094b\u091c\u093f\u0924 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u093e \u0916\u094b\u091c \u090f\u092a\u0940\u0906\u0908\u0964"
+      },
+      "es": {
+        "name": "Algolia",
+        "description": "Una API de b\u00fasqueda impulsada por IA que combina b\u00fasqueda sem\u00e1ntica y por palabras clave."
+      },
+      "fr": {
+        "name": "Algolia",
+        "description": "Une API de recherche aliment\u00e9e par l'IA combinant recherche s\u00e9mantique et par mots-cl\u00e9s."
+      }
+    }
+  },
+  {
+    "id": "a65877b4-8470-418a-9f0e-69cb094eb511",
+    "name": "Airtop",
+    "description": "Airtop is a conversational web agent builder. It lets you create AI agents that can log in, browse any website, extract data, and complete tasks - just by describing what you want in plain English. No code, no workflows, no APIs. Just words.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/airtop",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "Airtop",
+        "description": "Airtop is a conversational web agent builder. It lets you create AI agents that can log in, browse any website, extract data, and complete tasks - just by describing what you want in plain English. No code, no workflows, no APIs. Just words."
+      },
+      "ar": {
+        "name": "\u0625\u064a\u0631\u062a\u0648\u0628",
+        "description": "Airtop \u0647\u0648 \u0645\u0646\u0634\u0626 \u0648\u0643\u0644\u0627\u0621 \u0648\u064a\u0628 \u0645\u062d\u0627\u062f\u062b\u0629. \u064a\u062a\u064a\u062d \u0644\u0643 \u0625\u0646\u0634\u0627\u0621 \u0648\u0643\u0644\u0627\u0621 \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u064a\u0645\u0643\u0646\u0647\u0645 \u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u062f\u062e\u0648\u0644\u060c \u062a\u0635\u0641\u062d \u0623\u064a \u0645\u0648\u0642\u0639 \u0648\u064a\u0628\u060c \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\u060c \u0648\u0625\u0643\u0645\u0627\u0644 \u0627\u0644\u0645\u0647\u0627\u0645 - \u0641\u0642\u0637 \u0628\u0648\u0635\u0641 \u0645\u0627 \u062a\u0631\u064a\u062f \u0628\u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629 \u0627\u0644\u0628\u0633\u064a\u0637\u0629. \u0644\u0627 \u062d\u0627\u062c\u0629 \u0644\u0644\u0628\u0631\u0645\u062c\u0629\u060c \u0648\u0644\u0627 \u0633\u064a\u0631 \u0639\u0645\u0644\u060c \u0648\u0644\u0627 \u0648\u0627\u062c\u0647\u0627\u062a \u0628\u0631\u0645\u062c\u0629 \u062a\u0637\u0628\u064a\u0642\u0627\u062a. \u0641\u0642\u0637 \u0643\u0644\u0645\u0627\u062a."
+      },
+      "zh": {
+        "name": "\u827e\u5c14\u6258\u666e",
+        "description": "Airtop \u662f\u4e00\u4e2a\u5bf9\u8bdd\u5f0f\u7f51\u9875\u4ee3\u7406\u6784\u5efa\u5de5\u5177\u3002\u5b83\u8ba9\u60a8\u901a\u8fc7\u7528\u7b80\u5355\u7684\u82f1\u8bed\u63cf\u8ff0\u9700\u6c42\uff0c\u521b\u5efa\u80fd\u591f\u767b\u5f55\u3001\u6d4f\u89c8\u4efb\u610f\u7f51\u7ad9\u3001\u63d0\u53d6\u6570\u636e\u5e76\u5b8c\u6210\u4efb\u52a1\u7684\u4eba\u5de5\u667a\u80fd\u4ee3\u7406\u3002\u65e0\u9700\u7f16\u7801\u3001\u65e0\u9700\u5de5\u4f5c\u6d41\u7a0b\u3001\u65e0\u9700 API\uff0c\u53ea\u9700\u6587\u5b57\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u092f\u0930\u091f\u0949\u092a",
+        "description": "\u090f\u092f\u0930\u091f\u0949\u092a \u090f\u0915 \u0938\u0902\u0935\u093e\u0926\u093e\u0924\u094d\u092e\u0915 \u0935\u0947\u092c \u090f\u091c\u0947\u0902\u091f \u092c\u093f\u0932\u094d\u0921\u0930 \u0939\u0948\u0964 \u092f\u0939 \u0906\u092a\u0915\u094b \u0910\u0938\u0947 \u090f\u0906\u0908 \u090f\u091c\u0947\u0902\u091f \u092c\u0928\u093e\u0928\u0947 \u0915\u0940 \u0905\u0928\u0941\u092e\u0924\u093f \u0926\u0947\u0924\u093e \u0939\u0948 \u091c\u094b \u0932\u0949\u0917 \u0907\u0928 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902, \u0915\u093f\u0938\u0940 \u092d\u0940 \u0935\u0947\u092c\u0938\u093e\u0907\u091f \u0915\u094b \u092c\u094d\u0930\u093e\u0909\u091c\u093c \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902, \u0921\u0947\u091f\u093e \u0928\u093f\u0915\u093e\u0932 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902, \u0914\u0930 \u0915\u093e\u0930\u094d\u092f \u092a\u0942\u0930\u0947 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 - \u092c\u0938 \u0905\u092a\u0928\u0940 \u0906\u0935\u0936\u094d\u092f\u0915\u0924\u093e\u0913\u0902 \u0915\u094b \u0938\u0930\u0932 \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940 \u092e\u0947\u0902 \u0935\u0930\u094d\u0923\u093f\u0924 \u0915\u0930\u0915\u0947\u0964 \u0915\u094b\u0908 \u0915\u094b\u0921 \u0928\u0939\u0940\u0902, \u0915\u094b\u0908 \u0935\u0930\u094d\u0915\u092b\u093c\u094d\u0932\u094b \u0928\u0939\u0940\u0902, \u0915\u094b\u0908 \u090f\u092a\u0940\u0906\u0908 \u0928\u0939\u0940\u0902\u0964 \u0915\u0947\u0935\u0932 \u0936\u092c\u094d\u0926\u0964"
+      },
+      "es": {
+        "name": "Airtop",
+        "description": "Airtop es un creador de agentes web conversacionales. Te permite crear agentes de IA que pueden iniciar sesi\u00f3n, navegar por cualquier sitio web, extraer datos y completar tareas, simplemente describiendo lo que deseas en ingl\u00e9s sencillo. Sin c\u00f3digo, sin flujos de trabajo, sin APIs. Solo palabras."
+      },
+      "fr": {
+        "name": "Airtop",
+        "description": "Airtop est un cr\u00e9ateur d'agents web conversationnels. Il vous permet de cr\u00e9er des agents IA capables de se connecter, naviguer sur n'importe quel site web, extraire des donn\u00e9es et accomplir des t\u00e2ches - simplement en d\u00e9crivant ce que vous souhaitez en anglais courant. Pas de code, pas de flux de travail, pas d'API. Juste des mots."
+      }
+    }
+  },
+  {
+    "id": "a6b61c54-6795-49f2-ab55-3c840dc4d856",
+    "name": "AirOps",
+    "description": "AI platform that automates SEO ops and content production from one intuitive interface. Builds AI workflows with 40+ models, trains models on brand tone, creates reusable templates, and integrates with real-time SEO data from Semrush and DataForSEO.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://airops.ai/",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "AirOps",
+        "description": "AI platform that automates SEO ops and content production from one intuitive interface. Builds AI workflows with 40+ models, trains models on brand tone, creates reusable templates, and integrates with real-time SEO data from Semrush and DataForSEO."
+      },
+      "ar": {
+        "name": "\u0625\u064a\u0631 \u0623\u0648\u0628\u0633",
+        "description": "\u0645\u0646\u0635\u0629 \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u062a\u0642\u0648\u0645 \u0628\u0623\u062a\u0645\u062a\u0629 \u0639\u0645\u0644\u064a\u0627\u062a \u062a\u062d\u0633\u064a\u0646 \u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0628\u062d\u062b \u0648\u0625\u0646\u062a\u0627\u062c \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0645\u0646 \u0648\u0627\u062c\u0647\u0629 \u0648\u0627\u062d\u062f\u0629 \u0628\u062f\u064a\u0647\u064a\u0629. \u062a\u0628\u0646\u064a \u0633\u064a\u0631 \u0639\u0645\u0644 \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u0643\u062b\u0631 \u0645\u0646 40 \u0646\u0645\u0648\u0630\u062c\u064b\u0627\u060c \u0648\u062a\u062f\u0631\u0628 \u0627\u0644\u0646\u0645\u0627\u0630\u062c \u0639\u0644\u0649 \u0646\u0628\u0631\u0629 \u0627\u0644\u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629\u060c \u0648\u062a\u064f\u0646\u0634\u0626 \u0642\u0648\u0627\u0644\u0628 \u0642\u0627\u0628\u0644\u0629 \u0644\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u060c \u0648\u062a\u062a\u0641\u0627\u0639\u0644 \u0645\u0639 \u0628\u064a\u0627\u0646\u0627\u062a \u062a\u062d\u0633\u064a\u0646 \u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u062d\u0642\u064a\u0642\u064a \u0645\u0646 Semrush \u0648DataForSEO."
+      },
+      "zh": {
+        "name": "\u7a7a\u8fd0\u64cd\u4f5c",
+        "description": "AI\u5e73\u53f0\uff0c\u901a\u8fc7\u4e00\u4e2a\u76f4\u89c2\u754c\u9762\u81ea\u52a8\u5316SEO\u64cd\u4f5c\u548c\u5185\u5bb9\u751f\u4ea7\u3002\u6784\u5efa\u5305\u542b40\u591a\u4e2a\u6a21\u578b\u7684AI\u5de5\u4f5c\u6d41\uff0c\u8bad\u7ec3\u7b26\u5408\u54c1\u724c\u8bed\u8c03\u7684\u6a21\u578b\uff0c\u521b\u5efa\u53ef\u91cd\u590d\u4f7f\u7528\u7684\u6a21\u677f\uff0c\u5e76\u4e0eSemrush\u548cDataForSEO\u7684\u5b9e\u65f6SEO\u6570\u636e\u96c6\u6210\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u092f\u0930\u0911\u092a\u094d\u0938",
+        "description": "\u090f\u0915 \u090f\u0906\u0908 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u091c\u094b \u090f\u0915 \u0938\u0939\u091c \u0907\u0902\u091f\u0930\u092b\u093c\u0947\u0938 \u0938\u0947 SEO \u0938\u0902\u091a\u093e\u0932\u0928 \u0914\u0930 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0909\u0924\u094d\u092a\u093e\u0926\u0928 \u0915\u094b \u0938\u094d\u0935\u091a\u093e\u0932\u093f\u0924 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 40+ \u092e\u0949\u0921\u0932\u094b\u0902 \u0915\u0947 \u0938\u093e\u0925 \u090f\u0906\u0908 \u0935\u0930\u094d\u0915\u092b\u093c\u094d\u0932\u094b \u092c\u0928\u093e\u0924\u093e \u0939\u0948, \u092c\u094d\u0930\u093e\u0902\u0921 \u091f\u094b\u0928 \u092a\u0930 \u092e\u0949\u0921\u0932 \u0915\u094b \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u093f\u0924 \u0915\u0930\u0924\u093e \u0939\u0948, \u092a\u0941\u0928: \u0909\u092a\u092f\u094b\u0917 \u092f\u094b\u0917\u094d\u092f \u091f\u0947\u092e\u094d\u092a\u0932\u0947\u091f \u092c\u0928\u093e\u0924\u093e \u0939\u0948, \u0914\u0930 Semrush \u0914\u0930 DataForSEO \u0938\u0947 \u0930\u093f\u092f\u0932-\u091f\u093e\u0907\u092e SEO \u0921\u0947\u091f\u093e \u0915\u0947 \u0938\u093e\u0925 \u090f\u0915\u0940\u0915\u0943\u0924 \u0939\u094b\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "AirOps",
+        "description": "Plataforma de IA que automatiza operaciones de SEO y producci\u00f3n de contenido desde una interfaz intuitiva. Construye flujos de trabajo de IA con m\u00e1s de 40 modelos, entrena modelos en el tono de la marca, crea plantillas reutilizables e integra datos de SEO en tiempo real de Semrush y DataForSEO."
+      },
+      "fr": {
+        "name": "AirOps",
+        "description": "Plateforme d'IA qui automatise les op\u00e9rations SEO et la production de contenu depuis une interface intuitive unique. Construit des flux de travail IA avec plus de 40 mod\u00e8les, entra\u00eene les mod\u00e8les sur le ton de la marque, cr\u00e9e des mod\u00e8les r\u00e9utilisables et s'int\u00e8gre aux donn\u00e9es SEO en temps r\u00e9el de Semrush et DataForSEO."
+      }
+    }
+  },
+  {
+    "id": "a8cfb9b0-f07b-4730-bf3e-53f2094cb365",
+    "name": "Avoma",
+    "description": "AI meeting analytics platform focusing on conversation intelligence for sales teams, providing coaching tools, filler word tracking, monologue detection, competitive tracking, and performance analytics.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.avoma.com",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "Avoma",
+        "description": "AI meeting analytics platform focusing on conversation intelligence for sales teams, providing coaching tools, filler word tracking, monologue detection, competitive tracking, and performance analytics."
+      },
+      "ar": {
+        "name": "\u0623\u0641\u0648\u0645\u0629",
+        "description": "\u0645\u0646\u0635\u0629 \u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0627\u0644\u0627\u062c\u062a\u0645\u0627\u0639\u0627\u062a \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u062a\u0631\u0643\u0632 \u0639\u0644\u0649 \u0630\u0643\u0627\u0621 \u0627\u0644\u0645\u062d\u0627\u062f\u062b\u0629 \u0644\u0641\u0631\u0642 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a\u060c \u062a\u0648\u0641\u0631 \u0623\u062f\u0648\u0627\u062a \u062a\u062f\u0631\u064a\u0628\u060c \u062a\u062a\u0628\u0639 \u0643\u0644\u0645\u0627\u062a \u0627\u0644\u062d\u0634\u0648\u060c \u0643\u0634\u0641 \u0627\u0644\u0645\u0648\u0646\u0648\u0644\u0648\u062c\u060c \u062a\u062a\u0628\u0639 \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629\u060c \u0648\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0627\u0644\u0623\u062f\u0627\u0621."
+      },
+      "zh": {
+        "name": "Avoma",
+        "description": "\u4e13\u6ce8\u4e8e\u9500\u552e\u56e2\u961f\u5bf9\u8bdd\u667a\u80fd\u7684AI\u4f1a\u8bae\u5206\u6790\u5e73\u53f0\uff0c\u63d0\u4f9b\u8f85\u5bfc\u5de5\u5177\u3001\u586b\u5145\u8bcd\u8ddf\u8e2a\u3001\u72ec\u767d\u68c0\u6d4b\u3001\u7ade\u4e89\u8ddf\u8e2a\u53ca\u7ee9\u6548\u5206\u6790\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0935\u094b\u092e\u093e",
+        "description": "\u0938\u0947\u0932\u094d\u0938 \u091f\u0940\u092e\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0935\u093e\u0930\u094d\u0924\u093e\u0932\u093e\u092a \u092c\u0941\u0926\u094d\u0927\u093f\u092e\u0924\u094d\u0924\u093e \u092a\u0930 \u0915\u0947\u0902\u0926\u094d\u0930\u093f\u0924 \u090f\u0906\u0908 \u092e\u0940\u091f\u093f\u0902\u0917 \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923 \u092e\u0902\u091a, \u091c\u094b \u0915\u094b\u091a\u093f\u0902\u0917 \u0909\u092a\u0915\u0930\u0923, \u092b\u093f\u0932\u0930 \u0936\u092c\u094d\u0926 \u091f\u094d\u0930\u0948\u0915\u093f\u0902\u0917, \u092e\u094b\u0928\u094b\u0932\u0949\u0917 \u092a\u0939\u091a\u093e\u0928, \u092a\u094d\u0930\u0924\u093f\u0938\u094d\u092a\u0930\u094d\u0927\u093e\u0924\u094d\u092e\u0915 \u091f\u094d\u0930\u0948\u0915\u093f\u0902\u0917 \u0914\u0930 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928 \u0935\u093f\u0936\u094d\u0932\u0947\u0937\u0923 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Avoma",
+        "description": "Plataforma de an\u00e1lisis de reuniones con IA centrada en la inteligencia conversacional para equipos de ventas, que ofrece herramientas de coaching, seguimiento de muletillas, detecci\u00f3n de mon\u00f3logos, seguimiento competitivo y an\u00e1lisis de rendimiento."
+      },
+      "fr": {
+        "name": "Avoma",
+        "description": "Plateforme d'analyse des r\u00e9unions par IA ax\u00e9e sur l'intelligence conversationnelle pour les \u00e9quipes commerciales, offrant des outils de coaching, le suivi des mots parasites, la d\u00e9tection des monologues, le suivi concurrentiel et l'analyse des performances."
+      }
+    }
+  },
+  {
+    "id": "aa21b28d-638e-41e5-b900-de9291cf4381",
+    "name": "AI Tool 147",
+    "description": "AI Tool 147 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-147",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 147",
+        "description": "AI Tool 147 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 147",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 147 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177147",
+        "description": "AI\u5de5\u5177147\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5730\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 147",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 147 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 147",
+        "description": "Herramienta de IA 147 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados de manera m\u00e1s r\u00e1pida."
+      },
+      "fr": {
+        "name": "Outil IA 147",
+        "description": "Outil IA 147 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "ab0badb4-3306-4175-8845-d41439b7f0b2",
+    "name": "Alli AI",
+    "description": "AI SEO optimization tool for agencies and teams that automates technical and on-page SEO optimization at scale. Detects and fixes SEO issues like missing image alt text, unoptimized titles, broken internal links, and missing schema markup.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.alliai.com/",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "Alli AI",
+        "description": "AI SEO optimization tool for agencies and teams that automates technical and on-page SEO optimization at scale. Detects and fixes SEO issues like missing image alt text, unoptimized titles, broken internal links, and missing schema markup."
+      },
+      "ar": {
+        "name": "\u0622\u0644\u064a \u0625\u064a\u0647 \u0622\u064a",
+        "description": "\u0623\u062f\u0627\u0629 \u062a\u062d\u0633\u064a\u0646 \u0645\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0628\u062d\u062b \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0644\u0648\u0643\u0627\u0644\u0627\u062a \u0648\u0627\u0644\u0641\u0631\u0642 \u0627\u0644\u062a\u064a \u062a\u0642\u0648\u0645 \u0628\u0623\u062a\u0645\u062a\u0629 \u062a\u062d\u0633\u064a\u0646\u0627\u062a \u0627\u0644\u0633\u064a\u0648 \u0627\u0644\u062a\u0642\u0646\u064a\u0629 \u0648\u0639\u0644\u0649 \u0627\u0644\u0635\u0641\u062d\u0629 \u0639\u0644\u0649 \u0646\u0637\u0627\u0642 \u0648\u0627\u0633\u0639. \u062a\u0643\u062a\u0634\u0641 \u0648\u062a\u0635\u0644\u062d \u0645\u0634\u0643\u0644\u0627\u062a \u0627\u0644\u0633\u064a\u0648 \u0645\u062b\u0644 \u0646\u0635\u0648\u0635 \u0628\u062f\u064a\u0644\u0629 \u0645\u0641\u0642\u0648\u062f\u0629 \u0644\u0644\u0635\u0648\u0631\u060c \u0639\u0646\u0627\u0648\u064a\u0646 \u063a\u064a\u0631 \u0645\u062d\u0633\u0646\u0629\u060c \u0631\u0648\u0627\u0628\u0637 \u062f\u0627\u062e\u0644\u064a\u0629 \u0645\u0639\u0637\u0644\u0629\u060c \u0648\u0639\u0644\u0627\u0645\u0627\u062a \u0627\u0644\u0645\u062e\u0637\u0637 \u0627\u0644\u0645\u0641\u0642\u0648\u062f\u0629."
+      },
+      "zh": {
+        "name": "Alli \u4eba\u5de5\u667a\u80fd",
+        "description": "\u9762\u5411\u673a\u6784\u548c\u56e2\u961f\u7684AI SEO\u4f18\u5316\u5de5\u5177\uff0c\u81ea\u52a8\u5316\u5927\u89c4\u6a21\u6280\u672f\u548c\u9875\u9762SEO\u4f18\u5316\u3002\u68c0\u6d4b\u5e76\u4fee\u590dSEO\u95ee\u9898\uff0c\u5982\u7f3a\u5931\u7684\u56fe\u7247\u66ff\u4ee3\u6587\u672c\u3001\u672a\u4f18\u5316\u7684\u6807\u9898\u3001\u65ad\u5f00\u7684\u5185\u90e8\u94fe\u63a5\u548c\u7f3a\u5931\u7684\u7ed3\u6784\u5316\u6570\u636e\u6807\u8bb0\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0932\u094d\u0932\u0940 \u090f\u0906\u0908",
+        "description": "\u090f\u091c\u0947\u0902\u0938\u093f\u092f\u094b\u0902 \u0914\u0930 \u091f\u0940\u092e\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u090f\u0906\u0908 \u090f\u0938\u0908\u0913 \u0905\u0928\u0941\u0915\u0942\u0932\u0928 \u0909\u092a\u0915\u0930\u0923 \u091c\u094b \u0924\u0915\u0928\u0940\u0915\u0940 \u0914\u0930 \u0911\u0928-\u092a\u0947\u091c \u090f\u0938\u0908\u0913 \u0905\u0928\u0941\u0915\u0942\u0932\u0928 \u0915\u094b \u092c\u0921\u093c\u0947 \u092a\u0948\u092e\u093e\u0928\u0947 \u092a\u0930 \u0938\u094d\u0935\u091a\u093e\u0932\u093f\u0924 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u092f\u0939 \u091b\u0935\u093f \u0915\u0947 \u0905\u0932\u094d\u091f \u091f\u0947\u0915\u094d\u0938\u094d\u091f \u0915\u0940 \u0915\u092e\u0940, \u0905\u0928\u0911\u092a\u094d\u091f\u093f\u092e\u093e\u0907\u091c\u093c\u094d\u0921 \u0936\u0940\u0930\u094d\u0937\u0915, \u091f\u0942\u091f\u0947 \u0939\u0941\u090f \u0906\u0902\u0924\u0930\u093f\u0915 \u0932\u093f\u0902\u0915 \u0914\u0930 \u0932\u093e\u092a\u0924\u093e \u0938\u094d\u0915\u0940\u092e\u093e \u092e\u093e\u0930\u094d\u0915\u0905\u092a \u091c\u0948\u0938\u0940 \u090f\u0938\u0908\u0913 \u0938\u092e\u0938\u094d\u092f\u093e\u0913\u0902 \u0915\u093e \u092a\u0924\u093e \u0932\u0917\u093e\u0924\u093e \u0939\u0948 \u0914\u0930 \u0909\u0928\u094d\u0939\u0947\u0902 \u0920\u0940\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Alli IA",
+        "description": "Herramienta de optimizaci\u00f3n SEO con IA para agencias y equipos que automatiza la optimizaci\u00f3n t\u00e9cnica y on-page de SEO a gran escala. Detecta y corrige problemas de SEO como texto alternativo de im\u00e1genes faltante, t\u00edtulos no optimizados, enlaces internos rotos y marcado de esquema ausente."
+      },
+      "fr": {
+        "name": "Alli IA",
+        "description": "Outil d'optimisation SEO par IA pour agences et \u00e9quipes, automatisant \u00e0 grande \u00e9chelle l'optimisation technique et on-page du SEO. D\u00e9tecte et corrige les probl\u00e8mes SEO tels que les textes alternatifs d'images manquants, les titres non optimis\u00e9s, les liens internes cass\u00e9s et les balises schema manquantes."
+      }
+    }
+  },
+  {
+    "id": "ac200cfc-33aa-472f-8869-25a79d235a29",
+    "name": "Anara",
+    "description": "AI research application for academic work that adds multiple sources, uncovers connections between sources and user writing, and supports scholarly research processes.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://anara.com",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "Anara",
+        "description": "AI research application for academic work that adds multiple sources, uncovers connections between sources and user writing, and supports scholarly research processes."
+      },
+      "ar": {
+        "name": "\u0623\u0646\u0627\u0631\u0627",
+        "description": "\u062a\u0637\u0628\u064a\u0642 \u0628\u062d\u062b\u064a \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0623\u0643\u0627\u062f\u064a\u0645\u064a\u0629 \u064a\u0636\u064a\u0641 \u0645\u0635\u0627\u062f\u0631 \u0645\u062a\u0639\u062f\u062f\u0629\u060c \u064a\u0643\u0634\u0641 \u0627\u0644\u0631\u0648\u0627\u0628\u0637 \u0628\u064a\u0646 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0648\u0643\u062a\u0627\u0628\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u060c \u0648\u064a\u062f\u0639\u0645 \u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0639\u0644\u0645\u064a."
+      },
+      "zh": {
+        "name": "\u963f\u7eb3\u62c9",
+        "description": "\u7528\u4e8e\u5b66\u672f\u5de5\u4f5c\u7684\u4eba\u5de5\u667a\u80fd\u7814\u7a76\u5e94\u7528\uff0c\u80fd\u591f\u6574\u5408\u591a\u79cd\u6765\u6e90\uff0c\u63ed\u793a\u6765\u6e90\u4e0e\u7528\u6237\u5199\u4f5c\u4e4b\u95f4\u7684\u8054\u7cfb\uff0c\u652f\u6301\u5b66\u672f\u7814\u7a76\u6d41\u7a0b\u3002"
+      },
+      "hi": {
+        "name": "\u0905\u0928\u093e\u0930\u093e",
+        "description": "\u0936\u0948\u0915\u094d\u0937\u0923\u093f\u0915 \u0915\u093e\u0930\u094d\u092f \u0915\u0947 \u0932\u093f\u090f \u090f\u0906\u0908 \u0905\u0928\u0941\u0938\u0902\u0927\u093e\u0928 \u0905\u0928\u0941\u092a\u094d\u0930\u092f\u094b\u0917 \u091c\u094b \u0915\u0908 \u0938\u094d\u0930\u094b\u0924 \u091c\u094b\u0921\u093c\u0924\u093e \u0939\u0948, \u0938\u094d\u0930\u094b\u0924\u094b\u0902 \u0914\u0930 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e \u0932\u0947\u0916\u0928 \u0915\u0947 \u092c\u0940\u091a \u0938\u0902\u092c\u0902\u0927\u094b\u0902 \u0915\u093e \u092a\u0924\u093e \u0932\u0917\u093e\u0924\u093e \u0939\u0948, \u0914\u0930 \u0936\u0948\u0915\u094d\u0937\u093f\u0915 \u0905\u0928\u0941\u0938\u0902\u0927\u093e\u0928 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e\u0913\u0902 \u0915\u093e \u0938\u092e\u0930\u094d\u0925\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Anara",
+        "description": "Aplicaci\u00f3n de investigaci\u00f3n de IA para trabajo acad\u00e9mico que a\u00f1ade m\u00faltiples fuentes, descubre conexiones entre las fuentes y la escritura del usuario, y apoya los procesos de investigaci\u00f3n acad\u00e9mica."
+      },
+      "fr": {
+        "name": "Anara",
+        "description": "Application de recherche en intelligence artificielle pour travaux acad\u00e9miques qui int\u00e8gre plusieurs sources, r\u00e9v\u00e8le les liens entre les sources et les \u00e9crits de l'utilisateur, et soutient les processus de recherche scientifique."
+      }
+    }
+  },
+  {
+    "id": "b0af7202-80c0-4206-9558-d96685611938",
+    "name": "Adobe Photoshop AI",
+    "description": "AI-powered image editing integrated into Adobe Photoshop. Features Generative Fill, content-aware edits, and advanced compositing capabilities with commercial safety.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.adobe.com/products/photoshop/ai.html",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "Adobe Photoshop AI",
+        "description": "AI-powered image editing integrated into Adobe Photoshop. Features Generative Fill, content-aware edits, and advanced compositing capabilities with commercial safety."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0648\u0628\u064a \u0641\u0648\u062a\u0648\u0634\u0648\u0628 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a",
+        "description": "\u062a\u062d\u0631\u064a\u0631 \u0627\u0644\u0635\u0648\u0631 \u0645\u062f\u0639\u0648\u0645 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u062f\u0645\u062c \u0641\u064a \u0623\u062f\u0648\u0628\u064a \u0641\u0648\u062a\u0648\u0634\u0648\u0628. \u064a\u062a\u0645\u064a\u0632 \u0628\u0645\u064a\u0632\u0629 \u0627\u0644\u062a\u0639\u0628\u0626\u0629 \u0627\u0644\u062a\u0648\u0644\u064a\u062f\u064a\u0629\u060c \u0648\u062a\u062d\u0631\u064a\u0631 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0628\u0648\u0639\u064a\u060c \u0648\u0642\u062f\u0631\u0627\u062a \u0627\u0644\u062a\u0631\u0643\u064a\u0628 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u0639 \u0636\u0645\u0627\u0646 \u0627\u0644\u0623\u0645\u0627\u0646 \u0627\u0644\u062a\u062c\u0627\u0631\u064a."
+      },
+      "zh": {
+        "name": "Adobe Photoshop \u4eba\u5de5\u667a\u80fd",
+        "description": "\u96c6\u6210\u4e8eAdobe Photoshop\u7684AI\u9a71\u52a8\u56fe\u50cf\u7f16\u8f91\u5de5\u5177\u3002\u5177\u5907\u751f\u6210\u586b\u5145\u3001\u5185\u5bb9\u611f\u77e5\u7f16\u8f91\u53ca\u5177\u5907\u5546\u4e1a\u5b89\u5168\u6027\u7684\u9ad8\u7ea7\u5408\u6210\u529f\u80fd\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0921\u094b\u092c \u092b\u094b\u091f\u094b\u0936\u0949\u092a \u090f\u0906\u0908",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u091b\u0935\u093f \u0938\u0902\u092a\u093e\u0926\u0928 \u091c\u094b Adobe Photoshop \u092e\u0947\u0902 \u090f\u0915\u0940\u0915\u0943\u0924 \u0939\u0948\u0964 \u0907\u0938\u092e\u0947\u0902 \u091c\u0928\u0930\u0947\u091f\u093f\u0935 \u092b\u093f\u0932, \u0915\u0902\u091f\u0947\u0902\u091f-\u0905\u0935\u0947\u092f\u0930 \u0938\u0902\u092a\u093e\u0926\u0928, \u0914\u0930 \u0935\u094d\u092f\u093e\u0935\u0938\u093e\u092f\u093f\u0915 \u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0915\u0947 \u0938\u093e\u0925 \u0909\u0928\u094d\u0928\u0924 \u0938\u0902\u092f\u094b\u091c\u0928 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Adobe Photoshop IA",
+        "description": "Edici\u00f3n de im\u00e1genes impulsada por IA integrada en Adobe Photoshop. Incluye Relleno Generativo, ediciones conscientes del contenido y capacidades avanzadas de composici\u00f3n con seguridad comercial."
+      },
+      "fr": {
+        "name": "Adobe Photoshop IA",
+        "description": "\u00c9dition d'images assist\u00e9e par IA int\u00e9gr\u00e9e \u00e0 Adobe Photoshop. Comprend le remplissage g\u00e9n\u00e9ratif, les modifications intelligentes et des capacit\u00e9s avanc\u00e9es de composition avec s\u00e9curit\u00e9 commerciale."
+      }
+    }
+  },
+  {
+    "id": "b42326e2-9177-4a94-87f0-c02952ea95c6",
+    "name": "Arc Browser",
+    "description": "AI-powered browser with radically different UI, vertical sidebar organization, AI-powered search, split view windows, Spaces and Profiles for organization, and deep customization.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://arc.net",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "Arc Browser",
+        "description": "AI-powered browser with radically different UI, vertical sidebar organization, AI-powered search, split view windows, Spaces and Profiles for organization, and deep customization."
+      },
+      "ar": {
+        "name": "\u0645\u062a\u0635\u0641\u062d \u0622\u0631\u0643",
+        "description": "\u0645\u062a\u0635\u0641\u062d \u0645\u062f\u0639\u0648\u0645 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0628\u0648\u0627\u062c\u0647\u0629 \u0645\u0633\u062a\u062e\u062f\u0645 \u0645\u062e\u062a\u0644\u0641\u0629 \u062c\u0630\u0631\u064a\u064b\u0627\u060c \u062a\u0646\u0638\u064a\u0645 \u0634\u0631\u064a\u0637 \u062c\u0627\u0646\u0628\u064a \u0639\u0645\u0648\u062f\u064a\u060c \u0628\u062d\u062b \u0645\u062f\u0639\u0648\u0645 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a\u060c \u0646\u0648\u0627\u0641\u0630 \u0639\u0631\u0636 \u0645\u0642\u0633\u0645\u0629\u060c \u0645\u0633\u0627\u062d\u0627\u062a \u0648\u0645\u0644\u0641\u0627\u062a \u062a\u0639\u0631\u064a\u0641 \u0644\u0644\u062a\u0646\u0638\u064a\u0645\u060c \u0648\u062a\u062e\u0635\u064a\u0635 \u0639\u0645\u064a\u0642."
+      },
+      "zh": {
+        "name": "\u5f27\u6d4f\u89c8\u5668",
+        "description": "\u7531\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684\u6d4f\u89c8\u5668\uff0c\u5177\u6709\u5168\u65b0\u754c\u9762\u8bbe\u8ba1\u3001\u5782\u76f4\u4fa7\u8fb9\u680f\u7ec4\u7ec7\u3001\u4eba\u5de5\u667a\u80fd\u641c\u7d22\u3001\u5206\u5c4f\u7a97\u53e3\u3001\u7528\u4e8e\u7ec4\u7ec7\u7684\u7a7a\u95f4\u548c\u914d\u7f6e\u6587\u4ef6\uff0c\u4ee5\u53ca\u6df1\u5ea6\u5b9a\u5236\u529f\u80fd\u3002"
+      },
+      "hi": {
+        "name": "\u0906\u0930\u094d\u0915 \u092c\u094d\u0930\u093e\u0909\u091c\u093c\u0930",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u092c\u094d\u0930\u093e\u0909\u091c\u093c\u0930 \u091c\u093f\u0938\u092e\u0947\u0902 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u0905\u0932\u0917 \u092f\u0942\u0906\u0908, \u0935\u0930\u094d\u091f\u093f\u0915\u0932 \u0938\u093e\u0907\u0921\u092c\u093e\u0930 \u0938\u0902\u0917\u0920\u0928, \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0916\u094b\u091c, \u0938\u094d\u092a\u094d\u0932\u093f\u091f \u0935\u094d\u092f\u0942 \u0935\u093f\u0902\u0921\u094b\u091c\u093c, \u0938\u0902\u0917\u0920\u0928 \u0915\u0947 \u0932\u093f\u090f \u0938\u094d\u092a\u0947\u0938\u0947\u0938 \u0914\u0930 \u092a\u094d\u0930\u094b\u092b\u093e\u0907\u0932\u094d\u0938, \u0914\u0930 \u0917\u0939\u0928 \u0905\u0928\u0941\u0915\u0942\u0932\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Navegador Arc",
+        "description": "Navegador impulsado por IA con una interfaz radicalmente diferente, organizaci\u00f3n en barra lateral vertical, b\u00fasqueda potenciada por IA, ventanas de vista dividida, Espacios y Perfiles para la organizaci\u00f3n, y personalizaci\u00f3n profunda."
+      },
+      "fr": {
+        "name": "Navigateur Arc",
+        "description": "Navigateur aliment\u00e9 par l'IA avec une interface utilisateur radicalement diff\u00e9rente, organisation verticale en barre lat\u00e9rale, recherche aliment\u00e9e par l'IA, fen\u00eatres en vue fractionn\u00e9e, Espaces et Profils pour l'organisation, et personnalisation approfondie."
+      }
+    }
+  },
+  {
+    "id": "b46ceed3-aa3f-4693-a03d-ad33052fbcf1",
+    "name": "Any.do",
+    "description": "Task management app with AI-powered task generation for projects, AI suggestions for expanding task lists, and integrated calendar and reminder functionality.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.any.do",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "Any.do",
+        "description": "Task management app with AI-powered task generation for projects, AI suggestions for expanding task lists, and integrated calendar and reminder functionality."
+      },
+      "ar": {
+        "name": "\u0622\u0646\u064a.\u062f\u0648",
+        "description": "\u062a\u0637\u0628\u064a\u0642 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0645\u0647\u0627\u0645 \u0645\u0639 \u062a\u0648\u0644\u064a\u062f \u0645\u0647\u0627\u0645 \u0645\u062f\u0639\u0648\u0645 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0644\u0645\u0634\u0627\u0631\u064a\u0639\u060c \u0648\u0627\u0642\u062a\u0631\u0627\u062d\u0627\u062a \u0630\u0643\u0627\u0621 \u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u062a\u0648\u0633\u064a\u0639 \u0642\u0648\u0627\u0626\u0645 \u0627\u0644\u0645\u0647\u0627\u0645\u060c \u0648\u0648\u0638\u0627\u0626\u0641 \u0645\u062f\u0645\u062c\u0629 \u0644\u0644\u062a\u0642\u0648\u064a\u0645 \u0648\u0627\u0644\u062a\u0630\u0643\u064a\u0631."
+      },
+      "zh": {
+        "name": "Any.do",
+        "description": "\u5177\u5907\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u4efb\u52a1\u751f\u6210\u7684\u9879\u76ee\u4efb\u52a1\u7ba1\u7406\u5e94\u7528\uff0c\u63d0\u4f9b\u6269\u5c55\u4efb\u52a1\u5217\u8868\u7684AI\u5efa\u8bae\uff0c\u5e76\u96c6\u6210\u65e5\u5386\u548c\u63d0\u9192\u529f\u80fd\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0928\u0940.\u0921\u0942",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0915\u093e\u0930\u094d\u092f \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u0947 \u0938\u093e\u0925 \u092a\u0930\u093f\u092f\u094b\u091c\u0928\u093e\u0913\u0902 \u0915\u0947 \u0932\u093f\u090f \u0915\u093e\u0930\u094d\u092f \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u0910\u092a, \u0915\u093e\u0930\u094d\u092f \u0938\u0942\u091a\u093f\u092f\u094b\u0902 \u0915\u094b \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0906\u0908 \u0938\u0941\u091d\u093e\u0935, \u0914\u0930 \u090f\u0915\u0940\u0915\u0943\u0924 \u0915\u0948\u0932\u0947\u0902\u0921\u0930 \u090f\u0935\u0902 \u0905\u0928\u0941\u0938\u094d\u092e\u093e\u0930\u0915 \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0937\u092e\u0924\u093e\u0964"
+      },
+      "es": {
+        "name": "Any.do",
+        "description": "Aplicaci\u00f3n de gesti\u00f3n de tareas con generaci\u00f3n de tareas impulsada por IA para proyectos, sugerencias de IA para ampliar listas de tareas y funcionalidad integrada de calendario y recordatorios."
+      },
+      "fr": {
+        "name": "Any.do",
+        "description": "Application de gestion des t\u00e2ches avec g\u00e9n\u00e9ration de t\u00e2ches assist\u00e9e par IA pour les projets, suggestions IA pour l'expansion des listes de t\u00e2ches, et fonctionnalit\u00e9s int\u00e9gr\u00e9es de calendrier et de rappels."
+      }
+    }
+  },
+  {
+    "id": "b5d35ee3-ac08-4a34-9eb7-c8072c5fe7e4",
+    "name": "AssemblyAI",
+    "description": "Build voice AI apps with a single API",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.producthunt.com/products/assemblyai",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "translations": {
+      "en": {
+        "name": "AssemblyAI",
+        "description": "Build voice AI apps with a single API"
+      },
+      "ar": {
+        "name": "\u0623\u0633\u064a\u0645\u0628\u0644\u064a \u0625\u064a\u0647 \u0622\u064a",
+        "description": "\u0628\u0646\u0627\u0621 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u0635\u0648\u062a\u064a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0648\u0627\u062c\u0647\u0629 \u0628\u0631\u0645\u062c\u0629 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0648\u0627\u062d\u062f\u0629"
+      },
+      "zh": {
+        "name": "AssemblyAI\uff08\u7ec4\u88c5\u4eba\u5de5\u667a\u80fd\uff09",
+        "description": "\u901a\u8fc7\u5355\u4e00API\u6784\u5efa\u8bed\u97f3\u4eba\u5de5\u667a\u80fd\u5e94\u7528"
+      },
+      "hi": {
+        "name": "\u0905\u0938\u0947\u0902\u092c\u0932\u0940\u090f\u0906\u0908",
+        "description": "\u090f\u0915\u0932 \u090f\u092a\u0940\u0906\u0908 \u0915\u0947 \u0938\u093e\u0925 \u0935\u0949\u0907\u0938 \u090f\u0906\u0908 \u0910\u092a\u094d\u0938 \u092c\u0928\u093e\u090f\u0902"
+      },
+      "es": {
+        "name": "AssemblyAI",
+        "description": "Cree aplicaciones de IA de voz con una sola API"
+      },
+      "fr": {
+        "name": "AssemblyAI",
+        "description": "Cr\u00e9ez des applications vocales IA avec une API unique"
+      }
+    }
+  },
+  {
+    "id": "b8947452-c79d-4647-8a0a-c80a5a4bdbdf",
+    "name": "AI Tool 111",
+    "description": "AI Tool 111 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-111",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 111",
+        "description": "AI Tool 111 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 111",
+        "description": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 111 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177111",
+        "description": "AI\u5de5\u5177111\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 111",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 111 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 111",
+        "description": "Herramienta de IA 111 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados de manera m\u00e1s r\u00e1pida."
+      },
+      "fr": {
+        "name": "Outil IA 111",
+        "description": "Outil IA 111 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "b9565842-ef78-4c72-b220-759d20546294",
+    "name": "Adobe Express AI",
+    "description": "AI-enhanced content creation platform",
+    "high_level_category": "Productivity & Assistant",
+    "url": "adobeexpressai",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "translations": {
+      "en": {
+        "name": "Adobe Express AI",
+        "description": "AI-enhanced content creation platform"
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0648\u0628\u064a \u0625\u0643\u0633\u0628\u0631\u064a\u0633 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a",
+        "description": "\u0645\u0646\u0635\u0629 \u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0645\u0639\u0632\u0632\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a"
+      },
+      "zh": {
+        "name": "Adobe Express \u4eba\u5de5\u667a\u80fd",
+        "description": "\u4eba\u5de5\u667a\u80fd\u589e\u5f3a\u5185\u5bb9\u521b\u4f5c\u5e73\u53f0"
+      },
+      "hi": {
+        "name": "\u090f\u0921\u094b\u092c \u090f\u0915\u094d\u0938\u092a\u094d\u0930\u0947\u0938 \u090f\u0906\u0908",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u0935\u0930\u094d\u0927\u093f\u0924 \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u092e\u0902\u091a"
+      },
+      "es": {
+        "name": "Adobe Express IA",
+        "description": "Plataforma de creaci\u00f3n de contenido mejorada con IA"
+      },
+      "fr": {
+        "name": "Adobe Express IA",
+        "description": "Plateforme de cr\u00e9ation de contenu am\u00e9lior\u00e9e par l'IA"
+      }
+    }
+  },
+  {
+    "id": "baa48e7d-8f91-46b5-bc07-a4e534bed298",
+    "name": "AI Tool 171",
+    "description": "AI Tool 171 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-171",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 171",
+        "description": "AI Tool 171 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 171",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 171 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0648\u0641\u0631 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177171",
+        "description": "AI\u5de5\u5177171\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5730\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 171",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 171 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 171",
+        "description": "Herramienta de IA 171 es una herramienta avanzada impulsada por IA dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 171",
+        "description": "Outil IA 171 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "bb30271f-a03b-4998-ab57-1cc739c67ac3",
+    "name": "Asana AI",
+    "description": "AI-powered productivity solution",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://www.asanaai.com",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "translations": {
+      "en": {
+        "name": "Asana AI",
+        "description": "AI-powered productivity solution"
+      },
+      "ar": {
+        "name": "\u0623\u0633\u0627\u0646\u0627 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a",
+        "description": "\u062d\u0644 \u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0645\u062f\u0639\u0648\u0645 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a"
+      },
+      "zh": {
+        "name": "Asana \u4eba\u5de5\u667a\u80fd",
+        "description": "\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684\u751f\u4ea7\u529b\u89e3\u51b3\u65b9\u6848"
+      },
+      "hi": {
+        "name": "\u0905\u0938\u093e\u0928\u093e \u090f\u0906\u0908",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u0938\u092e\u093e\u0927\u093e\u0928"
+      },
+      "es": {
+        "name": "Asana IA",
+        "description": "Soluci\u00f3n de productividad impulsada por IA"
+      },
+      "fr": {
+        "name": "Asana IA",
+        "description": "Solution de productivit\u00e9 aliment\u00e9e par l'IA"
+      }
+    }
+  },
+  {
+    "id": "c6efa0c1-ff60-4ac5-8b13-fa62f1b0aa84",
+    "name": "AI Tool 159",
+    "description": "AI Tool 159 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-159",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 159",
+        "description": "AI Tool 159 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 159",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 159 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0648\u0641\u0631 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177159",
+        "description": "AI\u5de5\u5177159\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5730\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 159",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 159 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 159",
+        "description": "Herramienta de IA 159 es una herramienta avanzada impulsada por IA dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 159",
+        "description": "Outil IA 159 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "ce22f2bf-f80c-4294-b345-139c19e99e4c",
+    "name": "AI Tool 39",
+    "description": "AI Tool 39 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-39",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 39",
+        "description": "AI Tool 39 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 39",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 39 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u517739",
+        "description": "AI\u5de5\u517739\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 39",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 39 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 39",
+        "description": "Herramienta de IA 39 es una herramienta avanzada impulsada por IA dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados de manera m\u00e1s r\u00e1pida."
+      },
+      "fr": {
+        "name": "Outil IA 39",
+        "description": "Outil IA 39 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "d1f1d409-5bdf-4942-b414-5112a9a3555b",
+    "name": "AI Tool 183",
+    "description": "AI Tool 183 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-183",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 183",
+        "description": "AI Tool 183 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 183",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 183 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177183",
+        "description": "AI\u5de5\u5177183\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 183",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 183 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 183",
+        "description": "Herramienta de IA 183 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 183",
+        "description": "Outil IA 183 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "d2ef37f3-0cae-430c-a547-0d3eb571360f",
+    "name": "AI Tool 51",
+    "description": "AI Tool 51 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-51",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 51",
+        "description": "AI Tool 51 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 51",
+        "description": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 51 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u517751",
+        "description": "AI\u5de5\u517751\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u4f18\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 51",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 51 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 51",
+        "description": "Herramienta de IA 51 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 51",
+        "description": "Outil IA 51 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "d82eb54b-b045-40cd-b44f-149aa91782af",
+    "name": "AI Tool 123",
+    "description": "AI Tool 123 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-123",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 123",
+        "description": "AI Tool 123 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 123",
+        "description": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 123 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u5177123",
+        "description": "AI\u5de5\u5177123\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u4f18\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 123",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 123 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0901 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 123",
+        "description": "Herramienta de IA 123 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados de manera m\u00e1s r\u00e1pida."
+      },
+      "fr": {
+        "name": "Outil IA 123",
+        "description": "Outil IA 123 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et optimiser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "d94ff85b-c45b-41bc-abef-85236c9217f2",
+    "name": "AppSheet",
+    "description": "Google's no-code app development platform with AI features for automatic app creation, data source integration, workflow automation, and mobile app generation.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://appsheet.com",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "AppSheet",
+        "description": "Google's no-code app development platform with AI features for automatic app creation, data source integration, workflow automation, and mobile app generation."
+      },
+      "ar": {
+        "name": "\u0622\u0628 \u0634\u064a\u062a",
+        "description": "\u0645\u0646\u0635\u0629 \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0628\u062f\u0648\u0646 \u0643\u0648\u062f \u0645\u0646 \u062c\u0648\u062c\u0644 \u0645\u0639 \u0645\u064a\u0632\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0644\u0625\u0646\u0634\u0627\u0621 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u062a\u0644\u0642\u0627\u0626\u064a\u064b\u0627\u060c \u0648\u062f\u0645\u062c \u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\u060c \u0648\u0623\u062a\u0645\u062a\u0629 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644\u060c \u0648\u062a\u0648\u0644\u064a\u062f \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0647\u0648\u0627\u062a\u0641 \u0627\u0644\u0645\u062d\u0645\u0648\u0644\u0629."
+      },
+      "zh": {
+        "name": "\u5e94\u7528\u8868\u5355",
+        "description": "\u8c37\u6b4c\u7684\u65e0\u4ee3\u7801\u5e94\u7528\u5f00\u53d1\u5e73\u53f0\uff0c\u5177\u5907\u81ea\u52a8\u5e94\u7528\u521b\u5efa\u3001\u6570\u636e\u6e90\u96c6\u6210\u3001\u5de5\u4f5c\u6d41\u81ea\u52a8\u5316\u548c\u79fb\u52a8\u5e94\u7528\u751f\u6210\u7684\u4eba\u5de5\u667a\u80fd\u529f\u80fd\u3002"
+      },
+      "hi": {
+        "name": "\u0910\u092a\u0936\u0940\u091f",
+        "description": "\u0917\u0942\u0917\u0932 \u0915\u093e \u0928\u094b-\u0915\u094b\u0921 \u0910\u092a \u0935\u093f\u0915\u093e\u0938 \u092a\u094d\u0932\u0947\u091f\u092b\u093c\u0949\u0930\u094d\u092e \u091c\u093f\u0938\u092e\u0947\u0902 \u0938\u094d\u0935\u091a\u093e\u0932\u093f\u0924 \u0910\u092a \u0928\u093f\u0930\u094d\u092e\u093e\u0923, \u0921\u0947\u091f\u093e \u0938\u094d\u0930\u094b\u0924 \u090f\u0915\u0940\u0915\u0930\u0923, \u0935\u0930\u094d\u0915\u092b\u093c\u094d\u0932\u094b \u0938\u094d\u0935\u091a\u093e\u0932\u0928, \u0914\u0930 \u092e\u094b\u092c\u093e\u0907\u0932 \u0910\u092a \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u0947 \u0932\u093f\u090f \u090f\u0906\u0908 \u0938\u0941\u0935\u093f\u0927\u093e\u090f\u0901 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "AppSheet",
+        "description": "Plataforma de desarrollo de aplicaciones sin c\u00f3digo de Google con funciones de IA para creaci\u00f3n autom\u00e1tica de aplicaciones, integraci\u00f3n de fuentes de datos, automatizaci\u00f3n de flujos de trabajo y generaci\u00f3n de aplicaciones m\u00f3viles."
+      },
+      "fr": {
+        "name": "AppSheet",
+        "description": "Plateforme de d\u00e9veloppement d'applications sans code de Google avec des fonctionnalit\u00e9s d'IA pour la cr\u00e9ation automatique d'applications, l'int\u00e9gration de sources de donn\u00e9es, l'automatisation des flux de travail et la g\u00e9n\u00e9ration d'applications mobiles."
+      }
+    }
+  },
+  {
+    "id": "e34f5fdc-8c0f-4104-b495-5d0480d71193",
+    "name": "AI Tool 63",
+    "description": "AI Tool 63 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://futuretools.link/ai-tool-63",
+    "pricing": "Premium",
+    "translations": {
+      "en": {
+        "name": "AI Tool 63",
+        "description": "AI Tool 63 is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster."
+      },
+      "ar": {
+        "name": "\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a 63",
+        "description": "\u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u0630\u0643\u064a\u0629 63 \u0647\u064a \u0623\u062f\u0627\u0629 \u0645\u062a\u0642\u062f\u0645\u0629 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0645\u0635\u0645\u0645\u0629 \u0644\u062a\u0639\u0632\u064a\u0632 \u0627\u0644\u0625\u0646\u062a\u0627\u062c\u064a\u0629 \u0648\u062a\u0628\u0633\u064a\u0637 \u0633\u064a\u0631 \u0627\u0644\u0639\u0645\u0644. \u062a\u0642\u062f\u0645 \u0645\u064a\u0632\u0627\u062a \u0648\u0642\u062f\u0631\u0627\u062a \u0645\u062a\u0637\u0648\u0631\u0629 \u0644\u0645\u0633\u0627\u0639\u062f\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0639\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u0623\u0641\u0636\u0644 \u0628\u0633\u0631\u0639\u0629 \u0623\u0643\u0628\u0631."
+      },
+      "zh": {
+        "name": "\u4eba\u5de5\u667a\u80fd\u5de5\u517763",
+        "description": "AI\u5de5\u517763\u662f\u4e00\u6b3e\u5148\u8fdb\u7684\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u5de5\u5177\uff0c\u65e8\u5728\u63d0\u5347\u751f\u4ea7\u529b\u5e76\u7b80\u5316\u5de5\u4f5c\u6d41\u7a0b\u3002\u5b83\u63d0\u4f9b\u5c16\u7aef\u529f\u80fd\u548c\u80fd\u529b\uff0c\u5e2e\u52a9\u7528\u6237\u66f4\u5feb\u5b9e\u73b0\u66f4\u4f73\u6210\u679c\u3002"
+      },
+      "hi": {
+        "name": "\u090f\u0906\u0908 \u091f\u0942\u0932 63",
+        "description": "\u090f\u0906\u0908 \u091f\u0942\u0932 63 \u090f\u0915 \u0909\u0928\u094d\u0928\u0924 \u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0909\u092a\u0915\u0930\u0923 \u0939\u0948 \u091c\u093f\u0938\u0947 \u0909\u0924\u094d\u092a\u093e\u0926\u0915\u0924\u093e \u092c\u0922\u093c\u093e\u0928\u0947 \u0914\u0930 \u0915\u093e\u0930\u094d\u092f\u092a\u094d\u0930\u0935\u093e\u0939 \u0915\u094b \u0938\u0941\u0935\u094d\u092f\u0935\u0938\u094d\u0925\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u092f\u0939 \u0909\u092a\u092f\u094b\u0917\u0915\u0930\u094d\u0924\u093e\u0913\u0902 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092a\u0930\u093f\u0923\u093e\u092e \u0924\u0947\u091c\u0940 \u0938\u0947 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u0924\u094d\u092f\u093e\u0927\u0941\u0928\u093f\u0915 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u090f\u0902 \u0914\u0930 \u0915\u094d\u0937\u092e\u0924\u093e\u090f\u0902 \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u093e \u0939\u0948\u0964"
+      },
+      "es": {
+        "name": "Herramienta de IA 63",
+        "description": "Herramienta de IA 63 es una herramienta avanzada impulsada por inteligencia artificial dise\u00f1ada para mejorar la productividad y optimizar los flujos de trabajo. Ofrece caracter\u00edsticas y capacidades de vanguardia para ayudar a los usuarios a obtener mejores resultados m\u00e1s r\u00e1pidamente."
+      },
+      "fr": {
+        "name": "Outil IA 63",
+        "description": "Outil IA 63 est un outil avanc\u00e9 propuls\u00e9 par l'intelligence artificielle, con\u00e7u pour am\u00e9liorer la productivit\u00e9 et rationaliser les flux de travail. Il offre des fonctionnalit\u00e9s et des capacit\u00e9s de pointe pour aider les utilisateurs \u00e0 obtenir de meilleurs r\u00e9sultats plus rapidement."
+      }
+    }
+  },
+  {
+    "id": "ea2627be-66db-4999-ad70-6f7f78c62113",
+    "name": "Asana",
+    "description": "Leading project management platform with AI-powered features including Smart Status detection, Smart Goals using workspace data, ML-powered relevance sorting, and comprehensive project overview screens.",
+    "high_level_category": "Productivity & Assistant",
+    "url": "https://asana.com",
+    "pricing": "Free",
+    "translations": {
+      "en": {
+        "name": "Asana",
+        "description": "Leading project management platform with AI-powered features including Smart Status detection, Smart Goals using workspace data, ML-powered relevance sorting, and comprehensive project overview screens."
+      },
+      "ar": {
+        "name": "\u0623\u0633\u0627\u0646\u0627",
+        "description": "\u0645\u0646\u0635\u0629 \u0625\u062f\u0627\u0631\u0629 \u0645\u0634\u0627\u0631\u064a\u0639 \u0631\u0627\u0626\u062f\u0629 \u0645\u0632\u0648\u062f\u0629 \u0628\u0645\u064a\u0632\u0627\u062a \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u062a\u0634\u0645\u0644 \u0627\u0644\u0643\u0634\u0641 \u0627\u0644\u0630\u0643\u064a \u0639\u0646 \u0627\u0644\u062d\u0627\u0644\u0629\u060c \u0627\u0644\u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u0630\u0643\u064a\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u0639\u0645\u0644\u060c \u0641\u0631\u0632 \u0627\u0644\u0635\u0644\u0629 \u0627\u0644\u0645\u062f\u0639\u0648\u0645 \u0628\u0627\u0644\u062a\u0639\u0644\u0645 \u0627\u0644\u0622\u0644\u064a\u060c \u0648\u0634\u0627\u0634\u0627\u062a \u0639\u0631\u0636 \u0634\u0627\u0645\u0644\u0629 \u0644\u0645\u062d\u0629 \u0639\u0627\u0645\u0629 \u0639\u0646 \u0627\u0644\u0645\u0634\u0631\u0648\u0639."
+      },
+      "zh": {
+        "name": "\u963f\u8428\u7eb3",
+        "description": "\u9886\u5148\u7684\u9879\u76ee\u7ba1\u7406\u5e73\u53f0\uff0c\u5177\u5907\u4eba\u5de5\u667a\u80fd\u9a71\u52a8\u7684\u529f\u80fd\uff0c\u5305\u62ec\u667a\u80fd\u72b6\u6001\u68c0\u6d4b\u3001\u57fa\u4e8e\u5de5\u4f5c\u533a\u6570\u636e\u7684\u667a\u80fd\u76ee\u6807\u3001\u673a\u5668\u5b66\u4e60\u9a71\u52a8\u7684\u76f8\u5173\u6027\u6392\u5e8f\u4ee5\u53ca\u5168\u9762\u7684\u9879\u76ee\u6982\u89c8\u754c\u9762\u3002"
+      },
+      "hi": {
+        "name": "\u0906\u0938\u0928\u093e",
+        "description": "\u090f\u0906\u0908-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u0935\u093f\u0936\u0947\u0937\u0924\u093e\u0913\u0902 \u0938\u0939\u093f\u0924 \u0905\u0917\u094d\u0930\u0923\u0940 \u092a\u0930\u093f\u092f\u094b\u091c\u0928\u093e \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u092e\u0902\u091a \u091c\u093f\u0938\u092e\u0947\u0902 \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u0938\u094d\u0925\u093f\u0924\u093f \u092a\u0939\u091a\u093e\u0928, \u0915\u093e\u0930\u094d\u092f\u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u0921\u0947\u091f\u093e \u0915\u093e \u0909\u092a\u092f\u094b\u0917 \u0915\u0930\u0915\u0947 \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u0932\u0915\u094d\u0937\u094d\u092f, \u090f\u092e\u090f\u0932-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u092a\u094d\u0930\u093e\u0938\u0902\u0917\u093f\u0915\u0924\u093e \u0915\u094d\u0930\u092e\u092c\u0926\u094d\u0927\u0924\u093e, \u0914\u0930 \u0935\u094d\u092f\u093e\u092a\u0915 \u092a\u0930\u093f\u092f\u094b\u091c\u0928\u093e \u0905\u0935\u0932\u094b\u0915\u0928 \u0938\u094d\u0915\u094d\u0930\u0940\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964"
+      },
+      "es": {
+        "name": "Asana",
+        "description": "Plataforma l\u00edder de gesti\u00f3n de proyectos con funciones impulsadas por IA que incluyen detecci\u00f3n inteligente de estado, objetivos inteligentes utilizando datos del espacio de trabajo, clasificaci\u00f3n de relevancia basada en aprendizaje autom\u00e1tico y pantallas integrales de visi\u00f3n general del proyecto."
+      },
+      "fr": {
+        "name": "Asana",
+        "description": "Plateforme de gestion de projet leader avec des fonctionnalit\u00e9s aliment\u00e9es par l'IA, incluant la d\u00e9tection intelligente de statut, les objectifs intelligents utilisant les donn\u00e9es de l'espace de travail, le tri par pertinence bas\u00e9 sur l'apprentissage automatique, et des \u00e9crans de vue d'ensemble de projet complets."
+      }
+    }
+  }
+]
