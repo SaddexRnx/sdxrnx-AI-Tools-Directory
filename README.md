@@ -61,7 +61,7 @@ Click on any category below to view a dedicated README with a detailed list of a
 
 We welcome contributions to keep this directory up-to-date! If you know of an AI tool that is missing or if any information is incorrect, please feel free to open a Pull Request.
 
-For questions, suggestions, or contact, you can reach out on Telegram: **[**TELEGRAM**](https://t.me/saddex.x)** 💬
+For questions, suggestions, or contact, you can reach out on Telegram: [**Saddex.x**](https://sdxrnx.site)
 
 ---
 
