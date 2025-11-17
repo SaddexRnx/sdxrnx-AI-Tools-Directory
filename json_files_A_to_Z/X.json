@@ -1,0 +1,192 @@
+[
+  {
+    "id": "0643b4fd-2f2e-4c7b-8201-5552b43331d0",
+    "name": "Xero AI",
+    "description": "Xero's AI automates bookkeeping, speeds reconciliation, predicts cash flow, and includes a conversational assistant for tasks and financial questions",
+    "category": "Automation",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/xero",
+    "official_website": "https://link.aitoolsdirectory.com/xero",
+    "tags": []
+  },
+  {
+    "id": "081677860eb6",
+    "name": "xlm-roberta-large-squad2",
+    "description": "AI model xlm-roberta-large-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/deepset/xlm-roberta-large-squad2",
+    "official_website": "https://huggingface.co/deepset/xlm-roberta-large-squad2",
+    "tags": []
+  },
+  {
+    "id": "0a81ac25efc7",
+    "name": "xlm-roberta-base",
+    "description": "AI model xlm-roberta-base from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
+    "official_website": "https://huggingface.co/FacebookAI/xlm-roberta-base",
+    "tags": []
+  },
+  {
+    "id": "0cb1c2683a60",
+    "name": "xlm-roberta-large",
+    "description": "AI model xlm-roberta-large from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/FacebookAI/xlm-roberta-large",
+    "official_website": "https://huggingface.co/FacebookAI/xlm-roberta-large",
+    "tags": []
+  },
+  {
+    "id": "227517f91364",
+    "name": "xlm-roberta-ner-japanese",
+    "description": "AI model xlm-roberta-ner-japanese from tsmatz on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/tsmatz/xlm-roberta-ner-japanese",
+    "official_website": "https://huggingface.co/tsmatz/xlm-roberta-ner-japanese",
+    "tags": []
+  },
+  {
+    "id": "2551d8790fc5",
+    "name": "xlm-roberta-base-squad2",
+    "description": "AI model xlm-roberta-base-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/deepset/xlm-roberta-base-squad2",
+    "official_website": "https://huggingface.co/deepset/xlm-roberta-base-squad2",
+    "tags": []
+  },
+  {
+    "id": "49f58134-645d-449c-8cf9-3ca593fb204b",
+    "name": "xlm-roberta-base-squad2",
+    "description": "AI model xlm-roberta-base-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/deepset/xlm-roberta-base-squad2",
+    "official_website": "https://huggingface.co/deepset/xlm-roberta-base-squad2",
+    "tags": []
+  },
+  {
+    "id": "650fcb1c-0f41-428c-b065-ae1b5c9c2503",
+    "name": "Xero AI",
+    "description": "AI-enhanced accounting platform",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "xeroai",
+    "official_website": "xeroai",
+    "tags": []
+  },
+  {
+    "id": "783a2857-a471-4958-86dc-ea9473fc29c1",
+    "name": "xlm-roberta-large-squad2",
+    "description": "AI model xlm-roberta-large-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/deepset/xlm-roberta-large-squad2",
+    "official_website": "https://huggingface.co/deepset/xlm-roberta-large-squad2",
+    "tags": []
+  },
+  {
+    "id": "7a6455c7-86f1-45fc-929f-033c71fe3e17",
+    "name": "xlm-roberta-ner-japanese",
+    "description": "AI model xlm-roberta-ner-japanese from tsmatz on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/tsmatz/xlm-roberta-ner-japanese",
+    "official_website": "https://huggingface.co/tsmatz/xlm-roberta-ner-japanese",
+    "tags": []
+  },
+  {
+    "id": "877e3047-67cc-41db-a79a-cdf4009c092b",
+    "name": "XTTS-v2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/coqui/XTTS-v2",
+    "official_website": "https://huggingface.co/coqui/XTTS-v2",
+    "tags": []
+  },
+  {
+    "id": "88624339-7b26-4684-a1e4-7721e9c2a86e",
+    "name": "XGBoost",
+    "description": "Gradient boosting framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://dmlc.com",
+    "official_website": "https://dmlc.com",
+    "tags": []
+  },
+  {
+    "id": "8a2fde781f63",
+    "name": "XTTS-v2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/coqui/XTTS-v2",
+    "official_website": "https://huggingface.co/coqui/XTTS-v2",
+    "tags": []
+  },
+  {
+    "id": "a40d6260f43f",
+    "name": "xlm-roberta-base-language-detection",
+    "description": "AI model xlm-roberta-base-language-detection from papluca on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/papluca/xlm-roberta-base-language-detection",
+    "official_website": "https://huggingface.co/papluca/xlm-roberta-base-language-detection",
+    "tags": []
+  },
+  {
+    "id": "a83868d5-d6e8-4ce1-8103-461a412445cf",
+    "name": "xlm-roberta-base-language-detection",
+    "description": "AI model xlm-roberta-base-language-detection from papluca on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/papluca/xlm-roberta-base-language-detection",
+    "official_website": "https://huggingface.co/papluca/xlm-roberta-base-language-detection",
+    "tags": []
+  },
+  {
+    "id": "a9bb7b9b8a1d",
+    "name": "Xembly",
+    "description": "Your AI Chief of Staff.",
+    "category": "Productivity, Team Collaboration",
+    "pricing": "Not specified",
+    "url": "https://xembly.com",
+    "official_website": "https://xembly.com",
+    "tags": []
+  },
+  {
+    "id": "bbd3559d-a9af-4b9a-b1d3-d6cb73d2b0fa",
+    "name": "xlm-roberta-base",
+    "description": "AI model xlm-roberta-base from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
+    "official_website": "https://huggingface.co/FacebookAI/xlm-roberta-base",
+    "tags": []
+  },
+  {
+    "id": "dd6e2fda-72fb-4909-ade2-c6e6ac4eea56",
+    "name": "xlm-roberta-large",
+    "description": "AI model xlm-roberta-large from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/FacebookAI/xlm-roberta-large",
+    "official_website": "https://huggingface.co/FacebookAI/xlm-roberta-large",
+    "tags": []
+  },
+  {
+    "id": "fa4b2f9540e2",
+    "name": "XCOMET-XL",
+    "description": "AI model XCOMET-XL from Unbabel on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Unbabel/XCOMET-XL",
+    "official_website": "https://huggingface.co/Unbabel/XCOMET-XL",
+    "tags": []
+  }
+]

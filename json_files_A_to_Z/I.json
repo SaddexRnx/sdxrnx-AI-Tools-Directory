@@ -1,0 +1,1511 @@
+[
+  {
+    "id": "0039f9f5-7939-4378-a3c0-16d93f863a79",
+    "name": "Insilico Medicine",
+    "description": "AI drug discovery and aging research",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "insilicomedicine",
+    "official_website": "insilicomedicine",
+    "tags": []
+  },
+  {
+    "id": "03125ac9-156d-4d28-a353-0ffb0d873d15",
+    "name": "Instance",
+    "description": "Instance is an AI-powered app builder for iOS, Android, and the web that lets you create apps, games, and websites by describing them in plain English.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/instance",
+    "official_website": "https://www.producthunt.com/products/instance",
+    "tags": []
+  },
+  {
+    "id": "032bbd70-4132-458c-bcf6-94300a720aef",
+    "name": "IoT Tool 22",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot22.com",
+    "official_website": "https://iot22.com",
+    "tags": []
+  },
+  {
+    "id": "04a5cc0b-ea39-4b56-99c0-fb08c3725383",
+    "name": "IoT Tool 34",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot34.com",
+    "official_website": "https://iot34.com",
+    "tags": []
+  },
+  {
+    "id": "06d35bfeb855",
+    "name": "internlm_JanusCoder-14B-GGUF",
+    "description": "AI model internlm_JanusCoder-14B-GGUF from bartowski on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/bartowski/internlm_JanusCoder-14B-GGUF",
+    "official_website": "https://huggingface.co/bartowski/internlm_JanusCoder-14B-GGUF",
+    "tags": []
+  },
+  {
+    "id": "0ca34475bff3",
+    "name": "INK",
+    "description": "INK is an all-in-one AI content suite which combines AI writing, AI assistant, AI images, AI SEO, AI keyword research, AI keyword clustering, AI Detection, and much, much more, in a in a single, affordable subscription.",
+    "category": "Keyword research tools, Writing assistants, AI Content Detection",
+    "pricing": "Not Specified",
+    "url": "https://ink.ai",
+    "official_website": "https://ink.ai",
+    "tags": []
+  },
+  {
+    "id": "0dc5f7f3d8a3",
+    "name": "InVideo AI Video Translator",
+    "description": "Integrated video translation feature within InVideo AI platform, offering multilingual AI voice translation and emotion recognition for international content creation.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://invideo.io/",
+    "official_website": "https://invideo.io/",
+    "tags": [
+      "emotion-recognition",
+      "integrated",
+      "ai-voice",
+      "multilingual",
+      "international"
+    ]
+  },
+  {
+    "id": "10c2f13c3a34",
+    "name": "Indexly",
+    "description": "AI tool for automating indexing so pages show up in search results. Features real-time indexing monitoring, automatic submission to search engines, and optimization suggestions for faster indexing.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://indexly.io/",
+    "official_website": "https://indexly.io/",
+    "tags": [
+      "indexing automation",
+      "search engine submission",
+      "ai indexing",
+      "real-time monitoring",
+      "indexing optimization",
+      "page visibility"
+    ]
+  },
+  {
+    "id": "12c6cbccee5b",
+    "name": "Image Location finder",
+    "description": "AI photo locator and image location finder that turns any image into a verified destination.",
+    "category": "AI Detection, Location Services",
+    "pricing": "Free",
+    "url": "https://image-location-finder.com",
+    "official_website": "https://image-location-finder.com",
+    "tags": []
+  },
+  {
+    "id": "151d5c64-af32-428a-b3bf-c375f7667945",
+    "name": "IoT Tool 30",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot30.com",
+    "official_website": "https://iot30.com",
+    "tags": []
+  },
+  {
+    "id": "1565d047-f7ac-4377-bc17-6ece5d3d08e0",
+    "name": "Intercom",
+    "description": "The best AI Agent and AI-first Customer Service Platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/intercom",
+    "official_website": "https://www.producthunt.com/products/intercom",
+    "tags": []
+  },
+  {
+    "id": "18ff302c-0607-4863-83be-705d6a0d2047",
+    "name": "Iron Ox",
+    "description": "Autonomous farming AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://ironox.com",
+    "official_website": "https://ironox.com",
+    "tags": []
+  },
+  {
+    "id": "19430a6c-17e7-410b-b8d4-b2675d8acbb1",
+    "name": "IoT Tool 4",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot4.com",
+    "official_website": "https://iot4.com",
+    "tags": []
+  },
+  {
+    "id": "1d3b568c-aeb8-43af-9bfb-032fee8c2bc6",
+    "name": "IntoChat",
+    "description": "intoCHAT is an AI-powered chatbot platform designed for businesses to automate customer support lead generation and user engagement using advanced large language models like GPT-4o Claude and Gemini to deliver natural language conversations and context-aware assistance across web apps and messaging platforms Users can quickly build and deploy fully customized no-code chatbots that match their brand voice integrate with popular tools like Shopify Salesforce and Slack and support over 80 languages",
+    "category": "AI Chatbots",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/intochat-ai",
+    "official_website": "https://futuretools.link/intochat-ai",
+    "tags": []
+  },
+  {
+    "id": "1ddbf9f8-41cc-4d9d-a827-42244c8c0f7c",
+    "name": "IntelliCode",
+    "description": "Microsoft's AI extension for Visual Studio and VS Code that learns from GitHub projects to provide context-aware code suggestions and IntelliSense improvements.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://visualstudio.microsoft.com/services/intellicode/",
+    "official_website": "https://visualstudio.microsoft.com/services/intellicode/",
+    "tags": []
+  },
+  {
+    "id": "1e75374c-00e9-4d67-94c2-a99eb0c26cf8",
+    "name": "IoT Tool 5",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot5.com",
+    "official_website": "https://iot5.com",
+    "tags": []
+  },
+  {
+    "id": "1fdec056-6e62-483a-8b7d-7373de8cd479",
+    "name": "IoT Tool 9",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot9.com",
+    "official_website": "https://iot9.com",
+    "tags": []
+  },
+  {
+    "id": "210a80c4b6dd",
+    "name": "indonesian-roberta-base-posp-tagger",
+    "description": "AI model indonesian-roberta-base-posp-tagger from w11wo on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/w11wo/indonesian-roberta-base-posp-tagger",
+    "official_website": "https://huggingface.co/w11wo/indonesian-roberta-base-posp-tagger",
+    "tags": []
+  },
+  {
+    "id": "25492b8e-4675-4ea6-91b3-e60538bd444c",
+    "name": "IBM Watson Health",
+    "description": "AI-powered healthcare solution",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.ibmwatsonhealth.com",
+    "official_website": "https://www.ibmwatsonhealth.com",
+    "tags": []
+  },
+  {
+    "id": "25a543299691",
+    "name": "indictrans2-en-indic-1B",
+    "description": "AI model indictrans2-en-indic-1B from ai4bharat on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/ai4bharat/indictrans2-en-indic-1B",
+    "official_website": "https://huggingface.co/ai4bharat/indictrans2-en-indic-1B",
+    "tags": []
+  },
+  {
+    "id": "27bbd1944c9a",
+    "name": "IBM Watson Studio",
+    "description": "Enterprise AI platform for building, training, and deploying machine learning models. Features foundation model library, RAG capabilities, integrated governance, and data lakehouse integration.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.ibm.com/cloud/watson-studio",
+    "official_website": "https://www.ibm.com/cloud/watson-studio",
+    "tags": [
+      "foundation-models",
+      "model-deployment",
+      "rag-capabilities",
+      "integrated-governance",
+      "enterprise-ai",
+      "data-lakehouse"
+    ]
+  },
+  {
+    "id": "28ab2068-abb1-45f5-98c6-991bdb308338",
+    "name": "IoT Tool 29",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot29.com",
+    "official_website": "https://iot29.com",
+    "tags": []
+  },
+  {
+    "id": "29150dfab8c9",
+    "name": "Intercom",
+    "description": "The best AI Agent and AI-first Customer Service Platform",
+    "category": "Customer support tools, AI Voice Agents",
+    "pricing": "Not Specified",
+    "url": "https://www.intercom.com",
+    "official_website": "https://www.intercom.com",
+    "tags": []
+  },
+  {
+    "id": "2a3dde53-1a4a-4dfa-a470-5be11af06812",
+    "name": "IoT Tool 39",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot39.com",
+    "official_website": "https://iot39.com",
+    "tags": []
+  },
+  {
+    "id": "2a499503-1545-4205-ba76-1687396c0e62",
+    "name": "Instruct",
+    "description": "AI-powered instruction platform",
+    "category": "Artificial Intelligence, SaaS",
+    "pricing": "Unknown",
+    "url": "https://instruct.xyz",
+    "official_website": "https://instruct.xyz",
+    "tags": []
+  },
+  {
+    "id": "2a96676b-1a72-46d9-9233-336c86c0d405",
+    "name": "InVideo AI",
+    "description": "AI video creator for content",
+    "category": "AI Video Creation",
+    "pricing": "Freemium",
+    "url": "https://invideo.io",
+    "official_website": "https://invideo.io",
+    "tags": []
+  },
+  {
+    "id": "2e14cc54-dfc2-4b01-bf4b-f2177dab7a04",
+    "name": "InVideo AI Video Translator",
+    "description": "Integrated video translation feature within InVideo AI platform, offering multilingual AI voice translation and emotion recognition for international content creation.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://invideo.io/",
+    "official_website": "https://invideo.io/",
+    "tags": []
+  },
+  {
+    "id": "2e24e91f-e5d0-4767-ac1d-f48f616af9d5",
+    "name": "IoT Tool 18",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot18.com",
+    "official_website": "https://iot18.com",
+    "tags": []
+  },
+  {
+    "id": "2e4e554a-4677-440a-a7f5-6fad2be0ff2d",
+    "name": "Instant Logo AI",
+    "description": "AI logo design automation",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "instantlogoai",
+    "official_website": "instantlogoai",
+    "tags": []
+  },
+  {
+    "id": "3349937547af",
+    "name": "Integrately",
+    "description": "Value-priced automation platform focused on simple single-step workflows with strong customer support, helpful onboarding, and cost-effective automation for small businesses.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://integrately.com",
+    "official_website": "https://integrately.com",
+    "tags": [
+      "simple-automation",
+      "small-business",
+      "single-step",
+      "value-priced",
+      "customer-support"
+    ]
+  },
+  {
+    "id": "34324d8e-9a20-4a6f-aa00-24f2e0e65cc6",
+    "name": "iSpeech",
+    "description": "Text-to-speech and speech recognition platform offering both free and premium services. Features API access, mobile SDKs, and various voice options for developers and businesses.",
+    "category": "AI Voice",
+    "pricing": "Free",
+    "url": "https://www.ispeech.org/",
+    "official_website": "https://www.ispeech.org/",
+    "tags": []
+  },
+  {
+    "id": "3561cc7e-bda5-40d8-87ef-72f454e13f4f",
+    "name": "Image Upscaler",
+    "description": "Enhance and Upscale Images with AI Technology",
+    "category": "AI Image Enhancer",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/image-upscaler",
+    "official_website": "https://freeaitool.ai/tool/image-upscaler",
+    "tags": []
+  },
+  {
+    "id": "37d9a6f5-c7cc-46e6-8ac8-98fbf19dba30",
+    "name": "Informed",
+    "description": "Informed is an AI-powered platform that redefines the way people consume news by combining intelligent aggregation with podcast-style narration. It gathers news from multiple reliable sources and curates it into a format that is easier to follow and understand. The service allows users to listen to daily news narrated in a personalized voice of their choice, making the experience both engaging and convenient. By integrating smart content organization with voice-driven delivery, Informed helps us",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/informed-ink",
+    "official_website": "https://futuretools.link/informed-ink",
+    "tags": []
+  },
+  {
+    "id": "39886b82d56a",
+    "name": "inngest/agent-kit",
+    "description": "AgentKit help agent developers build multi-agent networks with deterministic routing",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/inngest/agent-kit",
+    "official_website": "https://github.com/inngest/agent-kit",
+    "tags": []
+  },
+  {
+    "id": "3c563b57-88b6-411f-916f-121342018c21",
+    "name": "IoT Tool 38",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot38.com",
+    "official_website": "https://iot38.com",
+    "tags": []
+  },
+  {
+    "id": "407be5786509",
+    "name": "IFTTT",
+    "description": "Automation platform with AI",
+    "category": "Automation",
+    "pricing": "Not Specified",
+    "url": "https://ifttt.com/",
+    "official_website": "https://ifttt.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "416e6505-ee1d-4421-9d73-1c6666af33b5",
+    "name": "IoT Tool 15",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot15.com",
+    "official_website": "https://iot15.com",
+    "tags": []
+  },
+  {
+    "id": "41e6799d-f49c-41d7-b9df-20c0520a9845",
+    "name": "Intercom AI",
+    "description": "AI customer communication platform",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "intercomai",
+    "official_website": "intercomai",
+    "tags": []
+  },
+  {
+    "id": "42c91804-1797-41e0-8d94-2fcad7102d9e",
+    "name": "Intercom Fin",
+    "description": "AI-powered customer support assistant",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "intercomfin",
+    "official_website": "intercomfin",
+    "tags": []
+  },
+  {
+    "id": "44af2543-3aea-4e8a-be0d-2572230986d3",
+    "name": "Intuo - AI Prediction Market Analysis",
+    "description": "Win more bets on Polymarket & Kalshi with AI forecasting",
+    "category": "Business",
+    "pricing": "From $10/mo",
+    "url": "https://intuo.ai/",
+    "official_website": "https://intuo.ai/",
+    "tags": []
+  },
+  {
+    "id": "44da56f2-fc73-4353-888c-4e41fc950b0a",
+    "name": "Itron AI",
+    "description": "Smart grid technology",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://itron.com",
+    "official_website": "https://itron.com",
+    "tags": []
+  },
+  {
+    "id": "4533104b-8ab2-4046-95a2-09e1d40271db",
+    "name": "IoT Tool 7",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot7.com",
+    "official_website": "https://iot7.com",
+    "tags": []
+  },
+  {
+    "id": "45e11e24-0d4a-443c-8d1e-a31f2b256f6b",
+    "name": "Ideogram",
+    "description": "AI image generator with text rendering",
+    "category": "AI Image Generation",
+    "pricing": "Freemium",
+    "url": "https://ideogram.ai",
+    "official_website": "https://ideogram.ai",
+    "tags": []
+  },
+  {
+    "id": "491c99c6-5c9a-4f09-9d07-dd9e966fd15e",
+    "name": "IoT Tool 2",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot2.com",
+    "official_website": "https://iot2.com",
+    "tags": []
+  },
+  {
+    "id": "492061e6-440b-4030-92be-346639436170",
+    "name": "IoT Tool 11",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot11.com",
+    "official_website": "https://iot11.com",
+    "tags": []
+  },
+  {
+    "id": "4acc42a11945",
+    "name": "iterative/dvc",
+    "description": "Data Version Control for Machine Learning Projects",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/iterative/dvc",
+    "official_website": "https://github.com/iterative/dvc",
+    "tags": []
+  },
+  {
+    "id": "4affab7f-089a-4391-a8f4-56acf6557a47",
+    "name": "IoT Tool 42",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot42.com",
+    "official_website": "https://iot42.com",
+    "tags": []
+  },
+  {
+    "id": "4d53793f-bfa9-4ed3-98c8-83359029d38a",
+    "name": "IntoChat",
+    "description": "intoCHAT is an AI-powered chatbot platform designed for businesses to automate customer support, lead generation, and user engagement using advanced large language models like GPT-4o, Claude, and Gemini to deliver natural language conversations.",
+    "category": "Communication",
+    "pricing": "freemium",
+    "url": "https://openfuture.ai/go/intochat",
+    "official_website": "https://openfuture.ai/go/intochat",
+    "tags": []
+  },
+  {
+    "id": "4e1b9bd21863",
+    "name": "InVideo",
+    "description": "AI video creation platform with templates and editing capabilities.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "url": "https://invideo.io/",
+    "official_website": "https://invideo.io/",
+    "tags": [
+      "creation",
+      "video"
+    ]
+  },
+  {
+    "id": "50372849-e721-4b66-bfc2-9c0d78da27b3",
+    "name": "IoT Tool 32",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot32.com",
+    "official_website": "https://iot32.com",
+    "tags": []
+  },
+  {
+    "id": "5372a7b5-2159-4de0-9c24-276cf1134c40",
+    "name": "Image to Prompt Generator",
+    "description": "Convert Any Image into Detailed AI Prompts",
+    "category": "Prompt",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/image-to-prompt-generator",
+    "official_website": "https://freeaitool.ai/tool/image-to-prompt-generator",
+    "tags": []
+  },
+  {
+    "id": "5544eebc-1146-45cc-9512-49bba022dc4c",
+    "name": "Interactico",
+    "description": "Interactico is an AI-enhanced audience engagement add-on for Google Meet that transforms virtual meetings into interactive experiences through live polls, Q&As, quizzes, and word clouds\u2014all without participants needing to download anything. The tool's intelligent analytics engine processes real-time audience responses, providing hosts with immediate insights and engagement metrics that help identify participation patterns and sentiment trends. By leveraging machine learning algorithms, Interacti",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/interactico-com",
+    "official_website": "https://futuretools.link/interactico-com",
+    "tags": []
+  },
+  {
+    "id": "5822ddf7-10d1-4049-862a-35f51e2f7525",
+    "name": "IoT Tool 3",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot3.com",
+    "official_website": "https://iot3.com",
+    "tags": []
+  },
+  {
+    "id": "59bc7cb9-f0ae-4af9-88db-40e8fb00410e",
+    "name": "IoT Tool 41",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot41.com",
+    "official_website": "https://iot41.com",
+    "tags": []
+  },
+  {
+    "id": "60686953-c8d1-4b55-8fe9-5cddd5888964",
+    "name": "InVideo AI",
+    "description": "AI-powered video editing and creation",
+    "category": "AI Video & Media",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "invideoai",
+    "official_website": "invideoai",
+    "tags": []
+  },
+  {
+    "id": "60862ae7-152b-49c7-afea-403e292fc3d9",
+    "name": "iTalki",
+    "description": "Language tutoring marketplace with AI-powered tutor recommendations",
+    "category": "Business Growth",
+    "pricing": "Free",
+    "url": "https://italki.com",
+    "official_website": "https://italki.com",
+    "tags": []
+  },
+  {
+    "id": "615c2456-c8d5-485a-ab04-7af2fd7b29d8",
+    "name": "IoT Tool 31",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot31.com",
+    "official_website": "https://iot31.com",
+    "tags": []
+  },
+  {
+    "id": "61dd4e24-c41d-4db9-ba88-f0cce22e35a3",
+    "name": "IoT Tool 19",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot19.com",
+    "official_website": "https://iot19.com",
+    "tags": []
+  },
+  {
+    "id": "622635a85b7c",
+    "name": "Ideogram",
+    "description": "Text-to-image AI generator with exceptional text rendering capabilities. Ideal for branding and design tasks requiring precise typography and logo-like elements in generated images.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://ideogram.ai/",
+    "official_website": "https://ideogram.ai/",
+    "tags": [
+      "typography",
+      "logos",
+      "business",
+      "branding",
+      "text-rendering"
+    ]
+  },
+  {
+    "id": "6282f0a0-1e81-4598-914c-bdad3f86679a",
+    "name": "Indexly",
+    "description": "AI tool for automating indexing so pages show up in search results. Features real-time indexing monitoring, automatic submission to search engines, and optimization suggestions for faster indexing.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://indexly.io/",
+    "official_website": "https://indexly.io/",
+    "tags": []
+  },
+  {
+    "id": "62a1c62c-f891-4b75-8424-660651bc4894",
+    "name": "Intercom Messages",
+    "description": "AI-powered messaging platform",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "intercommessages",
+    "official_website": "intercommessages",
+    "tags": []
+  },
+  {
+    "id": "62ddd4ce-f4b2-4ff3-a8ee-784e83ddfe98",
+    "name": "INK",
+    "description": "INK is an all-in-one AI content suite which combines AI writing, AI assistant, AI images, AI SEO, AI keyword research, AI keyword clustering, AI Detection, and much, much more, in a in a single, affordable subscription.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/ink",
+    "official_website": "https://www.producthunt.com/products/ink",
+    "tags": []
+  },
+  {
+    "id": "649ddcdc-6506-4fa6-8a11-e394f6814827",
+    "name": "InCoder",
+    "description": "Bidirectional code generation",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://meta.com",
+    "official_website": "https://meta.com",
+    "tags": []
+  },
+  {
+    "id": "6565f882-96e0-4f0e-85a0-57b94bc90d09",
+    "name": "IoT Tool 21",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot21.com",
+    "official_website": "https://iot21.com",
+    "tags": []
+  },
+  {
+    "id": "68952dc5-40fa-43a1-a427-051d80e16462",
+    "name": "IoT Tool 25",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot25.com",
+    "official_website": "https://iot25.com",
+    "tags": []
+  },
+  {
+    "id": "6c5a2443a4b0",
+    "name": "Intel Neural Compressor",
+    "description": "SOTA low-bit LLM quantization (INT8/FP8/INT4/FP4/NF4), sparsity, and leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime.",
+    "category": "Model Compression",
+    "pricing": "Not Specified",
+    "url": "https://intel.github.io/neural-compressor/",
+    "official_website": "https://intel.github.io/neural-compressor/",
+    "tags": [
+      "Supports Intel hardware (Gaudi AI Accelerators, Core Ultra, Xeon)",
+      "Support for model compression during training (QAT, Pruning, Distillation)",
+      "PyTorch and TensorFlow extension APIs",
+      "Automatic accuracy-driven quantization strategies",
+      "SOTA low-bit LLM quantization (INT8/FP8/INT4/FP4/NF4)",
+      "Validates over 10,000 models from Hugging Face and Torch Vision"
+    ]
+  },
+  {
+    "id": "7166882d-47b9-47f2-9edf-e51237a38bc0",
+    "name": "InVideo AI",
+    "description": "Comprehensive AI video creation platform offering prompt-to-video generation, AI avatar creation, voice cloning, video translation, and intelligent editing. Supports multiple languages with templates for social media content.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://invideo.io/",
+    "official_website": "https://invideo.io/",
+    "tags": []
+  },
+  {
+    "id": "72aaf9c9-362d-4a95-be86-268b1b5cde56",
+    "name": "iMyFone Novi AI",
+    "description": "The AI video generator can create high-quality videos from text and images.",
+    "category": "Video Generation",
+    "pricing": "Free + from $9.99",
+    "url": "https://imyfone.com/ai-video-generator",
+    "official_website": "https://imyfone.com/ai-video-generator",
+    "tags": []
+  },
+  {
+    "id": "76148bf7fad0",
+    "name": "intelligent-machine-learning/dlrover",
+    "description": "DLRover makes the distributed training of large AI models easy, stable, fast and green",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/intelligent-machine-learning/dlrover",
+    "official_website": "https://github.com/intelligent-machine-learning/dlrover",
+    "tags": []
+  },
+  {
+    "id": "788ef933-d19d-481e-aab3-1a5c4025971f",
+    "name": "IoT Tool 12",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot12.com",
+    "official_website": "https://iot12.com",
+    "tags": []
+  },
+  {
+    "id": "7acdfc9deef9",
+    "name": "IBM Cognos Analytics",
+    "description": "AI-powered business intelligence platform with natural language queries, automated insights, predictive analytics, and enterprise-grade governance. Integrated with IBM Cloud and Watson AI services.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://www.ibm.com/products/cognos-analytics",
+    "official_website": "https://www.ibm.com/products/cognos-analytics",
+    "tags": [
+      "predictive-analytics",
+      "enterprise-governance",
+      "automated-insights",
+      "natural-language",
+      "ai-powered",
+      "watson-ai"
+    ]
+  },
+  {
+    "id": "7bae13971c08",
+    "name": "Instance",
+    "description": "AI-powered app builder for iOS, Android and web from plain English descriptions",
+    "category": "App Development",
+    "pricing": "Unknown",
+    "url": "https://instance.ai",
+    "official_website": "https://instance.ai",
+    "tags": []
+  },
+  {
+    "id": "7e784d3b-914e-433e-ae4b-e6643a109b73",
+    "name": "IoT Tool 23",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot23.com",
+    "official_website": "https://iot23.com",
+    "tags": []
+  },
+  {
+    "id": "8364b37762b1",
+    "name": "Iris AI",
+    "description": "AI-powered tool discovery",
+    "category": "Productivity",
+    "pricing": "Not Specified",
+    "url": "https://iris.ai/",
+    "official_website": "https://iris.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "8374a46b-a9b4-406d-889e-a6e87c58c4b0",
+    "name": "IBM Federated Learning",
+    "description": "IBM's federated learning framework for privacy-preserving machine learning. Supports various federated learning algorithms and protocols, includes secure aggregation, differential privacy features.",
+    "category": "Federated Learning",
+    "pricing": "Unknown",
+    "url": "https://ibm.github.io/federated-learning/",
+    "official_website": "https://ibm.github.io/federated-learning/",
+    "tags": []
+  },
+  {
+    "id": "83f3a97c-b8c2-49e4-b50b-4d24e60b2278",
+    "name": "IoT Tool 26",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot26.com",
+    "official_website": "https://iot26.com",
+    "tags": []
+  },
+  {
+    "id": "87c44242-dc49-4bbc-8357-72f5b784c19c",
+    "name": "IoT Tool 8",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot8.com",
+    "official_website": "https://iot8.com",
+    "tags": []
+  },
+  {
+    "id": "8be26643-b689-4f7c-8d3d-562d2eb19cb6",
+    "name": "Image MetaHub",
+    "description": "Image-MetaHub is a desktop application that leverages AI technology to help users efficiently browse search and organize large collections of AI-generated images directly on their local computer making it ideal for artists researchers and enthusiasts who handle substantial amounts of generative AI outputs unlike generic image viewers Image-MetaHub offers advanced metadata browsing and search features specifically designed for AI image workflows ensuring high performance and smooth navigation eve",
+    "category": "AI Image Generation",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/image-metahub",
+    "official_website": "https://futuretools.link/image-metahub",
+    "tags": []
+  },
+  {
+    "id": "8eba9257-e42a-45e5-a5fd-227de705d6a3",
+    "name": "InVideo AI",
+    "description": "AI-powered video and media solution",
+    "category": "AI Video & Media",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.invideoai.com",
+    "official_website": "https://www.invideoai.com",
+    "tags": []
+  },
+  {
+    "id": "998c0e49-55e7-48f4-bc3d-f07d848aa6b9",
+    "name": "IoT Tool 17",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot17.com",
+    "official_website": "https://iot17.com",
+    "tags": []
+  },
+  {
+    "id": "9ac06379-d7d6-4a9e-a722-02955f79138b",
+    "name": "IoT Tool 27",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot27.com",
+    "official_website": "https://iot27.com",
+    "tags": []
+  },
+  {
+    "id": "9b1b4f4e-7f9f-44c2-a9d5-cb5474ad1a3d",
+    "name": "IoT Tool 14",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot14.com",
+    "official_website": "https://iot14.com",
+    "tags": []
+  },
+  {
+    "id": "9d09cce6-59e9-4b60-b933-de1caa9862f3",
+    "name": "IoT Tool 37",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot37.com",
+    "official_website": "https://iot37.com",
+    "tags": []
+  },
+  {
+    "id": "9d8d56b6-066f-427e-be53-c87ae7c88dfe",
+    "name": "IBM SPSS",
+    "description": "AI-powered data analytics solution",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.ibmspss.com",
+    "official_website": "https://www.ibmspss.com",
+    "tags": []
+  },
+  {
+    "id": "a29d5dd74e28",
+    "name": "IBM Watson",
+    "description": "Enterprise-ready AI service suite with NLP and ML capabilities.",
+    "category": "Enterprise AI",
+    "pricing": "Subscription",
+    "url": "https://www.ibm.com/watson",
+    "official_website": "https://www.ibm.com/watson",
+    "tags": [
+      "enterprise",
+      "nlp"
+    ]
+  },
+  {
+    "id": "a548f18c-891b-4fb5-bb16-8f4464719956",
+    "name": "IoT Tool 16",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot16.com",
+    "official_website": "https://iot16.com",
+    "tags": []
+  },
+  {
+    "id": "a641421b3928",
+    "name": "INSTANT DATA SCRAPER",
+    "description": "Free AI-powered data extraction with Excel/CSV export capabilities.",
+    "category": "Data Scraping",
+    "pricing": "Free",
+    "url": "https://instant-datascraper.com/",
+    "official_website": "https://instant-datascraper.com/",
+    "tags": [
+      "free",
+      "scraping"
+    ]
+  },
+  {
+    "id": "a9246660-21f8-42a6-92a6-00b823ce7f1d",
+    "name": "IBM Cognos Analytics",
+    "description": "AI-powered business intelligence platform with natural language queries, automated insights, predictive analytics, and enterprise-grade governance. Integrated with IBM Cloud and Watson AI services.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://www.ibm.com/products/cognos-analytics",
+    "official_website": "https://www.ibm.com/products/cognos-analytics",
+    "tags": []
+  },
+  {
+    "id": "aa1d7eaa-155f-4b3a-a248-46e31d455314",
+    "name": "IoT Tool 24",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot24.com",
+    "official_website": "https://iot24.com",
+    "tags": []
+  },
+  {
+    "id": "aa41f8f8-e403-4576-b39d-03dcfeb5e33c",
+    "name": "IoT Tool 13",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot13.com",
+    "official_website": "https://iot13.com",
+    "tags": []
+  },
+  {
+    "id": "adab710e-f44d-4820-ba4e-d543c731f460",
+    "name": "IBM Watson Health",
+    "description": "AI-powered healthcare analytics platform",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ibmwatsonhealth",
+    "official_website": "ibmwatsonhealth",
+    "tags": []
+  },
+  {
+    "id": "b0c63eeca8cf",
+    "name": "IBM Federated Learning",
+    "description": "IBM's federated learning framework for privacy-preserving machine learning. Supports various federated learning algorithms and protocols, includes secure aggregation, differential privacy features.",
+    "category": "Federated Learning",
+    "pricing": "Not Specified",
+    "url": "https://ibm.github.io/federated-learning/",
+    "official_website": "https://ibm.github.io/federated-learning/",
+    "tags": [
+      "Federated learning framework for privacy-preserving machine learning",
+      "Various federated learning algorithms and protocols",
+      "Secure aggregation and differential privacy features",
+      "Enterprise-grade federated learning applications",
+      "Support for heterogeneous data environments"
+    ]
+  },
+  {
+    "id": "b1440199691e",
+    "name": "iSpeech",
+    "description": "Text-to-speech and speech recognition platform offering both free and premium services. Features API access, mobile SDKs, and various voice options for developers and businesses.",
+    "category": "Voice",
+    "pricing": "Freemium",
+    "url": "https://www.ispeech.org/",
+    "official_website": "https://www.ispeech.org/",
+    "tags": [
+      "developers",
+      "api-access",
+      "speech-recognition",
+      "various-voices",
+      "mobile-sdks"
+    ]
+  },
+  {
+    "id": "b21590d3-d36e-4964-9f90-7987dd8ed148",
+    "name": "indictrans2-en-indic-1B",
+    "description": "AI model indictrans2-en-indic-1B from ai4bharat on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/ai4bharat/indictrans2-en-indic-1B",
+    "official_website": "https://huggingface.co/ai4bharat/indictrans2-en-indic-1B",
+    "tags": []
+  },
+  {
+    "id": "b5846f7ddab4",
+    "name": "IntelliCode",
+    "description": "Microsoft's AI extension for Visual Studio and VS Code that learns from GitHub projects to provide context-aware code suggestions and IntelliSense improvements.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://visualstudio.microsoft.com/services/intellicode/",
+    "official_website": "https://visualstudio.microsoft.com/services/intellicode/",
+    "tags": [
+      "visual-studio",
+      "microsoft",
+      "local-processing",
+      "intellisense",
+      "vs-code",
+      "github-learning"
+    ]
+  },
+  {
+    "id": "bb3c2bf9-6921-4f0a-a577-0d41c56def14",
+    "name": "Intercom Fin",
+    "description": "AI-powered customer support solution",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.intercomfin.com",
+    "official_website": "https://www.intercomfin.com",
+    "tags": []
+  },
+  {
+    "id": "bba221fe-b859-435f-9c19-46a56a3822e8",
+    "name": "Imagen Healthcare",
+    "description": "Medical imaging AI",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "bbb5bd86-a450-458a-b5a3-8ef38090ab8f",
+    "name": "IoT Tool 6",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot6.com",
+    "official_website": "https://iot6.com",
+    "tags": []
+  },
+  {
+    "id": "bf868a73e628",
+    "name": "imagenet-1k",
+    "description": "AI model imagenet-1k from datasets on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/datasets/imagenet-1k",
+    "official_website": "https://huggingface.co/datasets/imagenet-1k",
+    "tags": []
+  },
+  {
+    "id": "c10c961640f2",
+    "name": "i10X",
+    "description": "Access ChatGPT 5, Perplexity, Claude and 500 more LLMs & tools with a single subscription.",
+    "category": "LLM Access, AI Tool Aggregator",
+    "pricing": "Subscription",
+    "url": "https://i10x.ai",
+    "official_website": "https://i10x.ai",
+    "tags": []
+  },
+  {
+    "id": "c1ede895a16d",
+    "name": "IFTTT",
+    "description": "Specialized AI tool for research automation applications",
+    "category": "Research Automation",
+    "pricing": "Open Source",
+    "url": "https://ifttt.com",
+    "official_website": "https://ifttt.com",
+    "tags": []
+  },
+  {
+    "id": "c280666e-12e9-4785-9177-cc5edf8b9071",
+    "name": "IoT Tool 20",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot20.com",
+    "official_website": "https://iot20.com",
+    "tags": []
+  },
+  {
+    "id": "c2c34ce6-8ba4-43f6-a975-d3dade4308bf",
+    "name": "Intel Neural Compressor",
+    "description": "SOTA low-bit LLM quantization (INT8/FP8/INT4/FP4/NF4), sparsity, and leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime.",
+    "category": "Model Compression",
+    "pricing": "Unknown",
+    "url": "https://intel.github.io/neural-compressor/",
+    "official_website": "https://intel.github.io/neural-compressor/",
+    "tags": []
+  },
+  {
+    "id": "c3a5b91a-33e8-46a9-a80c-0b1fa768ed75",
+    "name": "Instruct",
+    "description": "AI-powered instruction platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/instruct-2",
+    "official_website": "https://www.producthunt.com/products/instruct-2",
+    "tags": []
+  },
+  {
+    "id": "c3faf3c10f57",
+    "name": "InterpretML",
+    "description": "Open-source package incorporating state-of-the-art machine learning interpretability techniques under one roof. Fit interpretable models and explain blackbox machine learning.",
+    "category": "AI Explainability",
+    "pricing": "Not Specified",
+    "url": "https://interpret.ml/docs",
+    "official_website": "https://interpret.ml/docs",
+    "tags": [
+      "Blackbox explainers: SHAP Kernel Explainer, LIME, Morris Sensitivity Analysis",
+      "Differentially Private EBMs for privacy preservation",
+      "Explainable Boosting Machine (EBM) for interpretable models",
+      "Handles datasets up to 100 million samples",
+      "Dashboard for global and local explanations",
+      "Supports glassbox models: Linear/Logistic Regression, Decision Trees, Rule Lists"
+    ]
+  },
+  {
+    "id": "c466811f6da3",
+    "name": "IBM/Project_CodeNet",
+    "description": "AI system by IBM that supports the software development process",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/IBM/Project_CodeNet",
+    "official_website": "https://github.com/IBM/Project_CodeNet",
+    "tags": []
+  },
+  {
+    "id": "c55463bbf179",
+    "name": "Instapage",
+    "description": "AI landing page builder that automatically generates landing page content with focus on personalization and testing. Creates content variations dedicated to specific audience segments through AI prompts with pixel-perfect drag-and-drop builder.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://instapage.com/",
+    "official_website": "https://instapage.com/",
+    "tags": [
+      "variations",
+      "drag-and-drop",
+      "personalization",
+      "landing page builder",
+      "audience segments",
+      "ai prompts"
+    ]
+  },
+  {
+    "id": "c7296245-3406-46ea-891f-91bc319dc89a",
+    "name": "INK",
+    "description": "AI-powered SEO content optimization",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ink",
+    "official_website": "ink",
+    "tags": []
+  },
+  {
+    "id": "ce32132f887a",
+    "name": "Instance",
+    "description": "Instance is an AI-powered app builder for iOS, Android, and the web that lets you create apps, games, and websites by describing them in plain English.",
+    "category": "Website builders, No-code Platforms",
+    "pricing": "Not Specified",
+    "url": "https://instance.ai",
+    "official_website": "https://instance.ai",
+    "tags": []
+  },
+  {
+    "id": "d056676e-54ff-4da8-8076-a1826ee6548d",
+    "name": "IoT Tool 1",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot1.com",
+    "official_website": "https://iot1.com",
+    "tags": []
+  },
+  {
+    "id": "d0f18a3c-c95a-45a4-8210-ebde840febe1",
+    "name": "IntoChat",
+    "description": "A chatbot platform for customer support, lead generation, and engagement across multiple channels",
+    "category": "Chat",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/intochat",
+    "official_website": "https://www.futuretools.io/tools/intochat",
+    "tags": []
+  },
+  {
+    "id": "d2bcffc5-fb17-4438-92e4-0676f8895110",
+    "name": "IBM Watson Assistant",
+    "description": "AI-powered virtual assistant platform",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ibmwatsonassistant",
+    "official_website": "ibmwatsonassistant",
+    "tags": []
+  },
+  {
+    "id": "d4eef286-4345-4dae-8967-9d3983fdc357",
+    "name": "InitRepo",
+    "description": "InitRepo is a context engineering platform that leverages AI to automate and enhance software project documentation. This intelligent tool helps development teams maintain up-to-date, comprehensive documentation by analyzing project context and generating relevant documentation assets automatically. InitRepo eliminates the traditional pain points of manual documentation by using artificial intelligence to understand code relationships, extract key information, and create documentation that evolv",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/initrepo-com",
+    "official_website": "https://futuretools.link/initrepo-com",
+    "tags": []
+  },
+  {
+    "id": "d6f00053-3e6b-4fd7-b079-02d90d96d2a0",
+    "name": "Investilyze",
+    "description": "AI-Powered Stock Analysis and Real-Time Market Insights",
+    "category": "AI Trading Bot Assistant",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/investilyze",
+    "official_website": "https://freeaitool.ai/tool/investilyze",
+    "tags": []
+  },
+  {
+    "id": "d83db65e-9704-48f7-9563-3f3644da2a56",
+    "name": "Integrately",
+    "description": "Value-priced automation platform focused on simple single-step workflows with strong customer support, helpful onboarding, and cost-effective automation for small businesses.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://integrately.com",
+    "official_website": "https://integrately.com",
+    "tags": []
+  },
+  {
+    "id": "d944300f-5453-465c-91d1-abe0421487e5",
+    "name": "IoT Tool 28",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot28.com",
+    "official_website": "https://iot28.com",
+    "tags": []
+  },
+  {
+    "id": "d973e490-84d6-427c-af56-826fb9025efc",
+    "name": "IBM Watson Studio",
+    "description": "Enterprise AI platform for building, training, and deploying machine learning models. Features foundation model library, RAG capabilities, integrated governance, and data lakehouse integration.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.ibm.com/cloud/watson-studio",
+    "official_website": "https://www.ibm.com/cloud/watson-studio",
+    "tags": []
+  },
+  {
+    "id": "d987815b-79d4-4c49-9bb9-1707b3cd464b",
+    "name": "Instapage",
+    "description": "AI landing page builder that automatically generates landing page content with focus on personalization and testing. Creates content variations dedicated to specific audience segments through AI prompts with pixel-perfect drag-and-drop builder.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://instapage.com/",
+    "official_website": "https://instapage.com/",
+    "tags": []
+  },
+  {
+    "id": "dd37045b1f3f",
+    "name": "ianarawjo/ChainForge",
+    "description": "ChainForge is an open-source visual programming environment for battle-testing prompts",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/ianarawjo/ChainForge",
+    "official_website": "https://github.com/ianarawjo/ChainForge",
+    "tags": []
+  },
+  {
+    "id": "dd96da4a-efca-46ca-aa0d-cf86854823b2",
+    "name": "IoT Tool 43",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot43.com",
+    "official_website": "https://iot43.com",
+    "tags": []
+  },
+  {
+    "id": "de6e05ee-9874-40fa-9159-18509fef0c84",
+    "name": "IoT Tool 10",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot10.com",
+    "official_website": "https://iot10.com",
+    "tags": []
+  },
+  {
+    "id": "e0aafb57-eb61-4e13-8870-c470b129a9d0",
+    "name": "internlm_JanusCoder-14B-GGUF",
+    "description": "AI model internlm_JanusCoder-14B-GGUF from bartowski on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/bartowski/internlm_JanusCoder-14B-GGUF",
+    "official_website": "https://huggingface.co/bartowski/internlm_JanusCoder-14B-GGUF",
+    "tags": []
+  },
+  {
+    "id": "e16e736c-73f2-451b-a6a0-1b8bfb29619c",
+    "name": "IBM Watson Studio",
+    "description": "AI and ML studio",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://ibm.com",
+    "official_website": "https://ibm.com",
+    "tags": []
+  },
+  {
+    "id": "e52e021c-bc2c-4155-8f56-3e9381bcecbe",
+    "name": "IoT Tool 35",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot35.com",
+    "official_website": "https://iot35.com",
+    "tags": []
+  },
+  {
+    "id": "e85d3d0a-897c-4b20-94ec-96e6b70ca7cc",
+    "name": "InternLM Chat 20B",
+    "description": "InternLM large chat model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "e92e59e00c4b",
+    "name": "iWAND | AI Stylist & Shopping Assistant",
+    "description": "iWAND acts like a human stylist, personalizing shopping for customers and helping them find what truly suits them. This boosts confidence and leads to smarter purchases. The result? More sales and happier shoppers for your fashion store.",
+    "category": "AI Chatbots, Shopify Apps, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://iwand.ai",
+    "official_website": "https://iwand.ai",
+    "tags": []
+  },
+  {
+    "id": "e9864c0f-a66b-48c4-a23f-78c94a8055be",
+    "name": "Ideogram",
+    "description": "Text-to-image AI generator with exceptional text rendering capabilities. Ideal for branding and design tasks requiring precise typography and logo-like elements in generated images.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://ideogram.ai/",
+    "official_website": "https://ideogram.ai/",
+    "tags": []
+  },
+  {
+    "id": "ead0f5ea-eb5f-4d34-84c0-405384e8a788",
+    "name": "IoT Tool 33",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot33.com",
+    "official_website": "https://iot33.com",
+    "tags": []
+  },
+  {
+    "id": "f0b94686-d9c7-4ede-9ce4-3205f2d59a54",
+    "name": "IoT Tool 40",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot40.com",
+    "official_website": "https://iot40.com",
+    "tags": []
+  },
+  {
+    "id": "f0e236dd8784",
+    "name": "Imagecolorizer",
+    "description": "Revitalize old photos with AI-driven colorization and restoration effortlessly.",
+    "category": "Image Editing, Fun Tools",
+    "pricing": "Free",
+    "url": "https://imagecolorizer.com/",
+    "official_website": "https://imagecolorizer.com/",
+    "tags": []
+  },
+  {
+    "id": "f33c4d20-1ac5-41c1-ae5a-367c32b36cc4",
+    "name": "IBM Watson Health",
+    "description": "Healthcare AI solutions",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://ibm.com",
+    "official_website": "https://ibm.com",
+    "tags": []
+  },
+  {
+    "id": "f532de3f-8c7f-4887-b318-a91ae51c091d",
+    "name": "IoT Tool 36",
+    "description": "Specialized ai iot solution for enterprise and personal use",
+    "category": "AI IoT",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://iot36.com",
+    "official_website": "https://iot36.com",
+    "tags": []
+  },
+  {
+    "id": "f5ec754d-12be-40f9-a4a0-3a50beb289ae",
+    "name": "InterpretML",
+    "description": "Open-source package incorporating state-of-the-art machine learning interpretability techniques under one roof. Fit interpretable models and explain blackbox machine learning.",
+    "category": "AI Explainability",
+    "pricing": "Unknown",
+    "url": "https://interpret.ml/docs",
+    "official_website": "https://interpret.ml/docs",
+    "tags": []
+  },
+  {
+    "id": "f6318863fc54",
+    "name": "InVideo AI",
+    "description": "Comprehensive AI video creation platform offering prompt-to-video generation, AI avatar creation, voice cloning, video translation, and intelligent editing. Supports multiple languages with templates for social media content.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://invideo.io/",
+    "official_website": "https://invideo.io/",
+    "tags": [
+      "social-media",
+      "avatars",
+      "text-to-video",
+      "voice-cloning",
+      "translation",
+      "templates"
+    ]
+  },
+  {
+    "id": "f8a43f9b-c15a-406c-8f35-76b794fd7daa",
+    "name": "IBM SPSS",
+    "description": "Statistical analysis software with AI",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ibmspss",
+    "official_website": "ibmspss",
+    "tags": []
+  },
+  {
+    "id": "f92dcd35-f98e-4521-b883-3f525b8f691a",
+    "name": "IFTTT",
+    "description": "Consumer-focused automation platform connecting smart home devices, mobile functionality, and popular apps with simple trigger-action workflows and extensive device ecosystem.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://ifttt.com",
+    "official_website": "https://ifttt.com",
+    "tags": []
+  },
+  {
+    "id": "fa79eb20-3265-482d-9258-3a2c3a90a6f6",
+    "name": "Insider Personalization",
+    "description": "AI product recommendations for ecommerce to increase sales and build customer loyalty",
+    "category": "E-commerce",
+    "pricing": "Enterprise",
+    "url": "https://useinsider.com",
+    "official_website": "https://useinsider.com",
+    "tags": []
+  },
+  {
+    "id": "fcfc45df-41ed-4215-82ce-ac6c5170359d",
+    "name": "ImagesArt.ai",
+    "description": "Create Perfect AI Art Prompts and Generate Stunning Images",
+    "category": "AI Art Generator",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/imagesart-ai",
+    "official_website": "https://freeaitool.ai/tool/imagesart-ai",
+    "tags": []
+  },
+  {
+    "id": "fd370e88-8de5-492e-ba13-2638d7e0de54",
+    "name": "Invent | AI Assistants",
+    "description": "Create AI assistants that chat, talk, and answer from your data.",
+    "category": "Communication",
+    "pricing": "Free + from $0.0009",
+    "url": "https://useinvent.com/",
+    "official_website": "https://useinvent.com/",
+    "tags": []
+  },
+  {
+    "id": "fdb201ac-9ba1-4c21-b67e-e456d3ebcd9f",
+    "name": "Image to Ghibli",
+    "description": "Transform Photos into Magical Studio Ghibli Artwork",
+    "category": "AI Anime & Cartoon",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/image-to-ghibli",
+    "official_website": "https://freeaitool.ai/tool/image-to-ghibli",
+    "tags": []
+  },
+  {
+    "id": "fdec9e93a6df",
+    "name": "Instruct",
+    "description": "AI-powered instruction platform",
+    "category": "Artificial Intelligence, SaaS",
+    "pricing": "Not Specified",
+    "url": "https://instruct.xyz",
+    "official_website": "https://instruct.xyz",
+    "tags": []
+  }
+]

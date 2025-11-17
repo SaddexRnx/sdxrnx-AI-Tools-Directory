@@ -1,0 +1,2693 @@
+[
+  {
+    "id": "01a336ba2202",
+    "name": "Roam Research",
+    "description": "AI-enhanced note-taking",
+    "category": "Note Taking",
+    "pricing": "Not Specified",
+    "url": "https://roamresearch.com/",
+    "official_website": "https://roamresearch.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "0259f28c-e4ca-41c6-9f76-863d14f1afb0",
+    "name": "Reclaim AI",
+    "description": "AI-powered scheduling tool that automatically plans your calendar",
+    "category": "AI General",
+    "pricing": "Paid",
+    "url": "https://topai.tools/t/reclaim-ai",
+    "official_website": "https://topai.tools/t/reclaim-ai",
+    "tags": []
+  },
+  {
+    "id": "025e146c-5937-475c-b096-bf1297520ec2",
+    "name": "Rockwell Automation AI",
+    "description": "Industrial automation AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://rockwellautomation.com",
+    "official_website": "https://rockwellautomation.com",
+    "tags": []
+  },
+  {
+    "id": "04cdac8ecd27",
+    "name": "RyRob AI Article Writer",
+    "description": "Free SEO-focused AI article generator creating short-form content (500-1,000 words) across 10+ languages. Uses GPT-4o technology, offers plagiarism-free content, and integrates with RightBlogger premium suite for unlimited long-form generation.",
+    "category": "Writing",
+    "pricing": "Free",
+    "url": "https://www.ryrob.com/ai-article-writer/",
+    "official_website": "https://www.ryrob.com/ai-article-writer/",
+    "tags": [
+      "free article writing",
+      "blog writing",
+      "SEO content",
+      "multi-language",
+      "content generation",
+      "GPT-4o",
+      "plagiarism-free"
+    ]
+  },
+  {
+    "id": "04e6c5c5-bfb8-46f2-98aa-d6110cc42673",
+    "name": "Relume",
+    "description": "AI-generated website components",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "relume",
+    "official_website": "relume",
+    "tags": []
+  },
+  {
+    "id": "05192282ea00",
+    "name": "Replit",
+    "description": "Online coding platform with AI assistance for programming projects.",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "url": "https://replit.com/",
+    "official_website": "https://replit.com/",
+    "tags": [
+      "development",
+      "coding"
+    ]
+  },
+  {
+    "id": "05933b6f-589a-447c-8900-970ad0ee9e02",
+    "name": "Rently AI",
+    "description": "Rental property AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://rently.com",
+    "official_website": "https://rently.com",
+    "tags": []
+  },
+  {
+    "id": "07250873-3744-49b7-bbcc-9be70f602500",
+    "name": "ResponseHub",
+    "description": "ResponseHub is an AI-powered platform that automates the completion of security questionnaires by leveraging workflows and machine learning models trained specifically on security content making it ideal for early-stage CTOs and small tech teams who spend significant time on vendor due diligence and compliance paperwork its AI analyzes new questionnaires matches them with previous answers ensures accuracy and consistency and minimizes manual work so users save valuable hours and avoid repetitive",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/responsehub-ai",
+    "official_website": "https://futuretools.link/responsehub-ai",
+    "tags": []
+  },
+  {
+    "id": "07cd1874-f9e5-4690-b635-d9fe09e46a6b",
+    "name": "Reclaim",
+    "description": "AI scheduling assistant designed to protect habits and manage recurring events, quickly reschedule conflicts, prioritize tasks, and integrate with task management apps for automated sync.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://reclaim.ai",
+    "official_website": "https://reclaim.ai",
+    "tags": []
+  },
+  {
+    "id": "0a38cc589d6f",
+    "name": "rtdetr_v2_r18vd",
+    "description": "AI model rtdetr_v2_r18vd from PekingU on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/PekingU/rtdetr_v2_r18vd",
+    "official_website": "https://huggingface.co/PekingU/rtdetr_v2_r18vd",
+    "tags": []
+  },
+  {
+    "id": "0a6c2772ff13",
+    "name": "Relay",
+    "description": "Modern automation platform focused on human-in-the-loop workflows with built-in AI capabilities, model switching, approvals, and affordable predictable pricing across all features.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.relay.app",
+    "official_website": "https://www.relay.app",
+    "tags": [
+      "approvals",
+      "predictable-pricing",
+      "human-in-the-loop",
+      "modern-automation",
+      "ai-automation"
+    ]
+  },
+  {
+    "id": "0a71790d8e23",
+    "name": "roberta-large-squad2",
+    "description": "AI model roberta-large-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/deepset/roberta-large-squad2",
+    "official_website": "https://huggingface.co/deepset/roberta-large-squad2",
+    "tags": []
+  },
+  {
+    "id": "0af67813-be5b-4c57-a8f1-979ce405a40d",
+    "name": "Ranking Raccoon",
+    "description": "AI-powered backlink exchange platform that gets backlinks from manually vetted, high-quality websites. Features strictly moderated, spam-free platform with real-time backlink verification and ethical link building guidelines.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://rankingraccoon.com/",
+    "official_website": "https://rankingraccoon.com/",
+    "tags": []
+  },
+  {
+    "id": "0b8243c0-4973-4693-b658-ccab8b1c0e45",
+    "name": "Rockwell FactoryTalk",
+    "description": "Factory automation AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://rockwellautomation.com",
+    "official_website": "https://rockwellautomation.com",
+    "tags": []
+  },
+  {
+    "id": "0c632b94-db09-43b7-9d2c-51166c6d730d",
+    "name": "remio: Your Personal ChatGPT",
+    "description": "Your AI-powered personal knowledge hub for professionals.",
+    "category": "Productivity",
+    "pricing": "Free + from $8.25/mo",
+    "url": "https://remio.ai/",
+    "official_website": "https://remio.ai/",
+    "tags": []
+  },
+  {
+    "id": "0d025cf7-eb0f-4d2f-b2d0-eab86f1d8d29",
+    "name": "Robotics Tool 20",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics20.com",
+    "official_website": "https://robotics20.com",
+    "tags": []
+  },
+  {
+    "id": "0d4e39afb149",
+    "name": "roberta-large",
+    "description": "AI model roberta-large from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/FacebookAI/roberta-large",
+    "official_website": "https://huggingface.co/FacebookAI/roberta-large",
+    "tags": []
+  },
+  {
+    "id": "0ea55fadccb3",
+    "name": "robertuito-sentiment-analysis",
+    "description": "AI model robertuito-sentiment-analysis from pysentimiento on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/pysentimiento/robertuito-sentiment-analysis",
+    "official_website": "https://huggingface.co/pysentimiento/robertuito-sentiment-analysis",
+    "tags": []
+  },
+  {
+    "id": "0f3a13c1-a696-45ed-a829-ffe2e493511c",
+    "name": "Relay.app",
+    "description": "Relay.app lets you build team-based automations with AI steps and human approvals. Ideal for processes that need more control than simple trigger-action tools can offer",
+    "category": "Automation",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/relayapp",
+    "official_website": "https://link.aitoolsdirectory.com/relayapp",
+    "tags": []
+  },
+  {
+    "id": "0f5e0c91-303c-4e65-be9f-5daeee6d180e",
+    "name": "Reportly",
+    "description": "Reportly is an AI-enhanced reporting tool designed for mobile and flexible workforces that streamlines the process of creating editing and managing digital reports directly from any device by leveraging AI to automate data capture suggest improvements and ensure accuracy users can quickly generate structured reports with text images and annotations making it ideal for on-the-go professionals like inspectors auditors and field teams seeking to collaborate efficiently and produce high-quality docu",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/goreportly-com",
+    "official_website": "https://futuretools.link/goreportly-com",
+    "tags": []
+  },
+  {
+    "id": "0fb136a4-4972-40c9-8455-c795f2bb4269",
+    "name": "Recall.ai",
+    "description": "Recall.ai is a universal API that uses AI to capture and process data in real time from major video conferencing platforms like Zoom Google Meet and Microsoft Teams allowing developers and businesses to quickly access meeting recordings transcripts audio and metadata without building custom integrations AI plays a central role by enabling instant data extraction and facilitating powerful applications such as meeting assistants conversation intelligence tools and sales enablement solutions making",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/recall-ai",
+    "official_website": "https://futuretools.link/recall-ai",
+    "tags": []
+  },
+  {
+    "id": "106df6bd-226c-4e93-a1f9-19cc2e3bb715",
+    "name": "Recast",
+    "description": "Tool that converts online articles and blog posts into conversational audio summaries, presented as podcasts with virtual hosts to enhance information consumption and retention.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://letsrecast.ai",
+    "official_website": "https://letsrecast.ai",
+    "tags": []
+  },
+  {
+    "id": "1671d72e-12b9-478b-9227-f49bd12ea2e2",
+    "name": "Rasa",
+    "description": "Open source conversational AI platform",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "rasa",
+    "official_website": "rasa",
+    "tags": []
+  },
+  {
+    "id": "17cddffc-9c70-4bf1-9460-c41a8f45bead",
+    "name": "Relay.app",
+    "description": "The new standard for automation",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/relay-app",
+    "official_website": "https://www.producthunt.com/products/relay-app",
+    "tags": []
+  },
+  {
+    "id": "1af2c0fbc44e",
+    "name": "rapidsai/cudf",
+    "description": "GPU DataFrame library for loading, joining, aggregating, filtering data",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/rapidsai/cudf",
+    "official_website": "https://github.com/rapidsai/cudf",
+    "tags": []
+  },
+  {
+    "id": "1b9d124f-5320-4654-90a3-3c44a9a10379",
+    "name": "Robotics Tool 33",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics33.com",
+    "official_website": "https://robotics33.com",
+    "tags": []
+  },
+  {
+    "id": "1d7bf4db-28a7-44ec-acb5-f0e47a105098",
+    "name": "Robotics Tool 9",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics9.com",
+    "official_website": "https://robotics9.com",
+    "tags": []
+  },
+  {
+    "id": "1e39da851155",
+    "name": "Repomix",
+    "description": "Tool that packs codebase into single file for LLM context",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://github.com/yamankatby/repomix",
+    "official_website": "https://github.com/yamankatby/repomix",
+    "tags": []
+  },
+  {
+    "id": "1ec4a759f467",
+    "name": "Rytr",
+    "description": "AI writing assistant with 8M+ users offering 40+ templates for content generation. Supports 40+ languages, 20+ tones, plagiarism checks, and API access. Features AI autocomplete, blog generators, SEO tools, and business content creation with freemium pricing.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://rytr.me/",
+    "official_website": "https://rytr.me/",
+    "tags": [
+      "API access",
+      "plagiarism checking",
+      "SEO tools",
+      "multi-language",
+      "content templates",
+      "tone mirroring",
+      "business content"
+    ]
+  },
+  {
+    "id": "2124818d-5ad8-44b0-823d-44e2178499e6",
+    "name": "Replit AI",
+    "description": "AI coding assistant integrated in Replit",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "replitai",
+    "official_website": "replitai",
+    "tags": []
+  },
+  {
+    "id": "2196f3a3-8ff7-47bd-b8b7-ca14630e2bfa",
+    "name": "Robotics Tool 3",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics3.com",
+    "official_website": "https://robotics3.com",
+    "tags": []
+  },
+  {
+    "id": "21dd0118115e",
+    "name": "Replicate",
+    "description": "AI-powered assistant for research and academic applications",
+    "category": "AI Assistant",
+    "pricing": "Commercial",
+    "url": "https://replicate.com",
+    "official_website": "https://replicate.com",
+    "tags": []
+  },
+  {
+    "id": "22ae7291-94ea-41ca-95b3-d5d76c88b396",
+    "name": "Robotics Tool 23",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics23.com",
+    "official_website": "https://robotics23.com",
+    "tags": []
+  },
+  {
+    "id": "247e6498-b585-42c8-8043-1a87911f01c6",
+    "name": "RedPajama-Data",
+    "description": "Open replica of LLaMA training data",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://togetherai.com",
+    "official_website": "https://togetherai.com",
+    "tags": []
+  },
+  {
+    "id": "25907818-3b47-40c6-b8ca-6a42e1d9fc74",
+    "name": "Runway ML",
+    "description": "AI video editing and generation platform",
+    "category": "AI Video & Media",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "runwayml",
+    "official_website": "runwayml",
+    "tags": []
+  },
+  {
+    "id": "268511ca-3658-407d-8fc8-13645ab33378",
+    "name": "Rakuten AI",
+    "description": "E-commerce AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://rakuten.com",
+    "official_website": "https://rakuten.com",
+    "tags": []
+  },
+  {
+    "id": "2756635b-6d86-4b2f-a715-def59905d169",
+    "name": "Replit Ghostwriter",
+    "description": "AI coding assistant integrated into Replit's online IDE, offering code suggestions, explanations, and mistake detection for interactive learning and development.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://replit.com/",
+    "official_website": "https://replit.com/",
+    "tags": []
+  },
+  {
+    "id": "27bfd6d7-8693-4067-8589-b2f656417a83",
+    "name": "Robotics Tool 22",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics22.com",
+    "official_website": "https://robotics22.com",
+    "tags": []
+  },
+  {
+    "id": "289231d8-4518-41f8-a8b4-263ee243cde8",
+    "name": "Robotics Tool 34",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics34.com",
+    "official_website": "https://robotics34.com",
+    "tags": []
+  },
+  {
+    "id": "28c9a148-249f-4955-adb0-16110aaff4ed",
+    "name": "Replika",
+    "description": "AI-powered conversational ai solution",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.replika.com",
+    "official_website": "https://www.replika.com",
+    "tags": []
+  },
+  {
+    "id": "2964bf58-9270-45b8-a204-8b1b08a5ec94",
+    "name": "Robotics Tool 1",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics1.com",
+    "official_website": "https://robotics1.com",
+    "tags": []
+  },
+  {
+    "id": "29d1d7a1-2ab9-4668-8a53-53f770a13121",
+    "name": "Relay",
+    "description": "Modern automation platform focused on human-in-the-loop workflows with built-in AI capabilities, model switching, approvals, and affordable predictable pricing across all features.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.relay.app",
+    "official_website": "https://www.relay.app",
+    "tags": []
+  },
+  {
+    "id": "2c510010f71b",
+    "name": "ReplaceAnything",
+    "description": "Replace objects in images using prompts or reference images.",
+    "category": "Image",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/modelscope/ReplaceAnything",
+    "official_website": "https://huggingface.co/spaces/modelscope/ReplaceAnything",
+    "tags": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "id": "2c8d2235-61d0-40f5-93d2-60a68b1362d5",
+    "name": "Rosetta Stone",
+    "description": "Language learning software with AI-powered speech recognition and progress tracking",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://rosettastone.com",
+    "official_website": "https://rosettastone.com",
+    "tags": []
+  },
+  {
+    "id": "2d0d5802-5a25-4061-a57a-311715f7cb4e",
+    "name": "Runway",
+    "description": "AI-powered video editing and generation",
+    "category": "AI Video Creation",
+    "pricing": "Freemium",
+    "url": "https://runwayml.com",
+    "official_website": "https://runwayml.com",
+    "tags": []
+  },
+  {
+    "id": "31d558a9-391e-4aec-9460-4fd4bc2bfbda",
+    "name": "Robotics Tool 30",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics30.com",
+    "official_website": "https://robotics30.com",
+    "tags": []
+  },
+  {
+    "id": "346685bb-5aaa-4882-880a-387d1de3f9c8",
+    "name": "Remove.bg",
+    "description": "AI-powered automatic background removal tool with high accuracy and bulk processing capabilities. Processes images in 5 seconds with multiple export formats and API access.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.remove.bg/",
+    "official_website": "https://www.remove.bg/",
+    "tags": []
+  },
+  {
+    "id": "39be33a5-2744-4cb2-a300-36465fe6e973",
+    "name": "Robotics Tool 27",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics27.com",
+    "official_website": "https://robotics27.com",
+    "tags": []
+  },
+  {
+    "id": "3a454883d5a6",
+    "name": "Ring-1T",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/inclusionAI/Ring-1T",
+    "official_website": "https://huggingface.co/inclusionAI/Ring-1T",
+    "tags": []
+  },
+  {
+    "id": "3b041e16b30d",
+    "name": "Rev.com",
+    "description": "Professional transcription service combining AI and human transcriptionists. Offers high accuracy rates, fast turnaround, and specialized services for legal, medical, and academic transcription.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.rev.com/",
+    "official_website": "https://www.rev.com/",
+    "tags": [
+      "fast-turnaround",
+      "specialized-services",
+      "professional",
+      "human-ai-hybrid",
+      "high-accuracy"
+    ]
+  },
+  {
+    "id": "3d4c10aa-5315-42a9-a3fd-dc7c8b06f671",
+    "name": "ROSS Intelligence",
+    "description": "AI-powered legal solution",
+    "category": "AI Legal",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.rossintelligence.com",
+    "official_website": "https://www.rossintelligence.com",
+    "tags": []
+  },
+  {
+    "id": "3d50cbca17b7",
+    "name": "Ranorex Studio",
+    "description": "Comprehensive test automation tool supporting desktop, web, and mobile applications with GUI object recognition and codeless test creation.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.ranorex.com/",
+    "official_website": "https://www.ranorex.com/",
+    "tags": [
+      "desktop-testing",
+      "cross-platform",
+      "gui-testing",
+      "test-automation",
+      "mobile-testing",
+      "codeless-testing"
+    ]
+  },
+  {
+    "id": "3db6af589e5d",
+    "name": "Resemble AI",
+    "description": "Voice cloning and synthesis platform specializing in realistic voice generation. Offers custom voice API, voice conversion, and enterprise-grade voice solutions with emotion control and multilingual support.",
+    "category": "Voice",
+    "pricing": "Freemium",
+    "url": "https://www.resemble.ai/",
+    "official_website": "https://www.resemble.ai/",
+    "tags": [
+      "api",
+      "enterprise",
+      "voice-cloning",
+      "multilingual",
+      "emotion-control"
+    ]
+  },
+  {
+    "id": "3e743524-4101-4d48-89aa-3b6eb7114be1",
+    "name": "resnet50.a1_in1k",
+    "description": "AI model resnet50.a1_in1k from timm on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/timm/resnet50.a1_in1k",
+    "official_website": "https://huggingface.co/timm/resnet50.a1_in1k",
+    "tags": []
+  },
+  {
+    "id": "3f7a6818-cf43-4186-bf4f-45ca0f1fab51",
+    "name": "Robotics Tool 7",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics7.com",
+    "official_website": "https://robotics7.com",
+    "tags": []
+  },
+  {
+    "id": "3f82d465-5e80-4eb1-bce8-1e05263bbf68",
+    "name": "Robotics Tool 11",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics11.com",
+    "official_website": "https://robotics11.com",
+    "tags": []
+  },
+  {
+    "id": "3fe5fe51-1407-40cd-b1b7-4d509d38e9e6",
+    "name": "Redfin AI",
+    "description": "Real estate search and AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://redfin.com",
+    "official_website": "https://redfin.com",
+    "tags": []
+  },
+  {
+    "id": "41065cb6312d",
+    "name": "REimagine Home",
+    "description": "Generative AI to redesign any room in seconds",
+    "category": "Real Estate, Image Editing",
+    "pricing": "Free",
+    "url": "https://www.reimaginehome.ai/",
+    "official_website": "https://www.reimaginehome.ai/",
+    "tags": []
+  },
+  {
+    "id": "419502ed-ce9e-4b06-91ea-32e9bce64cd4",
+    "name": "Robotics Tool 42",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics42.com",
+    "official_website": "https://robotics42.com",
+    "tags": []
+  },
+  {
+    "id": "432dd947-d3b2-442e-8c43-8c2510de1c5a",
+    "name": "RightNow AI Code Editor",
+    "description": "AI code editing tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/rightnow-ai",
+    "official_website": "https://www.producthunt.com/products/rightnow-ai",
+    "tags": []
+  },
+  {
+    "id": "434bebf845c1",
+    "name": "ray-project/ray",
+    "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/ray-project/ray",
+    "official_website": "https://github.com/ray-project/ray",
+    "tags": []
+  },
+  {
+    "id": "449fe77e-93eb-41e7-ae1a-94d3f37cd258",
+    "name": "Roam Research",
+    "description": "AI-enhanced networked thought",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "roamresearch",
+    "official_website": "roamresearch",
+    "tags": []
+  },
+  {
+    "id": "4837859f-ebc0-4d95-ae51-4a159d74a532",
+    "name": "Ranorex Studio",
+    "description": "Comprehensive test automation tool supporting desktop, web, and mobile applications with GUI object recognition and codeless test creation.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.ranorex.com/",
+    "official_website": "https://www.ranorex.com/",
+    "tags": []
+  },
+  {
+    "id": "497d7bf5-8c60-486b-96a8-71975e7a7c90",
+    "name": "Rippling",
+    "description": "HR and IT platform with AI-powered employee lifecycle management",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://rippling.com",
+    "official_website": "https://rippling.com",
+    "tags": []
+  },
+  {
+    "id": "49c989f8-2a2f-4198-a6b3-5cd7b4bcbaff",
+    "name": "roberta-base",
+    "description": "Authentic verified Hugging Face model",
+    "category": "Model",
+    "pricing": "{\"model\":\"Open Source\",\"details\":\"Real scraped content\"}",
+    "url": "https://huggingface.co/roberta-base/roberta-base",
+    "official_website": "https://huggingface.co/roberta-base/roberta-base",
+    "tags": []
+  },
+  {
+    "id": "4a9a01e3536f",
+    "name": "Replit Ghostwriter",
+    "description": "AI coding assistant integrated into Replit's online IDE, offering code suggestions, explanations, and mistake detection for interactive learning and development.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://replit.com/",
+    "official_website": "https://replit.com/",
+    "tags": [
+      "mistake-detection",
+      "online-ide",
+      "code-suggestions",
+      "cloud-ide",
+      "replit",
+      "interactive-learning"
+    ]
+  },
+  {
+    "id": "4c94f456ba64",
+    "name": "resnet-50",
+    "description": "ResNet-50 convolutional neural network model pre-trained on ImageNet.",
+    "category": "Computer Vision",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/microsoft/resnet-50",
+    "official_website": "https://huggingface.co/microsoft/resnet-50",
+    "tags": [
+      "resnet",
+      "pytorch",
+      "image-classification",
+      "computer-vision"
+    ]
+  },
+  {
+    "id": "4fdeeba3-fb95-4261-9f30-02f66bd2a9e5",
+    "name": "RenderLion",
+    "description": "Transform Content into Instant AI-Generated Videos",
+    "category": "AI Video Generator",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/renderlion",
+    "official_website": "https://freeaitool.ai/tool/renderlion",
+    "tags": []
+  },
+  {
+    "id": "50268731-27b9-40ac-80b5-9991bb79c475",
+    "name": "Robotics Tool 8",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics8.com",
+    "official_website": "https://robotics8.com",
+    "tags": []
+  },
+  {
+    "id": "50fba7db7101",
+    "name": "Riverside",
+    "description": "Create, edit, and enhance high-quality audio/video content.",
+    "category": "Video Editing, Audio Editing",
+    "pricing": "Freemium",
+    "url": "https://riverside.fm/",
+    "official_website": "https://riverside.fm/",
+    "tags": []
+  },
+  {
+    "id": "51a6ed783627",
+    "name": "RunwayML",
+    "description": "AI video and image generation platform with advanced editing capabilities. Features Gen-4 model for cinematic video generation and comprehensive video editing tools.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://runwayml.com/",
+    "official_website": "https://runwayml.com/",
+    "tags": [
+      "cinematic",
+      "entertainment",
+      "video-generation",
+      "editing",
+      "ai-research"
+    ]
+  },
+  {
+    "id": "528f17b7-a012-4710-893a-e7efc1174d4e",
+    "name": "Resemble AI",
+    "description": "AI-powered audio and voice solution",
+    "category": "AI Audio & Voice",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.resembleai.com",
+    "official_website": "https://www.resembleai.com",
+    "tags": []
+  },
+  {
+    "id": "52a1d7fb-0d04-48ce-91b8-3437a096b033",
+    "name": "Reonomy AI",
+    "description": "Commercial real estate data",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://reonomy.com",
+    "official_website": "https://reonomy.com",
+    "tags": []
+  },
+  {
+    "id": "52af2b24-a1f1-464f-8f78-701b5cbf3d0d",
+    "name": "Robotics Tool 32",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics32.com",
+    "official_website": "https://robotics32.com",
+    "tags": []
+  },
+  {
+    "id": "52ce6f8d-3c6c-4e14-be0a-7b39a09812f3",
+    "name": "r1-1776",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/perplexity-ai/r1-1776",
+    "official_website": "https://huggingface.co/perplexity-ai/r1-1776",
+    "tags": []
+  },
+  {
+    "id": "556ef6ce-5bd5-4db9-918f-4ae9af1ed059",
+    "name": "RightNow AI Code Editor",
+    "description": "AI code editing tool",
+    "category": "Tech",
+    "pricing": "Unknown",
+    "url": "https://rightnow.ai",
+    "official_website": "https://rightnow.ai",
+    "tags": []
+  },
+  {
+    "id": "557d59af-1136-4911-9ce9-078081160c8a",
+    "name": "Rosey",
+    "description": "Your AI Teammate That Crafts, Drafts, and Maintains Your Documents",
+    "category": "Writing",
+    "pricing": "No pricing",
+    "url": "https://getrosey.com/",
+    "official_website": "https://getrosey.com/",
+    "tags": []
+  },
+  {
+    "id": "55901840-215d-4677-bc56-2cd51fcc5bef",
+    "name": "Rinna Japanese LLM",
+    "description": "Japanese language model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://rinna.com",
+    "official_website": "https://rinna.com",
+    "tags": []
+  },
+  {
+    "id": "55ba1a0829c0",
+    "name": "Remy AI",
+    "description": "Anyone can sleep and recover better",
+    "category": "iOS, Health & Fitness, Artificial Intelligence",
+    "pricing": "Not Specified",
+    "url": "https://remy.ai",
+    "official_website": "https://remy.ai",
+    "tags": []
+  },
+  {
+    "id": "55c1c395a722",
+    "name": "R",
+    "description": "Statistical analysis software for research applications",
+    "category": "Statistical Analysis",
+    "pricing": "Open Source",
+    "url": "https://r.org",
+    "official_website": "https://r.org",
+    "tags": []
+  },
+  {
+    "id": "57363da7-9dc1-4839-83f2-871632fb1ccc",
+    "name": "Riskova",
+    "description": "Riskova is an AI-powered risk management platform that simplifies how organizations identify assess and monitor business risks. The tool leverages artificial intelligence to analyze risk patterns automatically create customized risk matrices and generate predictive insights that help companies anticipate potential threats before they materialize. Users benefit from Riskovas intelligent automation which eliminates manual spreadsheet work while its machine learning capabilities continuously improv",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/riskova-com",
+    "official_website": "https://futuretools.link/riskova-com",
+    "tags": []
+  },
+  {
+    "id": "577e893b-c5ca-4b13-aea6-0c46dc446bbf",
+    "name": "Robotics Tool 41",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics41.com",
+    "official_website": "https://robotics41.com",
+    "tags": []
+  },
+  {
+    "id": "57bb0f53-840f-49fe-b11b-5e1b7e88de28",
+    "name": "Replica Studios",
+    "description": "Game-focused voice synthesis platform offering realistic character voices for gaming and interactive media. Features game engine integration and dynamic voice control.",
+    "category": "AI Voice",
+    "pricing": "Premium",
+    "url": "https://replicastudios.com/",
+    "official_website": "https://replicastudios.com/",
+    "tags": []
+  },
+  {
+    "id": "58db021c-eb88-4b2f-a21d-f9c71d178ee4",
+    "name": "Robotics Tool 14",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics14.com",
+    "official_website": "https://robotics14.com",
+    "tags": []
+  },
+  {
+    "id": "593fd020-5656-433f-9fc4-e8220a5b0f5f",
+    "name": "Robotics Tool 35",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics35.com",
+    "official_website": "https://robotics35.com",
+    "tags": []
+  },
+  {
+    "id": "5ada52ee-2325-42d1-9a89-9ac34e5db2b0",
+    "name": "Runway ML Gen-3",
+    "description": "AI video generation",
+    "category": "Video Generation & Processing",
+    "pricing": "Freemium",
+    "url": "https://runway.com",
+    "official_website": "https://runway.com",
+    "tags": []
+  },
+  {
+    "id": "5c04ca11-6bbd-49a0-be1f-09f7d7db7ac8",
+    "name": "Release0",
+    "description": "Release0 is a no-code platform that empowers users to build and deploy customized AI-powered conversational experiences without writing a single line of code. The tool allows businesses to create intelligent chatbots that can be seamlessly integrated across websites, WhatsApp, and other channels to automate lead qualification, customer support, and user onboarding. What sets Release0 apart is its AI flexibility through a Bring-Your-Own-Key approach, enabling users to connect their preferred AI m",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/release0-com",
+    "official_website": "https://futuretools.link/release0-com",
+    "tags": []
+  },
+  {
+    "id": "5d4d8325-f472-48f9-b573-f07ed67bc7bb",
+    "name": "Robotics Tool 19",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics19.com",
+    "official_website": "https://robotics19.com",
+    "tags": []
+  },
+  {
+    "id": "5e5169e2-fbdd-45ce-8227-74eb91b92b79",
+    "name": "Resemble AI",
+    "description": "Voice cloning and synthesis platform specializing in realistic voice generation. Offers custom voice API, voice conversion, and enterprise-grade voice solutions with emotion control and multilingual support.",
+    "category": "AI Voice",
+    "pricing": "Free",
+    "url": "https://www.resemble.ai/",
+    "official_website": "https://www.resemble.ai/",
+    "tags": []
+  },
+  {
+    "id": "5f94c44f276a",
+    "name": "Ranking Raccoon",
+    "description": "AI-powered backlink exchange platform that gets backlinks from manually vetted, high-quality websites. Features strictly moderated, spam-free platform with real-time backlink verification and ethical link building guidelines.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://rankingraccoon.com/",
+    "official_website": "https://rankingraccoon.com/",
+    "tags": [
+      "quality sites",
+      "real-time verification",
+      "moderated platform",
+      "community guidelines",
+      "ethical link building",
+      "backlink exchange"
+    ]
+  },
+  {
+    "id": "607e1c09884a",
+    "name": "Reply.io",
+    "description": "The multichannel sales engagement platform which automates personal email outreach, calls, and tasks, while Sales can focus on what really matters - closing deals.",
+    "category": "Email marketing, Marketing automation platforms, Lead generation software, Sales enablement, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://reply.io",
+    "official_website": "https://reply.io",
+    "tags": []
+  },
+  {
+    "id": "60a03aec-2ab1-4ca9-bb11-e284e524b317",
+    "name": "Robotics Tool 36",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics36.com",
+    "official_website": "https://robotics36.com",
+    "tags": []
+  },
+  {
+    "id": "60e28daad357",
+    "name": "roberta-base",
+    "description": "RoBERTa base model - optimized version of BERT with improved pretraining.",
+    "category": "Text Processing",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/roberta-base",
+    "official_website": "https://huggingface.co/roberta-base",
+    "tags": [
+      "roberta",
+      "pytorch",
+      "language-model",
+      "transformers"
+    ]
+  },
+  {
+    "id": "61f7e87f-39b8-426b-8bad-44408a99adcd",
+    "name": "Reddit List",
+    "description": "Discover and Navigate Quality Reddit Communities with Ease",
+    "category": "AI Social Media Assistant",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/reddit-list",
+    "official_website": "https://freeaitool.ai/tool/reddit-list",
+    "tags": []
+  },
+  {
+    "id": "62cb0bb68043",
+    "name": "Reiki by Web3Go",
+    "description": "All in one AI agents creation and monetization platform",
+    "category": "Productivity, Artificial Intelligence, Web3",
+    "pricing": "Not Specified",
+    "url": "https://web3go.xyz/reiki",
+    "official_website": "https://web3go.xyz/reiki",
+    "tags": []
+  },
+  {
+    "id": "63689410-5d3d-4a3f-8a8a-b249845b6184",
+    "name": "R Markdown",
+    "description": "Dynamic documents with R",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://rstudio.com",
+    "official_website": "https://rstudio.com",
+    "tags": []
+  },
+  {
+    "id": "647f8dccdf9a",
+    "name": "ResearchGate",
+    "description": "Academic social network that connects researchers and enables them to collaborate, share research, and advance scientific discovery",
+    "category": "Research Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://www.researchgate.net",
+    "official_website": "https://www.researchgate.net",
+    "tags": []
+  },
+  {
+    "id": "648788e3-fce9-424a-bb23-8e96d459a880",
+    "name": "Rounded",
+    "description": "Rounded is an AI-powered voice agent platform that automates phone interactions for businesses through intelligent virtual assistants. Using advanced natural language processing and a proprietary voice engine with sub-700ms latency, Rounded enables companies to create custom voice agents via a drag-and-drop interface that handle appointments, customer support, lead qualification, and other repetitive call tasks. The AI seamlessly integrates with existing business systems like CRMs and calendars ",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/rounded",
+    "official_website": "https://futuretools.link/rounded",
+    "tags": []
+  },
+  {
+    "id": "65082d6c-b2ce-41ee-b23b-eb5d370a13b8",
+    "name": "REIS",
+    "description": "Commercial real estate AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://reis.com",
+    "official_website": "https://reis.com",
+    "tags": []
+  },
+  {
+    "id": "66113c9a-e67b-4281-bb69-6f9225ea02cb",
+    "name": "Resemble AI",
+    "description": "AI voice cloning and generation",
+    "category": "AI Voice",
+    "pricing": "Premium",
+    "url": "https://resemble.ai",
+    "official_website": "https://resemble.ai",
+    "tags": []
+  },
+  {
+    "id": "67a25fbfddef",
+    "name": "rtdetr_v2_r50vd",
+    "description": "AI model rtdetr_v2_r50vd from PekingU on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/PekingU/rtdetr_v2_r50vd",
+    "official_website": "https://huggingface.co/PekingU/rtdetr_v2_r50vd",
+    "tags": []
+  },
+  {
+    "id": "67e54267-184d-4595-810c-2c06b21da7be",
+    "name": "Refinitiv Financial",
+    "description": "Financial market data",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://refinitiv.com",
+    "official_website": "https://refinitiv.com",
+    "tags": []
+  },
+  {
+    "id": "68420bbd-b848-4167-9936-36146899d0b0",
+    "name": "Railway",
+    "description": "Deploy apps quickly",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://railway.com",
+    "official_website": "https://railway.com",
+    "tags": []
+  },
+  {
+    "id": "68c789f4-f0f1-498c-921d-c97ee1a04c85",
+    "name": "RapidMiner",
+    "description": "Data science platform with visual workflow design, automated machine learning, deep learning capabilities, and no-code/low-code approach. Designed for rapid prototyping and deployment.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://rapidminer.com/",
+    "official_website": "https://rapidminer.com/",
+    "tags": []
+  },
+  {
+    "id": "6925924f-5458-4bb9-af0e-a65a371580ec",
+    "name": "Ray",
+    "description": "Ray is an AI compute engine with core distributed runtime and AI libraries for accelerating ML workloads",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://ray.io",
+    "official_website": "https://ray.io",
+    "tags": []
+  },
+  {
+    "id": "6cc713b3-2718-4652-ad10-1ada29910cd9",
+    "name": "Reiki by Web3Go",
+    "description": "All in one AI agents creation and monetization platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/reiki-by-web3go",
+    "official_website": "https://www.producthunt.com/products/reiki-by-web3go",
+    "tags": []
+  },
+  {
+    "id": "6df405347f45",
+    "name": "roberta-base-squad2",
+    "description": "AI model roberta-base-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/deepset/roberta-base-squad2",
+    "official_website": "https://huggingface.co/deepset/roberta-base-squad2",
+    "tags": []
+  },
+  {
+    "id": "6e46abc4-11c8-458d-9d26-80d72d1c6779",
+    "name": "Robotics Tool 4",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics4.com",
+    "official_website": "https://robotics4.com",
+    "tags": []
+  },
+  {
+    "id": "6ea868bfc2c0",
+    "name": "revid.ai",
+    "description": "AI video generator with extensive template library and social media automation. Features TikTok integration, auto-mode for daily video creation, and multiple repurposing formats.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "http://revid.ai",
+    "official_website": "http://revid.ai",
+    "tags": [
+      "social-media",
+      "tiktok",
+      "repurposing",
+      "auto-mode",
+      "templates"
+    ]
+  },
+  {
+    "id": "6f7642ae-e1fa-48f4-9323-ba42a43d8699",
+    "name": "Robotics Tool 2",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics2.com",
+    "official_website": "https://robotics2.com",
+    "tags": []
+  },
+  {
+    "id": "6fe2c1e5-5649-4bb5-ac2f-d82b0f260770",
+    "name": "Replit",
+    "description": "Online coding platform",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://replit.com",
+    "official_website": "https://replit.com",
+    "tags": []
+  },
+  {
+    "id": "7182350152a7",
+    "name": "ResearchRabbit",
+    "description": "AI-powered literature discovery and research organization tool for academic researchers",
+    "category": "Research Platform",
+    "pricing": "Free",
+    "url": "https://researchrabbit.ai",
+    "official_website": "https://researchrabbit.ai",
+    "tags": []
+  },
+  {
+    "id": "71c46fad-2ce4-4930-a855-5b74a4afa1f8",
+    "name": "Reverso",
+    "description": "AI-powered writing and content solution",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.reverso.com",
+    "official_website": "https://www.reverso.com",
+    "tags": []
+  },
+  {
+    "id": "74b557dce230",
+    "name": "REDCap",
+    "description": "Conference and publication management tools for academic events",
+    "category": "Conference Management",
+    "pricing": "Free/Commercial",
+    "url": "https://projectredcap.org",
+    "official_website": "https://projectredcap.org",
+    "tags": []
+  },
+  {
+    "id": "75923cb7-d01a-402a-b69d-8710d5d09cfe",
+    "name": "Replika Business",
+    "description": "AI personal assistant for business",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "replikabusiness",
+    "official_website": "replikabusiness",
+    "tags": []
+  },
+  {
+    "id": "762ccd23-cab4-4264-a549-edd3c17d5f68",
+    "name": "Robotics Tool 5",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics5.com",
+    "official_website": "https://robotics5.com",
+    "tags": []
+  },
+  {
+    "id": "78c0d286-ea0f-4394-8303-77a9df6fd25a",
+    "name": "Robotics Tool 31",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics31.com",
+    "official_website": "https://robotics31.com",
+    "tags": []
+  },
+  {
+    "id": "7a13b523-0f7f-44a5-8236-794b3b835d9f",
+    "name": "ResearchCollab.ai",
+    "description": "ResearchCollab is an AI-powered research analysis platform designed to simplify and accelerate the research process. It allows users to organize papers, links, and notes with tags and folders for structured management. The AI assistant helps access credible information from a vast database of over 250 million papers, reducing time spent on initial drafts. Researchers can instantly analyze papers to identify limitations, use customizable templates for focused evaluations, and generate fresh ideas",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/researchcollab-ai",
+    "official_website": "https://futuretools.link/researchcollab-ai",
+    "tags": []
+  },
+  {
+    "id": "7acdacffcae3",
+    "name": "Replit Ghostwriter",
+    "description": "AI-powered pair programmer integrated directly into Replit",
+    "category": "Online IDE, Pair Programming",
+    "pricing": "Free",
+    "url": "https://replit.com",
+    "official_website": "https://replit.com",
+    "tags": []
+  },
+  {
+    "id": "7ad3a92a-d085-4327-9757-d4f250184a16",
+    "name": "Ray",
+    "description": "Distributed computing for AI",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://ucberkeley.com",
+    "official_website": "https://ucberkeley.com",
+    "tags": []
+  },
+  {
+    "id": "7b0d9e8e-a088-4a0a-8e2e-12ef3beb6b74",
+    "name": "Replo",
+    "description": "Shopify-focused AI landing page builder ideal for e-commerce businesses. Uses premade templates and AI for color changes, image editing, and copy generation with hundreds of templates, drag-and-drop editor, and A/B testing capabilities.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.replo.app/",
+    "official_website": "https://www.replo.app/",
+    "tags": []
+  },
+  {
+    "id": "7d797414147c",
+    "name": "ray-project/kuberay",
+    "description": "Kubernetes operator for Ray applications deployment with autoscaling and HA features",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/ray-project/kuberay",
+    "official_website": "https://github.com/ray-project/kuberay",
+    "tags": []
+  },
+  {
+    "id": "7db44573e798",
+    "name": "Rask AI",
+    "description": "Leading AI dubbing software with automated voice matching, speed optimization, and support for 130+ languages. Features enterprise integration capabilities and voice cloning.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://www.rask.ai/",
+    "official_website": "https://www.rask.ai/",
+    "tags": [
+      "130-languages",
+      "enterprise",
+      "voice-cloning",
+      "speed-optimization",
+      "voice-matching"
+    ]
+  },
+  {
+    "id": "7dfd778d3c95",
+    "name": "Reclaim.ai",
+    "description": "A smart calendar that automatically adjusts your schedule",
+    "category": "AI Scheduling",
+    "pricing": "Free with premium plans between $8 and $12 per month",
+    "url": "https://reclaim.ai/",
+    "official_website": "https://reclaim.ai/",
+    "tags": [
+      "Automatically adjusts schedule based on tasks, projects, and events",
+      "Schedules time for lunch",
+      "Finds perfect time for studying or other tasks"
+    ]
+  },
+  {
+    "id": "7e78d8e68a47",
+    "name": "Relume AI",
+    "description": "AI design ally that uses artificial intelligence as design support rather than replacement. Instantly generates sitemaps, wireframes, and style guides for marketing websites. Integrates with Figma and Webflow for seamless workflow.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://www.relume.io/",
+    "official_website": "https://www.relume.io/",
+    "tags": [
+      "style guides",
+      "sitemaps",
+      "figma integration",
+      "webflow integration",
+      "wireframes",
+      "ai design ally"
+    ]
+  },
+  {
+    "id": "7fd9cb62-8ae7-4fe9-9705-4c671f70cf72",
+    "name": "robertuito-sentiment-analysis",
+    "description": "AI model robertuito-sentiment-analysis from pysentimiento on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/pysentimiento/robertuito-sentiment-analysis",
+    "official_website": "https://huggingface.co/pysentimiento/robertuito-sentiment-analysis",
+    "tags": []
+  },
+  {
+    "id": "8002fd85-37b3-472e-a060-05a8c6be4a1f",
+    "name": "Replit Ghostwriter",
+    "description": "Replit Ghostwriter is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Data Analysis",
+    "pricing": "Premium",
+    "url": "https://futuretools.link/replit-ghostwriter",
+    "official_website": "https://futuretools.link/replit-ghostwriter",
+    "tags": []
+  },
+  {
+    "id": "80b57b4314f1",
+    "name": "replicate/cog",
+    "description": "Container for machine learning models with automatic Docker generation",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/replicate/cog",
+    "official_website": "https://github.com/replicate/cog",
+    "tags": []
+  },
+  {
+    "id": "81bda6916959",
+    "name": "roberta-base-squad2-distilled",
+    "description": "AI model roberta-base-squad2-distilled from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/deepset/roberta-base-squad2-distilled",
+    "official_website": "https://huggingface.co/deepset/roberta-base-squad2-distilled",
+    "tags": []
+  },
+  {
+    "id": "82095c3f0da9",
+    "name": "RStudio",
+    "description": "Statistical analysis software for research applications",
+    "category": "Statistical Analysis",
+    "pricing": "Open Source",
+    "url": "https://rstudio.org",
+    "official_website": "https://rstudio.org",
+    "tags": []
+  },
+  {
+    "id": "822bbcfe-be4f-432b-8941-c2879e1715b9",
+    "name": "Redesignr.ai",
+    "description": "Redesignr is an AI-powered website builder that transforms outdated HTML into visually appealing, branded websites. The tool leverages artificial intelligence to automatically generate high-converting landing pages, redesign existing websites, and create smart content tailored to your brand. By combining advanced AI algorithms with Tailwind CSS, Redesignr streamlines the entire web development process, allowing developers, marketers, and business owners to quickly produce professional-looking si",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/redesignr-ai",
+    "official_website": "https://futuretools.link/redesignr-ai",
+    "tags": []
+  },
+  {
+    "id": "83ba3163-9d7c-46c9-80ff-82c000a20119",
+    "name": "Resyfy AI",
+    "description": "Resyfy AI is an AI-powered career management platform that lets users collect organize and verify their career achievements in a secure digital vault while using artificial intelligence to automatically curate and highlight the most relevant skills and experiences for specific job applications portfolios or proposals Professionals job seekers freelancers and students can use its AI-driven features to quickly build dynamic tailored digital portfolios and resumes generate applications with one cli",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/resyfy-ai",
+    "official_website": "https://futuretools.link/resyfy-ai",
+    "tags": []
+  },
+  {
+    "id": "8438eea7-b7c5-45ce-b4c6-6ed32fbbb494",
+    "name": "Robotics Tool 21",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics21.com",
+    "official_website": "https://robotics21.com",
+    "tags": []
+  },
+  {
+    "id": "84cb7d16-48cf-4ce1-a986-c409d61808c3",
+    "name": "Run:ai",
+    "description": "AI compute orchestration",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://run:ai.com",
+    "official_website": "https://run:ai.com",
+    "tags": []
+  },
+  {
+    "id": "85869dd0-2b6a-4a9f-a241-f7ed355c8b4c",
+    "name": "Robotics Tool 12",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics12.com",
+    "official_website": "https://robotics12.com",
+    "tags": []
+  },
+  {
+    "id": "85de9bb791c5",
+    "name": "Remove.bg",
+    "description": "AI-powered background removal tool for images with automatic processing.",
+    "category": "Image Editing",
+    "pricing": "Freemium",
+    "url": "https://www.remove.bg/",
+    "official_website": "https://www.remove.bg/",
+    "tags": [
+      "image",
+      "editing"
+    ]
+  },
+  {
+    "id": "8a31c1a0-81c8-4220-96cb-dfafee153094",
+    "name": "Runable",
+    "description": "Runable is an AI-powered general automation agent that can perform virtually any digital task a human can do on a computer, without requiring coding skills. The platform uses artificial intelligence to automate repetitive workflows, create digital content, conduct deep research, and execute customized runbooks across marketing, sales, research, and analytics functions. Users benefit from Runable's ability to handle complex sequences of actions autonomously while still allowing human input when n",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/runable-com",
+    "official_website": "https://futuretools.link/runable-com",
+    "tags": []
+  },
+  {
+    "id": "8a8eb64c-377d-4c3c-910e-e20ecd3dad6e",
+    "name": "ReportCraft",
+    "description": "ReportCraft is an AI-powered report generation tool that transforms brief prompts into comprehensive, professional business reports with minimal effort. Using advanced artificial intelligence, it automatically creates detailed documents complete with executive summaries, competitive analyses, market trends, and visual elements like charts and graphs. The AI handles the heavy lifting of research, organization, and formatting, enabling consultants, business analysts, and marketing teams to produce",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/reportcraft-io",
+    "official_website": "https://futuretools.link/reportcraft-io",
+    "tags": []
+  },
+  {
+    "id": "8c7574a1-ed1f-41c0-94b6-7b7e68e05fd0",
+    "name": "Robotics Tool 28",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics28.com",
+    "official_website": "https://robotics28.com",
+    "tags": []
+  },
+  {
+    "id": "8cfa179c-3edb-42ad-ae2a-a4f09a00d21f",
+    "name": "ReadSpeaker",
+    "description": "Professional text-to-speech solution with extensive language support and natural-sounding voices. Features enterprise-grade solutions for accessibility, e-learning, and content creation.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.readspeaker.com/",
+    "official_website": "https://www.readspeaker.com/",
+    "tags": []
+  },
+  {
+    "id": "90a9e1539908",
+    "name": "R",
+    "description": "Programming language and environment for statistical computing and graphics. Widely used for data analysis, statistical modeling, and visualization with extensive package ecosystem.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://r-project.org/",
+    "official_website": "https://r-project.org/",
+    "tags": [
+      "graphics",
+      "data-visualization",
+      "statistical-computing",
+      "data-analysis",
+      "package-ecosystem",
+      "statistical-modeling"
+    ]
+  },
+  {
+    "id": "9278178e-0ab4-457a-9a04-ac7a81c90350",
+    "name": "Rytr",
+    "description": "AI writing assistant with 8M+ users offering 40+ templates for content generation. Supports 40+ languages, 20+ tones, plagiarism checks, and API access. Features AI autocomplete, blog generators, SEO tools, and business content creation with freemium pricing.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://rytr.me/",
+    "official_website": "https://rytr.me/",
+    "tags": []
+  },
+  {
+    "id": "928095f454bb",
+    "name": "roberta-hate-speech-dynabench-r4-target",
+    "description": "AI model roberta-hate-speech-dynabench-r4-target from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/roberta-hate-speech-dynabench-r4-target",
+    "official_website": "https://huggingface.co/facebook/roberta-hate-speech-dynabench-r4-target",
+    "tags": []
+  },
+  {
+    "id": "93e0fbed-c539-41c8-94c4-00e963bbe2e3",
+    "name": "Recursion AI",
+    "description": "AI drug discovery platform",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "recursionai",
+    "official_website": "recursionai",
+    "tags": []
+  },
+  {
+    "id": "94407f2b6b99",
+    "name": "RapidMiner",
+    "description": "Data science platform for data prep, ML, and predictive analytics.",
+    "category": "Data Science",
+    "pricing": "Freemium",
+    "url": "https://rapidminer.com/",
+    "official_website": "https://rapidminer.com/",
+    "tags": [
+      "data science",
+      "analytics"
+    ]
+  },
+  {
+    "id": "94878fd5-9f19-421d-85c8-0ff9a65a0515",
+    "name": "Runway",
+    "description": "AI-powered video generation and editing platform featuring Gen-4 model for dynamic video creation, Aleph for editing transformations, and Act-Two for directing emotion and voice inflections. Offers comprehensive AI tools with professional-grade output.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://runwayml.com/",
+    "official_website": "https://runwayml.com/",
+    "tags": []
+  },
+  {
+    "id": "94b167d6-3b66-42d8-b3e2-5674585b7cf0",
+    "name": "RunPod",
+    "description": "GPU cloud for AI",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://runpod.com",
+    "official_website": "https://runpod.com",
+    "tags": []
+  },
+  {
+    "id": "94fc3ce3-5f8a-4f83-bc6d-55b13c01c295",
+    "name": "RayFed",
+    "description": "A multiple parties joint, distributed execution engine based on Ray for federated learning frameworks",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://rayfed.readthedocs.io/",
+    "official_website": "https://rayfed.readthedocs.io/",
+    "tags": []
+  },
+  {
+    "id": "95997acf-ad5e-4679-ac2c-26da3f23026b",
+    "name": "rtdetr_v2_r18vd",
+    "description": "AI model rtdetr_v2_r18vd from PekingU on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/PekingU/rtdetr_v2_r18vd",
+    "official_website": "https://huggingface.co/PekingU/rtdetr_v2_r18vd",
+    "tags": []
+  },
+  {
+    "id": "95f447e7-0f22-461f-80d9-dcacce793a4a",
+    "name": "Robotics Tool 15",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics15.com",
+    "official_website": "https://robotics15.com",
+    "tags": []
+  },
+  {
+    "id": "966d7c92-3352-447d-875b-194693d18dce",
+    "name": "RadImageNet Medical",
+    "description": "Medical imaging dataset",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "972427ee2112",
+    "name": "RayFed",
+    "description": "A multiple parties joint, distributed execution engine based on Ray for federated learning frameworks",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://rayfed.readthedocs.io/",
+    "official_website": "https://rayfed.readthedocs.io/",
+    "tags": [
+      "Powers large-scale federated jobs with Ray's scalability",
+      "Ray Native Programming Pattern for federated and distributed computing",
+      "Very restricted and clear data perimeters with PUSH-BASED transfer",
+      "Multiple-controller mode for production without code changes",
+      "Very large scale federated computing and training",
+      "Multiple controller execution modes for development and production"
+    ]
+  },
+  {
+    "id": "97ca671c9886",
+    "name": "RightNow AI Code Editor",
+    "description": "AI code editing tool",
+    "category": "Tech",
+    "pricing": "Not Specified",
+    "url": "https://rightnow.ai",
+    "official_website": "https://rightnow.ai",
+    "tags": []
+  },
+  {
+    "id": "97dbb423-1976-4982-b026-0f8e36239665",
+    "name": "Robotics Tool 39",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics39.com",
+    "official_website": "https://robotics39.com",
+    "tags": []
+  },
+  {
+    "id": "9a9cd27b1206",
+    "name": "Remento",
+    "description": "The AI biographer for loved ones",
+    "category": "Artificial Intelligence, Books, Family",
+    "pricing": "Not Specified",
+    "url": "https://remo.to",
+    "official_website": "https://remo.to",
+    "tags": []
+  },
+  {
+    "id": "9b373783-2178-489d-8baa-ea6dd589ab51",
+    "name": "RewriteBar",
+    "description": "Rewrite. Refine. Accelerate. \u2014 AI productivity for every macOS app.",
+    "category": "Writing",
+    "pricing": "Free + from $29",
+    "url": "https://rewritebar.com/",
+    "official_website": "https://rewritebar.com/",
+    "tags": []
+  },
+  {
+    "id": "9b9a60aa-d02a-4408-ab01-04586c64c19e",
+    "name": "RyRob AI Article Writer",
+    "description": "Free SEO-focused AI article generator creating short-form content (500-1,000 words) across 10+ languages. Uses GPT-4o technology, offers plagiarism-free content, and integrates with RightBlogger premium suite for unlimited long-form generation.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://www.ryrob.com/ai-article-writer/",
+    "official_website": "https://www.ryrob.com/ai-article-writer/",
+    "tags": []
+  },
+  {
+    "id": "9c1a66e9-8f4c-4fa2-b148-93325670b66b",
+    "name": "Rabbitholes AI",
+    "description": "Chat with AI models on an Infinite Canvas",
+    "category": "Communication",
+    "pricing": "From $89",
+    "url": "https://rabbitholes.ai/",
+    "official_website": "https://rabbitholes.ai/",
+    "tags": []
+  },
+  {
+    "id": "9c507b335ae7",
+    "name": "resnet50.a1_in1k",
+    "description": "AI model resnet50.a1_in1k from timm on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/timm/resnet50.a1_in1k",
+    "official_website": "https://huggingface.co/timm/resnet50.a1_in1k",
+    "tags": []
+  },
+  {
+    "id": "9c9d364a-be3a-440d-b7b5-a69edf902940",
+    "name": "Rosebud AI",
+    "description": "AI tool for generating game assets and visual content for indie game developers",
+    "category": "Gaming",
+    "pricing": "Paid",
+    "url": "https://www.rosebud.ai",
+    "official_website": "https://www.rosebud.ai",
+    "tags": []
+  },
+  {
+    "id": "9e4d5b8b-44b5-49c0-9ad2-abcbc7c000a8",
+    "name": "Rivian AI",
+    "description": "Electric vehicle AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://rivian.com",
+    "official_website": "https://rivian.com",
+    "tags": []
+  },
+  {
+    "id": "9f3b81c5-901c-4725-83c9-4635ef8f2423",
+    "name": "Replit",
+    "description": "Replit is a cloud-based AI-powered development platform that lets users build collaborate on and deploy software applications and websites entirely from their browser with no setup required Featuring integrated AI tools like the Replit Agent and Assistant it offers automated code completion natural language code generation refactoring debugging and the ability to scaffold entire applications making it easier for beginners professionals and teams to create software quickly and efficiently The pla",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/replit-com",
+    "official_website": "https://futuretools.link/replit-com",
+    "tags": []
+  },
+  {
+    "id": "9fc69035-8427-44ae-a0e0-3a8aace49c7b",
+    "name": "Robotics Tool 40",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics40.com",
+    "official_website": "https://robotics40.com",
+    "tags": []
+  },
+  {
+    "id": "a0d4407d13da",
+    "name": "Replit Ghostwriter",
+    "description": "AI pair programmer",
+    "category": "Code Assistant",
+    "pricing": "Not Specified",
+    "url": "https://replit.com/ghostwriter",
+    "official_website": "https://replit.com/ghostwriter",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "a110eecc-7eee-46af-9ff4-34e27f31ae41",
+    "name": "Remento",
+    "description": "The AI biographer for loved ones",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/remo-to",
+    "official_website": "https://www.producthunt.com/products/remo-to",
+    "tags": []
+  },
+  {
+    "id": "a12b92cc-ebfb-431a-99e0-2f4b9418ab6f",
+    "name": "Robotics Tool 38",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics38.com",
+    "official_website": "https://robotics38.com",
+    "tags": []
+  },
+  {
+    "id": "a12f6509-56ad-421d-b18f-4b692cd8f14d",
+    "name": "Radiant AI",
+    "description": "Radiant is an AI-powered personal assistant app for macOS that automatically captures meetings and in-person conversations generates smart summaries and action items and seamlessly integrates with productivity tools like Gmail Google Docs Slack and more all without requiring meeting bots to join calls by leveraging advanced AI language models Radiant listens in the background transcribes discussions suggests tailored follow-up communications and even executes next steps such as sending emails or",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/radiantapp-com",
+    "official_website": "https://futuretools.link/radiantapp-com",
+    "tags": []
+  },
+  {
+    "id": "a3554104-422c-426c-8f65-a386412abe5e",
+    "name": "Robotics Tool 17",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics17.com",
+    "official_website": "https://robotics17.com",
+    "tags": []
+  },
+  {
+    "id": "a36307b4-24c4-44b6-83e1-318c57bea72d",
+    "name": "Robotics Tool 24",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics24.com",
+    "official_website": "https://robotics24.com",
+    "tags": []
+  },
+  {
+    "id": "a4c93c41-e5d0-477f-b726-136dd8be2371",
+    "name": "Rippling AI",
+    "description": "AI-powered workforce management",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ripplingai",
+    "official_website": "ripplingai",
+    "tags": []
+  },
+  {
+    "id": "a9304b017e89",
+    "name": "Rankscale.ai",
+    "description": "AI tool for tracking brand visibility across AI search engines for specific search terms, regions, and modes. Monitors rankings across ChatGPT, Perplexity, Claude, and Google AI with sentiment analysis and source citation tracking.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://rankscale.ai/",
+    "official_website": "https://rankscale.ai/",
+    "tags": [
+      "sentiment analysis",
+      "generative engine optimization",
+      "ai search tracking",
+      "brand visibility",
+      "source citation",
+      "ai engines"
+    ]
+  },
+  {
+    "id": "a94755fbd421",
+    "name": "roberta-base",
+    "description": "AI model roberta-base from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/FacebookAI/roberta-base",
+    "official_website": "https://huggingface.co/FacebookAI/roberta-base",
+    "tags": []
+  },
+  {
+    "id": "aa2eff73-076a-49aa-b254-686540194a45",
+    "name": "Reflect",
+    "description": "Voice-first note-taking app with accurate transcription, AI editing capabilities for refining text, backlinking features, daily notes with time-travel functionality, and strong privacy focus.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://reflect.app",
+    "official_website": "https://reflect.app",
+    "tags": []
+  },
+  {
+    "id": "ab8ead6a-c315-40cc-bd8d-ffde027b62ec",
+    "name": "Retail Product Discovery",
+    "description": "AI-powered product search and discovery for retail applications",
+    "category": "Cloud AI Services",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/retail-product-discovery",
+    "official_website": "https://cloud.google.com/retail-product-discovery",
+    "tags": []
+  },
+  {
+    "id": "af017318-8927-42a1-b056-1b448926b7bc",
+    "name": "RMIQ",
+    "description": "RMIQ is an AI-driven retail media advertising platform that simplifies campaign management across multiple networks like Amazon, Walmart, and Instacart through a single unified dashboard. The platform leverages proprietary AI technology (GIULIA) to automatically optimize ad campaigns in real-time by adjusting bids, allocating budgets, and refining keywords to maximize return on ad spend and reduce wasted ad dollars. Advertisers can set custom goals for their campaigns while the AI continuously w",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/rmiq-net",
+    "official_website": "https://futuretools.link/rmiq-net",
+    "tags": []
+  },
+  {
+    "id": "af16f87345a1",
+    "name": "Runway",
+    "description": "AI-powered video editing with drag-and-drop interface for short-form content.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://runwayml.com/",
+    "official_website": "https://runwayml.com/",
+    "tags": [
+      "video editing"
+    ]
+  },
+  {
+    "id": "b088cb7526be",
+    "name": "RightBlogger",
+    "description": "Premium suite of 80+ AI blogging tools including unlimited AI article writer. Part of RyRob ecosystem, offers long-form SEO content generation (1,000-3,000+ words), tone selection, point of view control, stock images, source linking, and real-time data integration.",
+    "category": "Writing",
+    "pricing": "Premium",
+    "url": "https://rightblogger.com",
+    "official_website": "https://rightblogger.com",
+    "tags": [
+      "content management",
+      "WordPress",
+      "long-form articles",
+      "blog writing",
+      "tone control",
+      "SEO content",
+      "source linking"
+    ]
+  },
+  {
+    "id": "b24a4717353f",
+    "name": "roberta-large-mnli",
+    "description": "AI model roberta-large-mnli from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/FacebookAI/roberta-large-mnli",
+    "official_website": "https://huggingface.co/FacebookAI/roberta-large-mnli",
+    "tags": []
+  },
+  {
+    "id": "b2c3832044d0",
+    "name": "Reztune",
+    "description": "Tailor Your Resume for Any Job in Seconds.",
+    "category": "Resume Builder, Job Application",
+    "pricing": "Not specified",
+    "url": "https://reztune.com",
+    "official_website": "https://reztune.com",
+    "tags": []
+  },
+  {
+    "id": "b2fd2e82-c578-46d6-aa09-b09f36e7f867",
+    "name": "Ring-1T",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/inclusionAI/Ring-1T",
+    "official_website": "https://huggingface.co/inclusionAI/Ring-1T",
+    "tags": []
+  },
+  {
+    "id": "b3eb3e82-354b-4604-9737-254630148a26",
+    "name": "RoboMonkey",
+    "description": "Robomonkey is an AI powered tool that allows anyone to build custom Chrome extensions automation utilities and data scraping tools simply by describing their needs to an AI chatbot making traditional coding unnecessary by harnessing advanced language models to generate extension code automatically Robomonkey is ideal for non developers or power users who want personalized browser enhancements and automation but lack programming skills offering rapid prototyping and the ability to iterate on exte",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/robomonkey-io",
+    "official_website": "https://futuretools.link/robomonkey-io",
+    "tags": []
+  },
+  {
+    "id": "b49e8f21-7ca9-4d84-959f-88a6a1f997d7",
+    "name": "Reverso",
+    "description": "AI translation and grammar checking",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "reverso",
+    "official_website": "reverso",
+    "tags": []
+  },
+  {
+    "id": "b4b3a6a6d362",
+    "name": "RedisAI/RedisAI",
+    "description": "Redis module for serving tensors and executing deep learning models",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/RedisAI/RedisAI",
+    "official_website": "https://github.com/RedisAI/RedisAI",
+    "tags": []
+  },
+  {
+    "id": "b55a224d-1864-4bc1-b925-178d9519c63d",
+    "name": "Robotics Tool 29",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics29.com",
+    "official_website": "https://robotics29.com",
+    "tags": []
+  },
+  {
+    "id": "b7255d5b-6be3-458d-bf8c-5ae93df18a85",
+    "name": "Rafter",
+    "description": "Rafter is an AI-powered security tool designed to simplify vulnerability detection and resolution in AI-written code. It eliminates the complexity traditionally associated with security tools by offering a one-click setup that works instantly with any GitHub repository. Instead of overwhelming developers with cryptic jargon and false positives, Rafter delivers results in plain English, providing clear explanations, actionable fixes, and even copy-paste solutions. Its focus is on accessibility, m",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/rafter-so",
+    "official_website": "https://futuretools.link/rafter-so",
+    "tags": []
+  },
+  {
+    "id": "b829aa22-c6c6-4bb1-b772-6688ca3c161a",
+    "name": "Real-ESRGAN",
+    "description": "AI image super-resolution",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "real-esrgan",
+    "official_website": "real-esrgan",
+    "tags": []
+  },
+  {
+    "id": "b8f5204d-a2d1-4b46-924f-78e9dcae36a2",
+    "name": "RunwayML",
+    "description": "AI video and image generation platform with advanced editing capabilities. Features Gen-4 model for cinematic video generation and comprehensive video editing tools.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://runwayml.com/",
+    "official_website": "https://runwayml.com/",
+    "tags": []
+  },
+  {
+    "id": "b9ac1768-eb5a-4f37-b9f1-0c1138397055",
+    "name": "Replit AI",
+    "description": "AI coding in collaborative IDE",
+    "category": "AI Code Assistant",
+    "pricing": "Freemium",
+    "url": "https://replit.com",
+    "official_website": "https://replit.com",
+    "tags": []
+  },
+  {
+    "id": "b9f94598-8db6-48c2-83b7-ca5cbb2aa9c8",
+    "name": "revid.ai",
+    "description": "AI video generator with extensive template library and social media automation. Features TikTok integration, auto-mode for daily video creation, and multiple repurposing formats.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "http://revid.ai",
+    "official_website": "http://revid.ai",
+    "tags": []
+  },
+  {
+    "id": "ba15fd18-1cef-479f-965e-c4223f7c1643",
+    "name": "RedPajama-7B",
+    "description": "Open source replication of LLaMA",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://togetherai.com",
+    "official_website": "https://togetherai.com",
+    "tags": []
+  },
+  {
+    "id": "ba95d3c8-89dd-4905-b343-5a2f3c483153",
+    "name": "Robotics Tool 13",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics13.com",
+    "official_website": "https://robotics13.com",
+    "tags": []
+  },
+  {
+    "id": "bdc598c0-be3e-4548-9113-146b64bba75b",
+    "name": "Robotics Tool 6",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics6.com",
+    "official_website": "https://robotics6.com",
+    "tags": []
+  },
+  {
+    "id": "be4667ed6f4b",
+    "name": "Responsible AI Toolbox",
+    "description": "Suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems.",
+    "category": "AI Ethics & Fairness",
+    "pricing": "Not Specified",
+    "url": "https://responsibleaitoolbox.ai/",
+    "official_website": "https://responsibleaitoolbox.ai/",
+    "tags": [
+      "Error Analysis dashboard for model error identification",
+      "Model interpretability powered by InterpretML",
+      "Counterfactual Analysis (powered by DiCE)",
+      "Causal Analysis (powered by EconML)",
+      "Responsible AI dashboard for holistic assessment",
+      "Fairness dashboard with group-fairness metrics"
+    ]
+  },
+  {
+    "id": "c0797f9a-caee-490b-b0f1-c9d44a3722f4",
+    "name": "Robotics Tool 26",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics26.com",
+    "official_website": "https://robotics26.com",
+    "tags": []
+  },
+  {
+    "id": "c12b7fd6-a4a6-42e6-b239-4142b0807afa",
+    "name": "Responsible AI Toolbox",
+    "description": "Suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems.",
+    "category": "AI Ethics & Fairness",
+    "pricing": "Unknown",
+    "url": "https://responsibleaitoolbox.ai/",
+    "official_website": "https://responsibleaitoolbox.ai/",
+    "tags": []
+  },
+  {
+    "id": "c3b1e661-2a16-464e-9361-b59b7897d67e",
+    "name": "RightBlogger",
+    "description": "Premium suite of 80+ AI blogging tools including unlimited AI article writer. Part of RyRob ecosystem, offers long-form SEO content generation (1,000-3,000+ words), tone selection, point of view control, stock images, source linking, and real-time data integration.",
+    "category": "AI Writing Tools",
+    "pricing": "Premium",
+    "url": "https://rightblogger.com",
+    "official_website": "https://rightblogger.com",
+    "tags": []
+  },
+  {
+    "id": "c54ff337cd95",
+    "name": "rtdetr_r50vd_coco_o365",
+    "description": "AI model rtdetr_r50vd_coco_o365 from PekingU on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/PekingU/rtdetr_r50vd_coco_o365",
+    "official_website": "https://huggingface.co/PekingU/rtdetr_r50vd_coco_o365",
+    "tags": []
+  },
+  {
+    "id": "c6facf5f-1212-4698-969d-27636a3c93a5",
+    "name": "Reply.io",
+    "description": "The multichannel sales engagement platform which automates personal email outreach, calls, and tasks, while Sales can focus on what really matters - closing deals.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/reply-io",
+    "official_website": "https://www.producthunt.com/products/reply-io",
+    "tags": []
+  },
+  {
+    "id": "c89e005f-792c-43e8-aa75-732b8bdcb7f7",
+    "name": "Robotics Tool 37",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics37.com",
+    "official_website": "https://robotics37.com",
+    "tags": []
+  },
+  {
+    "id": "c8d18887-7d01-4ac3-bab6-7b0d35abf2ce",
+    "name": "Render",
+    "description": "Cloud platform for apps",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://render.com",
+    "official_website": "https://render.com",
+    "tags": []
+  },
+  {
+    "id": "c91da779-b3b2-4277-8997-f5b21146632b",
+    "name": "R",
+    "description": "Programming language and environment for statistical computing and graphics. Widely used for data analysis, statistical modeling, and visualization with extensive package ecosystem.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://r-project.org/",
+    "official_website": "https://r-project.org/",
+    "tags": []
+  },
+  {
+    "id": "cad549ed-bcf6-4631-9246-003c1644b684",
+    "name": "rtdetr_r101vd_coco_o365",
+    "description": "AI model rtdetr_r101vd_coco_o365 from PekingU on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/PekingU/rtdetr_r101vd_coco_o365",
+    "official_website": "https://huggingface.co/PekingU/rtdetr_r101vd_coco_o365",
+    "tags": []
+  },
+  {
+    "id": "cc1c082eae1e",
+    "name": "r1-1776",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/perplexity-ai/r1-1776",
+    "official_website": "https://huggingface.co/perplexity-ai/r1-1776",
+    "tags": []
+  },
+  {
+    "id": "ccc11d58-7f33-4beb-a293-d62edda97d51",
+    "name": "Rival Recruit",
+    "description": "AI-powered sourcing, personalized outreach, tracking, and analytics in one streamlined recruiting platform",
+    "category": "HR & Recruiting",
+    "pricing": "Paid",
+    "url": "https://rival-hr.com",
+    "official_website": "https://rival-hr.com",
+    "tags": []
+  },
+  {
+    "id": "cda6ffbba0c0",
+    "name": "Reclaim.ai",
+    "description": "Reclaim your time with smarter calendar management.",
+    "category": "Productivity, Calendar Apps",
+    "pricing": "Not specified",
+    "url": "https://reclaim.ai",
+    "official_website": "https://reclaim.ai",
+    "tags": []
+  },
+  {
+    "id": "d188f554-2c45-48ab-a37c-b411963fdc5c",
+    "name": "Robotics Tool 18",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics18.com",
+    "official_website": "https://robotics18.com",
+    "tags": []
+  },
+  {
+    "id": "d33908c9-ccea-41d3-a3b6-030bfa7623d8",
+    "name": "RapidMiner",
+    "description": "Data science platform with AI",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "rapidminer",
+    "official_website": "rapidminer",
+    "tags": []
+  },
+  {
+    "id": "d3ec24a7726c",
+    "name": "Recast",
+    "description": "Tool that converts online articles and blog posts into conversational audio summaries, presented as podcasts with virtual hosts to enhance information consumption and retention.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://letsrecast.ai",
+    "official_website": "https://letsrecast.ai",
+    "tags": [
+      "audio-summaries",
+      "information-consumption",
+      "podcast-format",
+      "retention",
+      "article-conversion"
+    ]
+  },
+  {
+    "id": "d5632968ee70",
+    "name": "Rovodev CLI",
+    "description": "Atlassian beta giving 20 million free tokens daily for Sonnet 4/GPT-5",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://developer.atlassian.com",
+    "official_website": "https://developer.atlassian.com",
+    "tags": []
+  },
+  {
+    "id": "d77bf149-743f-4085-b216-8c8c4f25f417",
+    "name": "roberta-large-mnli",
+    "description": "AI model roberta-large-mnli from FacebookAI on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/FacebookAI/roberta-large-mnli",
+    "official_website": "https://huggingface.co/FacebookAI/roberta-large-mnli",
+    "tags": []
+  },
+  {
+    "id": "d8eccb2f-3a2c-489a-bf78-6db2181f2019",
+    "name": "ReadyScriptPro",
+    "description": "ReadyScript Pro is an AI-powered content generation tool that streamlines the creation of scripts, marketing copy, and various text formats tailored to specific business needs. Leveraging advanced natural language processing technology, it enables users to generate polished, contextually appropriate content in seconds by simply inputting basic parameters or prompts about their desired output. The platform stands out for its intuitive interface and industry-specific templates, making professional",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/readyscriptpro-com",
+    "official_website": "https://futuretools.link/readyscriptpro-com",
+    "tags": []
+  },
+  {
+    "id": "d914ff86-e1b4-4523-8870-59752ae5e600",
+    "name": "Replika Business",
+    "description": "AI-powered customer support solution",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.replikabusiness.com",
+    "official_website": "https://www.replikabusiness.com",
+    "tags": []
+  },
+  {
+    "id": "d91e4261-4c91-4e5e-b0f8-68c6c7325ea5",
+    "name": "Rerank",
+    "description": "Document ranking for search",
+    "category": "Search & Recommendations",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "d98fa828-4c03-4a08-beec-379cce1f4760",
+    "name": "Readdy AI",
+    "description": "AI website builder that allows building websites by talking with AI without drag-and-drop needed. When satisfied, users can publish instantly or export as clean code or Figma files for further customization.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://readdy.ai/",
+    "official_website": "https://readdy.ai/",
+    "tags": []
+  },
+  {
+    "id": "d9cfabd4-dd70-4ebc-81fa-1558fc6b0bac",
+    "name": "Robotics Tool 16",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics16.com",
+    "official_website": "https://robotics16.com",
+    "tags": []
+  },
+  {
+    "id": "da3e65623688",
+    "name": "Resume Worded",
+    "description": "Boost your resume and LinkedIn with AI-driven, recruiter-approved feedback for 5x more interviews.",
+    "category": "productivity",
+    "pricing": "Freemium",
+    "url": "https://resumeworded.com",
+    "official_website": "https://resumeworded.com",
+    "tags": []
+  },
+  {
+    "id": "dc40fa68ec74",
+    "name": "ReadSpeaker",
+    "description": "Professional text-to-speech solution with extensive language support and natural-sounding voices. Features enterprise-grade solutions for accessibility, e-learning, and content creation.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.readspeaker.com/",
+    "official_website": "https://www.readspeaker.com/",
+    "tags": [
+      "enterprise",
+      "natural-voices",
+      "professional",
+      "extensive-languages",
+      "accessibility"
+    ]
+  },
+  {
+    "id": "dec204c96a8d",
+    "name": "Replica Studios",
+    "description": "Game-focused voice synthesis platform offering realistic character voices for gaming and interactive media. Features game engine integration and dynamic voice control.",
+    "category": "Voice",
+    "pricing": "Premium",
+    "url": "https://replicastudios.com/",
+    "official_website": "https://replicastudios.com/",
+    "tags": [
+      "interactive-media",
+      "engine-integration",
+      "gaming",
+      "character-voices",
+      "dynamic"
+    ]
+  },
+  {
+    "id": "e0b18fb8-693b-4c80-aa00-ded40b559754",
+    "name": "Rytr",
+    "description": "AI writing assistant for content creation",
+    "category": "AI Writing Tools",
+    "pricing": "Freemium",
+    "url": "https://rytr.me",
+    "official_website": "https://rytr.me",
+    "tags": []
+  },
+  {
+    "id": "e1c0bf93-84b3-4398-a3a7-80a12df3e6b9",
+    "name": "Robotics Tool 43",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics43.com",
+    "official_website": "https://robotics43.com",
+    "tags": []
+  },
+  {
+    "id": "e288b3b4-fb18-4b5b-80ef-1388bd2baa3b",
+    "name": "Roberta Large MNLI",
+    "description": "Roberta model for NLI",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "e3a8e224196d",
+    "name": "rtdetr_r101vd_coco_o365",
+    "description": "AI model rtdetr_r101vd_coco_o365 from PekingU on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/PekingU/rtdetr_r101vd_coco_o365",
+    "official_website": "https://huggingface.co/PekingU/rtdetr_r101vd_coco_o365",
+    "tags": []
+  },
+  {
+    "id": "e4afd2de-7920-42e6-82d8-9c7f4eaf1cc1",
+    "name": "Recipe Book AI",
+    "description": "Transform Recipes into Visual Cookbooks with AI",
+    "category": "AI Recipe Assistant",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/recipe-book-ai",
+    "official_website": "https://freeaitool.ai/tool/recipe-book-ai",
+    "tags": []
+  },
+  {
+    "id": "e4c8099a-d68e-4ff6-843e-996d65a46f60",
+    "name": "Rytr",
+    "description": "AI content generation for short and long form",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "rytr",
+    "official_website": "rytr",
+    "tags": []
+  },
+  {
+    "id": "e7169c60-5141-46c7-b2e4-89a47941631e",
+    "name": "RoboWork",
+    "description": "RoboWork is an AI-powered workflow automation platform that enables users to build, deploy, and orchestrate intelligent agents without coding expertise. The tool allows businesses to automate complex and repetitive tasks by creating customizable AI agents that can handle everything from customer support to data processing. Using its intuitive no-code interface, users can quickly design sophisticated workflows that leverage multiple leading AI models including ChatGPT, Claude, and Gemini, alongsi",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/robowork-ai",
+    "official_website": "https://futuretools.link/robowork-ai",
+    "tags": []
+  },
+  {
+    "id": "e71cfc3b-c32b-4e2c-a9fc-200427a8be25",
+    "name": "roberta-large-squad2",
+    "description": "AI model roberta-large-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/deepset/roberta-large-squad2",
+    "official_website": "https://huggingface.co/deepset/roberta-large-squad2",
+    "tags": []
+  },
+  {
+    "id": "e720eea4b9de",
+    "name": "Redash",
+    "description": "Open-source data visualization and dashboard platform with multiple data source support, robust query editor, and collaborative features. Designed for teams to work together on data projects.",
+    "category": "Analytics",
+    "pricing": "Free",
+    "url": "https://redash.io/",
+    "official_website": "https://redash.io/",
+    "tags": [
+      "query-editor",
+      "data-visualization",
+      "dashboard-platform",
+      "data-projects",
+      "collaborative-features",
+      "team-collaboration"
+    ]
+  },
+  {
+    "id": "e7488597-99cb-4bb8-a7d9-2d4735d19a5f",
+    "name": "Rask AI",
+    "description": "Leading AI dubbing software with automated voice matching, speed optimization, and support for 130+ languages. Features enterprise integration capabilities and voice cloning.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.rask.ai/",
+    "official_website": "https://www.rask.ai/",
+    "tags": []
+  },
+  {
+    "id": "e79a51b6-50c3-40d1-b73b-78e9fb08a21e",
+    "name": "Robotics Tool 25",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics25.com",
+    "official_website": "https://robotics25.com",
+    "tags": []
+  },
+  {
+    "id": "e863ed77-8a66-4d24-a0b3-1350da1ebee4",
+    "name": "Rewind",
+    "description": "AI record of everything you've seen and heard",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "rewind",
+    "official_website": "rewind",
+    "tags": []
+  },
+  {
+    "id": "ecf8b15a-5f7a-4d99-8d44-27ca76bd28b3",
+    "name": "RudderStack AI",
+    "description": "AI-powered customer data platform",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "rudderstackai",
+    "official_website": "rudderstackai",
+    "tags": []
+  },
+  {
+    "id": "ee130140-0ae5-402a-860c-3001342280f0",
+    "name": "Reportly",
+    "description": "A tool and API to create and manage PDF reports from JSON data",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/reportly",
+    "official_website": "https://www.futuretools.io/tools/reportly",
+    "tags": []
+  },
+  {
+    "id": "ee5dc3dcf5d5",
+    "name": "Reflect",
+    "description": "Voice-first note-taking app with accurate transcription, AI editing capabilities for refining text, backlinking features, daily notes with time-travel functionality, and strong privacy focus.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://reflect.app",
+    "official_website": "https://reflect.app",
+    "tags": [
+      "ai-editing",
+      "backlinking",
+      "privacy",
+      "note-taking",
+      "voice-transcription"
+    ]
+  },
+  {
+    "id": "efe77e6668b1",
+    "name": "Replo",
+    "description": "Shopify-focused AI landing page builder ideal for e-commerce businesses. Uses premade templates and AI for color changes, image editing, and copy generation with hundreds of templates, drag-and-drop editor, and A/B testing capabilities.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.replo.app/",
+    "official_website": "https://www.replo.app/",
+    "tags": [
+      "shopify",
+      "ab testing",
+      "landing page builder",
+      "ecommerce",
+      "templates",
+      "image editing"
+    ]
+  },
+  {
+    "id": "f3a19e23-e7e3-4d41-a37e-9030f7041d9a",
+    "name": "Relume AI",
+    "description": "AI design ally that uses artificial intelligence as design support rather than replacement. Instantly generates sitemaps, wireframes, and style guides for marketing websites. Integrates with Figma and Webflow for seamless workflow.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://www.relume.io/",
+    "official_website": "https://www.relume.io/",
+    "tags": []
+  },
+  {
+    "id": "f3aba1c2cd68",
+    "name": "Relay.app",
+    "description": "The new standard for automation",
+    "category": "No-code Platforms, Automation tools, AI Agent Automation",
+    "pricing": "Not Specified",
+    "url": "https://relay.app",
+    "official_website": "https://relay.app",
+    "tags": []
+  },
+  {
+    "id": "f492e8dafd44",
+    "name": "Reclaim",
+    "description": "AI scheduling assistant designed to protect habits and manage recurring events, quickly reschedule conflicts, prioritize tasks, and integrate with task management apps for automated sync.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://reclaim.ai",
+    "official_website": "https://reclaim.ai",
+    "tags": [
+      "scheduling",
+      "habit-tracking",
+      "focus-time",
+      "task-prioritization",
+      "calendar-sync"
+    ]
+  },
+  {
+    "id": "f4944eda-f3b1-48a8-b3f2-c877e229fc15",
+    "name": "Robotics Tool 10",
+    "description": "Specialized ai robotics solution for enterprise and personal use",
+    "category": "AI Robotics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://robotics10.com",
+    "official_website": "https://robotics10.com",
+    "tags": []
+  },
+  {
+    "id": "f4a7d5a8-84df-4f47-a5f7-b5b649bec5bc",
+    "name": "Recommenders AI",
+    "description": "Build and deploy recommendation systems using machine learning",
+    "category": "Cloud AI Services",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/recommendations-ai",
+    "official_website": "https://cloud.google.com/recommendations-ai",
+    "tags": []
+  },
+  {
+    "id": "f6fea30e-6fbe-473b-bd2b-0e4af7a70b07",
+    "name": "Rankscale.ai",
+    "description": "AI tool for tracking brand visibility across AI search engines for specific search terms, regions, and modes. Monitors rankings across ChatGPT, Perplexity, Claude, and Google AI with sentiment analysis and source citation tracking.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://rankscale.ai/",
+    "official_website": "https://rankscale.ai/",
+    "tags": []
+  },
+  {
+    "id": "f8404e78f487",
+    "name": "Ray",
+    "description": "Ray is an AI compute engine with core distributed runtime and AI libraries for accelerating ML workloads",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://ray.io",
+    "official_website": "https://ray.io",
+    "tags": [
+      "Ray Core abstractions: Tasks, Actors, Objects for distributed computing",
+      "Multiple controller execution modes for development and production",
+      "Runs on any machine, cluster, cloud provider, and Kubernetes",
+      "Monitoring and debugging tools (Ray Dashboard, Distributed Debugger)",
+      "AI Libraries: Ray Data, Train, Tune, RLlib, Serve for ML workloads",
+      "Core distributed runtime for scaling AI and Python applications",
+      "Seamless scaling from laptop to cluster",
+      "Native programming pattern for federated computing"
+    ]
+  },
+  {
+    "id": "f8b4b320-a715-4445-924c-be078c7e38af",
+    "name": "Runway ML",
+    "description": "Runway ML is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Chatbots",
+    "pricing": "Free",
+    "url": "https://futuretools.link/runway-ml",
+    "official_website": "https://futuretools.link/runway-ml",
+    "tags": []
+  },
+  {
+    "id": "faacba2d-fe01-42a8-b8db-5323b2fd7b75",
+    "name": "Remy AI",
+    "description": "Anyone can sleep and recover better",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/remy-ai",
+    "official_website": "https://www.producthunt.com/products/remy-ai",
+    "tags": []
+  },
+  {
+    "id": "fb0e9c160d48",
+    "name": "rapidsai/cuml",
+    "description": "Suite of ML algorithms with compatible APIs with other RAPIDS projects",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/rapidsai/cuml",
+    "official_website": "https://github.com/rapidsai/cuml",
+    "tags": []
+  },
+  {
+    "id": "fc158176-2972-49ca-8b39-70065b8ea47f",
+    "name": "Resemble AI",
+    "description": "AI voice cloning and synthesis platform",
+    "category": "AI Audio & Voice",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "resembleai",
+    "official_website": "resembleai",
+    "tags": []
+  },
+  {
+    "id": "fdda8f15cf5b",
+    "name": "RiversideFM",
+    "description": "Video podcast tool with AI features for post-production.",
+    "category": "Video Production",
+    "pricing": "Paid",
+    "url": "https://riverside.fm/",
+    "official_website": "https://riverside.fm/",
+    "tags": [
+      "podcasting",
+      "video"
+    ]
+  },
+  {
+    "id": "ff3b85e3919f",
+    "name": "Readdy AI",
+    "description": "AI website builder that allows building websites by talking with AI without drag-and-drop needed. When satisfied, users can publish instantly or export as clean code or Figma files for further customization.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://readdy.ai/",
+    "official_website": "https://readdy.ai/",
+    "tags": [
+      "conversational ai",
+      "no drag-drop",
+      "figma export",
+      "code export",
+      "chat-based building",
+      "instant publishing"
+    ]
+  },
+  {
+    "id": "ff9145de-df66-4aa1-9605-492b2f019967",
+    "name": "Rev.com",
+    "description": "Professional transcription service combining AI and human transcriptionists. Offers high accuracy rates, fast turnaround, and specialized services for legal, medical, and academic transcription.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.rev.com/",
+    "official_website": "https://www.rev.com/",
+    "tags": []
+  }
+]

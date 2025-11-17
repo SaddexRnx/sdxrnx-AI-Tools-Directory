@@ -1,0 +1,2203 @@
+[
+  {
+    "id": "008defdd71ab",
+    "name": "opus-mt-af-en",
+    "description": "AI model opus-mt-af-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-en",
+    "tags": []
+  },
+  {
+    "id": "0103911744b8",
+    "name": "Open-Instruct",
+    "description": "AllenAI's post-training codebase for finetuning language models with latest techniques and instruction datasets",
+    "category": "Natural Language Processing",
+    "pricing": "Not Specified",
+    "url": "https://allenai.github.io/open-instruct/",
+    "official_website": "https://allenai.github.io/open-instruct/",
+    "tags": [
+      "Support for LLaMa 2 finetuning and FlashAttention-2",
+      "Code for finetuning language models with latest techniques",
+      "Code for DPO (Direct Preference Optimization)",
+      "Scripts for measuring train-eval overlap (decontamination checks)",
+      "Support for LoRA (Low-Rank Adaptation) and QLoRA finetuning",
+      "Integration of several new instruction datasets",
+      "Support for vLLM to speed up evaluations (10x faster)",
+      "Support for preference finetuning and reinforcement learning with verifiable rewards"
+    ]
+  },
+  {
+    "id": "02179b68332b",
+    "name": "Olympia",
+    "description": "AI consultants simplify business tasks, enhance productivity, cut costs.",
+    "category": "Email Assistant, Personal Assistant",
+    "pricing": "Paid",
+    "url": "https://olympia.chat/",
+    "official_website": "https://olympia.chat/",
+    "tags": []
+  },
+  {
+    "id": "03e500e6-8163-4c9d-9513-39059b7ba591",
+    "name": "Otter",
+    "description": "Otter is a web application which provides speech to text transcription. It converts live speaking into a written transcription, trained with machine learning on millions of hours of audio recordings.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/otter-ai",
+    "official_website": "https://www.producthunt.com/products/otter-ai",
+    "tags": []
+  },
+  {
+    "id": "059c8ec4-f95c-4b3b-b8d6-00449577d49d",
+    "name": "openai-gpt",
+    "description": "AI model openai-gpt from openai-community on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/openai-community/openai-gpt",
+    "official_website": "https://huggingface.co/openai-community/openai-gpt",
+    "tags": []
+  },
+  {
+    "id": "06251f8f-3f88-4f32-a475-fd63c2931ed7",
+    "name": "opus-mt-ase-es",
+    "description": "AI model opus-mt-ase-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-es",
+    "tags": []
+  },
+  {
+    "id": "07ef7e54701c",
+    "name": "OpenAI Agents SDK",
+    "description": "A lightweight, powerful framework for building multi-agent workflows - provider-agnostic LLM support",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://openai.github.io/openai-agents-python/",
+    "official_website": "https://openai.github.io/openai-agents-python/",
+    "tags": [
+      "Agents configured with instructions, tools, guardrails, and handoffs",
+      "Support for SQLite and Redis-based memory options",
+      "Handoffs for transferring control between agents",
+      "Sessions with automatic conversation history management",
+      "Long-running agents with temporal integration for durable workflows",
+      "Human-in-the-loop capabilities for complex workflows",
+      "Tracing with built-in tracking and extensible integrations",
+      "Provider-agnostic LLM support for OpenAI and 100+ other LLMs",
+      "Guardrails for configurable safety checks and validation"
+    ]
+  },
+  {
+    "id": "080fdbad-b2b8-4449-8d60-7ec5d6b2d0dc",
+    "name": "OpenCart AI",
+    "description": "AI modules for OpenCart platform",
+    "category": "AI E-commerce",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "opencartai",
+    "official_website": "opencartai",
+    "tags": []
+  },
+  {
+    "id": "08ca9c09-1039-4aaa-aae9-8f032e543bf7",
+    "name": "Olark AI",
+    "description": "AI-powered live chat and customer support",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "olarkai",
+    "official_website": "olarkai",
+    "tags": []
+  },
+  {
+    "id": "08cf3d63-8a49-46e9-bca5-430ca44b91c7",
+    "name": "Obsidian",
+    "description": "AI-powered knowledge management",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "obsidian",
+    "official_website": "obsidian",
+    "tags": []
+  },
+  {
+    "id": "094ee49f-0b10-49be-9a19-435d830ee52e",
+    "name": "Oracle Cloud Infrastructure",
+    "description": "Enterprise cloud AI services",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://oracle.com",
+    "official_website": "https://oracle.com",
+    "tags": []
+  },
+  {
+    "id": "09de2167fc82",
+    "name": "opus-mt-ko-en",
+    "description": "AI model opus-mt-ko-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ko-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ko-en",
+    "tags": []
+  },
+  {
+    "id": "09ff082fa637",
+    "name": "OpenAI",
+    "description": "APIs and tools for building AI products. The most powerful platform for building AI products. Build and scale AI experiences powered by industry-leading models and tools.",
+    "category": "AI Platform, AI Tools, Foundation Models",
+    "pricing": "Not Specified",
+    "url": "https://openai.com",
+    "official_website": "https://openai.com",
+    "tags": []
+  },
+  {
+    "id": "0ba535ed-7354-4858-a2e5-bd0e373609ae",
+    "name": "OpenRouter Claude",
+    "description": "Claude model access",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://openrouter.com",
+    "official_website": "https://openrouter.com",
+    "tags": []
+  },
+  {
+    "id": "0c7824bd-a39b-4018-9a17-88adde57bf78",
+    "name": "opus-mt-afa-en",
+    "description": "AI model opus-mt-afa-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-en",
+    "tags": []
+  },
+  {
+    "id": "0e17c380-4746-468f-b85c-d3a548637ed7",
+    "name": "opus-mt-en-es",
+    "description": "AI model opus-mt-en-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es",
+    "tags": []
+  },
+  {
+    "id": "0e562c89-2fd8-46d9-b1e4-7dcc9b20b413",
+    "name": "Orange",
+    "description": "Visual data analysis and machine learning",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "orange",
+    "official_website": "orange",
+    "tags": []
+  },
+  {
+    "id": "0f2f1dae5c83",
+    "name": "opus-mt-ru-en",
+    "description": "AI model opus-mt-ru-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ru-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ru-en",
+    "tags": []
+  },
+  {
+    "id": "0fce1bb7-aac9-41ea-992b-cf872c2a8051",
+    "name": "opus-mt-it-en",
+    "description": "AI model opus-mt-it-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-it-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-it-en",
+    "tags": []
+  },
+  {
+    "id": "109e6fa85905",
+    "name": "Oracle APEX Low Code Application Development",
+    "description": "Low-code development platform that includes AI-powered development assistance and automated code generation. Enables rapid application development with intelligent suggestions and automated testing.",
+    "category": "AI Development & Testing",
+    "pricing": "Usage-based",
+    "url": "https://apex.oracle.com/",
+    "official_website": "https://apex.oracle.com/",
+    "tags": []
+  },
+  {
+    "id": "1164953cdbd5",
+    "name": "opus-mt-af-eo",
+    "description": "AI model opus-mt-af-eo from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-eo",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-eo",
+    "tags": []
+  },
+  {
+    "id": "119d6ad0-295c-4eab-98f3-34b8e6a30197",
+    "name": "Open-Instruct",
+    "description": "AllenAI's post-training codebase for finetuning language models with latest techniques and instruction datasets",
+    "category": "Natural Language Processing",
+    "pricing": "Unknown",
+    "url": "https://allenai.github.io/open-instruct/",
+    "official_website": "https://allenai.github.io/open-instruct/",
+    "tags": []
+  },
+  {
+    "id": "144e8d7c-1904-42b8-9001-7e0122d7e3bb",
+    "name": "opus-mt-fr-en",
+    "description": "AI model opus-mt-fr-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-fr-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-fr-en",
+    "tags": []
+  },
+  {
+    "id": "14810d261e4a",
+    "name": "opus-mt-af-ru",
+    "description": "AI model opus-mt-af-ru from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-ru",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-ru",
+    "tags": []
+  },
+  {
+    "id": "15f92d374c09",
+    "name": "OpenShot",
+    "description": "Open-source video editor with AI-powered features including auto-captions, voice enhancement, and automated video processing. Completely free with regular updates.",
+    "category": "Video",
+    "pricing": "Free",
+    "url": "https://www.openshot.org/",
+    "official_website": "https://www.openshot.org/",
+    "tags": [
+      "voice-enhancement",
+      "auto-captions",
+      "cross-platform",
+      "free",
+      "open-source"
+    ]
+  },
+  {
+    "id": "17670c28-e172-4439-9299-555d511c4a4b",
+    "name": "ORCID",
+    "description": "Academic publishing and research data platform for scholarly communication",
+    "category": "Research Infrastructure",
+    "pricing": "Free",
+    "url": "https://www.orcid.org",
+    "official_website": "https://www.orcid.org",
+    "tags": []
+  },
+  {
+    "id": "177b5125ca43",
+    "name": "opus-mt-en-fr",
+    "description": "AI model opus-mt-en-fr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-fr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-en-fr",
+    "tags": []
+  },
+  {
+    "id": "17c66d99b543",
+    "name": "OpenAI Codex",
+    "description": "AI system that translates natural language to code",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://openai.com/codex",
+    "official_website": "https://openai.com/codex",
+    "tags": []
+  },
+  {
+    "id": "18e7fd1de070",
+    "name": "opus-mt-en-de",
+    "description": "AI model opus-mt-en-de from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-de",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-en-de",
+    "tags": []
+  },
+  {
+    "id": "1beec84c-4ea9-43dc-a7d0-429a6f438978",
+    "name": "OctoComics",
+    "description": "Versatile AI Art Creation Platform with Advanced Control Features",
+    "category": "AI Manga & Comic",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/octocomics",
+    "official_website": "https://freeaitool.ai/tool/octocomics",
+    "tags": []
+  },
+  {
+    "id": "1c544a092e55",
+    "name": "OpenMed-NER-PharmaDetect-SuperClinical-434M",
+    "description": "AI model OpenMed-NER-PharmaDetect-SuperClinical-434M from OpenMed on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+    "official_website": "https://huggingface.co/OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+    "tags": []
+  },
+  {
+    "id": "1d70a5c2-a8a5-462c-abc1-68b387c7d0ae",
+    "name": "OpenAI Python SDK",
+    "description": "The official Python library for the OpenAI API with comprehensive support for all OpenAI services",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://platform.openai.com/docs",
+    "official_website": "https://platform.openai.com/docs",
+    "tags": []
+  },
+  {
+    "id": "1ea0fc8cb5fd",
+    "name": "OpenAlex",
+    "description": "Open index of the global scholarly system, providing a complete view of the research landscape including papers, authors, institutions, and data",
+    "category": "Research Platform",
+    "pricing": "Free",
+    "url": "https://openalex.org",
+    "official_website": "https://openalex.org",
+    "tags": []
+  },
+  {
+    "id": "23bfdfef7ab5",
+    "name": "OpenVoice",
+    "description": "Generate voice from text using reference audio for voice cloning.",
+    "category": "Voice",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/myshell-ai/OpenVoice",
+    "official_website": "https://huggingface.co/spaces/myshell-ai/OpenVoice",
+    "tags": [
+      "cloning",
+      "voice"
+    ]
+  },
+  {
+    "id": "24066c3b-7e7d-4c0a-a834-c274de230e7b",
+    "name": "Orca",
+    "description": "Reasoning model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "281a3f8c8f5f",
+    "name": "Open Web Analytics",
+    "description": "Free, open-source web analytics software with real-time tracking, customizable dashboards, event/ecommerce tracking, content analytics, and conversion funnel analysis.",
+    "category": "Analytics",
+    "pricing": "Free",
+    "url": "https://www.openwebanalytics.com/",
+    "official_website": "https://www.openwebanalytics.com/",
+    "tags": [
+      "conversion-funnels",
+      "real-time-tracking",
+      "customizable-dashboards",
+      "content-analytics",
+      "open-source-web-analytics",
+      "event-tracking"
+    ]
+  },
+  {
+    "id": "28e866c717ce",
+    "name": "Optimizely",
+    "description": "Experimentation platform for A/B testing, multivariate testing, and feature flagging. Features statistical significance, real-time results, and integration with analytics platforms for data-driven decisions.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://www.optimizely.com/",
+    "official_website": "https://www.optimizely.com/",
+    "tags": [
+      "feature-flagging",
+      "ab-testing",
+      "data-driven-decisions",
+      "experimentation-platform",
+      "multivariate-testing",
+      "statistical-significance"
+    ]
+  },
+  {
+    "id": "293f708d-0268-4347-bd15-75c5db909b9b",
+    "name": "Outchat AI",
+    "description": "AI chat platform",
+    "category": "Tech",
+    "pricing": "Unknown",
+    "url": "https://outchat.ai",
+    "official_website": "https://outchat.ai",
+    "tags": []
+  },
+  {
+    "id": "2c68e34e-633a-4124-8892-6e3129217485",
+    "name": "OpenChat 7B",
+    "description": "Chat-optimized open model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "2d14c8df6945",
+    "name": "opus-mt-af-nl",
+    "description": "AI model opus-mt-af-nl from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-nl",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-nl",
+    "tags": []
+  },
+  {
+    "id": "2e12e846809a",
+    "name": "opus-mt-ar-eo",
+    "description": "AI model opus-mt-ar-eo from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-eo",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-eo",
+    "tags": []
+  },
+  {
+    "id": "2e2cd9a926ef",
+    "name": "opus-mt-afa-afa",
+    "description": "AI model opus-mt-afa-afa from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-afa",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-afa",
+    "tags": []
+  },
+  {
+    "id": "2e387a4fa7ed",
+    "name": "OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+    "official_website": "https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+    "tags": []
+  },
+  {
+    "id": "2e439747-ecb9-4cfe-a869-40fa6ed44509",
+    "name": "Optimizely",
+    "description": "Experimentation platform for A/B testing, multivariate testing, and feature flagging. Features statistical significance, real-time results, and integration with analytics platforms for data-driven decisions.",
+    "category": "Ai Analytics",
+    "pricing": "Premium",
+    "url": "https://optimizely.com/",
+    "official_website": "https://optimizely.com/",
+    "tags": []
+  },
+  {
+    "id": "2eca6b596b96",
+    "name": "OCI Language",
+    "description": "AI service for natural language processing that provides text analysis, sentiment detection, entity extraction, and language translation capabilities. Supports multiple languages and custom model training.",
+    "category": "Data & Analytics AI",
+    "pricing": "Usage-based",
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "official_website": "https://www.oracle.com/artificial-intelligence/",
+    "tags": []
+  },
+  {
+    "id": "3062d8ad-dcaa-4387-88ea-2ef82da7b0c4",
+    "name": "Optimizely AI",
+    "description": "AI-powered experimentation platform",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "optimizelyai",
+    "official_website": "optimizelyai",
+    "tags": []
+  },
+  {
+    "id": "30f86512-2046-4e03-aa46-ce13c9d68492",
+    "name": "Optimizely AI",
+    "description": "Comprehensive AI testing and optimization platform that enhances website performance and user experience. Features split testing capabilities, heatmaps, behavioral targeting, and AI-powered optimization recommendations for website elements.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://www.optimizely.com/",
+    "official_website": "https://www.optimizely.com/",
+    "tags": []
+  },
+  {
+    "id": "31a61082-dfc5-4f77-806d-9277e683e64f",
+    "name": "OpenAI Codex",
+    "description": "OpenAI's advanced code generation model that transforms natural language into functional code across multiple programming languages.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://openai.com/blog/openai-codex",
+    "official_website": "https://openai.com/blog/openai-codex",
+    "tags": []
+  },
+  {
+    "id": "32868ac6-e6b1-4f33-a60b-f1a139315c1b",
+    "name": "Obsidian",
+    "description": "AI-powered productivity solution",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.obsidian.com",
+    "official_website": "https://www.obsidian.com",
+    "tags": []
+  },
+  {
+    "id": "35520c2d06a3",
+    "name": "opus-mt-alv-en",
+    "description": "AI model opus-mt-alv-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-alv-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-alv-en",
+    "tags": []
+  },
+  {
+    "id": "35d62d37429e",
+    "name": "Oracle Machine Learning",
+    "description": "In-database machine learning platform that provides SQL-based ML algorithms for data scientists and analysts. Enables machine learning directly on Oracle databases without data movement.",
+    "category": "ML Lifecycle Management",
+    "pricing": "Usage-based",
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "official_website": "https://www.oracle.com/artificial-intelligence/",
+    "tags": []
+  },
+  {
+    "id": "36b202a6976e",
+    "name": "Octopus AI",
+    "description": "AI research assistant that automates user research by analyzing data and generating insights. Analyzes large sets of qualitative and quantitative data to generate insights and create visual reports for data-driven design decisions.",
+    "category": "Design",
+    "pricing": "Premium",
+    "url": "https://octopus.ai/",
+    "official_website": "https://octopus.ai/",
+    "tags": [
+      "user research",
+      "insight generation",
+      "data analysis",
+      "quantitative data",
+      "qualitative data",
+      "visual reports"
+    ]
+  },
+  {
+    "id": "3769d328c52d",
+    "name": "OpenCV",
+    "description": "Open source computer vision and machine learning software library",
+    "category": "Model Library",
+    "pricing": "Open Source",
+    "url": "https://opencv.org",
+    "official_website": "https://opencv.org",
+    "tags": []
+  },
+  {
+    "id": "38f16bc8d04c",
+    "name": "OpenAI Whisper",
+    "description": "OpenAI's automatic speech recognition system trained on 680,000 hours of multilingual data. Provides robust transcription with translation capabilities and operates locally or via API.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://openai.com/research/whisper",
+    "official_website": "https://openai.com/research/whisper",
+    "tags": [
+      "transcription",
+      "open-source",
+      "local-processing",
+      "translation",
+      "multilingual"
+    ]
+  },
+  {
+    "id": "39656a77ff35",
+    "name": "owainlewis/awesome-artificial-intelligence",
+    "description": "AI engineering frameworks (Pydantic-AI, LangGraph, CrewAI), models, developer tools",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "official_website": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "tags": []
+  },
+  {
+    "id": "3b3a13436452",
+    "name": "OpenRouter",
+    "description": "A router for LLMs and other AI models.",
+    "category": "LLMs, Unified API, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://openrouter.ai",
+    "official_website": "https://openrouter.ai",
+    "tags": []
+  },
+  {
+    "id": "3db27b53fccc",
+    "name": "ottomator-agents",
+    "description": "Collection of open-source AI Agents hosted on oTTomator Live Agent Studio",
+    "category": "Agents",
+    "pricing": "Unknown",
+    "url": "https://github.com/ottomator/ottomator-agents",
+    "official_website": "https://github.com/ottomator/ottomator-agents",
+    "tags": []
+  },
+  {
+    "id": "3f4b97b9e7da",
+    "name": "OpenAI API",
+    "description": "Access to GPT-3, GPT-4 models and Codex",
+    "category": "Text Models",
+    "pricing": "Not Specified",
+    "url": "https://openai.com/api/",
+    "official_website": "https://openai.com/api/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "43806f2d-3ffd-4152-b4b4-c05ac1bac4fe",
+    "name": "opus-mt-af-sv",
+    "description": "AI model opus-mt-af-sv from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-sv",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-sv",
+    "tags": []
+  },
+  {
+    "id": "45d805ae-755c-4f6f-8839-d8653e1c1b20",
+    "name": "OpenAI Whisper",
+    "description": "OpenAI's automatic speech recognition system trained on 680,000 hours of multilingual data. Provides robust transcription with translation capabilities and operates locally or via API.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://openai.com/research/whisper",
+    "official_website": "https://openai.com/research/whisper",
+    "tags": []
+  },
+  {
+    "id": "4634f99e-5181-41d6-ace1-3596d6473e48",
+    "name": "OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+    "official_website": "https://huggingface.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+    "tags": []
+  },
+  {
+    "id": "4750909b1f97",
+    "name": "openscoring/openscoring",
+    "description": "REST web service for scoring PMML models",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/openscoring/openscoring",
+    "official_website": "https://github.com/openscoring/openscoring",
+    "tags": []
+  },
+  {
+    "id": "49f531a4974f",
+    "name": "Oracle Data Integrator",
+    "description": "Data integration platform that includes AI-powered data profiling, quality management, and transformation capabilities. Provides intelligent data mapping and automated data quality checks.",
+    "category": "AI Integration & APIs",
+    "pricing": "Subscription",
+    "url": "https://www.oracle.com/data-integration/",
+    "official_website": "https://www.oracle.com/data-integration/",
+    "tags": []
+  },
+  {
+    "id": "4bb29bb80217",
+    "name": "Oracle Cloud Infrastructure AI Services",
+    "description": "Comprehensive suite of AI services built on Oracle Cloud Infrastructure including OCI Vision, OCI Language, OCI Speech, and OCI Data Science. Provides enterprise-grade AI capabilities with integrated governance.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "official_website": "https://www.oracle.com/artificial-intelligence/",
+    "tags": []
+  },
+  {
+    "id": "4c6d2f9dd9c6",
+    "name": "Obsidian",
+    "description": "Knowledge base with AI plugins",
+    "category": "Knowledge Management",
+    "pricing": "Not Specified",
+    "url": "https://obsidian.md/",
+    "official_website": "https://obsidian.md/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "4d8b243a-218e-4d33-bc6b-df6554c39f71",
+    "name": "Oracle Analytics Cloud",
+    "description": "AI-powered business intelligence solution integrated with Oracle ecosystem. Offers machine learning capabilities, embedded analytics, and autonomous database integration.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://www.oracle.com/solutions/business-analytics/",
+    "official_website": "https://www.oracle.com/solutions/business-analytics/",
+    "tags": []
+  },
+  {
+    "id": "4de2f08d2bc6",
+    "name": "opus-mt-afa-en",
+    "description": "AI model opus-mt-afa-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-en",
+    "tags": []
+  },
+  {
+    "id": "4ed5f93a-6cd9-47cf-b39f-0d2b5014c455",
+    "name": "opus-mt-af-fi",
+    "description": "AI model opus-mt-af-fi from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fi",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fi",
+    "tags": []
+  },
+  {
+    "id": "4f6f27409a8e",
+    "name": "Open LLM Leaderboard",
+    "description": "Track, rank and evaluate open LLMs and chatbots.",
+    "category": "LLM Tools",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "official_website": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "tags": [
+      "evaluation",
+      "llm"
+    ]
+  },
+  {
+    "id": "503f3e91715e",
+    "name": "Object Detection API",
+    "description": "Offers advanced image analysis with accurate object type detection, predicting categories.",
+    "category": "Computer Vision, API Services",
+    "pricing": "Freemium",
+    "url": "https://object-detection-api.com",
+    "official_website": "https://object-detection-api.com",
+    "tags": []
+  },
+  {
+    "id": "508d679a-48e9-4f09-a59e-6acfac52671e",
+    "name": "opus-mt-ar-it",
+    "description": "AI model opus-mt-ar-it from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-it",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-it",
+    "tags": []
+  },
+  {
+    "id": "50d613a3a47c",
+    "name": "opus-mt-ar-tr",
+    "description": "AI model opus-mt-ar-tr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-tr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-tr",
+    "tags": []
+  },
+  {
+    "id": "5138ea02-62d1-41d7-8a0c-94186d9cc251",
+    "name": "Otter.ai",
+    "description": "AI-powered meeting transcription and note-taking service. Features real-time transcription, speaker identification, collaboration tools, and integration with popular video conferencing platforms.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://otter.ai/",
+    "official_website": "https://otter.ai/",
+    "tags": []
+  },
+  {
+    "id": "54bb91acabf7",
+    "name": "opus-mt-it-en",
+    "description": "AI model opus-mt-it-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-it-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-it-en",
+    "tags": []
+  },
+  {
+    "id": "54cf23d5-6537-404d-87b1-81913f1aa5bc",
+    "name": "Origami",
+    "description": "AI-enhanced design prototyping by Facebook",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "origami",
+    "official_website": "origami",
+    "tags": []
+  },
+  {
+    "id": "54fdf987-bcec-4092-8d80-48d79e451100",
+    "name": "opus-mt-ase-en",
+    "description": "AI model opus-mt-ase-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-en",
+    "tags": []
+  },
+  {
+    "id": "55840946-5b2f-43c3-ada4-1b7a4df73b89",
+    "name": "Observable",
+    "description": "Collaborative data analysis",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://observable.com",
+    "official_website": "https://observable.com",
+    "tags": []
+  },
+  {
+    "id": "58000036-288b-4575-b4b3-02cd0b342c30",
+    "name": "Open Lovable",
+    "description": "Open Lovable is an open-source AI-powered tool that enables users to instantly transform any website into a modern React application through natural language conversation. By leveraging powerful large language models from providers like Anthropic, OpenAI, Groq, and Gemini, developers can simply describe what they want to clone or create, and the AI will generate the corresponding React code. The tool combines web scraping capabilities through Firecrawl with secure local execution via E2B sandbox",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/open-lovable",
+    "official_website": "https://futuretools.link/open-lovable",
+    "tags": []
+  },
+  {
+    "id": "592a13f562d6",
+    "name": "opus-mt-af-fr",
+    "description": "AI model opus-mt-af-fr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fr",
+    "tags": []
+  },
+  {
+    "id": "5ac048578ace",
+    "name": "opus-mt-en-es",
+    "description": "AI model opus-mt-en-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-en-es",
+    "tags": []
+  },
+  {
+    "id": "5d8b0fe3-c484-4f2b-ae46-a382ac5c45a1",
+    "name": "Open Web Analytics (OWA)",
+    "description": "Free, open-source web analytics platform allowing website owners to track and analyze visitor behavior on sites and applications. Features click heatmaps, clickstream tracking, multiple site support, and customizable dashboard with privacy compliance.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://www.openwebanalytics.com/",
+    "official_website": "https://www.openwebanalytics.com/",
+    "tags": []
+  },
+  {
+    "id": "5f1f1338ea14",
+    "name": "opus-mt-ar-he",
+    "description": "AI model opus-mt-ar-he from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-he",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-he",
+    "tags": []
+  },
+  {
+    "id": "5f7f87006312",
+    "name": "opus-mt-ar-es",
+    "description": "AI model opus-mt-ar-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-es",
+    "tags": []
+  },
+  {
+    "id": "60b065fd-45d9-4381-b634-dabcf3b6567f",
+    "name": "Osmo AI",
+    "description": "AI-powered hands-on learning",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "osmoai",
+    "official_website": "osmoai",
+    "tags": []
+  },
+  {
+    "id": "60b41e289792",
+    "name": "openai/swarm",
+    "description": "Swarm is an educational framework exploring ergonomic, lightweight multi-agent orchestration",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/openai/swarm",
+    "official_website": "https://github.com/openai/swarm",
+    "tags": []
+  },
+  {
+    "id": "623b5ca1c789",
+    "name": "Otter",
+    "description": "Otter is a web application which provides speech to text transcription. It converts live speaking into a written transcription, trained with machine learning on millions of hours of audio recordings.",
+    "category": "Team collaboration software, Meeting software, AI notetakers",
+    "pricing": "Not Specified",
+    "url": "https://otter.ai",
+    "official_website": "https://otter.ai",
+    "tags": []
+  },
+  {
+    "id": "62ef6b891695",
+    "name": "OpenCV",
+    "description": "Open source computer vision library",
+    "category": "Computer Vision",
+    "pricing": "Not Specified",
+    "url": "https://opencv.org/",
+    "official_website": "https://opencv.org/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "6352061b127c",
+    "name": "OpenNLP",
+    "description": "Specialized AI tool for linguistics applications",
+    "category": "Linguistics",
+    "pricing": "Open Source",
+    "url": "https://opennlp.com",
+    "official_website": "https://opennlp.com",
+    "tags": []
+  },
+  {
+    "id": "64858198a70e",
+    "name": "opus-mt-af-fi",
+    "description": "AI model opus-mt-af-fi from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fi",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fi",
+    "tags": []
+  },
+  {
+    "id": "65eb94988490",
+    "name": "Oracle Management Cloud",
+    "description": "AI-powered IT operations management platform that provides monitoring, troubleshooting, and optimization capabilities for enterprise IT infrastructure and applications.",
+    "category": "AI Integration & APIs",
+    "pricing": "Subscription",
+    "url": "https://www.oracle.com/management-cloud/",
+    "official_website": "https://www.oracle.com/management-cloud/",
+    "tags": []
+  },
+  {
+    "id": "65fb3f70-7bbd-42d3-a032-0a5f557cfe74",
+    "name": "Opendoor AI",
+    "description": "Instant home buying with AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://opendoor.com",
+    "official_website": "https://opendoor.com",
+    "tags": []
+  },
+  {
+    "id": "660a9fc9-16dd-4f35-b1c7-d211634facc8",
+    "name": "opus-mt-af-eo",
+    "description": "AI model opus-mt-af-eo from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-eo",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-eo",
+    "tags": []
+  },
+  {
+    "id": "66353ccd-c788-4216-aa00-3baa920c7c9d",
+    "name": "opus-mt-art-en",
+    "description": "AI model opus-mt-art-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-art-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-art-en",
+    "tags": []
+  },
+  {
+    "id": "6728efaaebf4",
+    "name": "OpenAI Research",
+    "description": "Specialized AI tool for emerging ai applications",
+    "category": "Emerging AI",
+    "pricing": "Open Source",
+    "url": "https://openairesearch.com",
+    "official_website": "https://openairesearch.com",
+    "tags": []
+  },
+  {
+    "id": "68e39ccb323a",
+    "name": "opus-mt-es-en",
+    "description": "AI model opus-mt-es-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-es-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-es-en",
+    "tags": []
+  },
+  {
+    "id": "69536db6-f768-4ce6-8cb1-69092c7f9c4d",
+    "name": "OpenMed-NER-PharmaDetect-SuperClinical-434M",
+    "description": "AI model OpenMed-NER-PharmaDetect-SuperClinical-434M from OpenMed on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+    "official_website": "https://huggingface.co/OpenMed/OpenMed-NER-PharmaDetect-SuperClinical-434M",
+    "tags": []
+  },
+  {
+    "id": "69e1ad3c34e0",
+    "name": "Otter.ai",
+    "description": "AI-powered meeting transcription and note-taking service. Features real-time transcription, speaker identification, collaboration tools, and integration with popular video conferencing platforms.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://otter.ai/",
+    "official_website": "https://otter.ai/",
+    "tags": [
+      "video-conferencing",
+      "meeting-transcription",
+      "real-time",
+      "speaker-identification",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "6a205f4b108b",
+    "name": "Oracle Analytics Cloud",
+    "description": "AI-powered business intelligence solution integrated with Oracle ecosystem. Offers machine learning capabilities, embedded analytics, and autonomous database integration.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://www.oracle.com/solutions/business-analytics/",
+    "official_website": "https://www.oracle.com/solutions/business-analytics/",
+    "tags": [
+      "machine-learning",
+      "embedded-analytics",
+      "ai-powered",
+      "autonomous-database",
+      "oracle-ecosystem"
+    ]
+  },
+  {
+    "id": "6a29e647-b8ad-4080-b17c-96735d80422a",
+    "name": "opus-mt-en-fr",
+    "description": "AI model opus-mt-en-fr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-en-fr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-en-fr",
+    "tags": []
+  },
+  {
+    "id": "6b1b6649-57ef-4f38-bd9b-fe86b6a20e99",
+    "name": "opus-mt-nl-en",
+    "description": "AI model opus-mt-nl-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-nl-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-nl-en",
+    "tags": []
+  },
+  {
+    "id": "6c31078760fd",
+    "name": "Observable Plot",
+    "description": "Data visualization and plotting library for research applications",
+    "category": "Data Visualization",
+    "pricing": "Commercial",
+    "url": "https://observable plot.com",
+    "official_website": "https://observable plot.com",
+    "tags": []
+  },
+  {
+    "id": "6c8d4b04-e64a-4bdb-8960-9720fa2e2c06",
+    "name": "Opal",
+    "description": "Opal is a no-code AI app builder from Google Labs that lets anyone create custom AI-powered applications through natural language commands and visual workflows. The tool transforms user descriptions into functional mini-apps by leveraging Google's advanced AI models including Gemini and Imagen, without requiring any programming knowledge. Users can build multi-step processes that combine various AI capabilities such as image generation, text analysis, and data processing, then visually edit and",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/opal-withgoogle-com",
+    "official_website": "https://futuretools.link/opal-withgoogle-com",
+    "tags": []
+  },
+  {
+    "id": "6e0855355e22",
+    "name": "openai/openai-agents-python",
+    "description": "OpenAI Agents SDK is a lightweight framework for building multi-agent workflows",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/openai/openai-agents-python",
+    "official_website": "https://github.com/openai/openai-agents-python",
+    "tags": []
+  },
+  {
+    "id": "6ee319b1-ce77-4f3e-ba7f-170f2a24013e",
+    "name": "Opus Clip",
+    "description": "AI-powered short clip creator",
+    "category": "AI Video Creation",
+    "pricing": "Freemium",
+    "url": "https://opus.pro",
+    "official_website": "https://opus.pro",
+    "tags": []
+  },
+  {
+    "id": "6f7ce48c-6925-4d77-a40b-0437c5982763",
+    "name": "Oxford AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.oxford.edu",
+    "official_website": "https://ai.oxford.edu",
+    "tags": []
+  },
+  {
+    "id": "6fbd69f3b75f",
+    "name": "opus-mt-fr-en",
+    "description": "AI model opus-mt-fr-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-fr-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-fr-en",
+    "tags": []
+  },
+  {
+    "id": "6fcd4d51-0846-4d4f-b35a-c6f09d56632a",
+    "name": "OpenAI Agents SDK",
+    "description": "A lightweight, powerful framework for building multi-agent workflows - provider-agnostic LLM support",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://openai.github.io/openai-agents-python/",
+    "official_website": "https://openai.github.io/openai-agents-python/",
+    "tags": []
+  },
+  {
+    "id": "73de029f981b",
+    "name": "OpenNN",
+    "description": "Open-source neural network library in C++ for advanced analytics.",
+    "category": "Neural Network",
+    "pricing": "Open Source",
+    "url": "https://www.opennn.net/",
+    "official_website": "https://www.opennn.net/",
+    "tags": [
+      "c++",
+      "neural networks"
+    ]
+  },
+  {
+    "id": "77f5de5387bc",
+    "name": "opus-mt-ase-sv",
+    "description": "AI model opus-mt-ase-sv from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-sv",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-sv",
+    "tags": []
+  },
+  {
+    "id": "780366b1-a8f7-4e1b-be7c-5d615cb2801c",
+    "name": "OpenAI Cookbook",
+    "description": "Examples and guides for using the OpenAI API - comprehensive cookbook with code examples for common tasks",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://cookbook.openai.com",
+    "official_website": "https://cookbook.openai.com",
+    "tags": []
+  },
+  {
+    "id": "79b51ab3dfee",
+    "name": "Octofriend",
+    "description": "AI tool that works well when paired with GLM 4.5 model",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://octofriend.com",
+    "official_website": "https://octofriend.com",
+    "tags": []
+  },
+  {
+    "id": "7ea305c7-98de-4165-97f9-cfb419dd4999",
+    "name": "opus-mt-af-es",
+    "description": "AI model opus-mt-af-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-es",
+    "tags": []
+  },
+  {
+    "id": "7f621d2d-5a34-4c55-a51e-1706e17b8f27",
+    "name": "OneFlow",
+    "description": "Deep learning framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://oneflow.com",
+    "official_website": "https://oneflow.com",
+    "tags": []
+  },
+  {
+    "id": "7fdf0eb9e150",
+    "name": "Ollama Python",
+    "description": "The easiest way to integrate Python 3.8+ projects with Ollama - official Python library",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://ollama.com",
+    "official_website": "https://ollama.com",
+    "tags": [
+      "Asynchronous client for non-blocking operations",
+      "Comprehensive documentation and examples",
+      "API methods for chat, generate, list, show, create, copy, delete, pull, push, embed, ps",
+      "Custom client configuration (sync and async)",
+      "Support for streaming responses",
+      "Compatibility with Ollama REST API",
+      "Error handling with ollama.ResponseError",
+      "Integration with Ollama for Python 3.8+ projects"
+    ]
+  },
+  {
+    "id": "824c6b78-2292-4db9-851a-a644b9516777",
+    "name": "OpenVoice",
+    "description": "Open-source instant voice cloning platform developed by MIT and other institutions. Features accurate tone color cloning, multiple language support, and flexible voice generation.",
+    "category": "AI Voice",
+    "pricing": "Free",
+    "url": "https://github.com/myshell-ai/OpenVoice",
+    "official_website": "https://github.com/myshell-ai/OpenVoice",
+    "tags": []
+  },
+  {
+    "id": "830c2b53181b",
+    "name": "ORCID",
+    "description": "Academic publishing and research data platform for scholarly communication",
+    "category": "Research Infrastructure",
+    "pricing": "Free",
+    "url": "https://www.orcid.org",
+    "official_website": "https://www.orcid.org",
+    "tags": []
+  },
+  {
+    "id": "85065c0d-a469-4d78-8708-d4b9fa78d2ee",
+    "name": "opus-mt-ar-ru",
+    "description": "AI model opus-mt-ar-ru from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-ru",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-ru",
+    "tags": []
+  },
+  {
+    "id": "86cdc66d2ec9",
+    "name": "opus-mt-ar-en",
+    "description": "AI model opus-mt-ar-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-en",
+    "tags": []
+  },
+  {
+    "id": "88508cd6-82fe-48b8-b817-1fe557830490",
+    "name": "OpenAI",
+    "description": "APIs and tools for building AI products. The most powerful platform for building AI products. Build and scale AI experiences powered by industry-leading models and tools.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/openai",
+    "official_website": "https://www.producthunt.com/products/openai",
+    "tags": []
+  },
+  {
+    "id": "88ab1ad9-92de-4d72-85c5-da718b7c9bd4",
+    "name": "OpenRouter GPT-4",
+    "description": "Unified GPT-4 access",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://openrouter.com",
+    "official_website": "https://openrouter.com",
+    "tags": []
+  },
+  {
+    "id": "88ae573b8218",
+    "name": "Outreach",
+    "description": "Optimize sales, enhance workflows, boost efficiency with AI-powered tools.",
+    "category": "Sales Assistant, Customer Support",
+    "pricing": "Contact for Pricing",
+    "url": "https://www.outreach.io/",
+    "official_website": "https://www.outreach.io/",
+    "tags": []
+  },
+  {
+    "id": "8900dbba-7012-4ef3-afde-d010b6987812",
+    "name": "Octopus AI",
+    "description": "AI research assistant that automates user research by analyzing data and generating insights. Analyzes large sets of qualitative and quantitative data to generate insights and create visual reports for data-driven design decisions.",
+    "category": "AI Design",
+    "pricing": "Premium",
+    "url": "https://octopus.ai/",
+    "official_website": "https://octopus.ai/",
+    "tags": []
+  },
+  {
+    "id": "892bb681-7862-4b51-b5f7-47edcad8ea5b",
+    "name": "Outchat AI",
+    "description": "AI chat platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/outchat-ai",
+    "official_website": "https://www.producthunt.com/products/outchat-ai",
+    "tags": []
+  },
+  {
+    "id": "8a999ce9-9a92-42e1-9199-54266a80a360",
+    "name": "OpenAI Research",
+    "description": "Specialized AI tool for emerging ai applications",
+    "category": "Emerging AI",
+    "pricing": "Open Source",
+    "url": "https://openairesearch.com",
+    "official_website": "https://openairesearch.com",
+    "tags": []
+  },
+  {
+    "id": "8b4501a06887",
+    "name": "OpenAI Research Tools",
+    "description": "AI research tools, models, and APIs from OpenAI including GPT, DALL-E, and research publications",
+    "category": "Research Lab Tools",
+    "pricing": "Open Source",
+    "url": "https://openai.com/research",
+    "official_website": "https://openai.com/research",
+    "tags": []
+  },
+  {
+    "id": "8bee4ef0-2fd5-4a0c-83ff-effd145c3e61",
+    "name": "Ollama Python",
+    "description": "The easiest way to integrate Python 3.8+ projects with Ollama - official Python library",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://ollama.com",
+    "official_website": "https://ollama.com",
+    "tags": []
+  },
+  {
+    "id": "8c06561f-ea2a-4c0c-8e6e-9419f98a4708",
+    "name": "OmniBox",
+    "description": "Omnibox is an AI powered tool designed to enhance productivity by providing smart search and information retrieval features directly from a single unified interface using advanced machine learning algorithms to understand user queries streamline navigation and deliver personalized results users might want to use Omnibox to save time and access relevant information quickly as the AI adapts to their behavior and preferences making workflows more efficient and intuitive.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/omnibox-pro",
+    "official_website": "https://futuretools.link/omnibox-pro",
+    "tags": []
+  },
+  {
+    "id": "8c8b4bd8f9e0",
+    "name": "OmniGPT",
+    "description": "Automate tasks, streamline conversations, and access an intuitive user interface for efficient communication.",
+    "category": "Productivity, Communication",
+    "pricing": "Paid",
+    "url": "https://omnigpt.ai",
+    "official_website": "https://omnigpt.ai",
+    "tags": []
+  },
+  {
+    "id": "8d905af5-c9ac-43b1-bd31-f747dcdef135",
+    "name": "opus-mt-afa-afa",
+    "description": "AI model opus-mt-afa-afa from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-afa",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-afa-afa",
+    "tags": []
+  },
+  {
+    "id": "905b1ccb8f1e",
+    "name": "Oxford AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.oxford.edu",
+    "official_website": "https://ai.oxford.edu",
+    "tags": []
+  },
+  {
+    "id": "94581efe-80ee-4b63-90e3-fc8223877d62",
+    "name": "OpenNLP",
+    "description": "Specialized AI tool for linguistics applications",
+    "category": "Linguistics",
+    "pricing": "Open Source",
+    "url": "https://opennlp.com",
+    "official_website": "https://opennlp.com",
+    "tags": []
+  },
+  {
+    "id": "95bf9e9b7290",
+    "name": "openvinotoolkit/model_server",
+    "description": "Scalable, high-performance solution for serving ML models optimized for Intel architectures",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/openvinotoolkit/model_server",
+    "official_website": "https://github.com/openvinotoolkit/model_server",
+    "tags": []
+  },
+  {
+    "id": "95d4c93032c7",
+    "name": "opus-mt-af-es",
+    "description": "AI model opus-mt-af-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-es",
+    "tags": []
+  },
+  {
+    "id": "967f3edb153c",
+    "name": "OpenAI Python SDK",
+    "description": "The official Python library for the OpenAI API with comprehensive support for all OpenAI services",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://platform.openai.com/docs",
+    "official_website": "https://platform.openai.com/docs",
+    "tags": [
+      "Automatic retries and comprehensive error handling",
+      "Strong typing with TypedDicts and Pydantic models",
+      "Support for Responses API and Chat Completions API",
+      "Vision API support for image input",
+      "Streaming responses using Server Side Events (SSE)",
+      "Asynchronous usage via AsyncOpenAI with optional aiohttp backend",
+      "Convenient access to OpenAI REST API from Python 3.8+ applications",
+      "Realtime API for low-latency, multi-modal conversational experiences",
+      "Integration with Microsoft Azure OpenAI via AzureOpenAI class",
+      "Type definitions for all request parameters and response fields",
+      "Synchronous and asynchronous clients powered by httpx"
+    ]
+  },
+  {
+    "id": "96fb3c97fe58",
+    "name": "opus-mt-art-en",
+    "description": "AI model opus-mt-art-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-art-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-art-en",
+    "tags": []
+  },
+  {
+    "id": "9867fe98f8ce",
+    "name": "Optimizely AI",
+    "description": "Comprehensive AI testing and optimization platform that enhances website performance and user experience. Features split testing capabilities, heatmaps, behavioral targeting, and AI-powered optimization recommendations for website elements.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://www.optimizely.com/",
+    "official_website": "https://www.optimizely.com/",
+    "tags": [
+      "testing optimization",
+      "ai optimization",
+      "heatmaps",
+      "split testing",
+      "performance enhancement",
+      "behavioral targeting"
+    ]
+  },
+  {
+    "id": "995aeca2-466c-498d-94d5-4bdbee7a274a",
+    "name": "opus-mt-ar-eo",
+    "description": "AI model opus-mt-ar-eo from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-eo",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-eo",
+    "tags": []
+  },
+  {
+    "id": "9d247400-1acd-4b99-ad5a-eb6b0f8ba7a1",
+    "name": "OpenRouter",
+    "description": "A router for LLMs and other AI models.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/openrouter",
+    "official_website": "https://www.producthunt.com/products/openrouter",
+    "tags": []
+  },
+  {
+    "id": "a0e219d80f7f",
+    "name": "Open Web Analytics (OWA)",
+    "description": "Free, open-source web analytics platform allowing website owners to track and analyze visitor behavior on sites and applications. Features click heatmaps, clickstream tracking, multiple site support, and customizable dashboard with privacy compliance.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://www.openwebanalytics.com/",
+    "official_website": "https://www.openwebanalytics.com/",
+    "tags": [
+      "clickstream tracking",
+      "privacy compliance",
+      "customizable",
+      "open-source",
+      "multiple sites",
+      "click heatmaps"
+    ]
+  },
+  {
+    "id": "a29005b6-f106-44f3-8b95-57b020195661",
+    "name": "Owkin",
+    "description": "AI medical research platform",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "owkin",
+    "official_website": "owkin",
+    "tags": []
+  },
+  {
+    "id": "a40d4afa8462",
+    "name": "opus-mt-af-de",
+    "description": "AI model opus-mt-af-de from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-de",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-de",
+    "tags": []
+  },
+  {
+    "id": "a62d2ecf-e806-47e7-9075-df2fa66794f2",
+    "name": "opus-mt-af-fr",
+    "description": "AI model opus-mt-af-fr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-fr",
+    "tags": []
+  },
+  {
+    "id": "a64295e71e84",
+    "name": "Otter",
+    "description": "Meeting transcription AI that converts live speaking to written text",
+    "category": "Meeting/Productivity",
+    "pricing": "Unknown",
+    "url": "https://otter.ai",
+    "official_website": "https://otter.ai",
+    "tags": []
+  },
+  {
+    "id": "aa5c025ac637",
+    "name": "OpenAI Cookbook",
+    "description": "Examples and guides for using the OpenAI API - comprehensive cookbook with code examples for common tasks",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://cookbook.openai.com",
+    "official_website": "https://cookbook.openai.com",
+    "tags": [
+      "Includes related resources from around the web",
+      "Practical examples for different use cases and applications",
+      "Comprehensive documentation for various API features",
+      "Primarily Python examples with language-agnostic concepts",
+      "Example code and guides for common tasks with OpenAI API",
+      "Covers topics like openai, gpt-4, chat completions, vision API"
+    ]
+  },
+  {
+    "id": "ac92e09a-883e-4c38-86ea-efb647324ca3",
+    "name": "opus-mt-ase-fr",
+    "description": "AI model opus-mt-ase-fr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-fr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-fr",
+    "tags": []
+  },
+  {
+    "id": "ad26737a-7b87-4c52-b127-2cbd72cab37b",
+    "name": "Outreach AI",
+    "description": "AI-powered sales engagement platform",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "outreachai",
+    "official_website": "outreachai",
+    "tags": []
+  },
+  {
+    "id": "b0b76bdcdc76",
+    "name": "Outchat AI",
+    "description": "AI chat platform",
+    "category": "Tech",
+    "pricing": "Not Specified",
+    "url": "https://outchat.ai",
+    "official_website": "https://outchat.ai",
+    "tags": []
+  },
+  {
+    "id": "b1f60d7f171f",
+    "name": "opus-mt-ar-pl",
+    "description": "AI model opus-mt-ar-pl from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-pl",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-pl",
+    "tags": []
+  },
+  {
+    "id": "b2192224f15c",
+    "name": "opus-mt-ase-fr",
+    "description": "AI model opus-mt-ase-fr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-fr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-fr",
+    "tags": []
+  },
+  {
+    "id": "b3a29f82-fbf4-476c-ae7f-d9ec901c7743",
+    "name": "Orchids",
+    "description": "AI SaaS platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/orchids",
+    "official_website": "https://www.producthunt.com/products/orchids",
+    "tags": []
+  },
+  {
+    "id": "b4c8672b-5263-45f2-b0e0-29cf181075d6",
+    "name": "Orchids",
+    "description": "AI SaaS platform",
+    "category": "Artificial Intelligence, SaaS",
+    "pricing": "Unknown",
+    "url": "https://orchids.ai",
+    "official_website": "https://orchids.ai",
+    "tags": []
+  },
+  {
+    "id": "b4fb1283-be41-466c-bdfd-eb9a88da3e85",
+    "name": "opus-mt-ar-es",
+    "description": "AI model opus-mt-ar-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-es",
+    "tags": []
+  },
+  {
+    "id": "b6be974af808",
+    "name": "opus-mt-nl-en",
+    "description": "AI model opus-mt-nl-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-nl-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-nl-en",
+    "tags": []
+  },
+  {
+    "id": "bc286953-64d5-4b1a-8c86-c307dc9d869e",
+    "name": "OpenShot",
+    "description": "Open-source video editor with AI-powered features including auto-captions, voice enhancement, and automated video processing. Completely free with regular updates.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.openshot.org/",
+    "official_website": "https://www.openshot.org/",
+    "tags": []
+  },
+  {
+    "id": "bc8048cb366a",
+    "name": "Oracle Digital Assistant",
+    "description": "AI-powered conversational interface that enables enterprises to build chatbots and voice assistants. Includes natural language understanding, multi-channel deployment, and integration with Oracle applications.",
+    "category": "AI Agents & Automation",
+    "pricing": "Subscription",
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "official_website": "https://www.oracle.com/artificial-intelligence/",
+    "tags": []
+  },
+  {
+    "id": "c0d56759-ae40-46c7-b0fa-d2d04a7a6982",
+    "name": "ONNX",
+    "description": "Open neural network exchange format",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "c17da90a-2d7a-48a5-b6a3-50f55a839683",
+    "name": "opus-mt-af-en",
+    "description": "AI model opus-mt-af-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-en",
+    "tags": []
+  },
+  {
+    "id": "c22da16f6cf5",
+    "name": "opus-mt-ase-es",
+    "description": "AI model opus-mt-ase-es from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-es",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-es",
+    "tags": []
+  },
+  {
+    "id": "c2741d69-cef7-45cf-acbb-0dff6a00463e",
+    "name": "Optmyzr AI",
+    "description": "AI-powered PPC optimization platform",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "optmyzrai",
+    "official_website": "optmyzrai",
+    "tags": []
+  },
+  {
+    "id": "c27cf2b44bc2",
+    "name": "OctoComics",
+    "description": "AI comic creation tool.",
+    "category": "Images, Content Creation",
+    "pricing": "Free",
+    "url": "https://octocomics.ai",
+    "official_website": "https://octocomics.ai",
+    "tags": []
+  },
+  {
+    "id": "c27e98ea271c",
+    "name": "OpenAI Codex",
+    "description": "OpenAI's advanced code generation model that transforms natural language into functional code across multiple programming languages.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://openai.com/blog/openai-codex",
+    "official_website": "https://openai.com/blog/openai-codex",
+    "tags": [
+      "openai",
+      "code-generation",
+      "multi-language",
+      "codex",
+      "natural-language",
+      "api-based"
+    ]
+  },
+  {
+    "id": "c333ca12d553",
+    "name": "opus-mt-ase-en",
+    "description": "AI model opus-mt-ase-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-en",
+    "tags": []
+  },
+  {
+    "id": "c3a5542c-0055-40f8-a630-dd38df775961",
+    "name": "Orange",
+    "description": "AI-powered data analytics solution",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.orange.com",
+    "official_website": "https://www.orange.com",
+    "tags": []
+  },
+  {
+    "id": "ca90b852-42e4-40a6-8dd2-9ab116ecb59c",
+    "name": "opus-mt-ar-de",
+    "description": "AI model opus-mt-ar-de from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-de",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-de",
+    "tags": []
+  },
+  {
+    "id": "cbdcbaad-1252-4f41-ae88-d13fa1cb2e26",
+    "name": "Ordinary People Prompts",
+    "description": "Elevate AI interactions with curated, high-impact conversation prompts.",
+    "category": "Prompt Generators",
+    "pricing": "Unknown",
+    "url": "https://www.ordinarypeopleprompts.com/",
+    "official_website": "https://www.ordinarypeopleprompts.com/",
+    "tags": []
+  },
+  {
+    "id": "cbecf8e45f14",
+    "name": "OCEAN.IO",
+    "description": "AI-driven B2B prospecting with lookalike search and lead generation.",
+    "category": "B2B Prospecting",
+    "pricing": "Demo",
+    "url": "https://ocean.io/",
+    "official_website": "https://ocean.io/",
+    "tags": [
+      "b2b",
+      "prospecting"
+    ]
+  },
+  {
+    "id": "ce8068a932a9",
+    "name": "OCI Data Science",
+    "description": "Managed service for building, training, and deploying machine learning models on Oracle Cloud Infrastructure. Provides collaborative notebooks, automated ML, and MLOps capabilities for data science teams.",
+    "category": "ML Lifecycle Management",
+    "pricing": "Usage-based",
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "official_website": "https://www.oracle.com/artificial-intelligence/",
+    "tags": []
+  },
+  {
+    "id": "cfa447cf18cf",
+    "name": "opus-mt-ar-it",
+    "description": "AI model opus-mt-ar-it from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-it",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-it",
+    "tags": []
+  },
+  {
+    "id": "cfd534fe-3022-4dbc-bd48-efb4932b7cbe",
+    "name": "opus-mt-alv-en",
+    "description": "AI model opus-mt-alv-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-alv-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-alv-en",
+    "tags": []
+  },
+  {
+    "id": "d01a5c8f31b2",
+    "name": "Orchids",
+    "description": "AI SaaS platform",
+    "category": "Artificial Intelligence, SaaS",
+    "pricing": "Not Specified",
+    "url": "https://orchids.ai",
+    "official_website": "https://orchids.ai",
+    "tags": []
+  },
+  {
+    "id": "d23a222a-7592-42ec-9cac-626ff6c242a6",
+    "name": "Oracle NetSuite AI",
+    "description": "AI-powered enterprise resource planning",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "oraclenetsuiteai",
+    "official_website": "oraclenetsuiteai",
+    "tags": []
+  },
+  {
+    "id": "d4c24a1471a6",
+    "name": "optuna/optuna",
+    "description": "Optuna is an automatic hyperparameter optimisation software framework",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/optuna/optuna",
+    "official_website": "https://github.com/optuna/optuna",
+    "tags": []
+  },
+  {
+    "id": "d4e1dc9339ed",
+    "name": "opus-mt-am-sv",
+    "description": "AI model opus-mt-am-sv from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-am-sv",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-am-sv",
+    "tags": []
+  },
+  {
+    "id": "d72a0d9a-c867-4d72-9674-d5b292235dbf",
+    "name": "Ollama",
+    "description": "Get up and running with large language models locally - lightweight, extensible framework for building and running language models",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://ollama.com",
+    "official_website": "https://ollama.com",
+    "tags": []
+  },
+  {
+    "id": "d761379816ad",
+    "name": "OpenAI Playground",
+    "description": "Web-based tool to experiment with OpenAI models and prompts",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://platform.openai.com/playground",
+    "official_website": "https://platform.openai.com/playground",
+    "tags": []
+  },
+  {
+    "id": "d77d79e3eb65",
+    "name": "opt-125m",
+    "description": "AI model opt-125m from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/opt-125m",
+    "official_website": "https://huggingface.co/facebook/opt-125m",
+    "tags": []
+  },
+  {
+    "id": "d8132992d1b4",
+    "name": "Odyssey-2",
+    "description": "Real-time AI video generator at 20 FPS from prompts.",
+    "category": "Video",
+    "pricing": "Not Specified",
+    "url": "https://www.aixploria.com/out/Odyssey-2",
+    "official_website": "https://www.aixploria.com/out/Odyssey-2",
+    "tags": [
+      "video generation"
+    ]
+  },
+  {
+    "id": "d9025d18-6925-4eb2-a895-cd20e384c698",
+    "name": "opus-mt-ase-de",
+    "description": "AI model opus-mt-ase-de from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-de",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-de",
+    "tags": []
+  },
+  {
+    "id": "da376b117085",
+    "name": "OpenAI Quickstart",
+    "description": "Python example app from the OpenAI API quickstart tutorial - hosts multiple quickstart apps for different OpenAI API endpoints",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://platform.openai.com/docs/quickstart",
+    "official_website": "https://platform.openai.com/docs/quickstart",
+    "tags": [
+      "API key configuration with .env.example",
+      "Examples in examples folder for getting started with OpenAI API",
+      "Multiple quickstart apps for different OpenAI API endpoints",
+      "Basic request examples using OpenAI Python SDK",
+      "Comprehensive setup instructions with Python installation",
+      "Virtual environment creation and requirements installation"
+    ]
+  },
+  {
+    "id": "da87a1f16fc6",
+    "name": "opus-mt-zh-en",
+    "description": "AI model opus-mt-zh-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-zh-en",
+    "tags": []
+  },
+  {
+    "id": "dbff2dab-fc82-427a-8de2-9f46eadf4cba",
+    "name": "opus-mt-ar-el",
+    "description": "AI model opus-mt-ar-el from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-el",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-el",
+    "tags": []
+  },
+  {
+    "id": "dd72a69c0107",
+    "name": "Obsidian",
+    "description": "Academic writing and documentation tools for research projects",
+    "category": "Academic Writing",
+    "pricing": "Free/Commercial",
+    "url": "https://obsidian.com",
+    "official_website": "https://obsidian.com",
+    "tags": []
+  },
+  {
+    "id": "dd82e7955f01",
+    "name": "opus-mt-ar-fr",
+    "description": "AI model opus-mt-ar-fr from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-fr",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-fr",
+    "tags": []
+  },
+  {
+    "id": "dfce188f-d9e6-40a9-b81a-2f2d2def96b4",
+    "name": "opus-mt-ar-pl",
+    "description": "AI model opus-mt-ar-pl from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-pl",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-pl",
+    "tags": []
+  },
+  {
+    "id": "e1aa3b35-8d3b-4f86-a7e7-5c266138fd10",
+    "name": "Ollama Llama 3.1",
+    "description": "Local Llama 3.1 model",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://ollama.com",
+    "official_website": "https://ollama.com",
+    "tags": []
+  },
+  {
+    "id": "e1af2c4c-2ac2-4522-aa95-e0af576b2e93",
+    "name": "opus-mt-ase-sv",
+    "description": "AI model opus-mt-ase-sv from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-sv",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-sv",
+    "tags": []
+  },
+  {
+    "id": "e29871b10042",
+    "name": "openai-gpt",
+    "description": "AI model openai-gpt from openai-community on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai-community/openai-gpt",
+    "official_website": "https://huggingface.co/openai-community/openai-gpt",
+    "tags": []
+  },
+  {
+    "id": "e338f4105f76",
+    "name": "opus-mt-ar-el",
+    "description": "AI model opus-mt-ar-el from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-el",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-el",
+    "tags": []
+  },
+  {
+    "id": "e38a82669ecf",
+    "name": "opus-mt-ar-ru",
+    "description": "AI model opus-mt-ar-ru from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-ru",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-ru",
+    "tags": []
+  },
+  {
+    "id": "e485a1f6-cbbb-449d-95c5-a88229f31e66",
+    "name": "Ollama Mistral",
+    "description": "Local Mistral model",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://ollama.com",
+    "official_website": "https://ollama.com",
+    "tags": []
+  },
+  {
+    "id": "e53566b5736b",
+    "name": "opus-mt-de-en",
+    "description": "AI model opus-mt-de-en from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-de-en",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-de-en",
+    "tags": []
+  },
+  {
+    "id": "e6d8f2dc556d",
+    "name": "Otter.ai",
+    "description": "Your AI-Powered Assistant for Meeting Notes.",
+    "category": "Productivity, Team Collaboration",
+    "pricing": "Not specified",
+    "url": "https://otter.ai",
+    "official_website": "https://otter.ai",
+    "tags": []
+  },
+  {
+    "id": "e71dbb92-f08b-42ff-beea-4f48e29968ed",
+    "name": "Owkin Research",
+    "description": "Federated learning for healthcare",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://owkin.com",
+    "official_website": "https://owkin.com",
+    "tags": []
+  },
+  {
+    "id": "e72494f13a76",
+    "name": "opus-mt-af-sv",
+    "description": "AI model opus-mt-af-sv from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-af-sv",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-af-sv",
+    "tags": []
+  },
+  {
+    "id": "e7e60fcefd3e",
+    "name": "Ollama",
+    "description": "Get up and running with large language models locally - lightweight, extensible framework for building and running language models",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://ollama.com",
+    "official_website": "https://ollama.com",
+    "tags": [
+      "Support for OpenAI gpt-oss, DeepSeek-R1, Gemma 3, Llama, Phi, Mistral",
+      "Multimodal support with models like LLaVA for image analysis",
+      "Command-Line Interface for model management",
+      "REST API for programmatic access and chat generation",
+      "Model customization via Modelfile and importing GGUF/Safetensors",
+      "Based on llama.cpp backend for optimized performance",
+      "Wide ecosystem of UIs, integrations, and extensions",
+      "Official Python and JavaScript libraries for integration",
+      "Run large language models locally across platforms (macOS, Windows, Linux)",
+      "Extensive observability integrations"
+    ]
+  },
+  {
+    "id": "f00e0a71-9ef1-437e-b866-f126af61053c",
+    "name": "OptiSpace",
+    "description": "AI marketing analytics and optimization",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "optispace",
+    "official_website": "optispace",
+    "tags": []
+  },
+  {
+    "id": "f01cd5d2991b",
+    "name": "OCI Speech",
+    "description": "AI service for speech recognition and synthesis that converts audio to text and text to speech. Supports real-time processing and multiple languages for conversational AI applications.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "official_website": "https://www.oracle.com/artificial-intelligence/",
+    "tags": []
+  },
+  {
+    "id": "f074b0d896ce",
+    "name": "OCI Vision",
+    "description": "AI service that provides image recognition and analysis capabilities including object detection, text extraction, and facial recognition. Supports custom model training and batch processing for enterprise applications.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "official_website": "https://www.oracle.com/artificial-intelligence/",
+    "tags": []
+  },
+  {
+    "id": "f0da9c72b168",
+    "name": "opus-mt-ase-de",
+    "description": "AI model opus-mt-ase-de from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-de",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ase-de",
+    "tags": []
+  },
+  {
+    "id": "f109326da9e8",
+    "name": "Oracle Analytics Cloud",
+    "description": "Cloud-based analytics platform that provides business intelligence, data visualization, and machine learning capabilities. Includes AI-powered insights and automated analytics for enterprise decision-making.",
+    "category": "Data & Analytics AI",
+    "pricing": "Subscription",
+    "url": "https://www.oracle.com/analytics-cloud/",
+    "official_website": "https://www.oracle.com/analytics-cloud/",
+    "tags": []
+  },
+  {
+    "id": "f22de4496f58",
+    "name": "opus-mt-ar-de",
+    "description": "AI model opus-mt-ar-de from Helsinki-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-de",
+    "official_website": "https://huggingface.co/Helsinki-NLP/opus-mt-ar-de",
+    "tags": []
+  },
+  {
+    "id": "f230def75f7d",
+    "name": "Overleaf",
+    "description": "Academic writing and documentation tools for research projects",
+    "category": "Academic Writing",
+    "pricing": "Free/Commercial",
+    "url": "https://overleaf.com",
+    "official_website": "https://overleaf.com",
+    "tags": []
+  },
+  {
+    "id": "f2a5a4f8-fef0-42f7-a050-29834eae3014",
+    "name": "OpenAI Quickstart",
+    "description": "Python example app from the OpenAI API quickstart tutorial - hosts multiple quickstart apps for different OpenAI API endpoints",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://platform.openai.com/docs/quickstart",
+    "official_website": "https://platform.openai.com/docs/quickstart",
+    "tags": []
+  },
+  {
+    "id": "f5528ea5-d66d-4fdf-b48b-5d6f7ff99918",
+    "name": "OpenAI Cookbook",
+    "description": "Example code and prompts for accomplishing common tasks with the OpenAI API. To try the examples yourself, you'll need an OpenAI account.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/openai-cookbook",
+    "official_website": "https://www.producthunt.com/products/openai-cookbook",
+    "tags": []
+  },
+  {
+    "id": "f5a87a23-dfd7-429c-826b-c143d12eca6d",
+    "name": "OpenAI Moderation",
+    "description": "AI-powered content moderation",
+    "category": "Content Moderation",
+    "pricing": "Freemium",
+    "url": "https://openai.com",
+    "official_website": "https://openai.com",
+    "tags": []
+  }
+]

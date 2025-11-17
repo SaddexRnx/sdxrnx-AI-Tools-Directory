@@ -1,0 +1,4059 @@
+[
+  {
+    "id": "002c50a9-cfec-45d4-ba1a-0c8583bafc7c",
+    "name": "Gaming Tool 13",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming13.com",
+    "official_website": "https://gaming13.com",
+    "tags": []
+  },
+  {
+    "id": "00bb93fd7e0c",
+    "name": "Grok",
+    "description": "AI image generation tool, 100% free alternative to Midjourney.",
+    "category": "Image",
+    "pricing": "Free",
+    "url": "https://grok.com/",
+    "official_website": "https://grok.com/",
+    "tags": [
+      "image generation"
+    ]
+  },
+  {
+    "id": "01168b72f576",
+    "name": "gpt-oss-20b",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/gpt-oss-20b",
+    "official_website": "https://huggingface.co/openai/gpt-oss-20b",
+    "tags": []
+  },
+  {
+    "id": "0269d8b7-6a63-4de6-860d-9147a26f8cbd",
+    "name": "Gaming Tool 21",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming21.com",
+    "official_website": "https://gaming21.com",
+    "tags": []
+  },
+  {
+    "id": "02da46b8-7b4d-44a3-871e-7993d951529e",
+    "name": "Grammarly",
+    "description": "AI writing assistant for grammar and style",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "grammarly",
+    "official_website": "grammarly",
+    "tags": []
+  },
+  {
+    "id": "02f253cb28a5",
+    "name": "gte-large-en-v1.5",
+    "description": "AI model gte-large-en-v1.5 from Alibaba-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
+    "official_website": "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
+    "tags": []
+  },
+  {
+    "id": "04abcb93c3a4",
+    "name": "Google AI Research",
+    "description": "Specialized AI tool for emerging ai applications",
+    "category": "Emerging AI",
+    "pricing": "Open Source",
+    "url": "https://googleairesearch.com",
+    "official_website": "https://googleairesearch.com",
+    "tags": []
+  },
+  {
+    "id": "05320812-322d-4bc1-8d97-2897d9629606",
+    "name": "Glitch",
+    "description": "Simple online coding",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://fogcreek.com",
+    "official_website": "https://fogcreek.com",
+    "tags": []
+  },
+  {
+    "id": "058c3fcfd61d",
+    "name": "GoodData",
+    "description": "Embedded analytics platform with scalable architecture, open APIs, and multi-tenant design. Features AI-powered recommendations and pre-built connectors for rapid integration.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://www.gooddata.com/",
+    "official_website": "https://www.gooddata.com/",
+    "tags": [
+      "scalable",
+      "open-apis",
+      "embedded-analytics",
+      "ai-recommendations",
+      "pre-built-connectors",
+      "multi-tenant"
+    ]
+  },
+  {
+    "id": "06de03bb3b73",
+    "name": "GRASS GIS",
+    "description": "Specialized AI tool for geographic analysis applications",
+    "category": "Geographic Analysis",
+    "pricing": "Open Source",
+    "url": "https://grassgis.com",
+    "official_website": "https://grassgis.com",
+    "tags": []
+  },
+  {
+    "id": "06f19ddbd262",
+    "name": "Google Dataset Search",
+    "description": "Search engine for datasets across thousands of repositories on the web",
+    "category": "Dataset Tool",
+    "pricing": "Free",
+    "url": "https://datasetsearch.research.google.com",
+    "official_website": "https://datasetsearch.research.google.com",
+    "tags": []
+  },
+  {
+    "id": "07202440-90a5-478b-8f9d-623d821c6220",
+    "name": "Google Data Studio AI",
+    "description": "Data visualization platform with AI-powered insights and reports",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://datastudio.google.com/",
+    "official_website": "https://datastudio.google.com/",
+    "tags": []
+  },
+  {
+    "id": "07d3c957-ab00-4b68-971f-a2e4192ef910",
+    "name": "Gong.io",
+    "description": "AI conversation analytics for teams",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "https://gong.io",
+    "official_website": "https://gong.io",
+    "tags": []
+  },
+  {
+    "id": "088ca840-8d84-4b96-a853-87edcb9c7fd8",
+    "name": "Gaming Tool 7",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming7.com",
+    "official_website": "https://gaming7.com",
+    "tags": []
+  },
+  {
+    "id": "0a31d62b-0926-4fe1-943c-3146c07bf973",
+    "name": "Gaming Tool 18",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming18.com",
+    "official_website": "https://gaming18.com",
+    "tags": []
+  },
+  {
+    "id": "0ac7c8a5-f0e7-471f-ab01-34fc94bb5271",
+    "name": "Gaming Tool 8",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming8.com",
+    "official_website": "https://gaming8.com",
+    "tags": []
+  },
+  {
+    "id": "0bc0f8f9-e8fb-47ab-ae85-6d6a579d32ec",
+    "name": "Gaming Tool 12",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming12.com",
+    "official_website": "https://gaming12.com",
+    "tags": []
+  },
+  {
+    "id": "0bca116c-e08f-44f1-9c1f-0ddc34fce0c7",
+    "name": "Google Cloud Text-to-Speech",
+    "description": "Google Cloud's text-to-speech API offering 220+ voices in 40+ languages. Features WaveNet, Neural2, Studio voices, and advanced customization with SSML support for enterprise applications.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://cloud.google.com/text-to-speech/",
+    "official_website": "https://cloud.google.com/text-to-speech/",
+    "tags": []
+  },
+  {
+    "id": "0be9e0db-1524-4864-90d3-d53884bfabd2",
+    "name": "Ghibli ChatGPT",
+    "description": "Create Unlimited Studio Ghibli-Style Artwork with AI",
+    "category": "AI Anime & Cartoon Generator",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/ghibli-chatgpt",
+    "official_website": "https://freeaitool.ai/tool/ghibli-chatgpt",
+    "tags": []
+  },
+  {
+    "id": "0c7e7990-c203-4ee2-91c0-7f20d266d180",
+    "name": "Gitpod",
+    "description": "Cloud development environments",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://typefox.com",
+    "official_website": "https://typefox.com",
+    "tags": []
+  },
+  {
+    "id": "0dc36e01-547e-430a-8732-71d35e27ab16",
+    "name": "Google Sites AI",
+    "description": "Website builder with AI-powered design and content assistance",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://sites.google.com/",
+    "official_website": "https://sites.google.com/",
+    "tags": []
+  },
+  {
+    "id": "0e2f4b42-8422-4c1d-b240-c4239779364f",
+    "name": "Google Analytics 4 (GA4)",
+    "description": "Google's advanced AI-powered analytics platform with event-driven data model offering cross-platform tracking, enhanced privacy controls, predictive analytics, and advanced reporting. Features seamless Google Ads integration and BigQuery export.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://analytics.google.com/",
+    "official_website": "https://analytics.google.com/",
+    "tags": []
+  },
+  {
+    "id": "0e9ea397898a",
+    "name": "Google Cloud AI Explanations",
+    "description": "Toolkit for understanding how machine learning models make predictions. Provides feature attribution, example-based explanations, and counterfactual analysis to improve model interpretability.",
+    "category": "AI Security & Governance",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/explainable-ai",
+    "official_website": "https://cloud.google.com/explainable-ai",
+    "tags": []
+  },
+  {
+    "id": "0ebcdc7b-c587-422a-ab6d-94fcb35c5f4e",
+    "name": "genei",
+    "description": "AI-powered research tool with document analysis, summarization capabilities, citation management, and academic research assistance for students and researchers.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.genei.io",
+    "official_website": "https://www.genei.io",
+    "tags": []
+  },
+  {
+    "id": "0ecfd4703152",
+    "name": "GenePattern",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://genepattern.com",
+    "official_website": "https://genepattern.com",
+    "tags": []
+  },
+  {
+    "id": "0ee6e9a6-d01c-4434-a3e6-ac88de5fba2e",
+    "name": "Genpire",
+    "description": "Genpire is an AI-powered tech pack generator that transforms product ideas, sketches, or descriptions into comprehensive manufacturing specifications across multiple industries including fashion, furniture, toys, and beauty products. The tool leverages artificial intelligence to automatically create detailed tech packs containing essential information such as material requirements, construction details, sizing charts, assembly instructions, and regulatory compliance data. Designers, manufacturer",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/genpire-com",
+    "official_website": "https://futuretools.link/genpire-com",
+    "tags": []
+  },
+  {
+    "id": "0f639630-cdf1-4df1-8216-6938ae5b0521",
+    "name": "Geekflare AI",
+    "description": "Geekflare AI is a comprehensive business platform that unifies access to multiple AI models from providers like OpenAI, Google, Anthropic, and Perplexity within a single workspace. This AI management hub enables teams to seamlessly switch between different AI models, collaborate effectively, and maintain organized records of all AI interactions without juggling multiple tools or interfaces. The platform allows businesses to bring their own API keys while providing centralized governance, ensurin",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/geekflare-comai",
+    "official_website": "https://futuretools.link/geekflare-comai",
+    "tags": []
+  },
+  {
+    "id": "10366d36-03df-417d-ab94-df1af531d7de",
+    "name": "Gaming Tool 15",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming15.com",
+    "official_website": "https://gaming15.com",
+    "tags": []
+  },
+  {
+    "id": "10508c3ef012",
+    "name": "Google Optimize",
+    "description": "AI-driven testing and personalization tool that carries out A/B tests, multivariate tests, and redirect tests to optimize website performance. Integrates with Google Analytics for comprehensive testing and optimization workflows.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://optimize.google.com/",
+    "official_website": "https://optimize.google.com/",
+    "tags": [
+      "redirect testing",
+      "ab testing",
+      "multivariate testing",
+      "ai-driven",
+      "google analytics",
+      "performance optimization"
+    ]
+  },
+  {
+    "id": "117915e14247",
+    "name": "gemma-3-1b-it",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/gemma-3-1b-it",
+    "official_website": "https://huggingface.co/google/gemma-3-1b-it",
+    "tags": []
+  },
+  {
+    "id": "134757e0-430b-473e-b665-08687353fdac",
+    "name": "Gaming Tool 26",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming26.com",
+    "official_website": "https://gaming26.com",
+    "tags": []
+  },
+  {
+    "id": "13ebbc07-a9ed-4a7a-95c1-6c6eda719d6d",
+    "name": "GitHub Copilot",
+    "description": "AI-powered coding assistant by GitHub and OpenAI that provides real-time code suggestions, completions, and helps with debugging across dozens of programming languages.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://github.com/features/copilot",
+    "official_website": "https://github.com/features/copilot",
+    "tags": []
+  },
+  {
+    "id": "1476c5920d65",
+    "name": "GLiNER",
+    "description": "Identify named entities in text with advanced NLP capabilities.",
+    "category": "NLP",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/urchade/gliner_multiv2.1",
+    "official_website": "https://huggingface.co/spaces/urchade/gliner_multiv2.1",
+    "tags": [
+      "ner",
+      "nlp"
+    ]
+  },
+  {
+    "id": "1624e3b139e6",
+    "name": "Google Cloud Speech-to-Text Enhanced",
+    "description": "Advanced version of Speech-to-Text with enhanced models for phone conversations and video transcription. Includes speaker diarization, word-level timestamps, and custom vocabulary features.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/speech-to-text/enhanced-models",
+    "official_website": "https://cloud.google.com/speech-to-text/enhanced-models",
+    "tags": []
+  },
+  {
+    "id": "16832a013f32",
+    "name": "Google BigQuery ML",
+    "description": "Feature of BigQuery that enables developers to create and execute machine learning models using standard SQL queries. Supports various model types including regression, classification, and deep learning models.",
+    "category": "ML Lifecycle Management",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/bigquery-ml",
+    "official_website": "https://cloud.google.com/bigquery-ml",
+    "tags": []
+  },
+  {
+    "id": "168935db-bc4a-4ebe-b179-ceb2e5601227",
+    "name": "Getimg AI",
+    "description": "Everything you need to create images with AI",
+    "category": "Design",
+    "pricing": "Unknown",
+    "url": "https://aihubs.ai/item/getimg-ai",
+    "official_website": "https://aihubs.ai/item/getimg-ai",
+    "tags": []
+  },
+  {
+    "id": "17a5b1c2-6c62-4695-a977-e2456dec0fea",
+    "name": "Google Workspace AI",
+    "description": "AI-powered productivity suite including Gmail, Docs, Sheets, and more",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://workspace.google.com/products",
+    "official_website": "https://workspace.google.com/products",
+    "tags": []
+  },
+  {
+    "id": "1872a9e0b1ab",
+    "name": "genei",
+    "description": "AI-powered research tool with document analysis, summarization capabilities, citation management, and academic research assistance for students and researchers.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.genei.io",
+    "official_website": "https://www.genei.io",
+    "tags": [
+      "document-analysis",
+      "summarization",
+      "research-tool",
+      "citation-management",
+      "academic-research"
+    ]
+  },
+  {
+    "id": "18f44d6e-542a-4df2-b9e5-b0c6a9d4549e",
+    "name": "GitHub Copilot Workspace",
+    "description": "AI-powered development environment within GitHub for repository analysis, code generation, and collaborative development workflows.",
+    "category": "AI Code Assistant",
+    "pricing": "Premium",
+    "url": "https://github.com/features/copilot/copilot-workspace",
+    "official_website": "https://github.com/features/copilot/copilot-workspace",
+    "tags": []
+  },
+  {
+    "id": "1b42d099-e61d-4d3f-8c58-dfa50514ee66",
+    "name": "Gaming Tool 34",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming34.com",
+    "official_website": "https://gaming34.com",
+    "tags": []
+  },
+  {
+    "id": "1d30aa80-7449-46ec-ae67-33376a7b779c",
+    "name": "Google Structured Data",
+    "description": "Web markup technology with AI-powered content understanding",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data",
+    "official_website": "https://developers.google.com/search/docs/appearance/structured-data",
+    "tags": []
+  },
+  {
+    "id": "1feac0ee9c74",
+    "name": "gpt-oss-120b-GGUF",
+    "description": "AI model gpt-oss-120b-GGUF from unsloth on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/unsloth/gpt-oss-120b-GGUF",
+    "official_website": "https://huggingface.co/unsloth/gpt-oss-120b-GGUF",
+    "tags": []
+  },
+  {
+    "id": "206d4d4a-5190-4b09-9c1e-a2ca38159450",
+    "name": "Grammarly Business",
+    "description": "Enterprise AI writing assistance solution for teams of all sizes. Combines AI with organizational knowledge to enhance communication, accelerate productivity, and ensure brand consistency. Features unlimited AI prompts, style guides, brand tones, and admin controls.",
+    "category": "AI Writing Tools",
+    "pricing": "Premium",
+    "url": "https://www.grammarly.com/business",
+    "official_website": "https://www.grammarly.com/business",
+    "tags": []
+  },
+  {
+    "id": "221dcbc3700d",
+    "name": "Grokipedia",
+    "description": "100% AI encyclopedia with over 880,000 topics, founded by xAI.",
+    "category": "Education",
+    "pricing": "Free",
+    "url": "https://www.aixploria.com/out/Grokipedia",
+    "official_website": "https://www.aixploria.com/out/Grokipedia",
+    "tags": [
+      "education",
+      "encyclopedia"
+    ]
+  },
+  {
+    "id": "223d309c44ed",
+    "name": "Google Cloud Contact Center AI",
+    "description": "AI-powered contact center solution that provides virtual agents, call summarization, and sentiment analysis. Integrates with existing contact center infrastructure to improve customer experience.",
+    "category": "AI Agents & Automation",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/solutions/contact-center",
+    "official_website": "https://cloud.google.com/solutions/contact-center",
+    "tags": []
+  },
+  {
+    "id": "22fce554-5b6c-404f-89d4-d6bb11da4ecc",
+    "name": "Gladia",
+    "description": "Gladia Speech-To-Text is an AI-powered transcription platform that converts audio and video into highly accurate text across 99 languages in both real-time and asynchronous modes. The tool leverages an advanced hybrid ASR system called Whisper-Zero which significantly improves upon OpenAI's Whisper model by reducing hallucinations and enhancing accuracy. Beyond basic transcription, Gladia offers sophisticated audio intelligence capabilities including speaker diarization, sentiment analysis, topi",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/gladia-io",
+    "official_website": "https://futuretools.link/gladia-io",
+    "tags": []
+  },
+  {
+    "id": "236ea28e-308a-49a7-91b0-b96f4927d377",
+    "name": "Grammarly",
+    "description": "Grammarly's powerful AI features can supercharge your writing productivity. Fine-tune your tone, get on-point draft suggestions, rework your content, and create killer email management flows",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/grammarly",
+    "official_website": "https://link.aitoolsdirectory.com/grammarly",
+    "tags": []
+  },
+  {
+    "id": "23eb1b2d-8ae0-4cdd-a526-099c1b65d61f",
+    "name": "Google Play AI",
+    "description": "App recommendations and discovery powered by AI",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://play.google.com/store",
+    "official_website": "https://play.google.com/store",
+    "tags": []
+  },
+  {
+    "id": "2468c5ed8dde",
+    "name": "GitHub Models",
+    "description": "Manage and compare prompts",
+    "category": "AI CODE CREATION",
+    "pricing": "Not Specified",
+    "url": "https://github.com/features/models",
+    "official_website": "https://github.com/features/models",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "26679edcd2c7",
+    "name": "Google Cloud Document AI",
+    "description": "AI service that extracts information from documents using OCR, entity extraction, and form parsing. Supports custom model training and provides confidence scores for extracted information.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/document-ai",
+    "official_website": "https://cloud.google.com/document-ai",
+    "tags": []
+  },
+  {
+    "id": "2669d2d3-c5db-4d0b-8f5f-a259218c643d",
+    "name": "General Electric AI",
+    "description": "Industrial AI and energy",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://generalelectric.com",
+    "official_website": "https://generalelectric.com",
+    "tags": []
+  },
+  {
+    "id": "26943e86-69c0-4afd-8c8c-adc945995c93",
+    "name": "Google Cloud AI Platform",
+    "description": "Comprehensive AI and machine learning platform on Google Cloud with pre-trained models, AutoML, TensorFlow integration, and scalable infrastructure for AI development and deployment.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://cloud.google.com/ai-platform",
+    "official_website": "https://cloud.google.com/ai-platform",
+    "tags": []
+  },
+  {
+    "id": "281377c2-3964-4a5d-9fb3-8fb6e3326bc6",
+    "name": "GPy",
+    "description": "Gaussian processes framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://sheffield.com",
+    "official_website": "https://sheffield.com",
+    "tags": []
+  },
+  {
+    "id": "28dee6ea-cad5-482a-bee1-227ac037728b",
+    "name": "Gaming Tool 39",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming39.com",
+    "official_website": "https://gaming39.com",
+    "tags": []
+  },
+  {
+    "id": "28f87f09-a869-4ec7-b9ed-6abde968657d",
+    "name": "Gaming Tool 5",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming5.com",
+    "official_website": "https://gaming5.com",
+    "tags": []
+  },
+  {
+    "id": "299634ac-c678-4083-a935-22c384dc85ea",
+    "name": "Google Podcasts AI",
+    "description": "Podcast platform with AI-powered discovery and recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://podcasts.google.com/",
+    "official_website": "https://podcasts.google.com/",
+    "tags": []
+  },
+  {
+    "id": "299684ce-4cce-40ab-9ab7-f7cb6554e66f",
+    "name": "Google Firebase",
+    "description": "Development platform for web/mobile",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "29d9949515ba",
+    "name": "GoogleCloudPlatform/mlops-on-gcp",
+    "description": "ML Engineering on Google Cloud Platform - hands-on labs and code samples",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/GoogleCloudPlatform/mlops-on-gcp",
+    "official_website": "https://github.com/GoogleCloudPlatform/mlops-on-gcp",
+    "tags": []
+  },
+  {
+    "id": "29d9be7c-000e-4bad-b0f7-1c5bccb4c1ef",
+    "name": "Gumloop",
+    "description": "Gumloop is a no-code platform for building powerful AI automations. Our no-code visual builder lets users create reliable, cost-effective, intuitive AI-powered automation. Tackle complex repetitive work for your business end-to-end.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/gumloop",
+    "official_website": "https://www.producthunt.com/products/gumloop",
+    "tags": []
+  },
+  {
+    "id": "2b5e9420-3010-4e20-9d91-3675075fa22a",
+    "name": "Gaming Tool 22",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming22.com",
+    "official_website": "https://gaming22.com",
+    "tags": []
+  },
+  {
+    "id": "2bd272b627e0",
+    "name": "Gong",
+    "description": "Transform sales data into actionable insights, optimize revenue growth.",
+    "category": "Sales Assistant, Customer Support",
+    "pricing": "Contact for Pricing",
+    "url": "https://www.gong.io/",
+    "official_website": "https://www.gong.io/",
+    "tags": []
+  },
+  {
+    "id": "2cbee5cf-4d49-4884-b784-d15d89bee0c0",
+    "name": "Google Weather AI",
+    "description": "Weather information platform with AI-powered forecasting and insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://weather.google.com/",
+    "official_website": "https://weather.google.com/",
+    "tags": []
+  },
+  {
+    "id": "30ce7e4a-fbad-4d58-82c2-4a7235ab6740",
+    "name": "gemma-7b",
+    "description": "AI model gemma-7b from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/google/gemma-7b",
+    "official_website": "https://huggingface.co/google/gemma-7b",
+    "tags": []
+  },
+  {
+    "id": "313da1d9e84a",
+    "name": "Google Analytics 4",
+    "description": "Latest version of Google Analytics with enhanced e-commerce tracking, cross-platform measurement, predictive metrics, and integration with Google Marketing Platform and Google Ads.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://analytics.google.com/",
+    "official_website": "https://analytics.google.com/",
+    "tags": [
+      "enhanced-ecommerce",
+      "predictive-metrics",
+      "google-marketing-platform",
+      "cross-platform-measurement",
+      "latest-google-analytics",
+      "google-ads"
+    ]
+  },
+  {
+    "id": "31d846a6-d971-42f1-9478-b114fcaf35b1",
+    "name": "Gemma 2 27B Instruct",
+    "description": "Google's open source model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "32ba85bd-639f-44d2-8b75-a02c6d9f8d74",
+    "name": "GitHub Copilot",
+    "description": "AI coding assistant by GitHub and OpenAI",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "githubcopilot",
+    "official_website": "githubcopilot",
+    "tags": []
+  },
+  {
+    "id": "32ecfc1c9e25",
+    "name": "gpt-oss-120b",
+    "description": "AI model gpt-oss-120b from openai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/gpt-oss-120b",
+    "official_website": "https://huggingface.co/openai/gpt-oss-120b",
+    "tags": []
+  },
+  {
+    "id": "33904ffbf73e",
+    "name": "Google BigQuery",
+    "description": "Serverless, highly scalable data warehouse with built-in machine learning, real-time analytics, and integration with Google Cloud ecosystem. Supports petabyte-scale data analysis with SQL.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://cloud.google.com/bigquery",
+    "official_website": "https://cloud.google.com/bigquery",
+    "tags": [
+      "google-cloud",
+      "built-in-ml",
+      "serverless-data-warehouse",
+      "sql-analytics",
+      "petabyte-scale",
+      "real-time-analytics"
+    ]
+  },
+  {
+    "id": "3409c41f-2f73-40dd-964c-e870daf92202",
+    "name": "GPT 4o",
+    "description": "GPT 4o achieving real-time audiovisual responses, emotional audio outputs, and is a more powerful model than GPT 4. All users can use it for free.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/gpt-4o",
+    "official_website": "https://www.producthunt.com/products/gpt-4o",
+    "tags": []
+  },
+  {
+    "id": "35406cfce8d7",
+    "name": "GitHub Copilot Workspace",
+    "description": "AI-powered development environment within GitHub for repository analysis, code generation, and collaborative development workflows.",
+    "category": "Coding",
+    "pricing": "Premium",
+    "url": "https://github.com/features/copilot/copilot-workspace",
+    "official_website": "https://github.com/features/copilot/copilot-workspace",
+    "tags": [
+      "ai-environment",
+      "repository-analysis",
+      "collaborative-development",
+      "enterprise-workflows",
+      "repo-understanding",
+      "github"
+    ]
+  },
+  {
+    "id": "35b182fe-9877-4f94-89e3-ce5e81760866",
+    "name": "Gaming Tool 33",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming33.com",
+    "official_website": "https://gaming33.com",
+    "tags": []
+  },
+  {
+    "id": "35e62847-13b6-4b9d-80fb-184f53ec7886",
+    "name": "Google Science Journal AI",
+    "description": "Scientific research platform with AI-powered data analysis",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://sciencejournal.withgoogle.com/",
+    "official_website": "https://sciencejournal.withgoogle.com/",
+    "tags": []
+  },
+  {
+    "id": "36338ebf-09d8-41fa-af7a-85c87d1f46c7",
+    "name": "Google Calendar AI",
+    "description": "Smart calendar with intelligent scheduling and event management",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://calendar.google.com/",
+    "official_website": "https://calendar.google.com/",
+    "tags": []
+  },
+  {
+    "id": "36c6b1c3e47c",
+    "name": "Google Cloud AutoML",
+    "description": "ML tools for developers with minimal ML knowledge to create custom models.",
+    "category": "AutoML",
+    "pricing": "Pay-per-use",
+    "url": "https://cloud.google.com/automl",
+    "official_website": "https://cloud.google.com/automl",
+    "tags": [
+      "automl",
+      "google"
+    ]
+  },
+  {
+    "id": "3773e94ad044",
+    "name": "Grammarly",
+    "description": "Grammarly is a technology company that develops a digital writing tool using artificial intelligence and natural language processing. The Grammarly Keyboard goes where you go to make sure your writing always looks great.",
+    "category": "Writing assistants",
+    "pricing": "Not Specified",
+    "url": "https://www.grammarly.com",
+    "official_website": "https://www.grammarly.com",
+    "tags": []
+  },
+  {
+    "id": "38643222-3e3e-4a90-93dc-85ee7685668f",
+    "name": "Google Scholar AI",
+    "description": "Academic search engine with AI-powered research insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://scholar.google.com/",
+    "official_website": "https://scholar.google.com/",
+    "tags": []
+  },
+  {
+    "id": "3931d9d3-3d0c-43bf-a926-4f30c5d73e14",
+    "name": "GrapesJS",
+    "description": "GrapesJS is a free open source web template editor framework that lets users build web pages landing pages email templates and newsletters through a visual drag and drop interface requiring no coding while its core features focus on flexible template design and clean code export GrapesJS also now includes AI powered tools such as automated website generation website cloning and point and click content editing in its Studio Beta enabling users to create and modify designs even faster and more int",
+    "category": "General",
+    "pricing": "Free",
+    "url": "https://futuretools.link/grapesjs-com",
+    "official_website": "https://futuretools.link/grapesjs-com",
+    "tags": []
+  },
+  {
+    "id": "394ce333b448",
+    "name": "Gemini for Google Workspace",
+    "description": "AI features integrated into Google products.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://workspace.google.com/",
+    "official_website": "https://workspace.google.com/",
+    "tags": [
+      "productivity",
+      "workspace"
+    ]
+  },
+  {
+    "id": "3a543f83-0fd4-4f9a-8c92-7b7680e996c3",
+    "name": "Google Sheets AI",
+    "description": "Spreadsheet application with AI-powered data analysis and insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://sheets.google.com/",
+    "official_website": "https://sheets.google.com/",
+    "tags": []
+  },
+  {
+    "id": "3aababe6-16f8-4e49-8d58-4ee3028979ab",
+    "name": "Gusto",
+    "description": "Payroll and HR platform with AI-powered tax optimization and compliance",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://gusto.com",
+    "official_website": "https://gusto.com",
+    "tags": []
+  },
+  {
+    "id": "3be013e9-1825-4995-b689-04988dcae28d",
+    "name": "Gemini",
+    "description": "Google most capable AI model",
+    "category": "AI Chatbots",
+    "pricing": "Freemium",
+    "url": "https://gemini.google.com",
+    "official_website": "https://gemini.google.com",
+    "tags": []
+  },
+  {
+    "id": "3c2b230b253f",
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer that's become standard in developer ecosystem",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://github.com/features/copilot",
+    "official_website": "https://github.com/features/copilot",
+    "tags": []
+  },
+  {
+    "id": "3c3c9274448a",
+    "name": "Gling",
+    "description": "Cut silences & bad takes, freeing up time to create videos.",
+    "category": "Video Editing, Social Media",
+    "pricing": "Freemium",
+    "url": "https://gling.ai/",
+    "official_website": "https://gling.ai/",
+    "tags": []
+  },
+  {
+    "id": "3d3a21b9-2bdb-4115-9119-087db1496c91",
+    "name": "Google SafeSearch",
+    "description": "Search content filtering",
+    "category": "Content Moderation",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "3dc35f01-be16-45a9-8b9c-d5a64029c157",
+    "name": "GPT-4",
+    "description": "OpenAI's most advanced language model",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gpt-4",
+    "official_website": "gpt-4",
+    "tags": []
+  },
+  {
+    "id": "3de96846-ab2a-4ff5-8438-4d74ee068061",
+    "name": "Google AI Studio",
+    "description": "AI development studio by Google",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/google",
+    "official_website": "https://www.producthunt.com/products/google",
+    "tags": []
+  },
+  {
+    "id": "3ec927393f95",
+    "name": "GetResponse AI Builder",
+    "description": "Email marketing platform with fully functional AI landing page creator. Features AI landing page builder, AI website builder, AI email generator, AI subject line generator, course creator, mobile app, and e-commerce tracking with segmentation.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.getresponse.com/",
+    "official_website": "https://www.getresponse.com/",
+    "tags": [
+      "ai creator",
+      "landing page builder",
+      "ecommerce",
+      "course creator",
+      "segmentation",
+      "email marketing"
+    ]
+  },
+  {
+    "id": "4013c72a-c114-4649-a6b2-d739808035e7",
+    "name": "GratiTune",
+    "description": "GratiTune is a one-of-a-kind application that combines gratitude writing with peaceful mood tracks. Express gratitude by writing while listening to well selected music. Accept the transformational power of mindfulness and joy.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/gratitune",
+    "official_website": "https://www.producthunt.com/products/gratitune",
+    "tags": []
+  },
+  {
+    "id": "401a241f7f03",
+    "name": "Google Cloud Natural Language AI",
+    "description": "AI service that provides natural language understanding capabilities including entity extraction, sentiment analysis, text classification, and syntax analysis using Google's machine learning models.",
+    "category": "Data & Analytics AI",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/natural-language",
+    "official_website": "https://cloud.google.com/natural-language",
+    "tags": []
+  },
+  {
+    "id": "41ea3bf1-2be7-47bf-a862-620f4587108e",
+    "name": "GAIO DataOS",
+    "description": "Gaio DataOS is a comprehensive data operating system that unifies enterprise data management, analytics, and AI capabilities into a single platform. This all-in-one solution integrates data from multiple sources and enables users to prepare, transform, analyze, and visualize information through an intuitive interface. What sets Gaio apart is its embedded AI functionality that delivers AutoML capabilities, allowing even non-technical users to build, train and deploy machine learning models withou",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/gaiodataos-com",
+    "official_website": "https://futuretools.link/gaiodataos-com",
+    "tags": []
+  },
+  {
+    "id": "41f3653dcb37",
+    "name": "GPTGO",
+    "description": "Unleash AI's power: intuitive, customizable, content-to-code generation.",
+    "category": "Search Engine, Research",
+    "pricing": "Free",
+    "url": "https://googpt.ai/",
+    "official_website": "https://googpt.ai/",
+    "tags": []
+  },
+  {
+    "id": "42242015-6629-468b-b919-b4ea4b48fdf8",
+    "name": "Google AI Code Assist",
+    "description": "AI-powered code completion and assistance for professional developers",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/ai/code-assist",
+    "official_website": "https://cloud.google.com/ai/code-assist",
+    "tags": []
+  },
+  {
+    "id": "426e6819-afd6-4b92-a1ff-b4d7a3efd738",
+    "name": "Google Research Language",
+    "description": "Shared repository for open-sourced projects from the Google AI Language team",
+    "category": "Natural Language Processing",
+    "pricing": "Unknown",
+    "url": "https://ai.google/research/teams/language/",
+    "official_website": "https://ai.google/research/teams/language/",
+    "tags": []
+  },
+  {
+    "id": "430047fb-6877-4a4b-a654-7ab6a7f1b2db",
+    "name": "GoodData",
+    "description": "Embedded analytics platform with scalable architecture, open APIs, and multi-tenant design. Features AI-powered recommendations and pre-built connectors for rapid integration.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://www.gooddata.com/",
+    "official_website": "https://www.gooddata.com/",
+    "tags": []
+  },
+  {
+    "id": "43b4c773823b",
+    "name": "graviraja/MLOps-Basics",
+    "description": "MLOps-Basics - Introduction to MLOps concepts",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "official_website": "https://github.com/graviraja/MLOps-Basics",
+    "tags": []
+  },
+  {
+    "id": "446449b6c080",
+    "name": "GratiTune",
+    "description": "GratiTune is a one-of-a-kind application that combines gratitude writing with peaceful mood tracks. Express gratitude by writing while listening to well selected music. Accept the transformational power of mindfulness and joy.",
+    "category": "Writing assistants, Meditation apps, Mental Health",
+    "pricing": "Not Specified",
+    "url": "https://gratitune.com",
+    "official_website": "https://gratitune.com",
+    "tags": []
+  },
+  {
+    "id": "45918f45-48df-4d09-8882-579104d2176b",
+    "name": "Gaming Tool 42",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming42.com",
+    "official_website": "https://gaming42.com",
+    "tags": []
+  },
+  {
+    "id": "45f8c14f51e3",
+    "name": "gelectra-large-germanquad",
+    "description": "AI model gelectra-large-germanquad from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/deepset/gelectra-large-germanquad",
+    "official_website": "https://huggingface.co/deepset/gelectra-large-germanquad",
+    "tags": []
+  },
+  {
+    "id": "45fbdcec-827d-4ec0-98a4-a95d1e697311",
+    "name": "GoTranscript",
+    "description": "Human-powered transcription service with AI assistance for high accuracy. Specializes in academic, legal, and medical transcription with native speaker transcriptionists and quality guarantees.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://gotranscript.com/",
+    "official_website": "https://gotranscript.com/",
+    "tags": []
+  },
+  {
+    "id": "46c66730-21ba-4610-a961-f6d0026b93df",
+    "name": "gemma-3-1b-it",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/google/gemma-3-1b-it",
+    "official_website": "https://huggingface.co/google/gemma-3-1b-it",
+    "tags": []
+  },
+  {
+    "id": "4a272cbf12f1",
+    "name": "Gumloop",
+    "description": "Gumloop is a no-code platform for building powerful AI automations. Our no-code visual builder lets users create reliable, cost-effective, intuitive AI-powered automation. Tackle complex repetitive work for your business end-to-end.",
+    "category": "AI Agent Automation",
+    "pricing": "Not Specified",
+    "url": "https://gumloop.com",
+    "official_website": "https://gumloop.com",
+    "tags": []
+  },
+  {
+    "id": "4a80dfced685",
+    "name": "Grammarly AI",
+    "description": "AI writing assistant that improves overall content quality through natural language processing algorithms. Generates personalized copy, creates engaging blog titles, and optimizes content for search engine rankings.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://grammarly.com/",
+    "official_website": "https://grammarly.com/",
+    "tags": [
+      "writing assistant",
+      "blog titles",
+      "personalized copy",
+      "content quality",
+      "seo optimization",
+      "nlp"
+    ]
+  },
+  {
+    "id": "4b4c189a-7edf-4b27-8589-b512d3a671be",
+    "name": "grok-1",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/xai-org/grok-1",
+    "official_website": "https://huggingface.co/xai-org/grok-1",
+    "tags": []
+  },
+  {
+    "id": "4b9a4c61-69e8-4a99-ada4-b630ab0dc1c4",
+    "name": "Gaming Tool 20",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming20.com",
+    "official_website": "https://gaming20.com",
+    "tags": []
+  },
+  {
+    "id": "4cc29b2c-cc7d-4bcd-8fe2-4151fd3300da",
+    "name": "Google News AI",
+    "description": "Personalized news aggregation and summarization",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://news.google.com/",
+    "official_website": "https://news.google.com/",
+    "tags": []
+  },
+  {
+    "id": "4ceae5b60c1d",
+    "name": "Gemini 2.5 Pro",
+    "description": "Google's model recommended for hard problems with free 100 requests/day",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://ai.google.dev",
+    "official_website": "https://ai.google.dev",
+    "tags": []
+  },
+  {
+    "id": "4d609aa1-845d-46ea-bfb9-ff776d8647d9",
+    "name": "Gatsbi",
+    "description": "AI research assistant that drafts academic papers, patents, and systematic reviews with citations, equations, and figures from ideation to publication",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://www.gatsbi.com",
+    "official_website": "https://www.gatsbi.com",
+    "tags": []
+  },
+  {
+    "id": "4dfe1401-a671-4d7a-9144-5e492ad338f3",
+    "name": "Groas",
+    "description": "Groas.ai automates and optimizes search advertising using AI trained on $500B+ in profitable ad spend. It manages bids, copy, targeting, and landing page messaging for e-commerce, SaaS, and service businesses",
+    "category": "Advertising",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/groas",
+    "official_website": "https://link.aitoolsdirectory.com/groas",
+    "tags": []
+  },
+  {
+    "id": "4e23dce7b646",
+    "name": "getzep/zep",
+    "description": "Zep is a memory platform for AI agents that learns from user interactions",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/getzep/zep",
+    "official_website": "https://github.com/getzep/zep",
+    "tags": []
+  },
+  {
+    "id": "4e859324185c",
+    "name": "gemma-2b-it",
+    "description": "AI model gemma-2b-it from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/gemma-2b-it",
+    "official_website": "https://huggingface.co/google/gemma-2b-it",
+    "tags": []
+  },
+  {
+    "id": "4eb021f6-e341-4916-88e1-7826010c344d",
+    "name": "Groq Mixtral 8x7B",
+    "description": "Fast Mixtral model inference",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://groq.com",
+    "official_website": "https://groq.com",
+    "tags": []
+  },
+  {
+    "id": "4f4da943-6301-4382-a68b-1182f57ee236",
+    "name": "Google Cloud AI",
+    "description": "Comprehensive AI and ML services",
+    "category": "AI API & Platforms",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with paid plans\"}",
+    "url": "https://cloud.google.com/ai",
+    "official_website": "https://cloud.google.com/ai",
+    "tags": []
+  },
+  {
+    "id": "506d2cc5-0a7f-46cd-aa96-b851b58eb3d9",
+    "name": "Google AI Experiments",
+    "description": "Collection of AI-powered experimental projects and demonstrations",
+    "category": "Experiments & Demos",
+    "pricing": "Unknown",
+    "url": "https://experiments.withgoogle.com/",
+    "official_website": "https://experiments.withgoogle.com/",
+    "tags": []
+  },
+  {
+    "id": "51296735-e23f-4372-bf3d-f91706bcf525",
+    "name": "Gmelius AI",
+    "description": "AI-powered Gmail automation",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gmeliusai",
+    "official_website": "gmeliusai",
+    "tags": []
+  },
+  {
+    "id": "536030fa-ee03-4f00-9c5e-8ef69a95312e",
+    "name": "Google Drive AI",
+    "description": "Cloud storage with AI-powered organization and search",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://drive.google.com/",
+    "official_website": "https://drive.google.com/",
+    "tags": []
+  },
+  {
+    "id": "536c870e-0225-47bf-8585-704ba06cd53d",
+    "name": "GemmaX2-28-9B-v0.1",
+    "description": "AI model GemmaX2-28-9B-v0.1 from ModelSpace on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/ModelSpace/GemmaX2-28-9B-v0.1",
+    "official_website": "https://huggingface.co/ModelSpace/GemmaX2-28-9B-v0.1",
+    "tags": []
+  },
+  {
+    "id": "53bf2db2-ec0d-4f5f-a5c4-7e1deab8d446",
+    "name": "Groq LLaMA 2 70B",
+    "description": "Ultra-fast LLaMA 2 inference",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://groq.com",
+    "official_website": "https://groq.com",
+    "tags": []
+  },
+  {
+    "id": "554b2f299d91",
+    "name": "Glide",
+    "description": "Create apps from Google Sheets in 5 minutes without code",
+    "category": "App Development",
+    "pricing": "Unknown",
+    "url": "https://glideapps.com",
+    "official_website": "https://glideapps.com",
+    "tags": []
+  },
+  {
+    "id": "56310745-671f-401d-8a31-8dfe876235b3",
+    "name": "Google Cloud Video Intelligence",
+    "description": "Video content analysis",
+    "category": "Content Moderation",
+    "pricing": "Freemium",
+    "url": "https://googlecloud.com",
+    "official_website": "https://googlecloud.com",
+    "tags": []
+  },
+  {
+    "id": "5694137f-bcb5-4c5f-890a-9660d6746320",
+    "name": "Google AMP",
+    "description": "Accelerated Mobile Pages with AI-powered performance optimization",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://amp.dev/",
+    "official_website": "https://amp.dev/",
+    "tags": []
+  },
+  {
+    "id": "57252947-7139-48c4-9a1e-e1d122f9de1b",
+    "name": "Google AI Studio",
+    "description": "AI development studio by Google",
+    "category": "Vibe coding",
+    "pricing": "Unknown",
+    "url": "https://ai.google.com/studio/",
+    "official_website": "https://ai.google.com/studio/",
+    "tags": []
+  },
+  {
+    "id": "5890933a43e1",
+    "name": "GPT-5",
+    "description": "OpenAI's most advanced model. With major improvements in reasoning, code quality, and UX. It handles complex coding tasks with minimal prompting, provides clear explanations, and introduces enhanced agentic capabilities, making it a powerful collaborator and intelligent assistant for all.",
+    "category": "AI Coding Agents, LLMs, Foundation Models",
+    "pricing": "Not Specified",
+    "url": "https://openai.com/gpt-5",
+    "official_website": "https://openai.com/gpt-5",
+    "tags": []
+  },
+  {
+    "id": "5926ed1d-44c4-408d-b0af-9268107d00e9",
+    "name": "Grain",
+    "description": "Records, transcribes, and summarizes your sales calls with customizable AI-prompts, allowing you to focus on the conversation without worrying about taking notes.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/grain",
+    "official_website": "https://www.producthunt.com/products/grain",
+    "tags": []
+  },
+  {
+    "id": "5956eb41-296b-47bb-a044-889f32229906",
+    "name": "Google Doodles AI",
+    "description": "Special art presentations with AI-powered elements and interactivity",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://www.google.com/doodles/",
+    "official_website": "https://www.google.com/doodles/",
+    "tags": []
+  },
+  {
+    "id": "59a51fb3-2ce0-4c33-a515-2da354829647",
+    "name": "Gemini for Gmail",
+    "description": "Google's AI assistant for Workspace providing contextual suggested actions, email summarization, order tracking, draft replies, and Google Search integration for enhanced email productivity.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://workspace.google.com/solutions/ai",
+    "official_website": "https://workspace.google.com/solutions/ai",
+    "tags": []
+  },
+  {
+    "id": "5a48d99f-27bc-4cec-8aa0-da27ac6b6e13",
+    "name": "Generor",
+    "description": "Revolutionize content creation with diverse, intuitive AI generators.",
+    "category": "Writing Generators",
+    "pricing": "Unknown",
+    "url": "https://generor.com/",
+    "official_website": "https://generor.com/",
+    "tags": []
+  },
+  {
+    "id": "5a9b7c624ccd",
+    "name": "GitHub Copilot",
+    "description": "AI code suggestion tool for accelerated development and cleaner code.",
+    "category": "Coding",
+    "pricing": "Paid",
+    "url": "https://github.com/features/copilot",
+    "official_website": "https://github.com/features/copilot",
+    "tags": [
+      "development",
+      "coding"
+    ]
+  },
+  {
+    "id": "5ab6e10c-aa82-4440-8733-4f1924e4f2b9",
+    "name": "GPT-Alternatives",
+    "description": "A comprehensive survey and collection of resources for user-friendly and open-sourced large GPT models",
+    "category": "Natural Language Processing",
+    "pricing": "Unknown",
+    "url": "https://github.com/GPT-Alternatives/gpt_alternatives",
+    "official_website": "https://github.com/GPT-Alternatives/gpt_alternatives",
+    "tags": []
+  },
+  {
+    "id": "5b669730-1501-4f48-a871-26598aa72638",
+    "name": "Google Looker Studio",
+    "description": "Free, cloud-based data visualization tool with seamless Google ecosystem integration. Offers drag-and-drop interface, real-time collaboration, and extensive third-party connector support for creating interactive dashboards.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://datastudio.google.com/",
+    "official_website": "https://datastudio.google.com/",
+    "tags": []
+  },
+  {
+    "id": "5c22ed52-c6ee-440d-870f-87e59bb4c02e",
+    "name": "Google Arts & Culture AI",
+    "description": "Cultural platform with AI-powered art analysis and curation",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://artsandculture.google.com/",
+    "official_website": "https://artsandculture.google.com/",
+    "tags": []
+  },
+  {
+    "id": "5d15c8d4-6eef-406c-b869-a5d60972650a",
+    "name": "GraphCodeBERT",
+    "description": "Graph-based code representation",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "5d4139342a73",
+    "name": "Google Cloud TPU",
+    "description": "Application-specific integrated circuit (ASIC) designed specifically for machine learning workloads. Provides high-performance training and inference for TensorFlow, PyTorch, and JAX models.",
+    "category": "AI Development & Testing",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/tpu",
+    "official_website": "https://cloud.google.com/tpu",
+    "tags": []
+  },
+  {
+    "id": "6194730040db",
+    "name": "granite-4.0-h-small",
+    "description": "AI model granite-4.0-h-small from ibm-granite on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-h-small",
+    "official_website": "https://huggingface.co/ibm-granite/granite-4.0-h-small",
+    "tags": []
+  },
+  {
+    "id": "620469e4-67b7-4fa5-98e7-199a12d6f39e",
+    "name": "Gauge",
+    "description": "Open-source test automation framework focused on maintainable and readable test specifications with multi-language support and CI/CD integration.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://gauge.org/",
+    "official_website": "https://gauge.org/",
+    "tags": []
+  },
+  {
+    "id": "6321b27a-1486-4321-aacf-9d2987ce9f4b",
+    "name": "Google Web Vitals",
+    "description": "Web performance metrics with AI-powered optimization recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://web.dev/vitals/",
+    "official_website": "https://web.dev/vitals/",
+    "tags": []
+  },
+  {
+    "id": "63efba83-b14f-49d8-97c9-8a4794f8df9a",
+    "name": "Gaming Tool 38",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming38.com",
+    "official_website": "https://gaming38.com",
+    "tags": []
+  },
+  {
+    "id": "65025df5-b9b7-4c08-b22d-264e34371a0f",
+    "name": "Granola",
+    "description": "AI meeting assistant that combines human and AI notes, automatically transcribes and summarizes meetings, acts as a live notepad, and supports custom meeting templates with robust integrations.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.granola.ai",
+    "official_website": "https://www.granola.ai",
+    "tags": []
+  },
+  {
+    "id": "6512c5b68b00",
+    "name": "Google Veo 3",
+    "description": "Google DeepMind's advanced video generation model featuring exceptional realism, integrated audio, and lip-sync. Offers cinematic storytelling with low skill requirements for high-quality outputs.",
+    "category": "Video",
+    "pricing": "Premium",
+    "url": "https://aistudio.google.com/models/veo-3",
+    "official_website": "https://aistudio.google.com/models/veo-3",
+    "tags": [
+      "cinematic",
+      "low-skill",
+      "text-to-video",
+      "realism",
+      "google",
+      "lip-sync"
+    ]
+  },
+  {
+    "id": "65f68de3-168f-4333-a740-72ea0ce275d8",
+    "name": "Google NotebookLM",
+    "description": "AI research tool that generates podcast-like audio discussions from uploaded sources. Features one-click audio overview creation, transforming documents, slides, and web content into engaging audio formats.",
+    "category": "AI Voice",
+    "pricing": "Free",
+    "url": "https://notebooklm.google/",
+    "official_website": "https://notebooklm.google/",
+    "tags": []
+  },
+  {
+    "id": "6602f4e2-a7a6-49b2-9135-ea9c5a9a8100",
+    "name": "Gaming Tool 2",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming2.com",
+    "official_website": "https://gaming2.com",
+    "tags": []
+  },
+  {
+    "id": "661040d5141d",
+    "name": "Google Cloud Vision",
+    "description": "AI service that provides powerful image analysis capabilities including object detection, OCR, face detection, and sentiment analysis. Supports batch processing and real-time analysis for various use cases.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/vision",
+    "official_website": "https://cloud.google.com/vision",
+    "tags": []
+  },
+  {
+    "id": "670326e2-d508-4436-b3d7-5ad4565c27e2",
+    "name": "Google Flights AI",
+    "description": "Flight search and booking with AI-powered price tracking and recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://flights.google.com/",
+    "official_website": "https://flights.google.com/",
+    "tags": []
+  },
+  {
+    "id": "67b161797dc2",
+    "name": "grok-1",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/xai-org/grok-1",
+    "official_website": "https://huggingface.co/xai-org/grok-1",
+    "tags": []
+  },
+  {
+    "id": "6899fe06-a0b6-4e34-8f6d-e75588c88093",
+    "name": "Google Play Music AI",
+    "description": "Music streaming with AI-powered discovery and personalized playlists",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://music.youtube.com/",
+    "official_website": "https://music.youtube.com/",
+    "tags": []
+  },
+  {
+    "id": "696f97f3-eb4d-4fa3-854d-404e75e89e04",
+    "name": "Gaming Tool 10",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming10.com",
+    "official_website": "https://gaming10.com",
+    "tags": []
+  },
+  {
+    "id": "69b54587-3fe8-4720-832a-cf5b42d63273",
+    "name": "Google Play Games AI",
+    "description": "Gaming platform with AI-powered recommendations and matchmaking",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.play.games",
+    "official_website": "https://play.google.com/store/apps/details?id=com.google.android.play.games",
+    "tags": []
+  },
+  {
+    "id": "69e13665-9e68-4b69-b532-6ba767d40639",
+    "name": "gpt2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/openai-community/gpt2",
+    "official_website": "https://huggingface.co/openai-community/gpt2",
+    "tags": []
+  },
+  {
+    "id": "6a5e3d08-edca-4774-8dff-327937bdf0d1",
+    "name": "Google Classroom AI",
+    "description": "Educational platform with AI-powered teaching and learning tools",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://classroom.google.com/",
+    "official_website": "https://classroom.google.com/",
+    "tags": []
+  },
+  {
+    "id": "6b31ff6b-6893-455b-82ba-90df5b9bc30f",
+    "name": "Gaming Tool 9",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming9.com",
+    "official_website": "https://gaming9.com",
+    "tags": []
+  },
+  {
+    "id": "6c668f71194a",
+    "name": "GitHub Spark",
+    "description": "Build and deploy intelligent apps",
+    "category": "AI CODE CREATION",
+    "pricing": "Not Specified",
+    "url": "https://github.com/features/spark",
+    "official_website": "https://github.com/features/spark",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "6d155171-f042-49c1-b32c-330b2f20a425",
+    "name": "Gusto Payroll",
+    "description": "Payroll platform with AI-powered benefits administration and compliance",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://gusto.com",
+    "official_website": "https://gusto.com",
+    "tags": []
+  },
+  {
+    "id": "6d41bac9-18a5-4774-98c1-124975a101dd",
+    "name": "Gong",
+    "description": "AI-powered revenue intelligence platform",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gong",
+    "official_website": "gong",
+    "tags": []
+  },
+  {
+    "id": "6f3a5cac-cb76-4a39-b720-c4c82bc1c9be",
+    "name": "Google Time Insights",
+    "description": "Time zone and scheduling platform with AI-powered optimization",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://time.google.com/",
+    "official_website": "https://time.google.com/",
+    "tags": []
+  },
+  {
+    "id": "6f831888f442",
+    "name": "GitFluence",
+    "description": "AI-powered instant Git command suggestions for streamlined development workflows.",
+    "category": "Code Assistant, No-Code",
+    "pricing": "Free",
+    "url": "https://www.gitfluence.com/",
+    "official_website": "https://www.gitfluence.com/",
+    "tags": []
+  },
+  {
+    "id": "6faf0483-2b8b-4757-9e80-8ad9f0bf3338",
+    "name": "Google Docs AI",
+    "description": "Collaborative document editing with AI-powered writing assistance",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://docs.google.com/",
+    "official_website": "https://docs.google.com/",
+    "tags": []
+  },
+  {
+    "id": "6fbb7066-2a97-4783-8ba2-1785d49f0242",
+    "name": "Gyant",
+    "description": "AI virtual health assistant",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gyant",
+    "official_website": "gyant",
+    "tags": []
+  },
+  {
+    "id": "6fcdb83c-4f70-425d-ad5f-450997ccc67d",
+    "name": "gpt-oss-120b",
+    "description": "AI model gpt-oss-120b from openai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/openai/gpt-oss-120b",
+    "official_website": "https://huggingface.co/openai/gpt-oss-120b",
+    "tags": []
+  },
+  {
+    "id": "7023faf38d16",
+    "name": "Ghostwriter Express",
+    "description": "Create high-quality, non-fiction books fast and simply.",
+    "category": "Writing",
+    "pricing": "Not Specified",
+    "url": "https://saasaitools.com/ghostwriter-express",
+    "official_website": "https://saasaitools.com/ghostwriter-express",
+    "tags": [
+      "books",
+      "writing"
+    ]
+  },
+  {
+    "id": "70bb56f2f484",
+    "name": "Granola",
+    "description": "An AI-powered notepad that makes taking & using meeting notes a breeze. It blends your own notes with smart transcription to capture every detail.",
+    "category": "Meeting software, AI notetakers",
+    "pricing": "Not Specified",
+    "url": "https://granola.so",
+    "official_website": "https://granola.so",
+    "tags": []
+  },
+  {
+    "id": "70f51247b7e4",
+    "name": "getzep/graphiti",
+    "description": "Graphiti is a framework for building and querying temporally-aware knowledge graphs",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/getzep/graphiti",
+    "official_website": "https://github.com/getzep/graphiti",
+    "tags": []
+  },
+  {
+    "id": "72349797-5a14-493d-b3fc-e408fd25b58c",
+    "name": "Google Health AI",
+    "description": "AI solutions for healthcare applications",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "googlehealthai",
+    "official_website": "googlehealthai",
+    "tags": []
+  },
+  {
+    "id": "72b924a5c236",
+    "name": "Google Analytics 4 (GA4)",
+    "description": "Google's advanced AI-powered analytics platform with event-driven data model offering cross-platform tracking, enhanced privacy controls, predictive analytics, and advanced reporting. Features seamless Google Ads integration and BigQuery export.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://analytics.google.com/",
+    "official_website": "https://analytics.google.com/",
+    "tags": [
+      "cross-platform",
+      "analytics",
+      "event-driven",
+      "bigquery export",
+      "predictive analytics",
+      "privacy controls"
+    ]
+  },
+  {
+    "id": "72ec5b28-652a-49b2-a31b-ec92cd5574e9",
+    "name": "Google Assistant",
+    "description": "AI-powered voice assistant for smartphones and smart devices",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://assistant.google.com/",
+    "official_website": "https://assistant.google.com/",
+    "tags": []
+  },
+  {
+    "id": "73519c78-d875-43a0-8e17-7656ffea338c",
+    "name": "Gaming Tool 1",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming1.com",
+    "official_website": "https://gaming1.com",
+    "tags": []
+  },
+  {
+    "id": "741f4f4f-4e47-4591-9776-60cdf8519441",
+    "name": "Ginger",
+    "description": "AI grammar checker and translator",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ginger",
+    "official_website": "ginger",
+    "tags": []
+  },
+  {
+    "id": "7421ecc4-6444-4186-9549-919799320271",
+    "name": "Google AI Platform",
+    "description": "Cloud ML platform",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://googlecloud.com",
+    "official_website": "https://googlecloud.com",
+    "tags": []
+  },
+  {
+    "id": "743fb1c7-578a-4124-b1a1-2d2bcac16c20",
+    "name": "Grammarly",
+    "description": "Grammarly is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Video Creation",
+    "pricing": "Premium",
+    "url": "https://futuretools.link/grammarly",
+    "official_website": "https://futuretools.link/grammarly",
+    "tags": []
+  },
+  {
+    "id": "74cde1662dbd",
+    "name": "Grain",
+    "description": "Records, transcribes, and summarizes your sales calls with customizable AI-prompts, allowing you to focus on the conversation without worrying about taking notes.",
+    "category": "Meeting software, AI notetakers",
+    "pricing": "Not Specified",
+    "url": "https://grain.com",
+    "official_website": "https://grain.com",
+    "tags": []
+  },
+  {
+    "id": "7540aa5e2c71",
+    "name": "GitHub Advanced Security",
+    "description": "Find and fix vulnerabilities",
+    "category": "APPLICATION SECURITY",
+    "pricing": "Not Specified",
+    "url": "https://github.com/security/advanced-security",
+    "official_website": "https://github.com/security/advanced-security",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "7654fd12-8909-49ad-ac31-c805ed0ec222",
+    "name": "Gaming Tool 24",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming24.com",
+    "official_website": "https://gaming24.com",
+    "tags": []
+  },
+  {
+    "id": "77b21439-eb50-45ec-91b5-438632b3a930",
+    "name": "Gstory.ai",
+    "description": "GStory is an all-in-one AI-powered platform designed for TikTok and YouTube creators, small businesses, and individual users to edit videos and photos efficiently. It offers tools such as AI-powered video and photo background removers, watermark removers, image and video enhancers, auto subtitle generators, and an AI clip maker. Users can translate videos with voiceovers, sync lip movements, and create captions for global reach. Ideal for marketing, e-commerce, social media, and e-learning scena",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/gstory-ai",
+    "official_website": "https://futuretools.link/gstory-ai",
+    "tags": []
+  },
+  {
+    "id": "7871e87e-262f-43b8-b996-1267e2c8afd5",
+    "name": "GLM-4.5-Air-GGUF",
+    "description": "AI model GLM-4.5-Air-GGUF from unsloth on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/unsloth/GLM-4.5-Air-GGUF",
+    "official_website": "https://huggingface.co/unsloth/GLM-4.5-Air-GGUF",
+    "tags": []
+  },
+  {
+    "id": "78b3cfe2-e9d1-4f51-98b0-f4fbf49a336d",
+    "name": "Google Hangouts AI",
+    "description": "Messaging and video platform with AI-powered communication features",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://hangouts.google.com/",
+    "official_website": "https://hangouts.google.com/",
+    "tags": []
+  },
+  {
+    "id": "795f89fd-15f1-4a3f-b83f-3151fa1e3118",
+    "name": "Google Assistant SDK",
+    "description": "Software development kit for integrating Google Assistant into devices",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://developers.google.com/assistant",
+    "official_website": "https://developers.google.com/assistant",
+    "tags": []
+  },
+  {
+    "id": "7aa20a32-f7aa-4bd4-97c4-b311d4cf66ef",
+    "name": "Gaming Tool 40",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming40.com",
+    "official_website": "https://gaming40.com",
+    "tags": []
+  },
+  {
+    "id": "7c27bb94-2407-4ffe-a211-ea68848f8c71",
+    "name": "GMO Internet AI",
+    "description": "Internet services AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://gmointernet.com",
+    "official_website": "https://gmointernet.com",
+    "tags": []
+  },
+  {
+    "id": "7dc57d650c17",
+    "name": "Gemini CLI",
+    "description": "Google's open-source AI agent for the terminal using Gemini 2.5 Pro with 1 million token context for large codebase analysis and task execution.",
+    "category": "Coding",
+    "pricing": "Free",
+    "url": "https://github.com/google-gemini/generative-ai-cli",
+    "official_website": "https://github.com/google-gemini/generative-ai-cli",
+    "tags": [
+      "command-line",
+      "open-source",
+      "google-ai",
+      "1m-token-context",
+      "terminal-agent",
+      "react-loop"
+    ]
+  },
+  {
+    "id": "7f66aad2-24fc-4aa4-8380-7e7b7e31e1d3",
+    "name": "Gradescope AI",
+    "description": "AI-powered grading and feedback",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gradescopeai",
+    "official_website": "gradescopeai",
+    "tags": []
+  },
+  {
+    "id": "8014fc77-d676-4765-a4a0-1d08e3e2de4d",
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer by GitHub",
+    "category": "AI Code Assistant",
+    "pricing": "Premium",
+    "url": "https://github.com/features/copilot",
+    "official_website": "https://github.com/features/copilot",
+    "tags": []
+  },
+  {
+    "id": "80920829afd1",
+    "name": "Grammarly Business",
+    "description": "Enterprise AI writing assistance solution for teams of all sizes. Combines AI with organizational knowledge to enhance communication, accelerate productivity, and ensure brand consistency. Features unlimited AI prompts, style guides, brand tones, and admin controls.",
+    "category": "Writing",
+    "pricing": "Premium",
+    "url": "https://www.grammarly.com/business",
+    "official_website": "https://www.grammarly.com/business",
+    "tags": [
+      "style guides",
+      "enterprise",
+      "analytics",
+      "ROI tracking",
+      "team collaboration",
+      "admin controls",
+      "SSO",
+      "brand consistency"
+    ]
+  },
+  {
+    "id": "817a81bc-8536-4948-9b97-88382ac854a1",
+    "name": "Gusto AI",
+    "description": "AI-enhanced payroll and benefits",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gustoai",
+    "official_website": "gustoai",
+    "tags": []
+  },
+  {
+    "id": "8419ba61-ede9-4664-b9cc-74c3977af8b1",
+    "name": "Google Colab",
+    "description": "Free Jupyter notebooks",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "8540f730-da1a-43ae-bf95-9e7ce1e8abb2",
+    "name": "Google Web Light",
+    "description": "Web acceleration technology with AI-powered optimization",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://www.google.com/webmasters/tools/mobile-friendly/",
+    "official_website": "https://www.google.com/webmasters/tools/mobile-friendly/",
+    "tags": []
+  },
+  {
+    "id": "86112878-f743-4169-bb04-04a6b67c53c2",
+    "name": "Google Pay AI",
+    "description": "Digital payment service with AI-powered fraud detection and insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://pay.google.com/",
+    "official_website": "https://pay.google.com/",
+    "tags": []
+  },
+  {
+    "id": "867b7251-44a4-4d0b-a0a5-65a47ac54274",
+    "name": "Gaming Tool 23",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming23.com",
+    "official_website": "https://gaming23.com",
+    "tags": []
+  },
+  {
+    "id": "86e5ef4a-8363-4632-998b-e5b212cf6fef",
+    "name": "gemma-3n-E4B-it-litert-lm",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/google/gemma-3n-E4B-it-litert-lm",
+    "official_website": "https://huggingface.co/google/gemma-3n-E4B-it-litert-lm",
+    "tags": []
+  },
+  {
+    "id": "8814b56e4183",
+    "name": "Google Cloud Speech-to-Text",
+    "description": "AI service that converts audio to text using Google's speech recognition technology. Supports real-time streaming, multiple languages, and specialized models for phone calls and videos.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/speech-to-text",
+    "official_website": "https://cloud.google.com/speech-to-text",
+    "tags": []
+  },
+  {
+    "id": "888a1f8f-119e-4b2c-9a01-9a1c11ff1cc8",
+    "name": "Google Forms AI",
+    "description": "Form creation tool with AI-powered insights and analysis",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://forms.google.com/",
+    "official_website": "https://forms.google.com/",
+    "tags": []
+  },
+  {
+    "id": "893ed0fc720d",
+    "name": "Google Docs",
+    "description": "Academic writing and documentation tools for research projects",
+    "category": "Academic Writing",
+    "pricing": "Free/Commercial",
+    "url": "https://google docs.com",
+    "official_website": "https://google docs.com",
+    "tags": []
+  },
+  {
+    "id": "8977fb5f-d5bb-4c54-994d-f4d508edf029",
+    "name": "Google Analytics 4",
+    "description": "Latest version of Google Analytics with enhanced e-commerce tracking, cross-platform measurement, predictive metrics, and integration with Google Marketing Platform and Google Ads.",
+    "category": "Ai Analytics",
+    "pricing": "Free",
+    "url": "https://analytics.google.com/",
+    "official_website": "https://analytics.google.com/",
+    "tags": []
+  },
+  {
+    "id": "8a5ed3f28769",
+    "name": "GoDaddy AI Builder",
+    "description": "AI website builder that generates websites in two steps with 30+ design options in under 30 seconds. Features AI chatbot for setup guidance, social media ad creation, AI-powered social calendar, headline generator, and AI-powered SEO guidance.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://www.godaddy.com/",
+    "official_website": "https://www.godaddy.com/",
+    "tags": [
+      "website builder",
+      "domain",
+      "seo",
+      "quick setup",
+      "social media",
+      "ai chatbot"
+    ]
+  },
+  {
+    "id": "8b6ce43a-7207-4319-ad8e-4a92233675c5",
+    "name": "Google Play Store AI",
+    "description": "App store with AI-powered features and recommendations",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://play.google.com/store",
+    "official_website": "https://play.google.com/store",
+    "tags": []
+  },
+  {
+    "id": "8c20806c-aaf5-40a1-a632-9e5c99c72e99",
+    "name": "Gaming Tool 35",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming35.com",
+    "official_website": "https://gaming35.com",
+    "tags": []
+  },
+  {
+    "id": "8ccebb89-0102-4e44-a665-cce8ad369809",
+    "name": "Google Lighthouse",
+    "description": "Automated website auditing tool with AI-powered insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://developers.google.com/web/tools/lighthouse",
+    "official_website": "https://developers.google.com/web/tools/lighthouse",
+    "tags": []
+  },
+  {
+    "id": "8cd9862741ab",
+    "name": "Google AI Studio",
+    "description": "Development environment for building generative AI applications.",
+    "category": "Development",
+    "pricing": "Free",
+    "url": "https://aistudio.google.com/",
+    "official_website": "https://aistudio.google.com/",
+    "tags": [
+      "development",
+      "generative"
+    ]
+  },
+  {
+    "id": "8d15e636-32e9-4f4f-ac46-118a3bc89d73",
+    "name": "Google Trends AI",
+    "description": "Trend analysis platform with AI-powered insights and predictions",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://trends.google.com/",
+    "official_website": "https://trends.google.com/",
+    "tags": []
+  },
+  {
+    "id": "8d1e9941-2c97-4307-b6bf-da8e04ce352a",
+    "name": "Go Legal AI",
+    "description": "AI-Powered Legal Document Creation and Support Platform",
+    "category": "Legal Assistant",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/go-legal-ai",
+    "official_website": "https://freeaitool.ai/tool/go-legal-ai",
+    "tags": []
+  },
+  {
+    "id": "8d2dcac7-6913-405b-a023-46fcccfade38",
+    "name": "Google Optimize",
+    "description": "AI-driven testing and personalization tool that carries out A/B tests, multivariate tests, and redirect tests to optimize website performance. Integrates with Google Analytics for comprehensive testing and optimization workflows.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://optimize.google.com/",
+    "official_website": "https://optimize.google.com/",
+    "tags": []
+  },
+  {
+    "id": "8f1e64a3a340",
+    "name": "gender-classification",
+    "description": "AI model gender-classification from rizvandwiki on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/rizvandwiki/gender-classification",
+    "official_website": "https://huggingface.co/rizvandwiki/gender-classification",
+    "tags": []
+  },
+  {
+    "id": "8f22a75889c1",
+    "name": "Google Research Language",
+    "description": "Shared repository for open-sourced projects from the Google AI Language team",
+    "category": "Natural Language Processing",
+    "pricing": "Not Specified",
+    "url": "https://ai.google/research/teams/language/",
+    "official_website": "https://ai.google/research/teams/language/",
+    "tags": [
+      "Shared repository for open-sourced projects from Google AI Language team",
+      "Includes projects related to machine learning and natural language processing",
+      "Focus on research in language modeling and processing",
+      "Contributions from Google Research team"
+    ]
+  },
+  {
+    "id": "8f2a59b56065",
+    "name": "GLM-4.5-Air-GGUF",
+    "description": "AI model GLM-4.5-Air-GGUF from unsloth on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/unsloth/GLM-4.5-Air-GGUF",
+    "official_website": "https://huggingface.co/unsloth/GLM-4.5-Air-GGUF",
+    "tags": []
+  },
+  {
+    "id": "8f6bf6fa-2586-40b5-a898-c6e3795b2844",
+    "name": "GPT-5",
+    "description": "OpenAI's most advanced model. With major improvements in reasoning, code quality, and UX. It handles complex coding tasks with minimal prompting, provides clear explanations, and introduces enhanced agentic capabilities, making it a powerful collaborator and intelligent assistant for all.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/gpt-5",
+    "official_website": "https://www.producthunt.com/products/gpt-5",
+    "tags": []
+  },
+  {
+    "id": "8f7e0cca-52d2-49a2-9b81-c41fcc1aa8f2",
+    "name": "GPT-4 Turbo Azure",
+    "description": "GPT-4 optimized for Azure with enterprise features",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://microsoftazure.com",
+    "official_website": "https://microsoftazure.com",
+    "tags": []
+  },
+  {
+    "id": "8f7e29e1-24ac-4953-a9aa-46a543f1ffde",
+    "name": "GodmodeHQ | Custom AI agents for sales",
+    "description": "We are building the AI coworkers of the future, starting with sales. Our AI agents deliver any kind of research on your leads so the outreach is personal on a 1 on 1 level.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/godmodehq",
+    "official_website": "https://www.producthunt.com/products/godmodehq",
+    "tags": []
+  },
+  {
+    "id": "902fe37d-9b1c-4333-874a-149885844180",
+    "name": "Google Analytics Intelligence",
+    "description": "Web analytics platform with AI-powered insights and recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://analytics.google.com/",
+    "official_website": "https://analytics.google.com/",
+    "tags": []
+  },
+  {
+    "id": "9043832c-de07-4ea4-bd49-10b7125a30e9",
+    "name": "Granola",
+    "description": "An AI-powered notepad that makes taking & using meeting notes a breeze. It blends your own notes with smart transcription to capture every detail.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/granola",
+    "official_website": "https://www.producthunt.com/products/granola",
+    "tags": []
+  },
+  {
+    "id": "910a5d0c159d",
+    "name": "gpustack/gpustack",
+    "description": "GPUStack is an open-source GPU cluster manager for running AI models",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/gpustack/gpustack",
+    "official_website": "https://github.com/gpustack/gpustack",
+    "tags": []
+  },
+  {
+    "id": "91af14b88650",
+    "name": "Google Bard (Gemini)",
+    "description": "Google's conversational AI assistant (now rebranded as Gemini) offering multimodal capabilities, integration with Google services, and various model options. Provides web search, image generation, and creative writing assistance through Google's AI ecosystem.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://gemini.google.com/",
+    "official_website": "https://gemini.google.com/",
+    "tags": [
+      "Google ecosystem",
+      "multimodal",
+      "image generation",
+      "conversation AI",
+      "Google AI",
+      "web search",
+      "creative writing"
+    ]
+  },
+  {
+    "id": "91d17a13a27f",
+    "name": "Gali Chat",
+    "description": "24/7 AI Support Assistant for business",
+    "category": "Text Chatbots",
+    "pricing": "Not Specified",
+    "url": "https://www.galichat.com/",
+    "official_website": "https://www.galichat.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "9242e854-d003-4fb2-abf7-a38c98482d79",
+    "name": "Gaming Tool 3",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming3.com",
+    "official_website": "https://gaming3.com",
+    "tags": []
+  },
+  {
+    "id": "925bb6c5-aa4c-421d-b451-de35f9a2d641",
+    "name": "GenePattern",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://genepattern.com",
+    "official_website": "https://genepattern.com",
+    "tags": []
+  },
+  {
+    "id": "9291ab87-f4dc-4260-82ba-9e7e1cd1ca01",
+    "name": "Gemini API",
+    "description": "RESTful API for accessing Gemini models programmatically",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://ai.google.dev/gemini-api/docs",
+    "official_website": "https://ai.google.dev/gemini-api/docs",
+    "tags": []
+  },
+  {
+    "id": "92d6625c01c5",
+    "name": "Google Cloud AI Platform",
+    "description": "Comprehensive AI and machine learning platform on Google Cloud with pre-trained models, AutoML, TensorFlow integration, and scalable infrastructure for AI development and deployment.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://cloud.google.com/ai-platform",
+    "official_website": "https://cloud.google.com/ai-platform",
+    "tags": [
+      "pre-trained-models",
+      "scalable-infrastructure",
+      "google-cloud",
+      "automl",
+      "ai-ml-platform",
+      "tensorflow"
+    ]
+  },
+  {
+    "id": "93a6fafe-330a-4f7e-acf0-f4010fec9abe",
+    "name": "Gemini",
+    "description": "AI-powered conversational ai solution",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.gemini.com",
+    "official_website": "https://www.gemini.com",
+    "tags": []
+  },
+  {
+    "id": "9416ba432a55",
+    "name": "GitBook AI",
+    "description": "AI-enhanced documentation platform with intelligent content generation, search, and collaboration features for technical documentation.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://gitbook.com/",
+    "official_website": "https://gitbook.com/",
+    "tags": [
+      "content-generation",
+      "technical-docs",
+      "documentation-platform",
+      "collaboration",
+      "ai-enhanced",
+      "intelligent-search"
+    ]
+  },
+  {
+    "id": "95074e94-2470-4f8f-8ab6-07078b5ddb3f",
+    "name": "Gemini",
+    "description": "Google's multimodal AI assistant for text, image, and code",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gemini",
+    "official_website": "gemini",
+    "tags": []
+  },
+  {
+    "id": "950a3128-9838-4616-aee0-a50e7e4fcecd",
+    "name": "Google Search Console AI",
+    "description": "SEO platform with AI-powered insights and optimization recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://search.google.com/search-console",
+    "official_website": "https://search.google.com/search-console",
+    "tags": []
+  },
+  {
+    "id": "95bce814-a308-4d8d-a799-097c50d4a4b6",
+    "name": "GameLift",
+    "description": "Game hosting and matchmaking",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://amazonwebservices.com",
+    "official_website": "https://amazonwebservices.com",
+    "tags": []
+  },
+  {
+    "id": "95eacf57-fd8b-4cc9-9827-63909112bfa8",
+    "name": "Google Keep AI",
+    "description": "Note-taking app with AI-powered organization and suggestions",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://keep.google.com/",
+    "official_website": "https://keep.google.com/",
+    "tags": []
+  },
+  {
+    "id": "978f6ac2-3759-4f2f-82d5-f2f5e0eda5ae",
+    "name": "Gaming Tool 16",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming16.com",
+    "official_website": "https://gaming16.com",
+    "tags": []
+  },
+  {
+    "id": "97c050f5-9a76-4938-9b01-db4b68f09198",
+    "name": "Google Veo",
+    "description": "Google Veo 3 is an advanced AI-powered video generator that transforms simple text or image prompts into highly realistic videos with native audio and dialogue generation, making it ideal for content creators, marketers, and storytellers.",
+    "category": "Video Generation",
+    "pricing": "paid",
+    "url": "https://openfuture.ai/go/google-veo",
+    "official_website": "https://openfuture.ai/go/google-veo",
+    "tags": []
+  },
+  {
+    "id": "982a2b40-e274-47bf-9c7a-db831ba68529",
+    "name": "Google AI Research",
+    "description": "Specialized AI tool for emerging ai applications",
+    "category": "Emerging AI",
+    "pricing": "Open Source",
+    "url": "https://googleairesearch.com",
+    "official_website": "https://googleairesearch.com",
+    "tags": []
+  },
+  {
+    "id": "98bbee59-4c37-4d97-b138-4bc4346d3c33",
+    "name": "Gaming Tool 37",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming37.com",
+    "official_website": "https://gaming37.com",
+    "tags": []
+  },
+  {
+    "id": "98c19c9769fb",
+    "name": "GPT-4o",
+    "description": "OpenAI's latest model with real-time audiovisual responses",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://openai.com/gpt-4o",
+    "official_website": "https://openai.com/gpt-4o",
+    "tags": []
+  },
+  {
+    "id": "997ee20d-0edb-4c53-ad35-0f90dbe3a28d",
+    "name": "Google Workspace",
+    "description": "AI features in Google Workspace now support writing, summarizing, video creation, document analysis, and task automation across Gmail, Docs, Sheets, Meet, and more",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/google-workspace",
+    "official_website": "https://link.aitoolsdirectory.com/google-workspace",
+    "tags": []
+  },
+  {
+    "id": "9998c3bd-3afc-418b-9ef0-4c188752c7d3",
+    "name": "Google Play Books AI",
+    "description": "Digital bookstore with AI-powered reading recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://play.google.com/store/books",
+    "official_website": "https://play.google.com/store/books",
+    "tags": []
+  },
+  {
+    "id": "9ad93c48d89b",
+    "name": "Gobii",
+    "description": "Agents that work",
+    "category": "AI Agents Platform, Automation",
+    "pricing": "Freemium",
+    "url": "https://gobii.ai",
+    "official_website": "https://gobii.ai",
+    "tags": []
+  },
+  {
+    "id": "9bff294a8ee4",
+    "name": "Google Cloud Text-to-Speech",
+    "description": "Google Cloud's text-to-speech API offering 220+ voices in 40+ languages. Features WaveNet, Neural2, Studio voices, and advanced customization with SSML support for enterprise applications.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://cloud.google.com/text-to-speech/",
+    "official_website": "https://cloud.google.com/text-to-speech/",
+    "tags": [
+      "enterprise",
+      "ssml",
+      "neural-voices",
+      "cloud-service",
+      "google-cloud",
+      "wavenet"
+    ]
+  },
+  {
+    "id": "9c771e6b0d62",
+    "name": "Google Cloud Intelligent Video Analytics",
+    "description": "AI service for real-time video analytics that detects objects, recognizes faces, and identifies suspicious activities. Includes privacy-preserving features and supports edge deployment for low-latency scenarios.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/video-intelligence-solutions",
+    "official_website": "https://cloud.google.com/video-intelligence-solutions",
+    "tags": []
+  },
+  {
+    "id": "9d4ad515f302",
+    "name": "Granola",
+    "description": "AI meeting notes tool for enhanced productivity.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.useteam.dev/",
+    "official_website": "https://www.useteam.dev/",
+    "tags": [
+      "meetings",
+      "productivity"
+    ]
+  },
+  {
+    "id": "9d8755c7-29b1-4060-be72-3e0a51ff745b",
+    "name": "Ginger",
+    "description": "AI-powered writing and content solution",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.ginger.com",
+    "official_website": "https://www.ginger.com",
+    "tags": []
+  },
+  {
+    "id": "9daf933071ea",
+    "name": "Google Cloud Translation",
+    "description": "AI service that provides translation capabilities for over 100 languages using neural machine translation. Supports dynamic translation, batch processing, and customizable glossaries for domain-specific terms.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/translate",
+    "official_website": "https://cloud.google.com/translate",
+    "tags": []
+  },
+  {
+    "id": "9dc1880d-86fe-4323-af7e-40e805042ae1",
+    "name": "GitHub Copilot CLI",
+    "description": "Command-line interface for GitHub Copilot providing AI-powered terminal assistance and command generation for developers.",
+    "category": "AI Code Assistant",
+    "pricing": "Premium",
+    "url": "https://github.com/features/copilot",
+    "official_website": "https://github.com/features/copilot",
+    "tags": []
+  },
+  {
+    "id": "9dd4cba94873",
+    "name": "GoTranscript",
+    "description": "Human-powered transcription service with AI assistance for high accuracy. Specializes in academic, legal, and medical transcription with native speaker transcriptionists and quality guarantees.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://gotranscript.com/",
+    "official_website": "https://gotranscript.com/",
+    "tags": [
+      "native-speakers",
+      "quality-guarantee",
+      "human-powered",
+      "specialized",
+      "high-accuracy"
+    ]
+  },
+  {
+    "id": "9e9a10d8-ac9f-49d3-a2fb-9aedc2287bda",
+    "name": "Guanaco",
+    "description": "QLoRA fine-tuned model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://qlora.com",
+    "official_website": "https://qlora.com",
+    "tags": []
+  },
+  {
+    "id": "9ec27da07a6c",
+    "name": "Google Vertex AI",
+    "description": "Unified platform for machine learning that enables you to train, deploy, and manage ML models at scale. Provides AutoML capabilities, custom model training, and MLOps tools for enterprise AI development.",
+    "category": "ML Lifecycle Management",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/vertex-ai",
+    "official_website": "https://cloud.google.com/vertex-ai",
+    "tags": []
+  },
+  {
+    "id": "9eef2376-c99b-402b-bd33-d77394390ff8",
+    "name": "Gaming Tool 6",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming6.com",
+    "official_website": "https://gaming6.com",
+    "tags": []
+  },
+  {
+    "id": "9f4c3b50-ae66-4c95-8689-d79276590bf1",
+    "name": "Google Shopping AI",
+    "description": "Product discovery platform with AI-powered search and recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://shopping.google.com/",
+    "official_website": "https://shopping.google.com/",
+    "tags": []
+  },
+  {
+    "id": "9f96a98cd3be",
+    "name": "GPT-Alternatives",
+    "description": "A comprehensive survey and collection of resources for user-friendly and open-sourced large GPT models",
+    "category": "Natural Language Processing",
+    "pricing": "Not Specified",
+    "url": "https://github.com/GPT-Alternatives/gpt_alternatives",
+    "official_website": "https://github.com/GPT-Alternatives/gpt_alternatives",
+    "tags": [
+      "Focus on user-friendly and open-sourced alternatives to GPT",
+      "Listing of training/fine-tuning data sources",
+      "Comprehensive survey on Language, Multimodal, and Scientific GPT Models",
+      "Table of ChatGPT Alternatives categorized by application",
+      "Analysis of data collection, pre-training, and fine-tuning",
+      "Examination of model architecture, design principles, and trade-offs",
+      "Detailed lists of GPT-like models categorized by domain",
+      "Overview of open-source tools for deployment and acceleration",
+      "Overview of techniques for efficient deployment (quantization, fine-tuning)"
+    ]
+  },
+  {
+    "id": "a149597e-f5aa-48f4-b697-3bb2515d783e",
+    "name": "Generative AI API",
+    "description": "Cloud-based API for generative AI capabilities across Google Cloud",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/generative-ai/docs",
+    "official_website": "https://cloud.google.com/generative-ai/docs",
+    "tags": []
+  },
+  {
+    "id": "a1f3c00d6068",
+    "name": "Google Gemini API",
+    "description": "API access to Google's state-of-the-art Gemini models for building generative AI applications. Supports multimodal capabilities including text, image, and code generation with enterprise security features.",
+    "category": "GenAI/Foundation Models",
+    "pricing": "Usage-based",
+    "url": "https://ai.google.dev/gemini-api",
+    "official_website": "https://ai.google.dev/gemini-api",
+    "tags": []
+  },
+  {
+    "id": "a2065737-73ee-4415-9644-46e06627bb3d",
+    "name": "Google Shopping Actions",
+    "description": "Unified shopping platform with AI-powered product discovery",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://support.google.com/merchants/answer/9060069",
+    "official_website": "https://support.google.com/merchants/answer/9060069",
+    "tags": []
+  },
+  {
+    "id": "a2764465-5a94-41f5-87ab-093c3466ee05",
+    "name": "Gaming Tool 32",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming32.com",
+    "official_website": "https://gaming32.com",
+    "tags": []
+  },
+  {
+    "id": "a2a32d86-e3bb-49c3-baf5-ddff8e715034",
+    "name": "Google Web Components",
+    "description": "Web components framework with AI-powered development tools",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://www.webcomponents.org/",
+    "official_website": "https://www.webcomponents.org/",
+    "tags": []
+  },
+  {
+    "id": "a3a8652f-54a4-4676-be0a-11c2205644c5",
+    "name": "Gmail Smart Compose",
+    "description": "AI-powered email writing assistance with smart suggestions",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://workspace.google.com/products/gmail/features",
+    "official_website": "https://workspace.google.com/products/gmail/features",
+    "tags": []
+  },
+  {
+    "id": "a3bf4744-b884-452f-9576-2fc9f85f5296",
+    "name": "granite-4.0-micro",
+    "description": "AI model granite-4.0-micro from ibm-granite on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-micro",
+    "official_website": "https://huggingface.co/ibm-granite/granite-4.0-micro",
+    "tags": []
+  },
+  {
+    "id": "a56423c823c2",
+    "name": "Gemini AI",
+    "description": "Google's personal AI assistant with multiple Gemini models (2.5 Flash, Pro, Deep Think). Offers everyday help, productivity enhancement, creativity, learning, and coding across various tasks with Deep Research capabilities, video generation using Veo models, and extensive Google ecosystem integration.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://gemini.google/subscriptions/",
+    "official_website": "https://gemini.google/subscriptions/",
+    "tags": [
+      "productivity",
+      "coding assistance",
+      "Google ecosystem",
+      "multimodal",
+      "Deep Research",
+      "video generation",
+      "Google AI"
+    ]
+  },
+  {
+    "id": "a5844c42-f5ae-46b8-bcae-72e3feccc687",
+    "name": "gte-large-en-v1.5",
+    "description": "AI model gte-large-en-v1.5 from Alibaba-NLP on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
+    "official_website": "https://huggingface.co/Alibaba-NLP/gte-large-en-v1.5",
+    "tags": []
+  },
+  {
+    "id": "a651431df171",
+    "name": "Galileo AI",
+    "description": "AI-powered UI design generation tool that creates high-fidelity mockups from text prompts or images. Designed specifically for UI designers and product teams seeking rapid design generation.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://www.galileo-ai.com/",
+    "official_website": "https://www.galileo-ai.com/",
+    "tags": [
+      "ai-design",
+      "mockups",
+      "figma-export",
+      "ui-design",
+      "high-fidelity"
+    ]
+  },
+  {
+    "id": "a6dc96c3-7ea9-4c0e-aa1b-a3d001858cb0",
+    "name": "Gatsbi",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/gatsbi-com",
+    "official_website": "https://futuretools.link/gatsbi-com",
+    "tags": []
+  },
+  {
+    "id": "a8e8ec33-fff0-445a-9c6d-1bbb3c495bbd",
+    "name": "Google PageSpeed Insights",
+    "description": "Page performance analysis with AI-powered optimization recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://pagespeed.web.dev/",
+    "official_website": "https://pagespeed.web.dev/",
+    "tags": []
+  },
+  {
+    "id": "aa2806ff6471",
+    "name": "Gemini",
+    "description": "Google's large language model for various AI tasks.",
+    "category": "LLM",
+    "pricing": "Freemium",
+    "url": "https://gemini.google.com/",
+    "official_website": "https://gemini.google.com/",
+    "tags": [
+      "llm",
+      "chatbot"
+    ]
+  },
+  {
+    "id": "aa507b0f4061",
+    "name": "Gavin \u2013 Your AI Friend",
+    "description": "No-nonsense AI companion for men with real talk and support.",
+    "category": "Personal AI",
+    "pricing": "Not Specified",
+    "url": "https://saasaitools.com/gavin",
+    "official_website": "https://saasaitools.com/gavin",
+    "tags": [
+      "companion",
+      "personal"
+    ]
+  },
+  {
+    "id": "ab2248a1-de62-415b-8210-942c4498dba7",
+    "name": "Google Play News",
+    "description": "News aggregation platform with AI-powered content curation",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://play.google.com/store/newsstand",
+    "official_website": "https://play.google.com/store/newsstand",
+    "tags": []
+  },
+  {
+    "id": "ab2a65d6-ed64-4c52-807f-14215a3f260a",
+    "name": "Gaming Tool 19",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming19.com",
+    "official_website": "https://gaming19.com",
+    "tags": []
+  },
+  {
+    "id": "abe27242-d8ec-46e4-bc02-c42e9315f48d",
+    "name": "Google Maps AI",
+    "description": "Intelligent mapping with AI-powered features and route optimization",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://maps.google.com/",
+    "official_website": "https://maps.google.com/",
+    "tags": []
+  },
+  {
+    "id": "ae8648fc-6703-4847-8bca-4e20bbe09b6e",
+    "name": "Google Chat AI",
+    "description": "Team communication platform with AI-powered features",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://chat.google.com/",
+    "official_website": "https://chat.google.com/",
+    "tags": []
+  },
+  {
+    "id": "ae8e9dbe-5992-4f33-9b84-fe586e0cbf01",
+    "name": "Groq Chat",
+    "description": "An LPU inference engine. A new type of end-to-end processing unit system that provides the fastest inference for computationally intensive applications with a sequential component to them.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/groq-chat",
+    "official_website": "https://www.producthunt.com/products/groq-chat",
+    "tags": []
+  },
+  {
+    "id": "aedf4843-22ea-4f57-873a-50bd184c7d87",
+    "name": "Gaming Tool 27",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming27.com",
+    "official_website": "https://gaming27.com",
+    "tags": []
+  },
+  {
+    "id": "b08332301e07",
+    "name": "google/flax",
+    "description": "A neural network library and ecosystem for JAX designed for flexibility",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/google/flax",
+    "official_website": "https://github.com/google/flax",
+    "tags": []
+  },
+  {
+    "id": "b0be55f4-424d-47bc-a8b3-091440a12e64",
+    "name": "Github Copilot",
+    "description": "Your AI pair programmer. GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you. Powered by OpenAI its trained on billions of lines of public code, saving you time and helping you stay focused.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/github-copilot",
+    "official_website": "https://www.producthunt.com/products/github-copilot",
+    "tags": []
+  },
+  {
+    "id": "b0c338198565",
+    "name": "Glasp",
+    "description": "Annotate, collect, and share web insights socially for enriched learning.",
+    "category": "Social Media, Copywriting",
+    "pricing": "Free",
+    "url": "https://glasp.co/ai-writing",
+    "official_website": "https://glasp.co/ai-writing",
+    "tags": []
+  },
+  {
+    "id": "b105e2af8a72",
+    "name": "GitHub Copilot CLI",
+    "description": "Command-line interface for GitHub Copilot providing AI-powered terminal assistance and command generation for developers.",
+    "category": "Coding",
+    "pricing": "Premium",
+    "url": "https://github.com/features/copilot",
+    "official_website": "https://github.com/features/copilot",
+    "tags": [
+      "cli",
+      "command-line",
+      "terminal-assistance",
+      "ai-powered-terminal",
+      "github",
+      "command-generation"
+    ]
+  },
+  {
+    "id": "b13fadb877f2",
+    "name": "Google AI Studio",
+    "description": "AI development studio by Google",
+    "category": "Vibe coding",
+    "pricing": "Not Specified",
+    "url": "https://ai.google.com/studio/",
+    "official_website": "https://ai.google.com/studio/",
+    "tags": []
+  },
+  {
+    "id": "b18d59b3627f",
+    "name": "Groq Chat",
+    "description": "An LPU inference engine. A new type of end-to-end processing unit system that provides the fastest inference for computationally intensive applications with a sequential component to them.",
+    "category": "AI Chatbots, Predictive AI, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://groq.com",
+    "official_website": "https://groq.com",
+    "tags": []
+  },
+  {
+    "id": "b2e844ea-9990-4cfb-a191-dd3454e08764",
+    "name": "Google Travel AI",
+    "description": "Travel planning platform with AI-powered recommendations and insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://travel.google.com/",
+    "official_website": "https://travel.google.com/",
+    "tags": []
+  },
+  {
+    "id": "b4831da4183f",
+    "name": "great-expectations/great_expectations",
+    "description": "Data validation framework for Continuous Integration for your data",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "official_website": "https://github.com/great-expectations/great_expectations",
+    "tags": []
+  },
+  {
+    "id": "b4acad5b-efb6-4624-9502-6c79fe5de586",
+    "name": "Gaming Tool 14",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming14.com",
+    "official_website": "https://gaming14.com",
+    "tags": []
+  },
+  {
+    "id": "b4eb5b24-437e-4ba5-ade5-205f11c44aa8",
+    "name": "GoDaddy AI Builder",
+    "description": "AI website builder that generates websites in two steps with 30+ design options in under 30 seconds. Features AI chatbot for setup guidance, social media ad creation, AI-powered social calendar, headline generator, and AI-powered SEO guidance.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://www.godaddy.com/",
+    "official_website": "https://www.godaddy.com/",
+    "tags": []
+  },
+  {
+    "id": "b4f482766656",
+    "name": "GitLab",
+    "description": "Research infrastructure and development tools for academic projects",
+    "category": "Research Infrastructure",
+    "pricing": "Free/Commercial",
+    "url": "https://gitlab.com",
+    "official_website": "https://gitlab.com",
+    "tags": []
+  },
+  {
+    "id": "b5164ff8-e61a-4d08-b39b-9c11f946bd83",
+    "name": "gemma-2b",
+    "description": "AI model gemma-2b from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/google/gemma-2b",
+    "official_website": "https://huggingface.co/google/gemma-2b",
+    "tags": []
+  },
+  {
+    "id": "b5289d0b-059e-403a-9b5e-0c2704bb9088",
+    "name": "Grammarly",
+    "description": "Grammarly is a technology company that develops a digital writing tool using artificial intelligence and natural language processing. The Grammarly Keyboard goes where you go to make sure your writing always looks great.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/grammarly",
+    "official_website": "https://www.producthunt.com/products/grammarly",
+    "tags": []
+  },
+  {
+    "id": "b5927180deeb",
+    "name": "Gemini",
+    "description": "AI-powered assistant for research and academic applications",
+    "category": "AI Assistant",
+    "pricing": "Commercial",
+    "url": "https://gemini.com",
+    "official_website": "https://gemini.com",
+    "tags": []
+  },
+  {
+    "id": "b613ce20-ff45-4a26-8d20-f1eec181f035",
+    "name": "Google Optimize AI",
+    "description": "A/B testing platform with AI-powered experiment optimization",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://optimize.google.com/",
+    "official_website": "https://optimize.google.com/",
+    "tags": []
+  },
+  {
+    "id": "b7022c72290a",
+    "name": "GPT 4o",
+    "description": "GPT 4o achieving real-time audiovisual responses, emotional audio outputs, and is a more powerful model than GPT 4. All users can use it for free.",
+    "category": "AI Chatbots, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://openai.com/index/hello-gpt-4o/",
+    "official_website": "https://openai.com/index/hello-gpt-4o/",
+    "tags": []
+  },
+  {
+    "id": "b763cecc786f",
+    "name": "Grammarly",
+    "description": "AI-powered writing assistant for grammar, spelling, and style suggestions.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://www.grammarly.com/",
+    "official_website": "https://www.grammarly.com/",
+    "tags": [
+      "writing",
+      "grammar"
+    ]
+  },
+  {
+    "id": "b7af6cd5-a49f-44f6-aa18-a719af9b1d31",
+    "name": "Gamma",
+    "description": "AI presentation and webpage builder",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gamma",
+    "official_website": "gamma",
+    "tags": []
+  },
+  {
+    "id": "b8521a0bc4c1",
+    "name": "Google NotebookLM",
+    "description": "AI research tool that generates podcast-like audio discussions from uploaded sources. Features one-click audio overview creation, transforming documents, slides, and web content into engaging audio formats.",
+    "category": "Voice",
+    "pricing": "Free",
+    "url": "https://notebooklm.google/",
+    "official_website": "https://notebooklm.google/",
+    "tags": [
+      "source-analysis",
+      "one-click",
+      "research-tool",
+      "podcast-generation",
+      "google"
+    ]
+  },
+  {
+    "id": "b8786158-1ec7-40f4-8ee0-ca4ff5ea1cb1",
+    "name": "Gaming Tool 25",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming25.com",
+    "official_website": "https://gaming25.com",
+    "tags": []
+  },
+  {
+    "id": "b912302e-8062-4183-8d9d-8e6f6e213bb9",
+    "name": "Grammarly AI",
+    "description": "AI writing assistant that improves overall content quality through natural language processing algorithms. Generates personalized copy, creates engaging blog titles, and optimizes content for search engine rankings.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://grammarly.com/",
+    "official_website": "https://grammarly.com/",
+    "tags": []
+  },
+  {
+    "id": "bac5e0a6-6c7e-46e6-97cd-2bed90b956c2",
+    "name": "Gizmo",
+    "description": "Gizmo Make Gizmos is an AI-powered creative app that transforms simple text prompts into interactive digital experiences such as puzzles, memes, 3D toys, and mini-games. This free tool harnesses artificial intelligence to enable users without technical expertise to design engaging content that can be instantly shared via public URLs. The AI engine interprets user prompts and generates customizable interactive elements that can be further refined using the built-in Gizmo Editor, making the creati",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/gizmo",
+    "official_website": "https://futuretools.link/gizmo",
+    "tags": []
+  },
+  {
+    "id": "bb156620-7dd0-49b5-ab4d-ba385fed2b15",
+    "name": "Gaming Tool 29",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming29.com",
+    "official_website": "https://gaming29.com",
+    "tags": []
+  },
+  {
+    "id": "bb1cbaa3-d858-4d0f-a440-3e048bb63537",
+    "name": "Google Health AI",
+    "description": "Medical AI research and tools",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "bc1d0ca6-0b89-4102-9b9c-6206c06228ec",
+    "name": "GitHub Codespaces",
+    "description": "GitHub cloud development",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://github.com",
+    "official_website": "https://github.com",
+    "tags": []
+  },
+  {
+    "id": "bd4e1848-bb4a-4596-9bfe-374618b719d0",
+    "name": "GetResponse AI Builder",
+    "description": "Email marketing platform with fully functional AI landing page creator. Features AI landing page builder, AI website builder, AI email generator, AI subject line generator, course creator, mobile app, and e-commerce tracking with segmentation.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.getresponse.com/",
+    "official_website": "https://www.getresponse.com/",
+    "tags": []
+  },
+  {
+    "id": "bd98c061-b475-44c3-8784-2463a46a62dc",
+    "name": "Gaming Tool 41",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming41.com",
+    "official_website": "https://gaming41.com",
+    "tags": []
+  },
+  {
+    "id": "bdc4dcca-68e4-4e61-8afc-593031327e19",
+    "name": "Google Duo AI",
+    "description": "Video calling app with AI-powered features and enhancements",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://duo.google.com/",
+    "official_website": "https://duo.google.com/",
+    "tags": []
+  },
+  {
+    "id": "beb63acf-51a5-4a96-a888-645967b8fc92",
+    "name": "Gamma",
+    "description": "AI-powered tool for creating presentations, documents, and web pages with no coding required, customizable themes, media embedding, and AI regeneration capabilities.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://gamma.app",
+    "official_website": "https://gamma.app",
+    "tags": []
+  },
+  {
+    "id": "bf505f36-00ae-40b9-a009-9c8778e529ae",
+    "name": "Gamma.ai",
+    "description": "AI-powered tool for AI General that helps users streamline workflows and enhance productivity.",
+    "category": "AI General",
+    "pricing": "Not specified",
+    "url": "https://topai.tools/t/gamma-ai",
+    "official_website": "https://topai.tools/t/gamma-ai",
+    "tags": []
+  },
+  {
+    "id": "c0943ff6-5448-4a25-a0d1-d72d610deb21",
+    "name": "Gemini AI",
+    "description": "Google's personal AI assistant with multiple Gemini models (2.5 Flash, Pro, Deep Think). Offers everyday help, productivity enhancement, creativity, learning, and coding across various tasks with Deep Research capabilities, video generation using Veo models, and extensive Google ecosystem integration.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://gemini.google/subscriptions/",
+    "official_website": "https://gemini.google/subscriptions/",
+    "tags": []
+  },
+  {
+    "id": "c393da86-fa4c-4bc7-959c-161cb82c1e58",
+    "name": "Google Veo",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/google-veo",
+    "official_website": "https://futuretools.link/google-veo",
+    "tags": []
+  },
+  {
+    "id": "c3bfc23a41a1",
+    "name": "GemmaX2-28-9B-v0.1",
+    "description": "AI model GemmaX2-28-9B-v0.1 from ModelSpace on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/ModelSpace/GemmaX2-28-9B-v0.1",
+    "official_website": "https://huggingface.co/ModelSpace/GemmaX2-28-9B-v0.1",
+    "tags": []
+  },
+  {
+    "id": "c4402744699b",
+    "name": "Gauge",
+    "description": "Open-source test automation framework focused on maintainable and readable test specifications with multi-language support and CI/CD integration.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://gauge.org/",
+    "official_website": "https://gauge.org/",
+    "tags": [
+      "ci-cd",
+      "test-specifications",
+      "multi-language",
+      "open-source",
+      "behavior-driven",
+      "maintainable-tests"
+    ]
+  },
+  {
+    "id": "c51aeed24d54",
+    "name": "GodmodeHQ | Custom AI agents for sales",
+    "description": "We are building the AI coworkers of the future, starting with sales. Our AI agents deliver any kind of research on your leads so the outreach is personal on a 1 on 1 level.",
+    "category": "Automation tools, Lead generation software, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://godmodehq.com",
+    "official_website": "https://godmodehq.com",
+    "tags": []
+  },
+  {
+    "id": "c52db6e3-8fe8-4cd0-9dbe-99f8c3ea23cf",
+    "name": "Generate",
+    "description": "Text generation focused model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "c53d0b209db0",
+    "name": "Google Gemini",
+    "description": "Engages in natural conversations and generates diverse creative content with advanced context understanding.",
+    "category": "Chatbot",
+    "pricing": "Free",
+    "url": "https://gemini.google.com/",
+    "official_website": "https://gemini.google.com/",
+    "tags": [
+      "multimodal",
+      "chatbot"
+    ]
+  },
+  {
+    "id": "c734b3de-68db-4d10-88a9-435d2d48595b",
+    "name": "GrainODM",
+    "description": "GrainODM is an AI-powered platform designed to modernize grain analysis by replacing slow, error-prone manual inspections with rapid, highly accurate automated testing. Traditional inspections can take up to 30 minutes and often miss defects, while GrainODM delivers results in just three seconds with 99.8% accuracy. It helps processors, mills, and food producers achieve consistent grading, reduce disputes, and improve trust by eliminating human error. The system allows scalability without relyin",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/grainodm-com",
+    "official_website": "https://futuretools.link/grainodm-com",
+    "tags": []
+  },
+  {
+    "id": "c809e535-0722-4109-a3bb-b2f4a8bb17b1",
+    "name": "Gaming Tool 17",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming17.com",
+    "official_website": "https://gaming17.com",
+    "tags": []
+  },
+  {
+    "id": "c8e99cf1-f649-4862-8741-0ff2e12dd054",
+    "name": "Google Ads AI",
+    "description": "Online advertising platform with AI-powered campaign optimization",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://ads.google.com/",
+    "official_website": "https://ads.google.com/",
+    "tags": []
+  },
+  {
+    "id": "c94c58f087f1",
+    "name": "Google Scholar",
+    "description": "Freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines",
+    "category": "Research Platform",
+    "pricing": "Free",
+    "url": "https://scholar.google.com",
+    "official_website": "https://scholar.google.com",
+    "tags": []
+  },
+  {
+    "id": "ca08798a0691",
+    "name": "Galactica",
+    "description": "Large language model for science",
+    "category": "Academia",
+    "pricing": "Not Specified",
+    "url": "https://galactica.org/",
+    "official_website": "https://galactica.org/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "ca2d4729-5e55-4883-b84d-26d31445884f",
+    "name": "Grok",
+    "description": "Free AI assistant by xAI for truth, objectivity, real-time search",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Free\",\"details\":\"Pricing as listed in source\"}",
+    "url": "https://www.toolify.ai/tool/grok",
+    "official_website": "https://www.toolify.ai/tool/grok",
+    "tags": []
+  },
+  {
+    "id": "ca33ce5a-a873-4242-8424-7917bbc254c4",
+    "name": "Gainsight CS AI",
+    "description": "AI customer success analytics",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gainsightcsai",
+    "official_website": "gainsightcsai",
+    "tags": []
+  },
+  {
+    "id": "ca71001a-7314-4470-a364-66fea6d0e973",
+    "name": "Google Slides AI",
+    "description": "Presentation software with AI-powered design and content assistance",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://slides.google.com/",
+    "official_website": "https://slides.google.com/",
+    "tags": []
+  },
+  {
+    "id": "cb320507-df25-4f7c-9d87-899d06c5c6e3",
+    "name": "Google Search AI Mode",
+    "description": "Enhanced search experience powered by conversational AI",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://blog.google/search/about/",
+    "official_website": "https://blog.google/search/about/",
+    "tags": []
+  },
+  {
+    "id": "cc774c31-7fe2-40c7-ac85-b3141b857b36",
+    "name": "Gaming Tool 31",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming31.com",
+    "official_website": "https://gaming31.com",
+    "tags": []
+  },
+  {
+    "id": "ce87d403-51fc-4884-abad-0d3c67c53b90",
+    "name": "Gensim",
+    "description": "Specialized AI tool for linguistics applications",
+    "category": "Linguistics",
+    "pricing": "Open Source",
+    "url": "https://gensim.com",
+    "official_website": "https://gensim.com",
+    "tags": []
+  },
+  {
+    "id": "ce9eef049ba0",
+    "name": "granite-4.0-micro",
+    "description": "AI model granite-4.0-micro from ibm-granite on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-micro",
+    "official_website": "https://huggingface.co/ibm-granite/granite-4.0-micro",
+    "tags": []
+  },
+  {
+    "id": "ceb76cdbcb67",
+    "name": "Google Looker Studio",
+    "description": "Free, cloud-based data visualization tool with seamless Google ecosystem integration. Offers drag-and-drop interface, real-time collaboration, and extensive third-party connector support for creating interactive dashboards.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://datastudio.google.com/",
+    "official_website": "https://datastudio.google.com/",
+    "tags": [
+      "free",
+      "drag-and-drop",
+      "interactive-reports",
+      "collaboration",
+      "cloud-based",
+      "google-ecosystem"
+    ]
+  },
+  {
+    "id": "cf474063-4abf-4c71-ae5b-59123deee4ed",
+    "name": "Gemini CLI",
+    "description": "Google's open-source AI agent for the terminal using Gemini 2.5 Pro with 1 million token context for large codebase analysis and task execution.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://github.com/google-gemini/generative-ai-cli",
+    "official_website": "https://github.com/google-gemini/generative-ai-cli",
+    "tags": []
+  },
+  {
+    "id": "d0bd7b3e33e1",
+    "name": "Gemini",
+    "description": "Google's answer to GPT-4. Google's largest and most capable AI model. Built from the ground up to be multimodal.",
+    "category": "LLMs, AI Chatbots, Predictive AI, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://gemini.google.com",
+    "official_website": "https://gemini.google.com",
+    "tags": []
+  },
+  {
+    "id": "d18cb8fb-112b-4830-bd37-c2f331cbfa77",
+    "name": "Google Hotels AI",
+    "description": "Hotel search and booking platform with AI-powered recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://www.google.com/travel/hotels",
+    "official_website": "https://www.google.com/travel/hotels",
+    "tags": []
+  },
+  {
+    "id": "d2793534-95d4-445a-8d17-6651f2408e38",
+    "name": "gpt-oss-20b",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/openai/gpt-oss-20b",
+    "official_website": "https://huggingface.co/openai/gpt-oss-20b",
+    "tags": []
+  },
+  {
+    "id": "d298ec37-cea7-40e2-899d-9420e1de566f",
+    "name": "Google Core Web Vitals",
+    "description": "Essential web performance metrics with AI-powered monitoring",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://web.dev/vitals/",
+    "official_website": "https://web.dev/vitals/",
+    "tags": []
+  },
+  {
+    "id": "d2c7d5f8-498f-4389-8ef0-a28ba3e78eb7",
+    "name": "Grok",
+    "description": "xAI's witty chatbot with real-time X platform knowledge",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "grok",
+    "official_website": "grok",
+    "tags": []
+  },
+  {
+    "id": "d39f262c-6f8a-43bb-9a9e-b303ff69a01b",
+    "name": "Geniea",
+    "description": "Optimize AI content creation with precision prompt tailoring.",
+    "category": "Prompt Generators",
+    "pricing": "Unknown",
+    "url": "https://geniea.com/",
+    "official_website": "https://geniea.com/",
+    "tags": []
+  },
+  {
+    "id": "d5a8aa9a-da47-4ecb-bd02-4cac1550b5d2",
+    "name": "Google Cricket AI",
+    "description": "Cricket statistics and analysis platform with AI-powered insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://www.google.com/search/about/",
+    "official_website": "https://www.google.com/search/about/",
+    "tags": []
+  },
+  {
+    "id": "d61ba19b-43b6-49e6-adc6-1c6b13b0979e",
+    "name": "Google Books AI",
+    "description": "Digital book platform with AI-powered search and recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://books.google.com/",
+    "official_website": "https://books.google.com/",
+    "tags": []
+  },
+  {
+    "id": "d649e16e-9999-481d-967d-a7c9b8a6b753",
+    "name": "Gemini",
+    "description": "Google's answer to GPT-4. Google's largest and most capable AI model. Built from the ground up to be multimodal.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/gemini",
+    "official_website": "https://www.producthunt.com/products/gemini",
+    "tags": []
+  },
+  {
+    "id": "d822997b-b62d-4036-beae-3da73a458da3",
+    "name": "Google Bard (Gemini)",
+    "description": "Google's conversational AI assistant (now rebranded as Gemini) offering multimodal capabilities, integration with Google services, and various model options. Provides web search, image generation, and creative writing assistance through Google's AI ecosystem.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://gemini.google.com/",
+    "official_website": "https://gemini.google.com/",
+    "tags": []
+  },
+  {
+    "id": "d8a9e229ac1d",
+    "name": "Google Cloud Text-to-Speech",
+    "description": "AI service that converts text into natural-sounding speech using Google's text-to-speech technology. Provides WaveNet, WaveNet v2, and WaveNet v3 neural networks for high-quality voice synthesis.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/text-to-speech",
+    "official_website": "https://cloud.google.com/text-to-speech",
+    "tags": []
+  },
+  {
+    "id": "d8ca9f18-3b66-44e9-b85e-0e9ebd27a06e",
+    "name": "GenSFX",
+    "description": "Free AI Sound Effect Generator",
+    "category": "Text-to-Speech",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/gensfx",
+    "official_website": "https://freeaitool.ai/tool/gensfx",
+    "tags": []
+  },
+  {
+    "id": "dac9a6883c61",
+    "name": "gemma-2b",
+    "description": "AI model gemma-2b from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/gemma-2b",
+    "official_website": "https://huggingface.co/google/gemma-2b",
+    "tags": []
+  },
+  {
+    "id": "dba3f34c-c5ae-4373-92c3-595c957a9ff3",
+    "name": "Google Tag Manager AI",
+    "description": "Tag management system with AI-powered optimization insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://tagmanager.google.com/",
+    "official_website": "https://tagmanager.google.com/",
+    "tags": []
+  },
+  {
+    "id": "dbf2ef28-a859-41f5-9691-9ec74907b0f5",
+    "name": "Gorgias AI",
+    "description": "AI-enhanced e-commerce customer support",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gorgiasai",
+    "official_website": "gorgiasai",
+    "tags": []
+  },
+  {
+    "id": "dc94748c-6c7d-49a2-9b21-f2e361e0d27c",
+    "name": "Gaming Tool 36",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming36.com",
+    "official_website": "https://gaming36.com",
+    "tags": []
+  },
+  {
+    "id": "dca6f7d1-a82c-44b5-946f-24fce785d4a4",
+    "name": "Gamma App",
+    "description": "AI-powered presentation creator",
+    "category": "AI Presentation",
+    "pricing": "Freemium",
+    "url": "https://gamma.app",
+    "official_website": "https://gamma.app",
+    "tags": []
+  },
+  {
+    "id": "dd1221f3-a8a0-4005-a74e-c964e885e3ae",
+    "name": "GrapesJS",
+    "description": "A free visual drag-and-drop editor for building web pages and email templates with content creation",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/grapesjs",
+    "official_website": "https://www.futuretools.io/tools/grapesjs",
+    "tags": []
+  },
+  {
+    "id": "dd2644d7-6c5e-42e9-b9c6-35ffc8d2c531",
+    "name": "GetDot.ai",
+    "description": "Dot is an AI-powered data analyst designed to help teams instantly access and understand their data through natural language queries. It enables users to retrieve insights, visualize data, and perform deep analysis by simply asking questions in plain language across multiple languages. Dot integrates with Slack and Teams, offering fast, actionable responses without the need for SQL or technical expertise. It can generate comprehensive reports, uncover root causes behind metric shifts, and delive",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/getdot-ai",
+    "official_website": "https://futuretools.link/getdot-ai",
+    "tags": []
+  },
+  {
+    "id": "dd5f6543-5c40-49a0-8da0-147049d8e70c",
+    "name": "GetResponse AI",
+    "description": "AI-powered marketing automation",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "getresponseai",
+    "official_website": "getresponseai",
+    "tags": []
+  },
+  {
+    "id": "deb043cb-9926-4f4b-862d-238a31e996df",
+    "name": "Gmail Smart Reply",
+    "description": "Quick AI-generated email responses for faster communication",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://workspace.google.com/products/gmail/features",
+    "official_website": "https://workspace.google.com/products/gmail/features",
+    "tags": []
+  },
+  {
+    "id": "dfad7a6e-ca10-418d-8f95-512ba84bc1d2",
+    "name": "Google Health AI",
+    "description": "AI-powered healthcare solution",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.googlehealthai.com",
+    "official_website": "https://www.googlehealthai.com",
+    "tags": []
+  },
+  {
+    "id": "dfb5847756b0",
+    "name": "GitHub Models",
+    "description": "GitHub's platform for managing and comparing AI model prompts",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://github.com/marketplace/models",
+    "official_website": "https://github.com/marketplace/models",
+    "tags": []
+  },
+  {
+    "id": "dfd5ac47d4ea",
+    "name": "GitHub",
+    "description": "Research infrastructure and development tools for academic projects",
+    "category": "Research Infrastructure",
+    "pricing": "Free/Commercial",
+    "url": "https://github.com",
+    "official_website": "https://github.com",
+    "tags": []
+  },
+  {
+    "id": "dff3c2c5-165f-4e88-8bba-22355f0f7391",
+    "name": "Google Vault",
+    "description": "Enterprise information governance and eDiscovery service",
+    "category": "Security & Infrastructure",
+    "pricing": "Unknown",
+    "url": "https://workspace.google.com/products/vault",
+    "official_website": "https://workspace.google.com/products/vault",
+    "tags": []
+  },
+  {
+    "id": "e064d7d5-03b4-40ee-9092-d0879a159c73",
+    "name": "gemma-2b-it",
+    "description": "AI model gemma-2b-it from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/google/gemma-2b-it",
+    "official_website": "https://huggingface.co/google/gemma-2b-it",
+    "tags": []
+  },
+  {
+    "id": "e0a47650d55d",
+    "name": "Google Cloud Video Intelligence",
+    "description": "AI service that analyzes videos to extract information about objects, people, scenes, and text. Supports content moderation, shot change detection, and semantic search for video content analysis.",
+    "category": "AI Integration & APIs",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/video-intelligence",
+    "official_website": "https://cloud.google.com/video-intelligence",
+    "tags": []
+  },
+  {
+    "id": "e0e913658d12",
+    "name": "Google Cloud Recommendations AI",
+    "description": "Enterprise-grade recommendation system that provides personalized product recommendations for e-commerce and content platforms. Uses machine learning to optimize for engagement and conversion metrics.",
+    "category": "Data & Analytics AI",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/recommendations",
+    "official_website": "https://cloud.google.com/recommendations",
+    "tags": []
+  },
+  {
+    "id": "e1d804fa-3910-4cff-aa4e-8697f525bd6a",
+    "name": "GE Digital AI",
+    "description": "Industrial IoT AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://generalelectric.com",
+    "official_website": "https://generalelectric.com",
+    "tags": []
+  },
+  {
+    "id": "e24b5851-2cdb-42a5-ae8e-422163eb07d3",
+    "name": "Gaming Tool 28",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming28.com",
+    "official_website": "https://gaming28.com",
+    "tags": []
+  },
+  {
+    "id": "e4f131fa-3068-4dba-8ec7-3bb501022763",
+    "name": "Graficai",
+    "description": "graficai is an AI-powered bulk image editing platform designed specifically for e-commerce sellers needing to process large volumes of product photos efficiently. The tool leverages artificial intelligence to automatically remove backgrounds, generate white backgrounds, compress images, and create SEO-optimized alt text for up to 50 images simultaneously. Its AI algorithms analyze each image to deliver precise editing results without requiring manual intervention, effectively reducing what would",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/graficai-co",
+    "official_website": "https://futuretools.link/graficai-co",
+    "tags": []
+  },
+  {
+    "id": "e63d0935ac3c",
+    "name": "GPT-3 Playground",
+    "description": "Unleash AI-driven text generation with unparalleled versatility and customization.",
+    "category": "Writing Generators, Code Assistant",
+    "pricing": "Free Trial",
+    "url": "https://platform.openai.com/playground",
+    "official_website": "https://platform.openai.com/playground",
+    "tags": []
+  },
+  {
+    "id": "e6945346-1327-4b76-98b8-4a63cb3f39d4",
+    "name": "Ghostwriter",
+    "description": "Replit's AI coding assistant",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ghostwriter",
+    "official_website": "ghostwriter",
+    "tags": []
+  },
+  {
+    "id": "e6e1de97-b214-4064-8e4e-62029fe32b8f",
+    "name": "Grammarly",
+    "description": "AI writing assistant and grammar checker",
+    "category": "AI Writing Tools",
+    "pricing": "Freemium",
+    "url": "https://grammarly.com",
+    "official_website": "https://grammarly.com",
+    "tags": []
+  },
+  {
+    "id": "e76894dd-00db-4e5e-b5e5-55a5d27480a5",
+    "name": "Google Veo 3",
+    "description": "Google DeepMind's advanced video generation model featuring exceptional realism, integrated audio, and lip-sync. Offers cinematic storytelling with low skill requirements for high-quality outputs.",
+    "category": "AI Video Creation",
+    "pricing": "Premium",
+    "url": "https://aistudio.google.com/models/veo-3",
+    "official_website": "https://aistudio.google.com/models/veo-3",
+    "tags": []
+  },
+  {
+    "id": "e80516d3-41d7-4bc1-b25d-5cdbe97c264d",
+    "name": "Gaming Tool 11",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming11.com",
+    "official_website": "https://gaming11.com",
+    "tags": []
+  },
+  {
+    "id": "e85c5b12-f402-48b9-abc1-5b35a7d730a0",
+    "name": "Google Chrome AI",
+    "description": "Web browser with AI-powered features and intelligent assistance",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://www.google.com/chrome/",
+    "official_website": "https://www.google.com/chrome/",
+    "tags": []
+  },
+  {
+    "id": "e8b6e7910a86",
+    "name": "Gemini for Gmail",
+    "description": "Google's AI assistant for Workspace providing contextual suggested actions, email summarization, order tracking, draft replies, and Google Search integration for enhanced email productivity.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://workspace.google.com/solutions/ai",
+    "official_website": "https://workspace.google.com/solutions/ai",
+    "tags": [
+      "drafting",
+      "contextual-actions",
+      "google-workspace",
+      "email-assistant",
+      "search-integration"
+    ]
+  },
+  {
+    "id": "e8eefec25ba4",
+    "name": "gpt2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai-community/gpt2",
+    "official_website": "https://huggingface.co/openai-community/gpt2",
+    "tags": []
+  },
+  {
+    "id": "e9573fa9-70b9-4c4f-86db-6ea0550fd71e",
+    "name": "Google Finance AI",
+    "description": "Financial information platform with AI-powered market insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://finance.google.com/",
+    "official_website": "https://finance.google.com/",
+    "tags": []
+  },
+  {
+    "id": "ea42fc53-85fc-457d-8d40-081234430caa",
+    "name": "granite-4.0-h-small",
+    "description": "AI model granite-4.0-h-small from ibm-granite on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/ibm-granite/granite-4.0-h-small",
+    "official_website": "https://huggingface.co/ibm-granite/granite-4.0-h-small",
+    "tags": []
+  },
+  {
+    "id": "eab22270-3ee4-4581-9cec-0d30184c7e4e",
+    "name": "GitHub Copilot",
+    "description": "GitHub Copilot is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Image Generation",
+    "pricing": "Premium",
+    "url": "https://futuretools.link/github-copilot",
+    "official_website": "https://futuretools.link/github-copilot",
+    "tags": []
+  },
+  {
+    "id": "eade00c4-cc15-4b48-b1b5-3333d0f578e1",
+    "name": "GraphQL Editor",
+    "description": "AI-assisted GraphQL schema design",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "graphqleditor",
+    "official_website": "graphqleditor",
+    "tags": []
+  },
+  {
+    "id": "eb2e146b-c02f-4941-ac99-d192febdf7f5",
+    "name": "Gaming Tool 4",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming4.com",
+    "official_website": "https://gaming4.com",
+    "tags": []
+  },
+  {
+    "id": "eb62a690-9c2f-42d4-944f-8d32c71c9b6a",
+    "name": "Google Patents AI",
+    "description": "Patent search platform with AI-powered analysis and insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://patents.google.com/",
+    "official_website": "https://patents.google.com/",
+    "tags": []
+  },
+  {
+    "id": "ecaed17b-86ad-496f-bbd8-e8df69e33a4b",
+    "name": "Gaming Tool 30",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming30.com",
+    "official_website": "https://gaming30.com",
+    "tags": []
+  },
+  {
+    "id": "ed54aeed599c",
+    "name": "gpt-oss-20b-GGUF",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/unsloth/gpt-oss-20b-GGUF",
+    "official_website": "https://huggingface.co/unsloth/gpt-oss-20b-GGUF",
+    "tags": []
+  },
+  {
+    "id": "f032313864f6",
+    "name": "Gensim",
+    "description": "Specialized AI tool for linguistics applications",
+    "category": "Linguistics",
+    "pricing": "Open Source",
+    "url": "https://gensim.com",
+    "official_website": "https://gensim.com",
+    "tags": []
+  },
+  {
+    "id": "f064f33c6de3",
+    "name": "GLM-4.5",
+    "description": "Favorite AI model for agentic environments, recommended by HackerNews community",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://z.ai",
+    "official_website": "https://z.ai",
+    "tags": []
+  },
+  {
+    "id": "f16d747e-fbbb-4eef-b525-4342b9d36858",
+    "name": "Galileo AI",
+    "description": "AI-powered UI design generation tool that creates high-fidelity mockups from text prompts or images. Designed specifically for UI designers and product teams seeking rapid design generation.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://www.galileo-ai.com/",
+    "official_website": "https://www.galileo-ai.com/",
+    "tags": []
+  },
+  {
+    "id": "f225fef3-c7ed-479e-ba05-84b5b3a1e399",
+    "name": "Gemini for Google Cloud",
+    "description": "Gemini AI integration within Google Cloud services",
+    "category": "Cloud AI Services",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/gemini-ai",
+    "official_website": "https://cloud.google.com/gemini-ai",
+    "tags": []
+  },
+  {
+    "id": "f2476846-009b-43f3-a0af-2b467db049bd",
+    "name": "Google Search Intelligence",
+    "description": "Search analytics platform with AI-powered insights and trends",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://www.google.com/search/knowledge-panel/",
+    "official_website": "https://www.google.com/search/knowledge-panel/",
+    "tags": []
+  },
+  {
+    "id": "f4868ecf-be23-4e39-a6e8-c87aee1e29ff",
+    "name": "GitBook AI",
+    "description": "AI-enhanced documentation platform with intelligent content generation, search, and collaboration features for technical documentation.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://gitbook.com/",
+    "official_website": "https://gitbook.com/",
+    "tags": []
+  },
+  {
+    "id": "f5475109a736",
+    "name": "Gamma",
+    "description": "AI-powered presentation and document creation tool.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://gamma.app/",
+    "official_website": "https://gamma.app/",
+    "tags": [
+      "documents",
+      "presentations"
+    ]
+  },
+  {
+    "id": "f562a8b6-6e85-4971-b955-7ff7d7853957",
+    "name": "Google Play Movies AI",
+    "description": "Movie and TV streaming with AI-powered recommendations",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://play.google.com/store/movies",
+    "official_website": "https://play.google.com/store/movies",
+    "tags": []
+  },
+  {
+    "id": "f5926508-c9c3-4e72-80f6-cc9994ce7d9e",
+    "name": "Gemini",
+    "description": "Google's multimodal AI assistant with advanced reasoning capabilities, strong performance on algorithmic problems, and tight Google ecosystem integration.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://gemini.google.com/",
+    "official_website": "https://gemini.google.com/",
+    "tags": []
+  },
+  {
+    "id": "f6782310414a",
+    "name": "gemma-3n-E4B-it-litert-lm",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/gemma-3n-E4B-it-litert-lm",
+    "official_website": "https://huggingface.co/google/gemma-3n-E4B-it-litert-lm",
+    "tags": []
+  },
+  {
+    "id": "f6e51e50-d22c-45fc-9e5d-94c0e8c23b5b",
+    "name": "Google BigQuery",
+    "description": "Serverless, highly scalable data warehouse with built-in machine learning, real-time analytics, and integration with Google Cloud ecosystem. Supports petabyte-scale data analysis with SQL.",
+    "category": "Ai Analytics",
+    "pricing": "Premium",
+    "url": "https://cloud.google.com/bigquery",
+    "official_website": "https://cloud.google.com/bigquery",
+    "tags": []
+  },
+  {
+    "id": "f94a98dc-4028-4f4e-b722-1b36f705891d",
+    "name": "GravityWrite",
+    "description": "Streamline content creation with advanced AI across multiple languages.",
+    "category": "Prompt Generators",
+    "pricing": "Unknown",
+    "url": "https://gravitywrite.com/",
+    "official_website": "https://gravitywrite.com/",
+    "tags": []
+  },
+  {
+    "id": "fa5937fe-d6fe-4593-8cda-b0b5c2830c65",
+    "name": "gpt-oss-20b-GGUF",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/unsloth/gpt-oss-20b-GGUF",
+    "official_website": "https://huggingface.co/unsloth/gpt-oss-20b-GGUF",
+    "tags": []
+  },
+  {
+    "id": "faac3f2759fd",
+    "name": "gemma-7b",
+    "description": "AI model gemma-7b from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/gemma-7b",
+    "official_website": "https://huggingface.co/google/gemma-7b",
+    "tags": []
+  },
+  {
+    "id": "fadfe79495be",
+    "name": "Google Generative AI Studio",
+    "description": "Web-based tool for prototyping and testing generative AI applications. Provides a no-code interface for building prompts, configuring model parameters, and evaluating AI responses for enterprise use cases.",
+    "category": "AI Development & Testing",
+    "pricing": "Usage-based",
+    "url": "https://aistudio.google.com/",
+    "official_website": "https://aistudio.google.com/",
+    "tags": []
+  },
+  {
+    "id": "fbaae7ee60b8",
+    "name": "Grafana",
+    "description": "Open-source analytics and monitoring platform with customizable dashboards, alerting capabilities, and robust plugin ecosystem. Supports multiple data sources including Prometheus, InfluxDB, and Elasticsearch.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://grafana.com/",
+    "official_website": "https://grafana.com/",
+    "tags": [
+      "multiple-data-sources",
+      "alerting",
+      "customizable-dashboards",
+      "analytics-monitoring",
+      "observability",
+      "plugin-ecosystem"
+    ]
+  },
+  {
+    "id": "fbe0b158-183e-4098-8d3b-7e141c4200c7",
+    "name": "Google Photos AI",
+    "description": "AI-powered photo organization and enhancement features",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://photos.google.com/",
+    "official_website": "https://photos.google.com/",
+    "tags": []
+  },
+  {
+    "id": "fccae979-2e26-4fd9-aace-3c0af4427664",
+    "name": "Glean AI",
+    "description": "AI-powered enterprise search",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "gleanai",
+    "official_website": "gleanai",
+    "tags": []
+  },
+  {
+    "id": "fd6f6a74-fdff-4ac6-ad7a-b532ac7451a5",
+    "name": "Google Lens",
+    "description": "Visual search app that uses AI to identify objects, text, and scenes",
+    "category": "Consumer Features",
+    "pricing": "Unknown",
+    "url": "https://lens.google/",
+    "official_website": "https://lens.google/",
+    "tags": []
+  },
+  {
+    "id": "fe332815-befa-4865-b8a2-964c336c3481",
+    "name": "Google Fit AI",
+    "description": "Health and fitness platform with AI-powered wellness insights",
+    "category": "Product Features",
+    "pricing": "Unknown",
+    "url": "https://fit.google.com/",
+    "official_website": "https://fit.google.com/",
+    "tags": []
+  },
+  {
+    "id": "fe59090637cd",
+    "name": "Google Cloud AI Platform Prediction",
+    "description": "Managed service for hosting machine learning models in the cloud. Provides auto-scaling, monitoring, and versioning capabilities for production deployments with low-latency predictions.",
+    "category": "AI Development & Testing",
+    "pricing": "Usage-based",
+    "url": "https://cloud.google.com/ai-platform/prediction",
+    "official_website": "https://cloud.google.com/ai-platform/prediction",
+    "tags": []
+  },
+  {
+    "id": "fec2c291-d9a9-491e-80ed-ba89405146b0",
+    "name": "Gaming Tool 43",
+    "description": "Specialized ai gaming solution for enterprise and personal use",
+    "category": "AI Gaming",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://gaming43.com",
+    "official_website": "https://gaming43.com",
+    "tags": []
+  },
+  {
+    "id": "fed6cf2c-8fa0-4668-a22f-d2053b61500c",
+    "name": "Grafana",
+    "description": "Open-source analytics and monitoring platform with customizable dashboards, alerting capabilities, and robust plugin ecosystem. Supports multiple data sources including Prometheus, InfluxDB, and Elasticsearch.",
+    "category": "AI Analytics",
+    "pricing": "Free",
+    "url": "https://grafana.com/",
+    "official_website": "https://grafana.com/",
+    "tags": []
+  },
+  {
+    "id": "fff7ba47-1266-4b2b-962f-71b092c29c09",
+    "name": "Grammarly",
+    "description": "AI writing assistant trusted by 50K+ organizations and 40M users. Offers comprehensive editing, tone adjustment, brand voice, AI writing tools, plagiarism detection, citation generation, and enterprise features with tiered pricing from free to enterprise solutions.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://www.grammarly.com/",
+    "official_website": "https://www.grammarly.com/",
+    "tags": []
+  }
+]

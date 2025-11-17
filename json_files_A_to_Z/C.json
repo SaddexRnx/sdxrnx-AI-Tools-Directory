@@ -1,0 +1,4875 @@
+[
+  {
+    "id": "00d3f8091eb2",
+    "name": "Cursor",
+    "description": "AI-powered code editor built on VS Code that offers natural language editing, multi-step refactoring, and background autonomous agents for advanced AI-assisted development.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://cursor.com/",
+    "official_website": "https://cursor.com/",
+    "tags": [
+      "refactoring",
+      "code-editor",
+      "ai-ide",
+      "multi-file",
+      "autonomous-agent",
+      "vs-code"
+    ]
+  },
+  {
+    "id": "014d083a-3a2b-409c-acba-41ac8366c10e",
+    "name": "Cursor",
+    "description": "AI-powered code editor",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "cursor",
+    "official_website": "cursor",
+    "tags": []
+  },
+  {
+    "id": "03d4be68-41b6-4805-b422-f8ef34843e74",
+    "name": "Claude",
+    "description": "AI-powered conversational ai solution",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.claude.com",
+    "official_website": "https://www.claude.com",
+    "tags": []
+  },
+  {
+    "id": "0405862f-b4f3-4be9-a978-21272d870bb9",
+    "name": "Cornerstone OnDemand",
+    "description": "Learning management system with AI-powered content recommendations and skill development",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://cornerstoneondemand.com",
+    "official_website": "https://cornerstoneondemand.com",
+    "tags": []
+  },
+  {
+    "id": "042707f8-978b-4c9e-b826-db85992953de",
+    "name": "CustomGPT",
+    "description": "Build ChatGPT plugins without code. Expand your customer reach by integrating your company's database on ChatGPT for instant, accurate response to customer queries or creating a search retrieval plugin\u2014thus increasing your operational efficiency exponentially",
+    "category": "Chat",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/customgpt",
+    "official_website": "https://link.aitoolsdirectory.com/customgpt",
+    "tags": []
+  },
+  {
+    "id": "042a975c-8ecb-4f4e-a009-f8b76edbfa8b",
+    "name": "CodeSandbox",
+    "description": "Online IDE",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://codesandbox.com",
+    "official_website": "https://codesandbox.com",
+    "tags": []
+  },
+  {
+    "id": "04369a49-893a-4c6a-8098-ded4b9df46b4",
+    "name": "Canva Magic Studio",
+    "description": "Comprehensive AI design suite integrated into Canva's platform. Includes Magic Design, AI assistants, video generation, and advanced editing tools with enterprise-grade safety controls.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://www.canva.com/magic/",
+    "official_website": "https://www.canva.com/magic/",
+    "tags": []
+  },
+  {
+    "id": "049cd0a7-aec7-45e2-9460-b7090dd524ce",
+    "name": "CarperAI OpenTriE",
+    "description": "Multi-objective optimization",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://carperai.com",
+    "official_website": "https://carperai.com",
+    "tags": []
+  },
+  {
+    "id": "04b2c53ac30e",
+    "name": "ChatGPT Atlas",
+    "description": "Agentic AI browser from OpenAI for intelligent search automation.",
+    "category": "Search",
+    "pricing": "Not Specified",
+    "url": "https://www.aixploria.com/out/ChatGPTAtlas",
+    "official_website": "https://www.aixploria.com/out/ChatGPTAtlas",
+    "tags": [
+      "automation",
+      "search"
+    ]
+  },
+  {
+    "id": "055580d63dd0",
+    "name": "chronos-bolt-small",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/autogluon/chronos-bolt-small",
+    "official_website": "https://huggingface.co/autogluon/chronos-bolt-small",
+    "tags": []
+  },
+  {
+    "id": "06d290c6-8b63-4e74-8758-b89d3bbdde1a",
+    "name": "CodeRabbit",
+    "description": "AI code review and suggestions",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "coderabbit",
+    "official_website": "coderabbit",
+    "tags": []
+  },
+  {
+    "id": "0761a570-4fc5-4fe3-a0ae-58bd2f1d9bf3",
+    "name": "Cytoscape",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://cytoscape.com",
+    "official_website": "https://cytoscape.com",
+    "tags": []
+  },
+  {
+    "id": "07aa2dfa-484f-47a7-a564-c07fc75b974f",
+    "name": "Copy.ai",
+    "description": "AI-driven tool for effortless, high-quality content generation.",
+    "category": "Other",
+    "pricing": "Freemium",
+    "url": "https://www.futurepedia.io/tool/copyai",
+    "official_website": "https://www.futurepedia.io/tool/copyai",
+    "tags": []
+  },
+  {
+    "id": "082810b6ee50",
+    "name": "Cogram",
+    "description": "Automatic meeting notes and action items",
+    "category": "Meeting Assistants",
+    "pricing": "Not Specified",
+    "url": "https://www.cogram.com/",
+    "official_website": "https://www.cogram.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "08b5bcef-5fb2-4240-b075-0c43c5f0ea00",
+    "name": "CodeWithMe",
+    "description": "Real-time collaborative coding",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://jetbrains.com",
+    "official_website": "https://jetbrains.com",
+    "tags": []
+  },
+  {
+    "id": "0a2adf95-7d1b-4cfa-ac0b-766788a1301a",
+    "name": "Cheat Layer",
+    "description": "Automate your business from end to end in natural language. Cheat Layer builds entire automations for you from end-to-end in simple language, meeting all users at their level of understanding. We taught ChatGPT our internal library to solve the last-mile of automation roadblocks, enabling it to execute code instantly.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/cheat-layer",
+    "official_website": "https://www.producthunt.com/products/cheat-layer",
+    "tags": []
+  },
+  {
+    "id": "0a550f76ca99",
+    "name": "Cal.ai",
+    "description": "Open-source AI scheduling assistant for email-based meeting management",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://cal.com/ai",
+    "official_website": "https://cal.com/ai",
+    "tags": []
+  },
+  {
+    "id": "0b09c27b517b",
+    "name": "chatglm-6b",
+    "description": "UpdatedAug 4, 2024",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/zai-org/chatglm-6b",
+    "official_website": "https://huggingface.co/zai-org/chatglm-6b",
+    "tags": []
+  },
+  {
+    "id": "0bf098a2bb25",
+    "name": "Cerebrium",
+    "description": "A serverless GPU platform built and run by experienced ML engineers, powering large AI workloads and offering expertise for building new, fast-running solutions on A100 clusters.",
+    "category": "Serverless GPU Platform, AI Workloads, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://www.cerebrium.ai",
+    "official_website": "https://www.cerebrium.ai",
+    "tags": []
+  },
+  {
+    "id": "0cd6730c-a0a9-4a0e-80cf-23a84b13af0b",
+    "name": "Claude 3.5 Sonnet",
+    "description": "Advanced AI assistant by Anthropic with state-of-the-art vision recognition, advanced reasoning capabilities, code generation, and fast performance comparable to GPT-4o with enhanced safety features.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://claude.ai",
+    "official_website": "https://claude.ai",
+    "tags": []
+  },
+  {
+    "id": "0d66320e-6209-42ab-a1b3-8e900e92f2ff",
+    "name": "Cloud Firestore AI",
+    "description": "NoSQL document database with AI-powered queries",
+    "category": "Specialized APIs",
+    "pricing": "Unknown",
+    "url": "https://firebase.google.com/docs/firestore",
+    "official_website": "https://firebase.google.com/docs/firestore",
+    "tags": []
+  },
+  {
+    "id": "0de40db9-29f1-4f9e-889f-e2717e014624",
+    "name": "CloudTalk",
+    "description": "CloudTalk AI Call Center Software is a cloud-based platform that leverages artificial intelligence to automate and enhance phone interactions for sales support and operations teams by using AI voice agents to handle routine calls automated dialers to maximize outbound reach and real-time AI analytics to provide actionable insights on every conversation its powerful integration capabilities with over 100 popular CRMs and helpdesks mean all customer data stays synchronized while smart routing and ",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cloudtalk-io",
+    "official_website": "https://futuretools.link/cloudtalk-io",
+    "tags": []
+  },
+  {
+    "id": "0e00d201-8988-421c-acad-549e8e1209bb",
+    "name": "COMSOL Multiphysics",
+    "description": "Specialized AI and simulation tool for specific research domains",
+    "category": "Model Library",
+    "pricing": "Commercial",
+    "url": "https://comsol multiphysics.com",
+    "official_website": "https://comsol multiphysics.com",
+    "tags": []
+  },
+  {
+    "id": "0e8d1514-f76f-4164-9254-8187fceaeb40",
+    "name": "Cambly",
+    "description": "English conversation platform with AI-powered conversation practice",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://cambly.com",
+    "official_website": "https://cambly.com",
+    "tags": []
+  },
+  {
+    "id": "0f105953-88e0-48e4-984c-f392997468f1",
+    "name": "Codeium for Business",
+    "description": "Enterprise version of Codeium with team management, enterprise security, advanced analytics, and team collaboration features.",
+    "category": "AI Code Assistant",
+    "pricing": "Premium",
+    "url": "https://codeium.com/enterprise",
+    "official_website": "https://codeium.com/enterprise",
+    "tags": []
+  },
+  {
+    "id": "0f71430a6add",
+    "name": "Cartesia AI",
+    "description": "Real-time text-to-speech platform with 40-millisecond latency and voice cloning from 3-second audio samples. Features on-device AI models, 14-language support, and competitive pricing for instant voice generation.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://cartesia.ai/",
+    "official_website": "https://cartesia.ai/",
+    "tags": [
+      "real-time",
+      "ultra-low-latency",
+      "instant-voice-cloning",
+      "competitive",
+      "on-device"
+    ]
+  },
+  {
+    "id": "0f9ae28230dd",
+    "name": "Chunk Visualizer",
+    "description": "Visualize text chunks for RAG applications and text splitting.",
+    "category": "Development",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/m-ric/chunk_visualizer",
+    "official_website": "https://huggingface.co/spaces/m-ric/chunk_visualizer",
+    "tags": [
+      "visualization",
+      "rag"
+    ]
+  },
+  {
+    "id": "105dba4d029c",
+    "name": "Coursera",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://coursera.com",
+    "official_website": "https://coursera.com",
+    "tags": []
+  },
+  {
+    "id": "11181625-91ff-47ba-8481-73f7b83ced3a",
+    "name": "Coderbot Educational Chatbot",
+    "description": "Aplica\u00e7\u00e3o especializada em um chatbot educacional para o ensino de programa\u00e7\u00e3o. A modern educational chatbot for teaching programming.",
+    "category": "Natural Language Processing",
+    "pricing": "Unknown",
+    "url": "https://github.com/Chatbot-educacional/Coderbot",
+    "official_website": "https://github.com/Chatbot-educacional/Coderbot",
+    "tags": []
+  },
+  {
+    "id": "116addf50eef",
+    "name": "Clay",
+    "description": "Prospect 31M Companies & 770M People from LinkedIn in Clay. Then, enrich, research, and act on live people and company data sets to get those positive responses you've always wanted from your dream customers. Cut your manual work, reduce reliance on Upwork, and keep engineering time focused on your beautiful product.",
+    "category": "Email marketing, Marketing automation platforms, Lead generation software, Sales enablement, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://clay.com",
+    "official_website": "https://clay.com",
+    "tags": []
+  },
+  {
+    "id": "1288a653-6271-4fb1-a84f-6076c9e7bb22",
+    "name": "CropX",
+    "description": "Soil sensing and analytics",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://cropx.com",
+    "official_website": "https://cropx.com",
+    "tags": []
+  },
+  {
+    "id": "131fe9da-5bf6-40c1-bd64-05940e9ff11c",
+    "name": "Cursor",
+    "description": "The AI Code Editor. Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/cursor",
+    "official_website": "https://www.producthunt.com/products/cursor",
+    "tags": []
+  },
+  {
+    "id": "13658db3-89f9-4e80-9d5a-1d7a439a263b",
+    "name": "Cross Designs",
+    "description": "Create Sacred Cross Artwork with AI Technology",
+    "category": "AI Art Generator",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/cross-designs",
+    "official_website": "https://freeaitool.ai/tool/cross-designs",
+    "tags": []
+  },
+  {
+    "id": "142ecf42-faf8-45f9-9609-6b34698a1678",
+    "name": "CodeGPT",
+    "description": "AI coding assistant extension",
+    "category": "AI Code Assistant",
+    "pricing": "Freemium",
+    "url": "https://codegpt.co",
+    "official_website": "https://codegpt.co",
+    "tags": []
+  },
+  {
+    "id": "143843542354",
+    "name": "Canva Magic Write",
+    "description": "AI text generator integrated into Canva design platform, powered by OpenAI. Offers 25 queries free for users, 250/month for Pro/Teams, supports 20+ languages, and includes tools for brainstorming, outlining, rewriting, and content expansion within Canva ecosystem.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://www.canva.com/magic-write/",
+    "official_website": "https://www.canva.com/magic-write/",
+    "tags": [
+      "outlining",
+      "OpenAI powered",
+      "Canva ecosystem",
+      "brainstorming",
+      "content generation",
+      "multilingual",
+      "design integration"
+    ]
+  },
+  {
+    "id": "14add93af372",
+    "name": "CoreNLP",
+    "description": "Stanford CoreNLP is a set of stable and well-tested natural language processing tools, widely used by various groups in academia, industry, and government. The tools variously use rule-based, probabilistic machine learning, and deep learning components.",
+    "category": "Natural Language Processing",
+    "pricing": "Not Specified",
+    "url": "http://stanfordnlp.github.io/CoreNLP/",
+    "official_website": "http://stanfordnlp.github.io/CoreNLP/",
+    "tags": [
+      "Parsing (syntactic phrases or dependencies)",
+      "Support for English, Arabic, Chinese, French, German, Hungarian, Italian, and Spanish",
+      "Integrated framework for easy application of multiple language analysis tools",
+      "Named Entity Recognition (NER)",
+      "Coreference resolution",
+      "Extraction of base forms of words",
+      "Normalization and interpretation of dates, times, and numeric quantities",
+      "Rule-based, probabilistic machine learning, and deep learning components",
+      "Part-of-speech tagging",
+      "Tokenization and sentence segmentation",
+      "Sentiment analysis"
+    ]
+  },
+  {
+    "id": "14b41395-c7cf-47ec-9600-ac324b87c915",
+    "name": "ChatPlayground AI",
+    "description": "The #1 Platform for Comparing AI Models",
+    "category": "Large Language Models",
+    "pricing": "Free + from $14/mo",
+    "url": "https://chatplayground.ai/",
+    "official_website": "https://chatplayground.ai/",
+    "tags": []
+  },
+  {
+    "id": "153be0356e0f",
+    "name": "ChatGPT",
+    "description": "General-purpose conversational AI assistant powered by GPT-4o for broad tasks",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://chat.openai.com",
+    "official_website": "https://chat.openai.com",
+    "tags": []
+  },
+  {
+    "id": "1598f3ee9c98",
+    "name": "Clado",
+    "description": "Introducing Atlas, our major leap towards perfect search over all humans. Atlas is our all-in-one platform for SOTA deep research and profile enrichment \u2013 built around teams. We put 800 million+ people profiles (and growing) at your fingertips with simple, agentic search.",
+    "category": "Lead generation software, AI Infrastructure Tools, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://clado.com",
+    "official_website": "https://clado.com",
+    "tags": []
+  },
+  {
+    "id": "1616bb44-14d9-4435-9f96-0abb48ea68e7",
+    "name": "Cloud Run AI",
+    "description": "Serverless container platform with AI workload support",
+    "category": "Specialized APIs",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/run",
+    "official_website": "https://cloud.google.com/run",
+    "tags": []
+  },
+  {
+    "id": "1671a6cb8ff9",
+    "name": "CodeBERT",
+    "description": "Pre-trained model for code understanding",
+    "category": "Code Assistant",
+    "pricing": "Not Specified",
+    "url": "https://github.com/microsoft/CodeBERT",
+    "official_website": "https://github.com/microsoft/CodeBERT",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "16d20571c06e",
+    "name": "Cursor",
+    "description": "The AI Code Editor. Built to make you extraordinarily productive, Cursor is the best way to code with AI.",
+    "category": "AI Code Editor, Engineering & Development",
+    "pricing": "Not Specified",
+    "url": "https://cursor.sh",
+    "official_website": "https://cursor.sh",
+    "tags": []
+  },
+  {
+    "id": "171cfd06-bf8c-40c1-b966-911661b2bbbe",
+    "name": "CodiumAI",
+    "description": "AI-powered test generation",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "codiumai",
+    "official_website": "codiumai",
+    "tags": []
+  },
+  {
+    "id": "173dc9dc-1274-4df9-aaa8-5a506e20a21a",
+    "name": "Claude AI",
+    "description": "Claude AI is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://futuretools.link/claude-ai",
+    "official_website": "https://futuretools.link/claude-ai",
+    "tags": []
+  },
+  {
+    "id": "177a99e90c12",
+    "name": "Crazy Egg",
+    "description": "Website optimization and analytics platform with heatmaps, A/B testing, user session recordings, and conversion tracking. Helps improve website performance and user experience.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://www.crazyegg.com/",
+    "official_website": "https://www.crazyegg.com/",
+    "tags": [
+      "conversion-tracking",
+      "website-performance",
+      "website-optimization",
+      "ab-testing",
+      "heatmaps",
+      "user-session-recordings"
+    ]
+  },
+  {
+    "id": "17ed430ec962",
+    "name": "clip-vit-large-patch14",
+    "description": "AI model clip-vit-large-patch14 from openai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/clip-vit-large-patch14",
+    "official_website": "https://huggingface.co/openai/clip-vit-large-patch14",
+    "tags": []
+  },
+  {
+    "id": "1820e92c-9c78-4b61-ab68-00d60ae1ecf5",
+    "name": "Continue JetBrains",
+    "description": "JetBrains plugin for Continue.dev bringing open-source AI code assistance to IntelliJ IDEA, PyCharm, and other JetBrains IDEs.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://plugins.jetbrains.com/plugin/22707-continue",
+    "official_website": "https://plugins.jetbrains.com/plugin/22707-continue",
+    "tags": []
+  },
+  {
+    "id": "18b88842-543c-484e-b302-05889e078c1a",
+    "name": "Cypress",
+    "description": "Modern web testing framework with AI-enhanced features for end-to-end testing, component testing, and interactive debugging.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.cypress.io/",
+    "official_website": "https://www.cypress.io/",
+    "tags": []
+  },
+  {
+    "id": "18ebb1c6-1f62-41f4-98e3-27021918bedc",
+    "name": "Chimera Painter",
+    "description": "ML model that creates creature paintings from simple outlines",
+    "category": "Experiments & Demos",
+    "pricing": "Unknown",
+    "url": "https://experiments.withgoogle.com/chimera-painter",
+    "official_website": "https://experiments.withgoogle.com/chimera-painter",
+    "tags": []
+  },
+  {
+    "id": "18f7b340-9b8b-40c6-a66a-b9adc3c904f9",
+    "name": "Colormind",
+    "description": "AI color palette generator that helps web designers quickly create visually appealing color schemes for projects. Analyzes trends and preferences to create color palettes that resonate with target audiences.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "http://colormind.io/",
+    "official_website": "http://colormind.io/",
+    "tags": []
+  },
+  {
+    "id": "193f83b4-11bb-480a-83c6-f12cd2613653",
+    "name": "CodeDesign.ai",
+    "description": "AI website builder that builds full-blown websites in under a minute with AI-generated crisp, clean copy. Features automatic content adjustment, pre-optimized layout for mobile and SEO, and built-in metadata and keyword optimization prompts.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://codedesign.ai/",
+    "official_website": "https://codedesign.ai/",
+    "tags": []
+  },
+  {
+    "id": "195fc217ca01",
+    "name": "Chatfuel AI",
+    "description": "Automate business messaging with AI-driven omnichannel integration.",
+    "category": "Customer Support, Sales Assistant",
+    "pricing": "Freemium",
+    "url": "https://chatfuel.com/ai",
+    "official_website": "https://chatfuel.com/ai",
+    "tags": []
+  },
+  {
+    "id": "1ad01d1a350e",
+    "name": "Consensus",
+    "description": "Search engine for scientific research",
+    "category": "Academia",
+    "pricing": "Not Specified",
+    "url": "https://consensus.app/search/",
+    "official_website": "https://consensus.app/search/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "1adbafd17b29",
+    "name": "Craft",
+    "description": "Customizable document-based application with generative AI features, note explanation capabilities, flexible organization, and Apple ecosystem integration.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://craft.do",
+    "official_website": "https://craft.do",
+    "tags": [
+      "apple-ecosystem",
+      "flexible-organization",
+      "document-based",
+      "note-explanation",
+      "generative-ai"
+    ]
+  },
+  {
+    "id": "1b4e5a08-ceaa-4bbf-9756-2dcd6d021173",
+    "name": "CloudAgent",
+    "description": "CloudAgent is an AI-powered automation platform that deploys intelligent agents to manage cloud infrastructure security tasks and operational workflows end to end so organizations can rely on automated provisioning monitoring incident response and ongoing optimization for their cloud applications By leveraging AI the tool reduces manual effort helps minimize operational costs proactively identifies and resolves security vulnerabilities and ensures applications run reliably making it a valuable s",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cloudagent-io",
+    "official_website": "https://futuretools.link/cloudagent-io",
+    "tags": []
+  },
+  {
+    "id": "1b8f716d45a6",
+    "name": "Cytoscape",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://cytoscape.com",
+    "official_website": "https://cytoscape.com",
+    "tags": []
+  },
+  {
+    "id": "1b9761d8-d30f-425c-8cad-dce45931e6e5",
+    "name": "Caesr AI",
+    "description": "AI productivity tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/caesr-ai",
+    "official_website": "https://www.producthunt.com/products/caesr-ai",
+    "tags": []
+  },
+  {
+    "id": "1c333d07-c15f-4cef-9078-b24fdecb1d0e",
+    "name": "Claude 2.1",
+    "description": "Improved Claude 2 with better reasoning",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "1c594995-1b0f-4493-b0d4-a4881f6eac79",
+    "name": "Codecademy",
+    "description": "Coding learning platform with AI-powered personalized learning paths",
+    "category": "Business Growth",
+    "pricing": "Free",
+    "url": "https://codecademy.com",
+    "official_website": "https://codecademy.com",
+    "tags": []
+  },
+  {
+    "id": "1caf7fdc-accd-4369-8f22-0d30d63db549",
+    "name": "Cursor v2",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cursor-sh",
+    "official_website": "https://futuretools.link/cursor-sh",
+    "tags": []
+  },
+  {
+    "id": "1dd0af589161",
+    "name": "ContentBot.ai",
+    "description": "AI-powered content creation tool helping create various types of content including blogs, landing page copy, and product descriptions. Features content automation functionality with pre-built automation workflows and visual interface for custom workflows.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://contentbot.ai/",
+    "official_website": "https://contentbot.ai/",
+    "tags": [
+      "automation",
+      "product descriptions",
+      "ai content",
+      "blog writing",
+      "visual interface",
+      "workflows"
+    ]
+  },
+  {
+    "id": "1e513fa1cd4f",
+    "name": "Cheat Layer",
+    "description": "Automate your business from end to end in natural language. Cheat Layer builds entire automations for you from end-to-end in simple language, meeting all users at their level of understanding. We taught ChatGPT our internal library to solve the last-mile of automation roadblocks, enabling it to execute code instantly.",
+    "category": "No-code Platforms, Automation tools, AI Coding Agents",
+    "pricing": "Not Specified",
+    "url": "https://cheatlayer.com",
+    "official_website": "https://cheatlayer.com",
+    "tags": []
+  },
+  {
+    "id": "1e80c864-9b26-48a7-a1e7-f45617c20610",
+    "name": "Code Llama 34B",
+    "description": "Code generation model",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "1e93a898-2938-4d28-99f7-9839b751f88d",
+    "name": "Century Tech",
+    "description": "AI learning platform for personalized education",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Enterprise\",\"details\":\"Enterprise pricing based on usage\"}",
+    "url": "https://century.tech",
+    "official_website": "https://century.tech",
+    "tags": []
+  },
+  {
+    "id": "1f181c52f716",
+    "name": "College Tools",
+    "description": "College Tools is an AI-powered research assistant that streamlines academic workflows, delivering personalized insights to boost productivity and improve learning outcomes.",
+    "category": "Education & Learning, Research Assistant",
+    "pricing": "Not specified",
+    "url": "https://collegetools.ai",
+    "official_website": "https://collegetools.ai",
+    "tags": []
+  },
+  {
+    "id": "1f72529fce68",
+    "name": "ChatGPT",
+    "description": "Advanced AI language model for conversational interactions and text generation.",
+    "category": "Chatbot",
+    "pricing": "Freemium",
+    "url": "https://chat.openai.com/",
+    "official_website": "https://chat.openai.com/",
+    "tags": [
+      "chatbot",
+      "writing"
+    ]
+  },
+  {
+    "id": "1f8dd7dc2191",
+    "name": "CMU AI",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.cmu.edu",
+    "official_website": "https://ai.cmu.edu",
+    "tags": []
+  },
+  {
+    "id": "21177e70-e125-494e-989e-23a6254437c9",
+    "name": "Cloud Data Loss Prevention API",
+    "description": "Discover and protect sensitive data in Google Cloud storage",
+    "category": "Security & Infrastructure",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/dlp",
+    "official_website": "https://cloud.google.com/dlp",
+    "tags": []
+  },
+  {
+    "id": "228985d1-ba31-4810-995a-7f0548689f8b",
+    "name": "Canva AI",
+    "description": "Canva AI is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Audio",
+    "pricing": "Free",
+    "url": "https://futuretools.link/canva-ai",
+    "official_website": "https://futuretools.link/canva-ai",
+    "tags": []
+  },
+  {
+    "id": "23870008-a97d-4f96-b3db-7c445989ba28",
+    "name": "Codeium",
+    "description": "Free AI-powered code completion",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "codeium",
+    "official_website": "codeium",
+    "tags": []
+  },
+  {
+    "id": "23e1165c-ff6b-4253-9385-afe1d2dc7f3a",
+    "name": "Character.AI",
+    "description": "Conversational AI with character personalities",
+    "category": "AI Chatbots",
+    "pricing": "Freemium",
+    "url": "https://character.ai",
+    "official_website": "https://character.ai",
+    "tags": []
+  },
+  {
+    "id": "24797b37bc6c",
+    "name": "ChatGPT",
+    "description": "AI-powered chatbot by OpenAI that answers questions, generates text, solves problems, and assists with a variety of tasks.",
+    "category": "Text Generation, Virtual Assistant",
+    "pricing": "Not specified",
+    "url": "https://chatgpt.com/",
+    "official_website": "https://chatgpt.com/",
+    "tags": []
+  },
+  {
+    "id": "24cd2cc9-5484-431e-8988-0b743ed70116",
+    "name": "CodeT5",
+    "description": "Code understanding and generation",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://salesforce.com",
+    "official_website": "https://salesforce.com",
+    "tags": []
+  },
+  {
+    "id": "255a1f5189f9",
+    "name": "Cursor AI",
+    "description": "AI-first code editor built for pair programming with AI. Features advanced code completion, chat interface.",
+    "category": "development",
+    "pricing": "Freemium",
+    "url": "https://cursor.sh",
+    "official_website": "https://cursor.sh",
+    "tags": []
+  },
+  {
+    "id": "258d6957-c78c-49d3-b2e7-e2327ce9d108",
+    "name": "Curated List of AI Tools",
+    "description": "Over 140 AI tools with 44 different categories for AI business creators",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/curated-list-of-ai-tools",
+    "official_website": "https://www.producthunt.com/products/curated-list-of-ai-tools",
+    "tags": []
+  },
+  {
+    "id": "266ff1f19745",
+    "name": "camembert-ner",
+    "description": "AI model camembert-ner from Jean-Baptiste on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Jean-Baptiste/camembert-ner",
+    "official_website": "https://huggingface.co/Jean-Baptiste/camembert-ner",
+    "tags": []
+  },
+  {
+    "id": "26fe5aba3e4f",
+    "name": "Claude 3.5 Sonnet",
+    "description": "An excellent model which performs extremely well across a wide range of use cases. Many believe it has caught up to OpenAI in flagship model capabilities.",
+    "category": "LLMs, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://www.anthropic.com/claude",
+    "official_website": "https://www.anthropic.com/claude",
+    "tags": []
+  },
+  {
+    "id": "275b3ef0a432",
+    "name": "clip-vit-base-patch32",
+    "description": "CLIP model with ViT-B/32 vision transformer for learning visual concepts from natural language supervision.",
+    "category": "Multimodal",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/clip-vit-base-patch32",
+    "official_website": "https://huggingface.co/openai/clip-vit-base-patch32",
+    "tags": [
+      "vision-language",
+      "clip",
+      "multimodal",
+      "transformers"
+    ]
+  },
+  {
+    "id": "27c79cf1-cdc2-47cf-a702-e01cf71f8346",
+    "name": "ChatGPT",
+    "description": "Advanced conversational AI by OpenAI",
+    "category": "AI Chatbots",
+    "pricing": "Freemium",
+    "url": "https://chat.openai.com",
+    "official_website": "https://chat.openai.com",
+    "tags": []
+  },
+  {
+    "id": "27f1c6e9-b71a-40e9-ba7e-bd53af06d6b0",
+    "name": "Claude",
+    "description": "Anthropic's conversational AI assistant excels at deep code analysis, debugging, reviews, and maintaining context across lengthy coding discussions.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://claude.ai/",
+    "official_website": "https://claude.ai/",
+    "tags": []
+  },
+  {
+    "id": "281afa10-64f4-49f0-a6c8-5bfe774aa08e",
+    "name": "Ceridian",
+    "description": "Workforce management platform with AI-powered scheduling and workforce insights",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://ceridian.com",
+    "official_website": "https://ceridian.com",
+    "tags": []
+  },
+  {
+    "id": "2913b187-a145-4937-ab69-307e81b5a682",
+    "name": "Copy.ai",
+    "description": "AI-native go-to-market platform with 17M+ users and 2,000+ integrations. Unifies data, connects teams, and eliminates GTM bloat through AI-powered workflows, brand voice, copy agents, and comprehensive GTM automation for marketing, sales, and operations.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://www.copy.ai/",
+    "official_website": "https://www.copy.ai/",
+    "tags": []
+  },
+  {
+    "id": "292e5ffab827",
+    "name": "Clara",
+    "description": "AI scheduling assistant that acts as virtual email assistant, handling meeting bookings through email threads with advanced NLP, automatic calendar creation, and video conferencing links.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://claralabs.com",
+    "official_website": "https://claralabs.com",
+    "tags": [
+      "video-conferencing",
+      "virtual-assistant",
+      "email-scheduling",
+      "automatic-booking",
+      "nlp"
+    ]
+  },
+  {
+    "id": "2bfe9b403ce5",
+    "name": "Codeium for Business",
+    "description": "Enterprise version of Codeium with team management, enterprise security, advanced analytics, and team collaboration features.",
+    "category": "Coding",
+    "pricing": "Premium",
+    "url": "https://codeium.com/enterprise",
+    "official_website": "https://codeium.com/enterprise",
+    "tags": [
+      "enterprise",
+      "analytics",
+      "security",
+      "team-management",
+      "collaboration",
+      "business-features"
+    ]
+  },
+  {
+    "id": "2c7ba2a9-e94a-4d73-bdde-a5143ad2f7c7",
+    "name": "Continue",
+    "description": "Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/continue",
+    "official_website": "https://www.producthunt.com/products/continue",
+    "tags": []
+  },
+  {
+    "id": "2d9812c4-c705-44cc-b2a6-c6ba713e331c",
+    "name": "ChatGPT",
+    "description": "OpenAI's conversational AI model for various tasks",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "chatgpt",
+    "official_website": "chatgpt",
+    "tags": []
+  },
+  {
+    "id": "2dd30e92-d8e7-4291-8986-66c3b8c52fd0",
+    "name": "CodeT5+",
+    "description": "Enhanced CodeT5 model",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://salesforce.com",
+    "official_website": "https://salesforce.com",
+    "tags": []
+  },
+  {
+    "id": "2e25e851c856",
+    "name": "Cherry.ai",
+    "description": "Chat API frontend unifying various free API services",
+    "category": "Api Services",
+    "pricing": "Unknown",
+    "url": "https://cherry-ai.com",
+    "official_website": "https://cherry-ai.com",
+    "tags": []
+  },
+  {
+    "id": "2e34c2ea5c32",
+    "name": "Cody",
+    "description": "Elevate productivity with a personalized AI assistant, effortlessly answering queries, streamlining workflows.",
+    "category": "productivity",
+    "pricing": "Free Trial",
+    "url": "https://meetcody.ai",
+    "official_website": "https://meetcody.ai",
+    "tags": []
+  },
+  {
+    "id": "2f53bf8868bc",
+    "name": "camembert-base",
+    "description": "AI model camembert-base from almanach on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/almanach/camembert-base",
+    "official_website": "https://huggingface.co/almanach/camembert-base",
+    "tags": []
+  },
+  {
+    "id": "2fe43878-7e69-4378-81fd-4b7a0ed502f9",
+    "name": "CoreNLP",
+    "description": "Stanford CoreNLP is a set of stable and well-tested natural language processing tools, widely used by various groups in academia, industry, and government. The tools variously use rule-based, probabilistic machine learning, and deep learning components.",
+    "category": "Natural Language Processing",
+    "pricing": "Unknown",
+    "url": "http://stanfordnlp.github.io/CoreNLP/",
+    "official_website": "http://stanfordnlp.github.io/CoreNLP/",
+    "tags": []
+  },
+  {
+    "id": "306bdfb93024",
+    "name": "Copy.ai",
+    "description": "AI writing assistant with easy interface and budget-friendly marketing templates.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "http://copy.ai",
+    "official_website": "http://copy.ai",
+    "tags": [
+      "marketing",
+      "writing"
+    ]
+  },
+  {
+    "id": "316c39142822",
+    "name": "Continue JetBrains",
+    "description": "JetBrains plugin for Continue.dev bringing open-source AI code assistance to IntelliJ IDEA, PyCharm, and other JetBrains IDEs.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://plugins.jetbrains.com/plugin/22707-continue",
+    "official_website": "https://plugins.jetbrains.com/plugin/22707-continue",
+    "tags": [
+      "pycharm",
+      "ai-assistance",
+      "open-source",
+      "jetbrains-plugin",
+      "continue-dev",
+      "intellij"
+    ]
+  },
+  {
+    "id": "31fed8ae-aeaf-44b0-a83b-df029d44d38b",
+    "name": "clip-vit-large-patch14-336",
+    "description": "AI model clip-vit-large-patch14-336 from openai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/openai/clip-vit-large-patch14-336",
+    "official_website": "https://huggingface.co/openai/clip-vit-large-patch14-336",
+    "tags": []
+  },
+  {
+    "id": "341a7fc0-679c-4417-a1bc-58fb9496229f",
+    "name": "Cylance Protect",
+    "description": "AI-based predictive endpoint protection",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "cylanceprotect",
+    "official_website": "cylanceprotect",
+    "tags": []
+  },
+  {
+    "id": "34cd32ba-784a-4121-acb2-550ed722cf90",
+    "name": "Cohere Public Demos",
+    "description": "Public demos using the Cohere platform - showcasing NLP functionality and LLM applications",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://txt.cohere.ai/",
+    "official_website": "https://txt.cohere.ai/",
+    "tags": []
+  },
+  {
+    "id": "34faaeae-76bb-4f7c-a8cc-68392253cb03",
+    "name": "Coursera",
+    "description": "AI-powered education solution",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.coursera.com",
+    "official_website": "https://www.coursera.com",
+    "tags": []
+  },
+  {
+    "id": "359c3d91f182",
+    "name": "cloudcommunity/AI-Tools",
+    "description": "Extracted a comprehensive list of AI tools categorized by type including Design, Content Creation, Writing, Coding",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/cloudcommunity/AI-Tools",
+    "official_website": "https://github.com/cloudcommunity/AI-Tools",
+    "tags": []
+  },
+  {
+    "id": "35e8543c849b",
+    "name": "Cohere Python SDK",
+    "description": "Python Library for Accessing the Cohere API across multiple platforms",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://docs.cohere.ai",
+    "official_website": "https://docs.cohere.ai",
+    "tags": [
+      "Supports latest Cohere API features and models",
+      "Environment variable CO_API_KEY for API key management",
+      "Documentation and SDK support across multiple platforms",
+      "Supports streaming endpoints for chat with chat_stream",
+      "Access to Cohere models on cohere platform, AWS (Bedrock, SageMaker), Azure, GCP, Oracle OCI"
+    ]
+  },
+  {
+    "id": "3737256c-d671-4790-8d36-604b4161e125",
+    "name": "CrowdStrike Falcon",
+    "description": "AI-powered endpoint protection platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Enterprise\",\"details\":\"Enterprise pricing based on usage\"}",
+    "url": "https://crowdstrike.com",
+    "official_website": "https://crowdstrike.com",
+    "tags": []
+  },
+  {
+    "id": "380b67f6-0aaa-4638-a451-05d48f48431b",
+    "name": "CrePal",
+    "description": "CrePal is an all-in-one AI video creation agent designed to manage the entire process of producing high-quality video content. It allows users to generate scripts, create visuals, edit footage, and produce final videos without switching between multiple tools. By leveraging AI, CrePal can assist with idea generation, content structuring, and style customization to match branding needs. Users can quickly transform concepts into complete videos ready for publishing across different platforms. The",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/crepal-ai",
+    "official_website": "https://futuretools.link/crepal-ai",
+    "tags": []
+  },
+  {
+    "id": "3824402d-f41b-4a6d-9750-3dfea6ac9cc4",
+    "name": "ChatGPT (OpenAI)",
+    "description": "AI-powered tool for AI Chat & Assistants that helps users streamline workflows and enhance productivity.",
+    "category": "AI Chat & Assistants",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/chatgpt-openai",
+    "official_website": "https://topai.tools/t/chatgpt-openai",
+    "tags": []
+  },
+  {
+    "id": "387ffe76-a5e9-41ff-b9f7-d577a58d74b6",
+    "name": "Credit Karma",
+    "description": "Credit score and financial education",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://creditkarma.com",
+    "official_website": "https://creditkarma.com",
+    "tags": []
+  },
+  {
+    "id": "38d2c969-454f-4331-8a06-a565bdaff52e",
+    "name": "Classify",
+    "description": "Text classification model",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "3935bce6-831d-4789-8564-b2b53fc78803",
+    "name": "Canva AI Magic",
+    "description": "Design automation and AI tools",
+    "category": "Creative AI Tools",
+    "pricing": "Freemium",
+    "url": "https://canva.com",
+    "official_website": "https://canva.com",
+    "tags": []
+  },
+  {
+    "id": "3a63aaed-f44b-4cf2-bda4-e490dda4a4a4",
+    "name": "colbertv2.0",
+    "description": "AI model colbertv2.0 from colbert-ir on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/colbert-ir/colbertv2.0",
+    "official_website": "https://huggingface.co/colbert-ir/colbertv2.0",
+    "tags": []
+  },
+  {
+    "id": "3aacbbcfce02",
+    "name": "CodeLlama-7b-Instruct-hf",
+    "description": "AI model CodeLlama-7b-Instruct-hf from codellama on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf",
+    "official_website": "https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf",
+    "tags": []
+  },
+  {
+    "id": "3abdd2cb-0d99-44e6-88d7-c0d38d34b25c",
+    "name": "Cartesia Sonic",
+    "description": "Sonic is the fastest human-like voice API.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/cartesia-sonic",
+    "official_website": "https://www.producthunt.com/products/cartesia-sonic",
+    "tags": []
+  },
+  {
+    "id": "3b841502-c806-40a9-a852-ebedf88af862",
+    "name": "C2S-Scale-Gemma-2-27B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B",
+    "official_website": "https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B",
+    "tags": []
+  },
+  {
+    "id": "3c5f99a1-fe19-46f1-a59b-74de72442f14",
+    "name": "Chartio",
+    "description": "Visual data exploration platform with drag-and-drop interface and SQL-friendly approach. Offers collaboration features and is designed for growing startups and data-driven teams.",
+    "category": "AI Analytics",
+    "pricing": "Free",
+    "url": "https://chartio.com/",
+    "official_website": "https://chartio.com/",
+    "tags": []
+  },
+  {
+    "id": "3cab807e-72ef-4585-98e9-2acbbb71344f",
+    "name": "Claude 3 Haiku",
+    "description": "Fast model for simple tasks",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "3d73b56e6daa",
+    "name": "CreateEasily",
+    "description": "Free speech-to-text tool",
+    "category": "Productivity",
+    "pricing": "Not Specified",
+    "url": "https://createeasily.com/",
+    "official_website": "https://createeasily.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "3e463d4c2608",
+    "name": "Consensus",
+    "description": "AI-powered search engine that finds scientific evidence by analyzing thousands of research papers",
+    "category": "Research Platform",
+    "pricing": "Commercial",
+    "url": "https://consensus.app",
+    "official_website": "https://consensus.app",
+    "tags": []
+  },
+  {
+    "id": "3fa6b487-f22e-4952-a2c4-6ece763bd736",
+    "name": "Clear Analytics",
+    "description": "Excel-based business intelligence platform designed for Excel-heavy teams. Offers simple adoption, easy reporting, and familiar interface for organizations transitioning to analytics.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://clearanalytics.io/",
+    "official_website": "https://clearanalytics.io/",
+    "tags": []
+  },
+  {
+    "id": "410acd45-74ac-4afc-b462-63fcf2341f12",
+    "name": "Cengage AI",
+    "description": "AI-enhanced learning platform",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "cengageai",
+    "official_website": "cengageai",
+    "tags": []
+  },
+  {
+    "id": "41c20c2f479f",
+    "name": "comfyanonymous/ComfyUI",
+    "description": "ComfyUI is a node-based interface and inference engine for generative AI",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "official_website": "https://github.com/comfyanonymous/ComfyUI",
+    "tags": []
+  },
+  {
+    "id": "41eeed7ff088",
+    "name": "Capacities",
+    "description": "Like an artist's studio, Capacities is a place for all your information. It stores your knowledge and can resurface it, right when you need it.",
+    "category": "Note and writing apps, Team collaboration software, Writing assistants",
+    "pricing": "Not Specified",
+    "url": "https://capacities.io",
+    "official_website": "https://capacities.io",
+    "tags": []
+  },
+  {
+    "id": "424998bb-ed0c-4f36-a29e-0aa473cb6ef2",
+    "name": "Copy.AI",
+    "description": "Copy.ai is an AI-powered content generator designed to assist businesses and professionals in quickly and easily producing high-quality and engaging content. It provides a suite of tools and templates, along with an AI-generated writing assistant, for various content types including emails, social media posts, and long-form blog posts.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://futuretools.link/copy-ai",
+    "official_website": "https://futuretools.link/copy-ai",
+    "tags": []
+  },
+  {
+    "id": "4316403305e0",
+    "name": "Canva Magic Studio",
+    "description": "Comprehensive AI design suite integrated into Canva's platform. Includes Magic Design, AI assistants, video generation, and advanced editing tools with enterprise-grade safety controls.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://www.canva.com/magic/",
+    "official_website": "https://www.canva.com/magic/",
+    "tags": [
+      "enterprise",
+      "design-suite",
+      "video-generation",
+      "ai-assistant",
+      "templates"
+    ]
+  },
+  {
+    "id": "44bf55df-935c-484e-822d-3c3d9ffa40fb",
+    "name": "Clado",
+    "description": "Introducing Atlas, our major leap towards perfect search over all humans. Atlas is our all-in-one platform for SOTA deep research and profile enrichment \u2013 built around teams. We put 800 million+ people profiles (and growing) at your fingertips with simple, agentic search.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/clado",
+    "official_website": "https://www.producthunt.com/products/clado",
+    "tags": []
+  },
+  {
+    "id": "44c62c43-ede4-45b4-bcc8-3bee3fca4c0f",
+    "name": "chronos-bolt-small",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/autogluon/chronos-bolt-small",
+    "official_website": "https://huggingface.co/autogluon/chronos-bolt-small",
+    "tags": []
+  },
+  {
+    "id": "456a25f421b6",
+    "name": "Codiga",
+    "description": "AI-powered code review platform that detects vulnerabilities, analyzes code quality, and provides instant feedback on security and maintainability.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.codiga.io/",
+    "official_website": "https://www.codiga.io/",
+    "tags": [
+      "static-analysis",
+      "security-analysis",
+      "ci-cd",
+      "code-quality",
+      "code-review",
+      "vulnerability-detection"
+    ]
+  },
+  {
+    "id": "45fb25a3-95ed-4927-ac57-c2882959511e",
+    "name": "Coursera",
+    "description": "Online learning platform with AI-powered skill assessments and career recommendations",
+    "category": "Business Growth",
+    "pricing": "Free",
+    "url": "https://coursera.org",
+    "official_website": "https://coursera.org",
+    "tags": []
+  },
+  {
+    "id": "46e4c936b17f",
+    "name": "Connected Papers",
+    "description": "Visual tool to help researchers and applied scientists find academic papers relevant to their field",
+    "category": "Research Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://www.connectedpapers.com",
+    "official_website": "https://www.connectedpapers.com",
+    "tags": []
+  },
+  {
+    "id": "471d9a4b84a0",
+    "name": "Copy.ai",
+    "description": "Write better marketing copy with AI",
+    "category": "Writing Assistants",
+    "pricing": "Not Specified",
+    "url": "https://www.copy.ai/",
+    "official_website": "https://www.copy.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "474b92da9752",
+    "name": "Codex by OpenAI",
+    "description": "AI that writes code for you. OpenAI Codex is a new machine learning tool that translates your text in the English language into code. Codex is designed to speed up the work of professional programmers, as well as help amateurs get started coding.",
+    "category": "AI Coding Agents",
+    "pricing": "Not Specified",
+    "url": "https://openai.com/codex",
+    "official_website": "https://openai.com/codex",
+    "tags": []
+  },
+  {
+    "id": "47ae95b5346f",
+    "name": "Chariot AI",
+    "description": "Described as the 'purest' AI website builder relying almost entirely on chatbot for site creation and editing. Creates websites through conversational prompts handling all editing tasks from text changes to image additions and cookie banner implementation.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://chariot.io/",
+    "official_website": "https://chariot.io/",
+    "tags": [
+      "website builder",
+      "pure ai",
+      "wow factor",
+      "chatbot-driven",
+      "prototype",
+      "conversational"
+    ]
+  },
+  {
+    "id": "47b90d34-af69-4deb-83a8-4daa226305ca",
+    "name": "Conductor",
+    "description": "AI content intelligence platform",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "conductor",
+    "official_website": "conductor",
+    "tags": []
+  },
+  {
+    "id": "481058a1f091",
+    "name": "Claude",
+    "description": "Meet Claude 3.5 Sonnet: The Ultimate AI Assistant for Work.",
+    "category": "AI Assistant",
+    "pricing": "Not specified",
+    "url": "https://claude.ai",
+    "official_website": "https://claude.ai",
+    "tags": []
+  },
+  {
+    "id": "4866f8e4-3359-49df-9de0-96e31b551e8b",
+    "name": "ChatGPT",
+    "description": "An LLM to get instant answers, find creative inspiration, and learn something new. Free to use. Easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming, and more.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/chatgpt",
+    "official_website": "https://www.producthunt.com/products/chatgpt",
+    "tags": []
+  },
+  {
+    "id": "48aeb0e3-766c-4957-be63-ebea9cc9e2e3",
+    "name": "ConvertKit AI",
+    "description": "AI email marketing for creators",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "convertkitai",
+    "official_website": "convertkitai",
+    "tags": []
+  },
+  {
+    "id": "4957a4b70d48",
+    "name": "Claude by Anthropic",
+    "description": "A family of foundational AI models. We're an AI research company that builds reliable, interpretable, and steerable AI systems.",
+    "category": "AI Models, AI Assistant, LLM",
+    "pricing": "Not Specified",
+    "url": "https://claude.ai",
+    "official_website": "https://claude.ai",
+    "tags": []
+  },
+  {
+    "id": "4a4ade43226a",
+    "name": "ChatGPT Atlas",
+    "description": "AI tool by OpenAI",
+    "category": "Artificial Intelligence",
+    "pricing": "Not Specified",
+    "url": "https://chat.openai.com",
+    "official_website": "https://chat.openai.com",
+    "tags": [
+      "automation",
+      "machine learning",
+      "ai"
+    ]
+  },
+  {
+    "id": "4ba846a6c795",
+    "name": "Claude Code",
+    "description": "Agentic coding assistant in your terminal \u2013 turn plain-English instructions into working code, debug, refactor, handle git workflows, and automate tasks effortlessly.",
+    "category": "Terminal, Coding Assistant",
+    "pricing": "Free",
+    "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview",
+    "official_website": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview",
+    "tags": []
+  },
+  {
+    "id": "4bf9358b65bc",
+    "name": "confident-ai/deepteam",
+    "description": "DeepTeam is a simple-to-use, open-source LLM red teaming framework",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/confident-ai/deepteam",
+    "official_website": "https://github.com/confident-ai/deepteam",
+    "tags": []
+  },
+  {
+    "id": "4bfa207a-ca2e-4c7b-bece-b6dc84d2669b",
+    "name": "ContentBot.ai",
+    "description": "AI-powered content creation tool helping create various types of content including blogs, landing page copy, and product descriptions. Features content automation functionality with pre-built automation workflows and visual interface for custom workflows.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://contentbot.ai/",
+    "official_website": "https://contentbot.ai/",
+    "tags": []
+  },
+  {
+    "id": "4c337bcc-1020-4714-bf72-a2afe33843b0",
+    "name": "ClickUp AI",
+    "description": "AI-powered productivity solution",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.clickupai.com",
+    "official_website": "https://www.clickupai.com",
+    "tags": []
+  },
+  {
+    "id": "4c7880128f02",
+    "name": "Codeium VS Code Extension",
+    "description": "Official VS Code extension for Codeium providing free AI coding assistance with unlimited completions and AI chat functionality.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://marketplace.visualstudio.com/items?itemName=CodeiumCodeium.codeium",
+    "official_website": "https://marketplace.visualstudio.com/items?itemName=CodeiumCodeium.codeium",
+    "tags": [
+      "ai-chat",
+      "free",
+      "ai-assistance",
+      "codeium",
+      "vs-code-extension",
+      "unlimited-completions"
+    ]
+  },
+  {
+    "id": "4c88a026-14b6-4ced-b88a-167580d849c6",
+    "name": "Canva",
+    "description": "Canva is an intuitive online graphic design platform that uses AI to help users of all skill levels quickly create professional visuals like social media posts presentations videos and more without needing expert design knowledge thanks to features like AI-powered text image and design generation smart editing tools and automatic suggestions with real-time collaboration branding resources and a vast library of templates and assets Canva is ideal for individuals teams and businesses who want to p",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/canva-com",
+    "official_website": "https://futuretools.link/canva-com",
+    "tags": []
+  },
+  {
+    "id": "4cd472e8-f48c-474d-8aa1-e41a5d7c0701",
+    "name": "Casper AI",
+    "description": "AI tool for summarizing content, enhancing productivity seamlessly.",
+    "category": "Other",
+    "pricing": "Free",
+    "url": "https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "official_website": "https://chrome.google.com/webstore/detail/casper-ai/fgfiokgecpkambjildjleljjcihnocel?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia",
+    "tags": []
+  },
+  {
+    "id": "4df961e8-e5dd-439c-9d43-053973d1a07b",
+    "name": "Codeium VS Code Extension",
+    "description": "Official VS Code extension for Codeium providing free AI coding assistance with unlimited completions and AI chat functionality.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://marketplace.visualstudio.com/items?itemName=CodeiumCodeium.codeium",
+    "official_website": "https://marketplace.visualstudio.com/items?itemName=CodeiumCodeium.codeium",
+    "tags": []
+  },
+  {
+    "id": "4e287cd0-05f9-4354-9fb2-c01be4a48bf9",
+    "name": "CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "description": "AI model CLIP-ViT-L-14-laion2B-d32_75f8e6 from laion on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "official_website": "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "tags": []
+  },
+  {
+    "id": "4e8dc89ab9e6",
+    "name": "ConvertKit",
+    "description": "Email marketing with AI insights",
+    "category": "Email Marketing",
+    "pricing": "Not Specified",
+    "url": "https://convertkit.com/",
+    "official_website": "https://convertkit.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "4f02895330cb",
+    "name": "ChatGPT.co.il",
+    "description": "Offers AI chat with 5+ powerful AI models, providing instant answers.",
+    "category": "Productivity, AI Chat",
+    "pricing": "Freemium",
+    "url": "https://chatgpt.co.il",
+    "official_website": "https://chatgpt.co.il",
+    "tags": []
+  },
+  {
+    "id": "4f9396c2-67b8-4fdc-97f7-800c21983c9a",
+    "name": "Cloud Functions AI",
+    "description": "Serverless computing with AI model integration",
+    "category": "Specialized APIs",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/functions",
+    "official_website": "https://cloud.google.com/functions",
+    "tags": []
+  },
+  {
+    "id": "5016ac839246",
+    "name": "Conda",
+    "description": "Research infrastructure and development tools for academic projects",
+    "category": "Research Infrastructure",
+    "pricing": "Free/Commercial",
+    "url": "https://conda.com",
+    "official_website": "https://conda.com",
+    "tags": []
+  },
+  {
+    "id": "5016efba96cd",
+    "name": "CodeWP",
+    "description": "WordPress-specific AI code generator for PHP, JavaScript, and WordPress plugin development with built-in snippet library.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://codewp.ai/",
+    "official_website": "https://codewp.ai/",
+    "tags": [
+      "cms",
+      "snippet-library",
+      "wordpress-specific",
+      "wordpress",
+      "php",
+      "plugin-development"
+    ]
+  },
+  {
+    "id": "5097eda76ffd",
+    "name": "Countly",
+    "description": "Open-source product analytics platform for mobile and desktop applications with dashboards, funnel analysis, retention tracking, and crash analytics. Offers enterprise version with additional features.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://countly.com/",
+    "official_website": "https://countly.com/",
+    "tags": [
+      "retention-tracking",
+      "crash-analytics",
+      "product-analytics",
+      "funnel-analysis",
+      "enterprise-version",
+      "mobile-desktop-analytics"
+    ]
+  },
+  {
+    "id": "50f20604-69bf-4d5f-bedc-06674c5356c8",
+    "name": "CMU AI",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.cmu.edu",
+    "official_website": "https://ai.cmu.edu",
+    "tags": []
+  },
+  {
+    "id": "51088dd2940b",
+    "name": "crewAIInc/crewAI",
+    "description": "CrewAI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "official_website": "https://github.com/crewAIInc/crewAI",
+    "tags": []
+  },
+  {
+    "id": "515a5a41-ec6f-4b61-9977-2293fb640d8f",
+    "name": "Clay",
+    "description": "Prospect 31M Companies & 770M People from LinkedIn in Clay. Then, enrich, research, and act on live people and company data sets to get those positive responses you've always wanted from your dream customers. Cut your manual work, reduce reliance on Upwork, and keep engineering time focused on your beautiful product.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/clay",
+    "official_website": "https://www.producthunt.com/products/clay",
+    "tags": []
+  },
+  {
+    "id": "51c3682df055",
+    "name": "Chatvolt",
+    "description": "Revolutionizing Business Communication with Advanced Chatbots",
+    "category": "AI Agents Platform, Chatbots",
+    "pricing": "Freemium",
+    "url": "https://chatvolt.ai",
+    "official_website": "https://chatvolt.ai",
+    "tags": []
+  },
+  {
+    "id": "5228340c-00f0-4b08-9eec-a45b3480bf1d",
+    "name": "CodeLlama",
+    "description": "Code-optimized LLaMA",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://meta.com",
+    "official_website": "https://meta.com",
+    "tags": []
+  },
+  {
+    "id": "52e3b78a-615b-41ad-9dbf-0ec9ac79c55c",
+    "name": "Cloud Storage AI",
+    "description": "Object storage with AI-powered content analysis",
+    "category": "Specialized APIs",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/storage",
+    "official_website": "https://cloud.google.com/storage",
+    "tags": []
+  },
+  {
+    "id": "532dd811-f4b6-4a91-9863-4b8ae4159331",
+    "name": "Claude Instant",
+    "description": "Fast variant for simple tasks",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "54753f55-d0fc-4a30-8f5a-be83a71dba58",
+    "name": "Copilot 3D",
+    "description": "Copilot 3D is an AI-powered image-to-3D generation tool from Microsoft that transforms ordinary 2D images into fully-rendered 3D models with just one click. This Copilot Labs experiment uses advanced AI algorithms to analyze a single photo and instantly create a downloadable 3D model in GLB format that's compatible with games, AR/VR applications, 3D printing, and animation software. The AI performs the complex work of understanding depth, geometry, and textures that would traditionally require s",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/copilot3d",
+    "official_website": "https://futuretools.link/copilot3d",
+    "tags": []
+  },
+  {
+    "id": "54b57164-b305-4a07-a48e-eb6b9a6716ce",
+    "name": "Compose AI",
+    "description": "AI autocompletion Chrome extension",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "composeai",
+    "official_website": "composeai",
+    "tags": []
+  },
+  {
+    "id": "5615fd02-ac9e-4764-96dd-eb287f2bc133",
+    "name": "Cubeo AI",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cubeo-ai",
+    "official_website": "https://futuretools.link/cubeo-ai",
+    "tags": []
+  },
+  {
+    "id": "56494f77-9e41-4885-95fa-e0cdab8dd228",
+    "name": "Clicky",
+    "description": "Real-time web analytics platform enabling website owners to monitor and respond to visitor interactions as they occur. Features real-time analytics, heatmaps, uptime monitoring, on-site analytics, and privacy compliance with cookie-free tracking option.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://clicky.com/",
+    "official_website": "https://clicky.com/",
+    "tags": []
+  },
+  {
+    "id": "5734cc6d7115",
+    "name": "CLAY",
+    "description": "AI data insights software combining data from 50+ providers for sales prospecting.",
+    "category": "Sales Prospecting",
+    "pricing": "$149/month",
+    "url": "https://www.clay.com/",
+    "official_website": "https://www.clay.com/",
+    "tags": [
+      "prospecting",
+      "sales"
+    ]
+  },
+  {
+    "id": "57a07f41-c925-44ba-a500-081f272bb854",
+    "name": "Chainer",
+    "description": "Deep learning framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://preferrednetworks.com",
+    "official_website": "https://preferrednetworks.com",
+    "tags": []
+  },
+  {
+    "id": "589a3086-2a7b-4316-bfd9-330b53da7a1a",
+    "name": "Character.AI",
+    "description": "Character.AI is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Developer Tools",
+    "pricing": "Free",
+    "url": "https://futuretools.link/character.ai",
+    "official_website": "https://futuretools.link/character.ai",
+    "tags": []
+  },
+  {
+    "id": "5914b7dedb08",
+    "name": "Chorus",
+    "description": "Transform sales conversations into actionable insights with AI-driven analytics.",
+    "category": "Sales Assistant, Customer Support",
+    "pricing": "Contact for Pricing",
+    "url": "https://www.chorus.ai/",
+    "official_website": "https://www.chorus.ai/",
+    "tags": []
+  },
+  {
+    "id": "5a2304f3-6f81-4046-813d-f81eac6572b3",
+    "name": "Copymatic",
+    "description": "AI-powered content and copy generator with GPT-3, supporting 40+ languages. Offers long-form article generation, SEO optimization, automation features (scheduling, linking, rank tracking), and subscription plans from $19/month with free trial credits.",
+    "category": "AI Writing Tools",
+    "pricing": "Premium",
+    "url": "https://copymatic.ai/",
+    "official_website": "https://copymatic.ai/",
+    "tags": []
+  },
+  {
+    "id": "5a6f433ab246",
+    "name": "Copymatic",
+    "description": "AI-powered content and copy generator with GPT-3, supporting 40+ languages. Offers long-form article generation, SEO optimization, automation features (scheduling, linking, rank tracking), and subscription plans from $19/month with free trial credits.",
+    "category": "Writing",
+    "pricing": "Premium",
+    "url": "https://copymatic.ai/",
+    "official_website": "https://copymatic.ai/",
+    "tags": [
+      "rank tracking",
+      "WordPress integration",
+      "multi-language",
+      "long-form content",
+      "content scheduling",
+      "GPT-3",
+      "SEO automation"
+    ]
+  },
+  {
+    "id": "5a81e7c628ea",
+    "name": "ChatGPT",
+    "description": "AI-powered assistant for research and academic applications",
+    "category": "AI Assistant",
+    "pricing": "Commercial",
+    "url": "https://chatgpt.com",
+    "official_website": "https://chatgpt.com",
+    "tags": []
+  },
+  {
+    "id": "5ab4b689-1033-4f88-bd28-d2de57bab905",
+    "name": "Cloud SQL AI",
+    "description": "Database service with AI-powered insights and recommendations",
+    "category": "Specialized APIs",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/sql",
+    "official_website": "https://cloud.google.com/sql",
+    "tags": []
+  },
+  {
+    "id": "5b896800-4b6a-4e32-9e60-ced34b703432",
+    "name": "Crossfade",
+    "description": "Crossfade is an AI-powered video editor built to simplify and speed up the editing process by recognizing the most important moments in footage. It offers one-click transcription with multilingual support, speaker identification, and perfect syncing between text and video for seamless navigation. With its instant highlights feature, users can jump directly to key sections without watching entire videos. Crossfade also allows easy extraction of clips to repurpose content across multiple platforms",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/usecrossfade-com",
+    "official_website": "https://futuretools.link/usecrossfade-com",
+    "tags": []
+  },
+  {
+    "id": "5bd6ca07-4caa-40a4-b7fd-1238daba188e",
+    "name": "Cartesia AI",
+    "description": "Real-time text-to-speech platform with 40-millisecond latency and voice cloning from 3-second audio samples. Features on-device AI models, 14-language support, and competitive pricing for instant voice generation.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://cartesia.ai/",
+    "official_website": "https://cartesia.ai/",
+    "tags": []
+  },
+  {
+    "id": "5c57e392-8c4e-418d-a050-95c0b89309c1",
+    "name": "Codia AI",
+    "description": "AI design-to-code tool that converts Figma designs into production-ready websites without coding. Built for Figma users to translate static mock-ups into working, deployable websites with clean HTML, CSS, and JS handling layered components and nested elements.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://codia.ai/",
+    "official_website": "https://codia.ai/",
+    "tags": []
+  },
+  {
+    "id": "5dbf62625dee",
+    "name": "Copilot for Business",
+    "description": "Enterprise-grade AI features",
+    "category": "Enterprise Solutions",
+    "pricing": "Not Specified",
+    "url": "https://github.com/features/copilot/copilot-business",
+    "official_website": "https://github.com/features/copilot/copilot-business",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "5dddf498-14a0-44a1-a212-ff316ab9af58",
+    "name": "ContentStudio",
+    "description": "ContentStudio is a unified social media management platform that streamlines content marketing across multiple networks from one dashboard. The tool leverages AI technology to enhance content creation with automated caption generation, image creation, and rewriting capabilities, saving users significant time and creative energy. Beyond its AI assistant, ContentStudio offers comprehensive scheduling features, analytics tracking, and a unified inbox for managing engagement across platforms. Market",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/contentstudio-io",
+    "official_website": "https://futuretools.link/contentstudio-io",
+    "tags": []
+  },
+  {
+    "id": "5dfa21de-6ed8-4b4e-8c64-fbf94b56ebc7",
+    "name": "Cloudflare Pages",
+    "description": "Frontend hosting",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://cloudflare.com",
+    "official_website": "https://cloudflare.com",
+    "tags": []
+  },
+  {
+    "id": "5e8ec798-f31a-455f-996b-2969dc8e4091",
+    "name": "Codey",
+    "description": "Specialized code generation model for software development",
+    "category": "Core AI Models",
+    "pricing": "Unknown",
+    "url": "https://ai.googleblog.com/2023/05/announcing-codey-google-ai-code-assist.html",
+    "official_website": "https://ai.googleblog.com/2023/05/announcing-codey-google-ai-code-assist.html",
+    "tags": []
+  },
+  {
+    "id": "600f6d3a-a101-4307-b441-016b19260569",
+    "name": "Cisco AI",
+    "description": "AI-enhanced network and cybersecurity",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ciscoai",
+    "official_website": "ciscoai",
+    "tags": []
+  },
+  {
+    "id": "6056f93a-ba43-494b-90fb-d866d2c5be5e",
+    "name": "Canva",
+    "description": "Comprehensive design platform with AI-powered video editing capabilities, including automatic video creation, smart templates, and integration with AI video generation tools.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.canva.com/",
+    "official_website": "https://www.canva.com/",
+    "tags": []
+  },
+  {
+    "id": "613fea6f-7322-428f-a5bb-c6fc056ccd69",
+    "name": "Copilot Audio Expression",
+    "description": "Copilot Audio Expressions is Microsoft's experimental AI-powered tool that transforms text into emotionally expressive, high-fidelity audio narration without requiring user login. The tool leverages Microsoft's MAI-Voice-1 model to generate natural-sounding speech in seconds, offering users the choice between Emotive mode (for conversational delivery with emotional nuance) and Story mode (optimized for narrative content), along with nearly a dozen distinct synthetic voices. Content creators, edu",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/copilot-audio-expression",
+    "official_website": "https://futuretools.link/copilot-audio-expression",
+    "tags": []
+  },
+  {
+    "id": "61baf424-04f7-4a64-9507-a5e2a33f0164",
+    "name": "Cheat Layer Agents",
+    "description": "AI tool that uses custom-trained models and no-code automation",
+    "category": "AI Coding & Development",
+    "pricing": "Not specified",
+    "url": "https://topai.tools/t/cheat-layer",
+    "official_website": "https://topai.tools/t/cheat-layer",
+    "tags": []
+  },
+  {
+    "id": "61bdd3a8-fd6c-4810-9d9e-6134ff9da850",
+    "name": "Cohere Python SDK",
+    "description": "Python Library for Accessing the Cohere API across multiple platforms",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://docs.cohere.ai",
+    "official_website": "https://docs.cohere.ai",
+    "tags": []
+  },
+  {
+    "id": "627c4087-02b1-47ac-830d-d4753d58bf60",
+    "name": "Codiga",
+    "description": "AI-powered code review platform that detects vulnerabilities, analyzes code quality, and provides instant feedback on security and maintainability.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.codiga.io/",
+    "official_website": "https://www.codiga.io/",
+    "tags": []
+  },
+  {
+    "id": "628efe1e-15a0-4f6e-ab80-c9e2a5535fcc",
+    "name": "Continue",
+    "description": "Open-source AI coding assistant",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "continue",
+    "official_website": "continue",
+    "tags": []
+  },
+  {
+    "id": "63215777fc38",
+    "name": "Colormind",
+    "description": "AI color palette generator that helps web designers quickly create visually appealing color schemes for projects. Analyzes trends and preferences to create color palettes that resonate with target audiences.",
+    "category": "Design",
+    "pricing": "Free",
+    "url": "http://colormind.io/",
+    "official_website": "http://colormind.io/",
+    "tags": [
+      "target audience",
+      "preference analysis",
+      "visual appeal",
+      "color palette",
+      "trend analysis",
+      "color schemes"
+    ]
+  },
+  {
+    "id": "634ab02e-11c3-4472-ba01-be7853f73f1d",
+    "name": "Cartwheel",
+    "description": "Animate Characters Effortlessly for Videos, Games, and More",
+    "category": "AI Animated Video",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/cartwheel",
+    "official_website": "https://freeaitool.ai/tool/cartwheel",
+    "tags": []
+  },
+  {
+    "id": "643d1359-41f7-40f3-b683-363ad70ddb35",
+    "name": "Cohere Terrarium",
+    "description": "A simple Python sandbox for helpful LLM data agents - low latency, easy to use, and economical",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://pyodide.org/",
+    "official_website": "https://pyodide.org/",
+    "tags": []
+  },
+  {
+    "id": "64f1f552-aa13-40ff-b73b-1b06512277ac",
+    "name": "CrowdStrike Falcon",
+    "description": "AI-powered security solution",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.crowdstrikefalcon.com",
+    "official_website": "https://www.crowdstrikefalcon.com",
+    "tags": []
+  },
+  {
+    "id": "64fc26dba598",
+    "name": "CMU AI Gateway",
+    "description": "University-provided AI tools gateway for Carnegie Mellon students and researchers",
+    "category": "University Platform",
+    "pricing": "Academic",
+    "url": "https://ai.cmu.edu",
+    "official_website": "https://ai.cmu.edu",
+    "tags": []
+  },
+  {
+    "id": "65ab252d559f",
+    "name": "Claude 3.5 Sonnet",
+    "description": "Advanced AI assistant by Anthropic with state-of-the-art vision recognition, advanced reasoning capabilities, code generation, and fast performance comparable to GPT-4o with enhanced safety features.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://claude.ai",
+    "official_website": "https://claude.ai",
+    "tags": [
+      "reasoning",
+      "code-generation",
+      "safety",
+      "ai-assistant",
+      "vision-recognition"
+    ]
+  },
+  {
+    "id": "66131d01-3642-4589-82ef-deac94565d37",
+    "name": "Codeium",
+    "description": "Free AI coding assistant offering unlimited completions for over 70 programming languages, with advanced AI chat and code search capabilities.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://codeium.com/",
+    "official_website": "https://codeium.com/",
+    "tags": []
+  },
+  {
+    "id": "669757050d03",
+    "name": "clip-vit-large-patch14",
+    "description": "CLIP ViT-L/14 model from LAION for vision-language understanding at larger scale.",
+    "category": "Multimodal",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "official_website": "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "tags": [
+      "vision-language",
+      "clip",
+      "laion",
+      "multimodal"
+    ]
+  },
+  {
+    "id": "6769e532-400e-4147-a18b-25c2b180e428",
+    "name": "Cylance",
+    "description": "AI-based endpoint security platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Enterprise\",\"details\":\"Enterprise pricing based on usage\"}",
+    "url": "https://cylance.com",
+    "official_website": "https://cylance.com",
+    "tags": []
+  },
+  {
+    "id": "67a9481a7bb6",
+    "name": "ChatGPT Writer",
+    "description": "Revolutionize writing: AI-enhanced emails, error correction, tone adjustment, multilingual support.",
+    "category": "Email Assistant, Writing",
+    "pricing": "Free",
+    "url": "https://chatgptwriter.ai/",
+    "official_website": "https://chatgptwriter.ai/",
+    "tags": []
+  },
+  {
+    "id": "67c9c8620579",
+    "name": "ChatGPT-4o",
+    "description": "An AI chatbot that can see, hear, and have real-time conversations",
+    "category": "AI Chatbot",
+    "pricing": "Not Specified",
+    "url": "https://openai.com/index/hello-gpt-4o/",
+    "official_website": "https://openai.com/index/hello-gpt-4o/",
+    "tags": [
+      "50% cheaper than GPT-4 turbo",
+      "Voice Mode",
+      "Twice as fast as GPT-4 turbo",
+      "Integrated into Apple's latest operating systems for iPhones, iPads, and Macs"
+    ]
+  },
+  {
+    "id": "6a2409be-1b95-4a4c-b13b-3879ce7cb02d",
+    "name": "CARN",
+    "description": "AI cascading residual network for super-resolution",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "carn",
+    "official_website": "carn",
+    "tags": []
+  },
+  {
+    "id": "6a2b50ab-57e5-4c19-aba5-063898a19569",
+    "name": "Crazy Egg",
+    "description": "Website optimization and analytics platform with heatmaps, A/B testing, user session recordings, and conversion tracking. Helps improve website performance and user experience.",
+    "category": "Ai Analytics",
+    "pricing": "Free",
+    "url": "https://crazyegg.com/",
+    "official_website": "https://crazyegg.com/",
+    "tags": []
+  },
+  {
+    "id": "6c7cd69d-5c93-4636-b3a9-173034affdf2",
+    "name": "Capacities",
+    "description": "Like an artist's studio, Capacities is a place for all your information. It stores your knowledge and can resurface it, right when you need it.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/capacities",
+    "official_website": "https://www.producthunt.com/products/capacities",
+    "tags": []
+  },
+  {
+    "id": "6d4df43e-8784-4c04-9e83-9a91d7b34c64",
+    "name": "Caption Health",
+    "description": "AI-powered ultrasound guidance",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "captionhealth",
+    "official_website": "captionhealth",
+    "tags": []
+  },
+  {
+    "id": "6d7362a6497a",
+    "name": "Chutes.ai",
+    "description": "Service offering 300 free requests/day to open-weight models for $3/month",
+    "category": "Api Services",
+    "pricing": "Unknown",
+    "url": "https://chutes.ai",
+    "official_website": "https://chutes.ai",
+    "tags": []
+  },
+  {
+    "id": "6de11c4e-02f1-41da-85ed-6522f5ab8444",
+    "name": "Claude 4 Opus",
+    "description": "Most capable Claude model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "6f2d5a05-b09a-4bae-92a7-fa474d70be79",
+    "name": "Cora Intelligence",
+    "description": "AI-powered SDR to automate lead research and outreach",
+    "category": "Business",
+    "pricing": "From $159/mo",
+    "url": "https://cora-intelligence.com/",
+    "official_website": "https://cora-intelligence.com/",
+    "tags": []
+  },
+  {
+    "id": "6f75525993f7",
+    "name": "Cline",
+    "description": "Local-first coding agent for VS Code that acts as a task-based assistant with plan-and-act workflow, file/terminal control, and snapshot checkpoints.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://github.com/cline/cline",
+    "official_website": "https://github.com/cline/cline",
+    "tags": [
+      "task-based",
+      "snapshot-checkpoints",
+      "local-first",
+      "local-models",
+      "plan-and-act",
+      "vs-code"
+    ]
+  },
+  {
+    "id": "6fd9e0fd-a218-4043-ab91-25963a3e6df3",
+    "name": "CREATOR AI",
+    "description": "Efficiently generates personalized, high-quality content for creators.",
+    "category": "Other",
+    "pricing": "Free Trial",
+    "url": "https://www.futurepedia.io/tool/creator-ai",
+    "official_website": "https://www.futurepedia.io/tool/creator-ai",
+    "tags": []
+  },
+  {
+    "id": "7104fd4f-0a29-4586-aff9-20b9c4f7c772",
+    "name": "Chat",
+    "description": "Chat completion model",
+    "category": "AI Automation",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "71823479-2f9e-4036-b404-685a3cc9cc09",
+    "name": "Chartio AI",
+    "description": "AI-powered data visualization",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "chartioai",
+    "official_website": "chartioai",
+    "tags": []
+  },
+  {
+    "id": "72c68f52-e07a-461b-95ab-4d571f619f70",
+    "name": "Cubic",
+    "description": "Cubic is an AI-native code review platform that automatically reviews pull requests to catch bugs and enforce coding standards directly within GitHub workflows. The tool leverages artificial intelligence to analyze code changes in real-time with full repository context awareness, providing immediate feedback based on team-specific guidelines while learning from reviewer patterns over time. Engineering teams choose Cubic to accelerate development cycles by up to 28% faster PR merges, eliminate re",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cubic-dev",
+    "official_website": "https://futuretools.link/cubic-dev",
+    "tags": []
+  },
+  {
+    "id": "73137d6b047f",
+    "name": "Colab",
+    "description": "Free cloud service based on Jupyter Notebooks for ML education and research.",
+    "category": "Notebook",
+    "pricing": "Free",
+    "url": "https://colab.research.google.com/",
+    "official_website": "https://colab.research.google.com/",
+    "tags": [
+      "education",
+      "notebook"
+    ]
+  },
+  {
+    "id": "74388feb-afc6-44c7-9675-8edcda73b9f3",
+    "name": "ChatGLM3 6B",
+    "description": "ChatGLM Chinese model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "7492cad3-e449-4593-9d5d-aa2649ad1cea",
+    "name": "Craft",
+    "description": "Customizable document-based application with generative AI features, note explanation capabilities, flexible organization, and Apple ecosystem integration.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://craft.do",
+    "official_website": "https://craft.do",
+    "tags": []
+  },
+  {
+    "id": "757472f6-a486-4046-a684-3ec4db33d3a5",
+    "name": "Cloudflare Stream",
+    "description": "Video streaming platform",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://cloudflare.com",
+    "official_website": "https://cloudflare.com",
+    "tags": []
+  },
+  {
+    "id": "75c98a26bfd9",
+    "name": "Cohere Terrarium",
+    "description": "A simple Python sandbox for helpful LLM data agents - low latency, easy to use, and economical",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://pyodide.org/",
+    "official_website": "https://pyodide.org/",
+    "tags": [
+      "No filesystem access, threading, subprocess calls, or network access",
+      "Low latency Python sandbox (900ms runtime for 200 dpi matplotlib chart)",
+      "Economical hosting (less than $30/month on GCP)",
+      "Supports many Python packages via Pyodide (numpy, pandas, matplotlib, etc.)",
+      "Fully compartmentalized sandbox recycled after every invocation",
+      "Designed for Docker deployment (GCP Cloud Run)",
+      "Supports native input & output files with base64 encoding"
+    ]
+  },
+  {
+    "id": "769fb7bd-250d-4842-8358-8611299f4275",
+    "name": "Corteva AI",
+    "description": "Agricultural innovation AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://corteva.com",
+    "official_website": "https://corteva.com",
+    "tags": []
+  },
+  {
+    "id": "779f55066bf4",
+    "name": "CelaDaniel/free-ai-resources-x",
+    "description": "Extracted 27 specialized categories with 6 resources each covering AI foundations, advanced techniques",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "official_website": "https://github.com/CelaDaniel/free-ai-resources-x",
+    "tags": []
+  },
+  {
+    "id": "785f13a4c555",
+    "name": "Cohere Public Demos",
+    "description": "Public demos using the Cohere platform - showcasing NLP functionality and LLM applications",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://txt.cohere.ai/",
+    "official_website": "https://txt.cohere.ai/",
+    "tags": [
+      "Automate User Feedback Monitoring on Discord with AI",
+      "Extract Entities from Invoices Using Large Language Models",
+      "Integrate Text Summarizer to analyze user reviews",
+      "Tweet Analysis Bot for deducing top JS frameworks",
+      "Multiple programming languages (Python, JavaScript, TypeScript)",
+      "Complete code examples with documentation and demos",
+      "Build Product Description Generator with LLMs"
+    ]
+  },
+  {
+    "id": "78d5d4b0-0621-43c7-8338-dc88a42d3b83",
+    "name": "ColdIQ",
+    "description": "AI sales tools that streamline prospecting with lead generation and personalized email sequences",
+    "category": "Sales",
+    "pricing": "Freemium",
+    "url": "https://coldiq.com",
+    "official_website": "https://coldiq.com",
+    "tags": []
+  },
+  {
+    "id": "7986421f-dcb1-4901-8d42-3ec221f32bb6",
+    "name": "Carnegie Learning AI",
+    "description": "AI-powered math learning platform",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "carnegielearningai",
+    "official_website": "carnegielearningai",
+    "tags": []
+  },
+  {
+    "id": "7a7b53e43edc",
+    "name": "Codia AI",
+    "description": "AI design-to-code tool that converts Figma designs into production-ready websites without coding. Built for Figma users to translate static mock-ups into working, deployable websites with clean HTML, CSS, and JS handling layered components and nested elements.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://codia.ai/",
+    "official_website": "https://codia.ai/",
+    "tags": [
+      "pixel-perfect",
+      "design handoff",
+      "agency tools",
+      "figma to code",
+      "professional",
+      "production-ready"
+    ]
+  },
+  {
+    "id": "7b2c0f7b-2f27-43e2-b6cd-8e90c23b8e2f",
+    "name": "CodeGeeX",
+    "description": "Practical AI coding assistant for code generation, translation between programming languages, and built-in AI chatbot functionality.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://codegeex.cn/",
+    "official_website": "https://codegeex.cn/",
+    "tags": []
+  },
+  {
+    "id": "7ccf8f0a-55b8-4ad4-837d-8a769a7e6b9c",
+    "name": "Coursera AI",
+    "description": "AI-enhanced online course platform",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Enterprise\",\"details\":\"Enterprise pricing based on usage\"}",
+    "url": "https://coursera.org",
+    "official_website": "https://coursera.org",
+    "tags": []
+  },
+  {
+    "id": "7eba09cb-8a7f-4098-bc49-d4c89b6028d1",
+    "name": "Color Magic App",
+    "description": "AI tool that generates harmonious color palettes based on specific themes or emotions. Allows uploading images or entering keywords to suggest color combinations aligned with brand or design goals.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://colormagic.app/",
+    "official_website": "https://colormagic.app/",
+    "tags": []
+  },
+  {
+    "id": "7f684d62-de86-4894-831d-cf6516e16504",
+    "name": "Claude Dev",
+    "description": "Claude-powered coding assistant",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "claudedev",
+    "official_website": "claudedev",
+    "tags": []
+  },
+  {
+    "id": "7f790b14-6293-4b42-8288-d6bd5da3f7e9",
+    "name": "Chatfuel",
+    "description": "AI chatbot creation platform",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "chatfuel",
+    "official_website": "chatfuel",
+    "tags": []
+  },
+  {
+    "id": "7f8b025f-7d54-42ab-8631-9d0c3a821999",
+    "name": "Cohere AWS",
+    "description": "Cohere Python SDK (AWS SageMaker & Bedrock) - simplifies interfacing with Cohere models via AWS services",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://docs.cohere.com/docs/cohere-works-everywhere",
+    "official_website": "https://docs.cohere.com/docs/cohere-works-everywhere",
+    "tags": []
+  },
+  {
+    "id": "80875cc5-923f-4486-a799-900679914032",
+    "name": "Caffe",
+    "description": "Deep learning framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://berkeley.com",
+    "official_website": "https://berkeley.com",
+    "tags": []
+  },
+  {
+    "id": "8088b16b-5415-4854-a992-f0ccba42a729",
+    "name": "Chatbase AI",
+    "description": "Platform for building and deploying AI support agents that transform customer interactions",
+    "category": "Customer Service",
+    "pricing": "Freemium",
+    "url": "https://www.chatbase.co",
+    "official_website": "https://www.chatbase.co",
+    "tags": []
+  },
+  {
+    "id": "8099cd334c50",
+    "name": "Character.ai",
+    "description": "Conversational AI platform for creating and chatting with AI characters.",
+    "category": "Chatbot",
+    "pricing": "Freemium",
+    "url": "https://character.ai/",
+    "official_website": "https://character.ai/",
+    "tags": [
+      "characters",
+      "chatbot"
+    ]
+  },
+  {
+    "id": "8174e1a11b6c",
+    "name": "Civitai",
+    "description": "A community noted as a good starting point for learning about image and video models.",
+    "category": "Community, Image Models, Video Models, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://civitai.com",
+    "official_website": "https://civitai.com",
+    "tags": []
+  },
+  {
+    "id": "82892e43-7d9f-45ff-bd37-c103e86f56d7",
+    "name": "contriever",
+    "description": "AI model contriever from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/facebook/contriever",
+    "official_website": "https://huggingface.co/facebook/contriever",
+    "tags": []
+  },
+  {
+    "id": "8292326262e5",
+    "name": "Cosmos",
+    "description": "Use AI locally to search media files",
+    "category": "Productivity",
+    "pricing": "Not Specified",
+    "url": "https://meetcosmos.com/",
+    "official_website": "https://meetcosmos.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "82a802b920b6",
+    "name": "codebert-python",
+    "description": "AI model codebert-python from neulab on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/neulab/codebert-python",
+    "official_website": "https://huggingface.co/neulab/codebert-python",
+    "tags": []
+  },
+  {
+    "id": "82fe778e-e2a0-4916-ab8f-4958ec6a136c",
+    "name": "Clara",
+    "description": "AI scheduling assistant that acts as virtual email assistant, handling meeting bookings through email threads with advanced NLP, automatic calendar creation, and video conferencing links.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://claralabs.com",
+    "official_website": "https://claralabs.com",
+    "tags": []
+  },
+  {
+    "id": "83350f543383",
+    "name": "cortexlabs/cortex",
+    "description": "Cortex is an open source platform for deploying ML models as production web services",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/cortexlabs/cortex",
+    "official_website": "https://github.com/cortexlabs/cortex",
+    "tags": []
+  },
+  {
+    "id": "83502d25-e7a1-4069-b241-447dd114f272",
+    "name": "Cubent",
+    "description": "Cubent is a developer-focused toolset that streamlines the creation and management of AI-powered applications through an intuitive interface. This comprehensive platform combines code generation, model integration, and deployment automation to reduce development time and complexity for building AI solutions. With Cubent, developers can easily connect to various AI models, customize their behavior, and implement them into applications without extensive machine learning expertise. The tool's stand",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cubent-dev",
+    "official_website": "https://futuretools.link/cubent-dev",
+    "tags": []
+  },
+  {
+    "id": "8463d46a-cf5a-4ce7-b2d0-f39cb2989bd6",
+    "name": "Clockwise",
+    "description": "AI team calendar orchestration tool that syncs team calendars, creates focus time blocks, resolves conflicts, provides Slack integration, and offers organization-level productivity analytics.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.getclockwise.com",
+    "official_website": "https://www.getclockwise.com",
+    "tags": []
+  },
+  {
+    "id": "848ea9fa-f184-4278-8528-583517ec4d60",
+    "name": "Cassidy AI",
+    "description": "Maximize efficiency with custom, adaptable, AI-driven workflow automation",
+    "category": "Workflow Automation",
+    "pricing": "Unknown",
+    "url": "https://alltheaitools.com/agent/cassidy",
+    "official_website": "https://alltheaitools.com/agent/cassidy",
+    "tags": []
+  },
+  {
+    "id": "848f7eb4d2e5",
+    "name": "Clockwise",
+    "description": "AI team calendar orchestration tool that syncs team calendars, creates focus time blocks, resolves conflicts, provides Slack integration, and offers organization-level productivity analytics.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.getclockwise.com",
+    "official_website": "https://www.getclockwise.com",
+    "tags": [
+      "slack-integration",
+      "analytics",
+      "focus-time",
+      "calendar-sync",
+      "team-scheduling"
+    ]
+  },
+  {
+    "id": "8620857e2335",
+    "name": "Colab",
+    "description": "Hosted Jupyter notebook service that requires no setup to use while providing free access to machine learning tools",
+    "category": "Research Platform",
+    "pricing": "Free",
+    "url": "https://colab.research.google.com",
+    "official_website": "https://colab.research.google.com",
+    "tags": []
+  },
+  {
+    "id": "866d625d28b9",
+    "name": "Continue.dev",
+    "description": "Open-source autopilot for VS Code and JetBrains with various LLM support",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://continue.dev",
+    "official_website": "https://continue.dev",
+    "tags": []
+  },
+  {
+    "id": "8695f6f45f2f",
+    "name": "CodeBERTa-language-v1",
+    "description": "CodeBERTa model for programming language understanding and code generation.",
+    "category": "Code Generation",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/huggingface/CodeBERTa-language-v1",
+    "official_website": "https://huggingface.co/huggingface/CodeBERTa-language-v1",
+    "tags": [
+      "code-generation",
+      "code",
+      "programming",
+      "transformer"
+    ]
+  },
+  {
+    "id": "8746635b-8bda-4fd2-a8db-f7dd14c0a523",
+    "name": "CapCut",
+    "description": "A video editor that uses AI to generate scripts, create videos from text, add automatic captions, and repurpose content for social media platforms",
+    "category": "Video Editing",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/capcut",
+    "official_website": "https://link.aitoolsdirectory.com/capcut",
+    "tags": []
+  },
+  {
+    "id": "87df90cf53d6",
+    "name": "Compose AI",
+    "description": "Free Chrome extension for AI-powered writing",
+    "category": "Writing Assistants",
+    "pricing": "Not Specified",
+    "url": "https://compose.ai/",
+    "official_website": "https://compose.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "87f677b9a601",
+    "name": "ClearML/clearml-helm-charts",
+    "description": "Helm charts for deploying ClearML on Kubernetes",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/ClearML/clearml-helm-charts",
+    "official_website": "https://github.com/ClearML/clearml-helm-charts",
+    "tags": []
+  },
+  {
+    "id": "884206da-c241-4051-878d-7b12bb09d188",
+    "name": "Caption Health",
+    "description": "Point-of-care ultrasound",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://captionhealth.com",
+    "official_website": "https://captionhealth.com",
+    "tags": []
+  },
+  {
+    "id": "8953a7ed-35df-4e66-afd6-3a06f9a8ebbb",
+    "name": "ClickUp",
+    "description": "Comprehensive project management solution with AI features including dashboard Q&A, AI space summaries, duplicate task detection, stuck task identification, and built-in AI writer.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://clickup.com",
+    "official_website": "https://clickup.com",
+    "tags": []
+  },
+  {
+    "id": "8ac8bcbb-d1f8-4b07-a9ec-45427765a4d3",
+    "name": "Compass AI",
+    "description": "Real estate AI platform",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://compass.com",
+    "official_website": "https://compass.com",
+    "tags": []
+  },
+  {
+    "id": "8c4fab123996",
+    "name": "Copysmith",
+    "description": "AI-powered content creation tool that leverages AI to create content particularly for eCommerce products. Writes in-depth product descriptions based on user-defined criteria with keywords, tone of voice, and use case considerations.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://copysmith.ai/",
+    "official_website": "https://copysmith.ai/",
+    "tags": [
+      "shopify",
+      "product descriptions",
+      "amazon",
+      "integrations",
+      "ecommerce",
+      "ai writer"
+    ]
+  },
+  {
+    "id": "8cd26f89-8767-491c-90f7-e5bb9a26f6a2",
+    "name": "clip-vit-large-patch14",
+    "description": "Authentic verified Hugging Face model",
+    "category": "Model",
+    "pricing": "{\"model\":\"Open Source\",\"details\":\"Real scraped content\"}",
+    "url": "https://huggingface.co/laion/clip-vit-large-patch14",
+    "official_website": "https://huggingface.co/laion/clip-vit-large-patch14",
+    "tags": []
+  },
+  {
+    "id": "8d00cb00-27bd-4d84-9eca-f12672ac2878",
+    "name": "CLIP",
+    "description": "Contrastive Language-Image Pre-training",
+    "category": "Computer Vision & Image",
+    "pricing": "Freemium",
+    "url": "https://openai.com",
+    "official_website": "https://openai.com",
+    "tags": []
+  },
+  {
+    "id": "8d1cfd9b227a",
+    "name": "ClickUp",
+    "description": "Comprehensive project management solution with AI features including dashboard Q&A, AI space summaries, duplicate task detection, stuck task identification, and built-in AI writer.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://clickup.com",
+    "official_website": "https://clickup.com",
+    "tags": [
+      "docs",
+      "time-tracking",
+      "project-management",
+      "ai-assistant",
+      "task-management"
+    ]
+  },
+  {
+    "id": "8dca852ca2b6",
+    "name": "Clear Analytics",
+    "description": "Excel-based business intelligence platform designed for Excel-heavy teams. Offers simple adoption, easy reporting, and familiar interface for organizations transitioning to analytics.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://clearanalytics.io/",
+    "official_website": "https://clearanalytics.io/",
+    "tags": [
+      "familiar-interface",
+      "simple-adoption",
+      "easy-reporting",
+      "excel-transition",
+      "excel-based"
+    ]
+  },
+  {
+    "id": "8e9fdd3c3e4f",
+    "name": "COMSOL Multiphysics",
+    "description": "Specialized AI and simulation tool for specific research domains",
+    "category": "Model Library",
+    "pricing": "Commercial",
+    "url": "https://comsol multiphysics.com",
+    "official_website": "https://comsol multiphysics.com",
+    "tags": []
+  },
+  {
+    "id": "8f0e55ab8756",
+    "name": "Consensus",
+    "description": "AI-powered academic search engine for finding research papers.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "url": "https://consensus.app/",
+    "official_website": "https://consensus.app/",
+    "tags": [
+      "academic",
+      "research"
+    ]
+  },
+  {
+    "id": "8f1e0740-2d93-4a6b-9fea-3fd1655207e2",
+    "name": "Colyseus",
+    "description": "Real-time multiplayer server",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://colyseus.com",
+    "official_website": "https://colyseus.com",
+    "tags": []
+  },
+  {
+    "id": "8fcb791f-fbac-44ca-af76-3bfddccf8bb6",
+    "name": "CaptionAI",
+    "description": "AI caption generator for social media",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "captionai",
+    "official_website": "captionai",
+    "tags": []
+  },
+  {
+    "id": "90d2f117-f254-47c6-b371-812c9a4bce35",
+    "name": "CyberAgent AI",
+    "description": "Ad-tech AI platform",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://cyberagent.com",
+    "official_website": "https://cyberagent.com",
+    "tags": []
+  },
+  {
+    "id": "915b1d85f4fb",
+    "name": "Calendly",
+    "description": "AI-enhanced scheduling",
+    "category": "Scheduling",
+    "pricing": "Not Specified",
+    "url": "https://calendly.com/",
+    "official_website": "https://calendly.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "91d6c4c64b7b",
+    "name": "CapCut",
+    "description": "Advanced video editing with AI-driven features and effects.",
+    "category": "Video Editing, Video Enhancer",
+    "pricing": "Freemium",
+    "url": "https://capcutaffiliateprogram.pxf.io/MAN7Qo",
+    "official_website": "https://capcutaffiliateprogram.pxf.io/MAN7Qo",
+    "tags": []
+  },
+  {
+    "id": "9223a3ae-2da3-488a-a046-1fed6ff82fbe",
+    "name": "Century Tech",
+    "description": "AI-powered education solution",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.centurytech.com",
+    "official_website": "https://www.centurytech.com",
+    "tags": []
+  },
+  {
+    "id": "924f47ee087d",
+    "name": "Contentful AI",
+    "description": "Content platform with AI-powered content creation and management features. Features AI content generation, content optimization suggestions, automated tagging, and intelligent content workflows for enterprise content management.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.contentful.com/",
+    "official_website": "https://www.contentful.com/",
+    "tags": [
+      "content workflows",
+      "enterprise cms",
+      "content optimization",
+      "automated tagging",
+      "content platform",
+      "ai content creation"
+    ]
+  },
+  {
+    "id": "93bfc8b3-2b60-4be9-9c2a-9d4d47207eea",
+    "name": "Capacities",
+    "description": "Like an artist's studio, Capacities is a place for all your information. It stores your knowledge and can resurface it, right when you need it.",
+    "category": "Note and writing apps, Team collaboration software, Writing assistants",
+    "pricing": "Unknown",
+    "url": "https://capacities.io",
+    "official_website": "https://capacities.io",
+    "tags": []
+  },
+  {
+    "id": "9596916e3464",
+    "name": "Clearscope",
+    "description": "AI tool for optimizing human-written content for SEO to rank fast and well. Provides keyword and readability suggestions from top SERPs with live content scoring, search intent matching, and Google Docs integration.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://clearscope.io/",
+    "official_website": "https://clearscope.io/",
+    "tags": [
+      "live scoring",
+      "google docs",
+      "top serps",
+      "content optimization",
+      "seo optimization",
+      "search intent"
+    ]
+  },
+  {
+    "id": "965a7775-09fa-4665-8c2f-edf3e89bce49",
+    "name": "Claude AI",
+    "description": "Advanced AI assistant designed for a variety of tasks",
+    "category": "AI Image Generation",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/claude",
+    "official_website": "https://topai.tools/t/claude",
+    "tags": []
+  },
+  {
+    "id": "96e99254-8450-4ec5-80a0-636080bffe15",
+    "name": "ChatGPT",
+    "description": "OpenAI's versatile AI assistant supporting 50+ programming languages with GPT-4o for code generation, debugging, and technical explanations.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://chat.openai.com/",
+    "official_website": "https://chat.openai.com/",
+    "tags": []
+  },
+  {
+    "id": "974d044c-1319-4f27-810f-af640ee79fe8",
+    "name": "ContentCal AI",
+    "description": "AI social media planning platform",
+    "category": "AI Social Media",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "contentcalai",
+    "official_website": "contentcalai",
+    "tags": []
+  },
+  {
+    "id": "992e6635-d116-4604-a2da-d9d0f1f9796a",
+    "name": "Civitai",
+    "description": "A community noted as a good starting point for learning about image and video models.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/civitai",
+    "official_website": "https://www.producthunt.com/products/civitai",
+    "tags": []
+  },
+  {
+    "id": "9983a38b5b33",
+    "name": "Continue",
+    "description": "Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI.",
+    "category": "Automation tools, AI Coding Agents, Product add-ons",
+    "pricing": "Not Specified",
+    "url": "https://continue.dev",
+    "official_website": "https://continue.dev",
+    "tags": []
+  },
+  {
+    "id": "99ca3de3da52",
+    "name": "colbertv2.0",
+    "description": "AI model colbertv2.0 from colbert-ir on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/colbert-ir/colbertv2.0",
+    "official_website": "https://huggingface.co/colbert-ir/colbertv2.0",
+    "tags": []
+  },
+  {
+    "id": "9a04a9be-3e41-4cf3-9a05-2959fb7b31a2",
+    "name": "CodeFlash AI",
+    "description": "Codeflash is an AI-powered performance optimizer for Python code that automatically identifies and improves slow or inefficient sections while maintaining original functionality. Using advanced large language models, Codeflash generates multiple optimization strategies for your functions and workflows, benchmarks the alternatives, and delivers verified solutions as merge-ready pull requests. The tool integrates seamlessly with GitHub repositories through a dedicated Action that continuously moni",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/codeflash-ai",
+    "official_website": "https://futuretools.link/codeflash-ai",
+    "tags": []
+  },
+  {
+    "id": "9aef8203-cff6-453a-9a08-8b3e59edff62",
+    "name": "Canva AI",
+    "description": "AI-powered design and visual communication",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "canvaai",
+    "official_website": "canvaai",
+    "tags": []
+  },
+  {
+    "id": "9aff82f4-f8b6-47aa-b513-71554945d2b0",
+    "name": "Century Tech",
+    "description": "AI learning platform for personalized education",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "centurytech",
+    "official_website": "centurytech",
+    "tags": []
+  },
+  {
+    "id": "9b2c7f09-1d39-498e-bcf1-e91168f6cb92",
+    "name": "ClickUp AI",
+    "description": "AI-powered project management and productivity",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "clickupai",
+    "official_website": "clickupai",
+    "tags": []
+  },
+  {
+    "id": "9c0a0792befb",
+    "name": "cubic",
+    "description": "Cursor for code review. cubic is an AI-powered code review platform that automatically reviews PRs and gives human reviewers superpowers. It's tool of choice for fast-moving teams like cal.com and n8n.",
+    "category": "AI Coding Agents, Code Review Tools",
+    "pricing": "Not Specified",
+    "url": "https://cubic.dev",
+    "official_website": "https://cubic.dev",
+    "tags": []
+  },
+  {
+    "id": "9c31bb08-9d6e-4f8a-8c92-4375d8fccbc3",
+    "name": "Chatsonic",
+    "description": "AI chatbot for content creation",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "chatsonic",
+    "official_website": "chatsonic",
+    "tags": []
+  },
+  {
+    "id": "9c789d6d4a55",
+    "name": "Chatbot-Connectors",
+    "description": "A Python library for connecting to various chatbot APIs with a unified interface",
+    "category": "Natural Language Processing",
+    "pricing": "Not Specified",
+    "url": "https://pypi.org/project/chatbot-connectors/",
+    "official_website": "https://pypi.org/project/chatbot-connectors/",
+    "tags": [
+      "Unified interface for connecting to various chatbot APIs",
+      "Handles session management and handshake protocols",
+      "Built-in Connectors for Botslovers, Metro Madrid, MillionBot, RASA, Taskyto",
+      "Custom YAML Connector for defining chatbot connections without coding",
+      "Supports multiple languages including Spanish and English"
+    ]
+  },
+  {
+    "id": "9c8cf2b1c2bf",
+    "name": "Chartio",
+    "description": "Visual data exploration platform with drag-and-drop interface and SQL-friendly approach. Offers collaboration features and is designed for growing startups and data-driven teams.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://chartio.com/",
+    "official_website": "https://chartio.com/",
+    "tags": [
+      "startup-friendly",
+      "drag-and-drop",
+      "visual-exploration",
+      "collaboration",
+      "sql-friendly"
+    ]
+  },
+  {
+    "id": "9ce1eac3-a103-4d5e-a4a1-b6ffe58bb98a",
+    "name": "Clearmind",
+    "description": "AI-powered tool for AI Education & Learning that helps users streamline workflows and enhance productivity.",
+    "category": "AI Education & Learning",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/clearmind",
+    "official_website": "https://topai.tools/t/clearmind",
+    "tags": []
+  },
+  {
+    "id": "9d235735-7964-4960-86d4-192d0ff64d0c",
+    "name": "Consensus",
+    "description": "AI research assistant focused on academic papers with search capabilities, evidence synthesis, research evaluation, and comprehensive literature review assistance.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://consensus.app",
+    "official_website": "https://consensus.app",
+    "tags": []
+  },
+  {
+    "id": "9d2f3f73-abd5-462b-8c1b-8a72841aa56a",
+    "name": "ContentBot",
+    "description": "AI content automation platform",
+    "category": "AI Content Creation",
+    "pricing": "Premium",
+    "url": "https://contentbot.ai",
+    "official_website": "https://contentbot.ai",
+    "tags": []
+  },
+  {
+    "id": "9db172d5ab64",
+    "name": "Cypress",
+    "description": "Modern web testing framework with AI-enhanced features for end-to-end testing, component testing, and interactive debugging.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.cypress.io/",
+    "official_website": "https://www.cypress.io/",
+    "tags": [
+      "javascript",
+      "component-testing",
+      "modern-framework",
+      "interactive-debugging",
+      "end-to-end",
+      "web-testing"
+    ]
+  },
+  {
+    "id": "9dbbd4b3beaf",
+    "name": "Chatsimple",
+    "description": "AI chatbot enhancing sales, support, and lead generation.",
+    "category": "Customer Support, Sales Assistant",
+    "pricing": "Active Deal",
+    "url": "https://www.chatsimple.ai/",
+    "official_website": "https://www.chatsimple.ai/",
+    "tags": []
+  },
+  {
+    "id": "9de03a43-f991-4919-bd63-f9d0b887580c",
+    "name": "Codespaces",
+    "description": "Cloud development environments",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://github.com",
+    "official_website": "https://github.com",
+    "tags": []
+  },
+  {
+    "id": "9e16870e-bf1a-4d82-abc5-84be247e9a23",
+    "name": "C-PLM",
+    "description": "Code language model",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://c-project.com",
+    "official_website": "https://c-project.com",
+    "tags": []
+  },
+  {
+    "id": "9ec88337-fd8a-4841-9b86-f5218d5d84ce",
+    "name": "CodeWP",
+    "description": "WordPress-specific AI code generator for PHP, JavaScript, and WordPress plugin development with built-in snippet library.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://codewp.ai/",
+    "official_website": "https://codewp.ai/",
+    "tags": []
+  },
+  {
+    "id": "a018932f-09f5-406f-b523-58fd9fedc757",
+    "name": "Claude by Anthropic",
+    "description": "A family of foundational AI models. We're an AI research company that builds reliable, interpretable, and steerable AI systems.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/claude",
+    "official_website": "https://www.producthunt.com/products/claude",
+    "tags": []
+  },
+  {
+    "id": "a02b9aec-5a9a-439f-8a6a-659498d044e0",
+    "name": "CureApp",
+    "description": "Digital therapeutics",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://cureapp.com",
+    "official_website": "https://cureapp.com",
+    "tags": []
+  },
+  {
+    "id": "a0f0cb01-0bc9-4795-a92e-1e2e72c63f37",
+    "name": "ContentKing",
+    "description": "AI SEO content monitoring and optimization",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "contentking",
+    "official_website": "contentking",
+    "tags": []
+  },
+  {
+    "id": "a10222f2-9693-4e70-b576-a91b355a9853",
+    "name": "Contentful AI",
+    "description": "Content platform with AI-powered content creation and management features. Features AI content generation, content optimization suggestions, automated tagging, and intelligent content workflows for enterprise content management.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.contentful.com/",
+    "official_website": "https://www.contentful.com/",
+    "tags": []
+  },
+  {
+    "id": "a17dbb5c48c1",
+    "name": "Code Llama",
+    "description": "Open-source large language models for code\u2014powering high-performance code generation and infilling.",
+    "category": "LLM, Code Generation",
+    "pricing": "Open Source",
+    "url": "https://llama.meta.com/",
+    "official_website": "https://llama.meta.com/",
+    "tags": []
+  },
+  {
+    "id": "a248dce5374b",
+    "name": "ChristosChristofidis/awesome-deep-learning",
+    "description": "A curated list of awesome Deep Learning resources",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+    "official_website": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+    "tags": []
+  },
+  {
+    "id": "a4148f9c-38ad-4610-ba08-168ac43fa50f",
+    "name": "Context.ai",
+    "description": "Context.ai is an enterprise-grade platform for building production-ready Retrieval-Augmented Generation (RAG) AI applications that leverage internal knowledge bases. This AI-powered solution provides end-to-end orchestration for document ingestion, retrieval, generation, and evaluation, allowing organizations to create accurate and auditable AI agents that can access and utilize proprietary information. With its innovative RAG 2.0 approach, Context.ai optimizes all pipeline components jointly to",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/context-ai",
+    "official_website": "https://futuretools.link/context-ai",
+    "tags": []
+  },
+  {
+    "id": "a5183a70-602f-4c95-9662-0e1bf986eb9c",
+    "name": "Cursor",
+    "description": "AI-powered IDE for faster coding",
+    "category": "Development",
+    "pricing": "Free + from $16/mo",
+    "url": "https://cursor.sh/",
+    "official_website": "https://cursor.sh/",
+    "tags": []
+  },
+  {
+    "id": "a55fb692-5836-4e0b-90f6-7820a584877e",
+    "name": "Caktus AI",
+    "description": "AI writing assistant for students",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "caktusai",
+    "official_website": "caktusai",
+    "tags": []
+  },
+  {
+    "id": "a567b5fa-b66a-400d-9579-d6f58fc876c0",
+    "name": "Clearscope",
+    "description": "AI tool for optimizing human-written content for SEO to rank fast and well. Provides keyword and readability suggestions from top SERPs with live content scoring, search intent matching, and Google Docs integration.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://clearscope.io/",
+    "official_website": "https://clearscope.io/",
+    "tags": []
+  },
+  {
+    "id": "a670a9f5f5ec",
+    "name": "codemerger",
+    "description": "Tool with UI for merging code, similar concept to aicp",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://github.com/codemerger/codemerger",
+    "official_website": "https://github.com/codemerger/codemerger",
+    "tags": []
+  },
+  {
+    "id": "a6be715e875d",
+    "name": "Continue VS Code",
+    "description": "Popular VS Code extension for Continue.dev providing open-source AI code assistance with support for local models and custom configurations.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue",
+    "official_website": "https://marketplace.visualstudio.com/items?itemName=Continue.continue",
+    "tags": [
+      "local-models",
+      "custom-configurations",
+      "ai-assistance",
+      "open-source",
+      "vs-code-extension",
+      "continue-dev"
+    ]
+  },
+  {
+    "id": "a6caf7c1f86f",
+    "name": "clearml-serving",
+    "description": "ClearML - Model-Serving Orchestration and Repository Solution",
+    "category": "MLOps and Deployment",
+    "pricing": "Not Specified",
+    "url": "https://clear.ml",
+    "official_website": "https://clear.ml",
+    "tags": [
+      "Customizable REST API with per-model pre/post-processing",
+      "Multi-model per container/service with auto-scaling capabilities",
+      "Easy model deployment and orchestration to Kubernetes clusters",
+      "Automatic deployment with model upgrades and canary support",
+      "Kubernetes Helm Chart deployment with Intel optimized containers",
+      "Nvidia Triton and TorchServe integration with prebuilt Docker containers",
+      "Flexible online model deployment with no service downtime",
+      "Model files download/caching from HTTP/S3/GS/Azure storage",
+      "Dynamic preprocess python code loading without container restart",
+      "Support for ML models (Scikit Learn, XGBoost, LightGBM) and DL models (TensorFlow, PyTorch, ONNX)",
+      "CPU & GPU support with automatic batching for deep learning models",
+      "Model monitoring with usage metrics and performance dashboards"
+    ]
+  },
+  {
+    "id": "a72d1275-10fe-4f93-b5ce-4791ea665637",
+    "name": "Chariot AI",
+    "description": "Described as the 'purest' AI website builder relying almost entirely on chatbot for site creation and editing. Creates websites through conversational prompts handling all editing tasks from text changes to image additions and cookie banner implementation.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://chariot.io/",
+    "official_website": "https://chariot.io/",
+    "tags": []
+  },
+  {
+    "id": "a8b3568d-63f5-4325-8a2d-ab04510f56c8",
+    "name": "Cursor AI",
+    "description": "Cursor AI is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Chatbots",
+    "pricing": "Free",
+    "url": "https://futuretools.link/cursor-ai",
+    "official_website": "https://futuretools.link/cursor-ai",
+    "tags": []
+  },
+  {
+    "id": "a8d1297b-aac1-43c4-8906-4cd63b21b321",
+    "name": "ChatGPT Atlas",
+    "description": "A Browser for MacOS that embeds ChatGPT for assistance, summaries, and automation",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/chatgpt-atlas",
+    "official_website": "https://www.futuretools.io/tools/chatgpt-atlas",
+    "tags": []
+  },
+  {
+    "id": "a900fc18dd47",
+    "name": "Chart AI",
+    "description": "AI tool that generates data visualizations based on raw data or natural language descriptions. Offers wide range of chart types from basic bar graphs to complex scatter plots with real-time data integration and customization options.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://chartai.com/",
+    "official_website": "https://chartai.com/",
+    "tags": [
+      "natural language",
+      "real-time data",
+      "analytics visualization",
+      "customization",
+      "chart generation",
+      "data visualization"
+    ]
+  },
+  {
+    "id": "a97fa19ae2c5",
+    "name": "Cartesia",
+    "description": "Considered the best choice for many applications, balancing low latency (~200ms), high quality, and relatively low cost. Also offers voice cloning.",
+    "category": "Voice AI Tools, Voice Cloning, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://cartesia.ai",
+    "official_website": "https://cartesia.ai",
+    "tags": []
+  },
+  {
+    "id": "aa04779d-18a0-4438-a398-98b4062128cd",
+    "name": "Cleanup.pictures",
+    "description": "AI photo editing and object removal",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "https://cleanup.pictures",
+    "official_website": "https://cleanup.pictures",
+    "tags": []
+  },
+  {
+    "id": "abd3d5fb-ed92-479b-b9d3-1069359c3785",
+    "name": "Command",
+    "description": "Advanced language model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "abecf7baac2b",
+    "name": "ChatGPT",
+    "description": "An LLM to get instant answers, find creative inspiration, and learn something new. Free to use. Easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming, and more.",
+    "category": "LLMs, AI Chatbots",
+    "pricing": "Not Specified",
+    "url": "https://chat.openai.com",
+    "official_website": "https://chat.openai.com",
+    "tags": []
+  },
+  {
+    "id": "abf81f06-9178-4b23-9fc7-e09ffe9ac06a",
+    "name": "Carbon Black AI",
+    "description": "VMware's AI-powered endpoint security",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "carbonblackai",
+    "official_website": "carbonblackai",
+    "tags": []
+  },
+  {
+    "id": "ac7d66ed61b2",
+    "name": "Claude Code",
+    "description": "Anthropic's deep-context AI coder. Anthropic's AI coding assistant, designed for deep context understanding and capable of handling complex software tasks with a massive context window (up to 200K tokens).",
+    "category": "AI Coding Agents, Command line tools, AI Code Editors, Foundation Models",
+    "pricing": "Not Specified",
+    "url": "https://claude.ai",
+    "official_website": "https://claude.ai",
+    "tags": []
+  },
+  {
+    "id": "ac967977-f9a0-4a36-90fe-3473e0835a56",
+    "name": "Check Point AI",
+    "description": "AI-enhanced cybersecurity platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "checkpointai",
+    "official_website": "checkpointai",
+    "tags": []
+  },
+  {
+    "id": "af26bbcb-a3c2-4daa-a72a-a5692c4091c2",
+    "name": "Chegg AI",
+    "description": "AI-powered study assistance platform",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "cheggai",
+    "official_website": "cheggai",
+    "tags": []
+  },
+  {
+    "id": "af32f503-3126-405c-bfd3-00b0301fd034",
+    "name": "Chart AI",
+    "description": "AI tool that generates data visualizations based on raw data or natural language descriptions. Offers wide range of chart types from basic bar graphs to complex scatter plots with real-time data integration and customization options.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://chartai.com/",
+    "official_website": "https://chartai.com/",
+    "tags": []
+  },
+  {
+    "id": "af9ec52b6577",
+    "name": "cupy/cupy",
+    "description": "Implementation of NumPy-compatible multi-dimensional array on CUDA",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/cupy/cupy",
+    "official_website": "https://github.com/cupy/cupy",
+    "tags": []
+  },
+  {
+    "id": "afbe8d58-5c87-4711-83dd-5e37e74dc8fc",
+    "name": "Contact Center AI",
+    "description": "AI solutions for customer service and contact center operations",
+    "category": "Cloud AI Services",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/solutions/contact-center-ai",
+    "official_website": "https://cloud.google.com/solutions/contact-center-ai",
+    "tags": []
+  },
+  {
+    "id": "afe60ee9-f3ca-40ed-a6f7-c0bee8bcf070",
+    "name": "Cloud Build AI",
+    "description": "Continuous integration and delivery with AI-powered features",
+    "category": "Specialized APIs",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/build",
+    "official_website": "https://cloud.google.com/build",
+    "tags": []
+  },
+  {
+    "id": "b1650115-6b1d-4332-93e3-24c4675698a1",
+    "name": "CodeGPT",
+    "description": "Multi-model AI coding agent platform supporting various LLMs and providing repository-wide context understanding with customizable agents.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://codegpt.co/",
+    "official_website": "https://codegpt.co/",
+    "tags": []
+  },
+  {
+    "id": "b37fe899-8283-4fdb-9b02-a829389a1497",
+    "name": "Constant Contact AI",
+    "description": "AI email marketing and automation",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "constantcontactai",
+    "official_website": "constantcontactai",
+    "tags": []
+  },
+  {
+    "id": "b39ac48c-c4ab-49c7-85c8-182b27eef754",
+    "name": "Chroma",
+    "description": "Open-source search and retrieval database for AI applications. The fastest way to build Python or JavaScript LLM apps with memory.",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://www.trychroma.com/",
+    "official_website": "https://www.trychroma.com/",
+    "tags": []
+  },
+  {
+    "id": "b4629870-3dee-4c10-8ff3-f3d5b7ac619c",
+    "name": "csm-1b",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/sesame/csm-1b",
+    "official_website": "https://huggingface.co/sesame/csm-1b",
+    "tags": []
+  },
+  {
+    "id": "b4d5cf4a-98a5-4d1f-ac53-543af5375560",
+    "name": "ChatBot.com",
+    "description": "Best AI chatbot software for websites using AI-generated responses for instant 24/7 customer support",
+    "category": "Customer Service",
+    "pricing": "Freemium",
+    "url": "https://www.chatbot.com",
+    "official_website": "https://www.chatbot.com",
+    "tags": []
+  },
+  {
+    "id": "b5084d2d-def6-46c7-a8ea-12cb5285f0f4",
+    "name": "convnext_large.fb_in22k_ft_in1k",
+    "description": "AI model convnext_large.fb_in22k_ft_in1k from timm on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/timm/convnext_large.fb_in22k_ft_in1k",
+    "official_website": "https://huggingface.co/timm/convnext_large.fb_in22k_ft_in1k",
+    "tags": []
+  },
+  {
+    "id": "b5250e41-90fa-43db-a318-4771f1bd9364",
+    "name": "Chorus.ai",
+    "description": "AI conversation analytics for sales",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "https://chorus.ai",
+    "official_website": "https://chorus.ai",
+    "tags": []
+  },
+  {
+    "id": "b59bef5a-09f0-4598-b541-b3795009614d",
+    "name": "Cavya AI",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cavya-ai",
+    "official_website": "https://futuretools.link/cavya-ai",
+    "tags": []
+  },
+  {
+    "id": "b5a9e764f54a",
+    "name": "Codeium",
+    "description": "Free AI coding assistant offering unlimited completions for over 70 programming languages, with advanced AI chat and code search capabilities.",
+    "category": "Coding",
+    "pricing": "Free",
+    "url": "https://codeium.com/",
+    "official_website": "https://codeium.com/",
+    "tags": [
+      "ai-chat",
+      "free",
+      "multi-language",
+      "vs-code",
+      "code-search",
+      "code-completion"
+    ]
+  },
+  {
+    "id": "b5d74e5025ed",
+    "name": "Cohere AWS",
+    "description": "Cohere Python SDK (AWS SageMaker & Bedrock) - simplifies interfacing with Cohere models via AWS services",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://docs.cohere.com/docs/cohere-works-everywhere",
+    "official_website": "https://docs.cohere.com/docs/cohere-works-everywhere",
+    "tags": [
+      "Allows overriding AWS region configuration",
+      "Includes Jupyter notebooks for quick start and examples",
+      "Supports Python versions >=3.9",
+      "Transitioning towards deprecation in favor of core Cohere SDKs",
+      "Simplifies interfacing with Cohere models via AWS Bedrock",
+      "Simplifies interfacing with Cohere models via AWS SageMaker Marketplace"
+    ]
+  },
+  {
+    "id": "b60e0651-8622-417d-aa4c-5ee2b84cd9ba",
+    "name": "chatglm-6b",
+    "description": "UpdatedAug 4, 2024",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/zai-org/chatglm-6b",
+    "official_website": "https://huggingface.co/zai-org/chatglm-6b",
+    "tags": []
+  },
+  {
+    "id": "b61b179c-2610-436c-a582-67fe25f6d2d8",
+    "name": "Command R",
+    "description": "Latest Command model for production",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "b6fb5a13-235e-484c-8720-b89a48fe365a",
+    "name": "Cursor",
+    "description": "AI-first code editor",
+    "category": "AI Code Assistant",
+    "pricing": "Freemium",
+    "url": "https://cursor.sh",
+    "official_website": "https://cursor.sh",
+    "tags": []
+  },
+  {
+    "id": "b761b469-68c9-4f42-b7aa-0cb3c0f0193d",
+    "name": "Cylance",
+    "description": "AI-based endpoint security platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "cylance",
+    "official_website": "cylance",
+    "tags": []
+  },
+  {
+    "id": "b7c06074f0f8",
+    "name": "CodeGPT",
+    "description": "Multi-model AI coding agent platform supporting various LLMs and providing repository-wide context understanding with customizable agents.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://codegpt.co/",
+    "official_website": "https://codegpt.co/",
+    "tags": [
+      "agent-platform",
+      "repository-context",
+      "customizable-agents",
+      "multi-model",
+      "llm-support",
+      "vs-code"
+    ]
+  },
+  {
+    "id": "b7fb02157fc0",
+    "name": "CodeT5",
+    "description": "AI code generation and completion",
+    "category": "Code Assistant",
+    "pricing": "Not Specified",
+    "url": "https://github.com/salesforce/CodeT5",
+    "official_website": "https://github.com/salesforce/CodeT5",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "b84de786-cca4-453c-a888-6bec88ab4e64",
+    "name": "CNTK",
+    "description": "Computational network toolkit",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "b8750f350aff",
+    "name": "Cambridge AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.cambridge.edu",
+    "official_website": "https://ai.cambridge.edu",
+    "tags": []
+  },
+  {
+    "id": "bbd5cb4db733",
+    "name": "CodeWhisperer",
+    "description": "Amazon's AI-powered code companion that provides real-time code suggestions, security scanning, and reference tracking for better coding practices.",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "url": "https://aws.amazon.com/codewhisperer/",
+    "official_website": "https://aws.amazon.com/codewhisperer/",
+    "tags": [
+      "aws",
+      "security-scanning",
+      "amazon",
+      "reference-tracking",
+      "coding-practices",
+      "real-time-suggestions"
+    ]
+  },
+  {
+    "id": "bbd73932-2bd4-4727-8ae1-5c2283f1ff57",
+    "name": "Caesr AI",
+    "description": "AI productivity tool",
+    "category": "Artificial Intelligence, Productivity, SaaS",
+    "pricing": "Unknown",
+    "url": "https://caesr.ai",
+    "official_website": "https://caesr.ai",
+    "tags": []
+  },
+  {
+    "id": "bbdb4ffb7df8",
+    "name": "contriever",
+    "description": "AI model contriever from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/contriever",
+    "official_website": "https://huggingface.co/facebook/contriever",
+    "tags": []
+  },
+  {
+    "id": "bc3f4f81-ced7-4be5-a300-801f92fb71df",
+    "name": "Covariant AI",
+    "description": "Robotics computer vision",
+    "category": "Computer Vision & Image",
+    "pricing": "Freemium",
+    "url": "https://covariant.com",
+    "official_website": "https://covariant.com",
+    "tags": []
+  },
+  {
+    "id": "bc7f1627-5418-4ce4-b270-0a4d4277451b",
+    "name": "ChatGPT Atlas",
+    "description": "AI tool by OpenAI",
+    "category": "Artificial Intelligence",
+    "pricing": "Unknown",
+    "url": "https://chat.openai.com",
+    "official_website": "https://chat.openai.com",
+    "tags": []
+  },
+  {
+    "id": "bd84796e-33ba-4502-9e10-5ba972229804",
+    "name": "CoreLogic AI",
+    "description": "Property intelligence",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://corelogic.com",
+    "official_website": "https://corelogic.com",
+    "tags": []
+  },
+  {
+    "id": "bdc73cc8-28e9-439f-83b0-e874d721dd22",
+    "name": "Claude Code",
+    "description": "Anthropic's deep-context AI coder. Anthropic's AI coding assistant, designed for deep context understanding and capable of handling complex software tasks with a massive context window (up to 200K tokens).",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/claude-code",
+    "official_website": "https://www.producthunt.com/products/claude-code",
+    "tags": []
+  },
+  {
+    "id": "bdd7002f-a754-4931-b7c1-d2c9ec7ea6ce",
+    "name": "Canva AI",
+    "description": "AI design tools in Canva",
+    "category": "AI Design",
+    "pricing": "Freemium",
+    "url": "https://canva.com",
+    "official_website": "https://canva.com",
+    "tags": []
+  },
+  {
+    "id": "be48f5fc-778f-4917-aad6-3fa57497431f",
+    "name": "ChatCoach",
+    "description": "AI-powered tool for AI Chat & Assistants that helps users streamline workflows and enhance productivity.",
+    "category": "AI Chat & Assistants",
+    "pricing": "Not specified",
+    "url": "https://topai.tools/t/chatcoach",
+    "official_website": "https://topai.tools/t/chatcoach",
+    "tags": []
+  },
+  {
+    "id": "bf5bb455-aa41-496b-9669-ffa62c9d36b4",
+    "name": "ChatGPT",
+    "description": "ChatGPT is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://futuretools.link/chatgpt",
+    "official_website": "https://futuretools.link/chatgpt",
+    "tags": []
+  },
+  {
+    "id": "bf6528671df2",
+    "name": "Claude",
+    "description": "AI-powered assistant for research and academic applications",
+    "category": "AI Assistant",
+    "pricing": "Commercial",
+    "url": "https://claude.com",
+    "official_website": "https://claude.com",
+    "tags": []
+  },
+  {
+    "id": "bf6cae98-de43-4fa0-8270-4e9baca6c2fe",
+    "name": "Chai",
+    "description": "AI-powered conversational ai solution",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.chai.com",
+    "official_website": "https://www.chai.com",
+    "tags": []
+  },
+  {
+    "id": "bfa010ce-07e8-4794-9e31-814a0404b655",
+    "name": "CodeT5",
+    "description": "Salesforce's AI code generation model",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "codet5",
+    "official_website": "codet5",
+    "tags": []
+  },
+  {
+    "id": "bfccd96a4b04",
+    "name": "Cartesia Sonic",
+    "description": "Sonic is the fastest human-like voice API.",
+    "category": "Podcasting, AI Voice Agents, Text-to-Speech Software",
+    "pricing": "Not Specified",
+    "url": "https://cartesia.ai",
+    "official_website": "https://cartesia.ai",
+    "tags": []
+  },
+  {
+    "id": "c0961ada-a0f2-4d36-acbf-2fd0d4f9cbcb",
+    "name": "Cerebrium",
+    "description": "A serverless GPU platform built and run by experienced ML engineers, powering large AI workloads and offering expertise for building new, fast-running solutions on A100 clusters.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/cerebrium",
+    "official_website": "https://www.producthunt.com/products/cerebrium",
+    "tags": []
+  },
+  {
+    "id": "c185784007c1",
+    "name": "Caesr AI",
+    "description": "AI productivity tool",
+    "category": "Artificial Intelligence, Productivity, SaaS",
+    "pricing": "Not Specified",
+    "url": "https://caesr.ai",
+    "official_website": "https://caesr.ai",
+    "tags": []
+  },
+  {
+    "id": "c18ad7ec-34e7-411b-b4e9-179be3b0ee65",
+    "name": "Cascadeur",
+    "description": "AI-assisted animation tool for creating realistic character animations in 3D games",
+    "category": "Gaming",
+    "pricing": "Freemium",
+    "url": "https://cascadeur.com",
+    "official_website": "https://cascadeur.com",
+    "tags": []
+  },
+  {
+    "id": "c1e88c73b045",
+    "name": "Curated List of AI Tools",
+    "description": "Over 140 AI tools with 44 different categories for AI business creators",
+    "category": "AI notetakers, AI Presentation Software, AI Code Editors, AI Code Testing, AI Coding Agents, AI Databases, Predictive AI, AI Characters, AI Generative Media",
+    "pricing": "Not Specified",
+    "url": "https://searchingineer.gumroad.com/l/curated-list-of-ai-tools",
+    "official_website": "https://searchingineer.gumroad.com/l/curated-list-of-ai-tools",
+    "tags": []
+  },
+  {
+    "id": "c247fe1632fe",
+    "name": "ChatPDF",
+    "description": "Chat with any PDF",
+    "category": "Text Chatbots",
+    "pricing": "Not Specified",
+    "url": "https://www.chatpdf.com/",
+    "official_website": "https://www.chatpdf.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "c32c8dff8fc4",
+    "name": "cmawer/reproducible-model",
+    "description": "Reproducible ML - Best practices for reproducible ML models",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/cmawer/reproducible-model",
+    "official_website": "https://github.com/cmawer/reproducible-model",
+    "tags": []
+  },
+  {
+    "id": "c4642e0c62e8",
+    "name": "clap-htsat-fused",
+    "description": "AI model clap-htsat-fused from laion on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/laion/clap-htsat-fused",
+    "official_website": "https://huggingface.co/laion/clap-htsat-fused",
+    "tags": []
+  },
+  {
+    "id": "c473925d0425",
+    "name": "ChatSonic",
+    "description": "AI-powered assistant for text and image creation",
+    "category": "Text Chatbots",
+    "pricing": "Not Specified",
+    "url": "https://writesonic.com/chat",
+    "official_website": "https://writesonic.com/chat",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "c47bef05-f669-4b7e-8836-6f162cbde709",
+    "name": "Copysmith",
+    "description": "AI-powered content creation tool that leverages AI to create content particularly for eCommerce products. Writes in-depth product descriptions based on user-defined criteria with keywords, tone of voice, and use case considerations.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://copysmith.ai/",
+    "official_website": "https://copysmith.ai/",
+    "tags": []
+  },
+  {
+    "id": "c535cadd8b39",
+    "name": "Cline",
+    "description": "AI coding agent for VS Code that's excellent at following instructions",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://github.com/cline/cline",
+    "official_website": "https://github.com/cline/cline",
+    "tags": []
+  },
+  {
+    "id": "c5c25a09-475f-45d2-8bde-72ab6226602e",
+    "name": "Clearscope",
+    "description": "AI content optimization for SEO",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "clearscope",
+    "official_website": "clearscope",
+    "tags": []
+  },
+  {
+    "id": "c5fd1cd390be",
+    "name": "Continue.dev",
+    "description": "Open-source AI code assistant providing completions, explanations, and custom agents with support for local models and VS Code/JetBrains integration.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "url": "https://continue.dev/",
+    "official_website": "https://continue.dev/",
+    "tags": [
+      "local-models",
+      "custom-agents",
+      "jetbrains",
+      "open-source",
+      "ai-assistant",
+      "vs-code"
+    ]
+  },
+  {
+    "id": "c642e3a2-6ba5-4fae-bb35-7a24d7b2bc38",
+    "name": "Codeium",
+    "description": "Free AI code acceleration",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://codeium.com",
+    "official_website": "https://codeium.com",
+    "tags": []
+  },
+  {
+    "id": "c786e1e7-01bd-48f5-bef9-f8731357d635",
+    "name": "CatBoost",
+    "description": "Gradient boosting framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://yandex.com",
+    "official_website": "https://yandex.com",
+    "tags": []
+  },
+  {
+    "id": "c922adea-7d38-4ebc-9674-5cb300c8e0da",
+    "name": "Claude 3.5 Sonnet",
+    "description": "Balanced performance and capability",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "c937a99b-9e7b-472c-b757-f4c01d666dd0",
+    "name": "CodeWhisperer",
+    "description": "Amazon's AI-powered code companion that provides real-time code suggestions, security scanning, and reference tracking for better coding practices.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://aws.amazon.com/codewhisperer/",
+    "official_website": "https://aws.amazon.com/codewhisperer/",
+    "tags": []
+  },
+  {
+    "id": "caf3eb01-257f-4a7c-9630-0299a42568ba",
+    "name": "Content Maxima",
+    "description": "Content Maxima is an AI-powered content creation suite that streamlines the entire production process from initial analysis to final generation. This comprehensive tool leverages artificial intelligence to produce SEO-friendly, omnichannel-optimized content without the typical guesswork involved in digital marketing. Content Maxima's AI algorithms analyze market trends and optimization opportunities to help users create impactful content that stands out online while ensuring it ranks well in sea",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/contentmaxima-com",
+    "official_website": "https://futuretools.link/contentmaxima-com",
+    "tags": []
+  },
+  {
+    "id": "cb92b532-c679-4567-8093-210e26bdf29f",
+    "name": "Cloudflare Images",
+    "description": "Image storage and processing",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://cloudflare.com",
+    "official_website": "https://cloudflare.com",
+    "tags": []
+  },
+  {
+    "id": "ccd511c1-7ae5-486f-b637-c233d2b2c8b7",
+    "name": "ConvBERT Base",
+    "description": "Convolution-enhanced BERT",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "cd876e567715",
+    "name": "CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "description": "AI model CLIP-ViT-L-14-laion2B-d32_75f8e6 from laion on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "official_website": "https://huggingface.co/laion/CLIP-ViT-L-14-laion2B-d32_75f8e6",
+    "tags": []
+  },
+  {
+    "id": "ce0e5644-a19a-4ee3-b7ef-a94424e7a4ca",
+    "name": "CodeLlama-7b-Instruct-hf",
+    "description": "AI model CodeLlama-7b-Instruct-hf from codellama on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf",
+    "official_website": "https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf",
+    "tags": []
+  },
+  {
+    "id": "cedba30f-f15b-4ef8-971c-039e87f8e666",
+    "name": "Cloudflare R2",
+    "description": "Object storage",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://cloudflare.com",
+    "official_website": "https://cloudflare.com",
+    "tags": []
+  },
+  {
+    "id": "d03064ce-825a-4b5e-a559-0dbdee48a8d4",
+    "name": "Cursor",
+    "description": "AI-powered code editor built on VS Code that offers natural language editing, multi-step refactoring, and background autonomous agents for advanced AI-assisted development.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://cursor.com/",
+    "official_website": "https://cursor.com/",
+    "tags": []
+  },
+  {
+    "id": "d2484a18-8ec7-4e77-b867-267008bb961a",
+    "name": "Copy.ai",
+    "description": "Over 1 million people use our ai copywriting tools to help them write social media posts, website content, and blog posts in seconds.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/copy-ai",
+    "official_website": "https://www.producthunt.com/products/copy-ai",
+    "tags": []
+  },
+  {
+    "id": "d351f232e219",
+    "name": "Cursor",
+    "description": "AI-powered code editor built for pair-programming with advanced AI features",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://cursor.sh",
+    "official_website": "https://cursor.sh",
+    "tags": []
+  },
+  {
+    "id": "d352e389-2bd8-4201-93a2-3bd3789dcf2d",
+    "name": "ClinicalBERT",
+    "description": "Clinical text model",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "d3532353-a806-4c14-a0d5-88ba065044c7",
+    "name": "Cline",
+    "description": "Local-first coding agent for VS Code that acts as a task-based assistant with plan-and-act workflow, file/terminal control, and snapshot checkpoints.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://github.com/cline/cline",
+    "official_website": "https://github.com/cline/cline",
+    "tags": []
+  },
+  {
+    "id": "d444cff9-d940-41d9-a3f8-230a000c90c6",
+    "name": "Chegg AI",
+    "description": "AI-powered education solution",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.cheggai.com",
+    "official_website": "https://www.cheggai.com",
+    "tags": []
+  },
+  {
+    "id": "d5962eaa-2b88-4bf6-b967-4e325e1a31d7",
+    "name": "CursorClip",
+    "description": "CursorClip is a lightweight macOS screen recording tool that automatically adds smart zooms to follow your cursor, creating engaging product demos and tutorials without manual video editing. It allows users to record both screen and webcam simultaneously, customize video backgrounds, and export optimized recordings that work fully offline. Designed for simplicity and performance, CursorClip helps creators make polished, professional videos quickly, ideal for businesses, educators, and product te",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cursorclip-com",
+    "official_website": "https://futuretools.link/cursorclip-com",
+    "tags": []
+  },
+  {
+    "id": "d65017f578af",
+    "name": "Canva",
+    "description": "AI-powered graphic design tool with Magic Studio for presentations, logos, and banners.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://www.canva.com/",
+    "official_website": "https://www.canva.com/",
+    "tags": [
+      "graphics",
+      "design"
+    ]
+  },
+  {
+    "id": "d70f3ef9-ff1e-4fc9-8861-85c23742bf9e",
+    "name": "Claude 1.3",
+    "description": "Earlier Claude model with strong capabilities",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "d7f027d8-6ed7-4eea-a68d-40662d4f75b8",
+    "name": "Claude 2",
+    "description": "Second generation Claude model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "db1b65d5-5b8e-4585-8b27-2405cecf7a8c",
+    "name": "Craiyon",
+    "description": "AI-powered image generation solution",
+    "category": "AI Image Generation",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.craiyon.com",
+    "official_website": "https://www.craiyon.com",
+    "tags": []
+  },
+  {
+    "id": "db3a429a6659",
+    "name": "Codestral",
+    "description": "Empowering developers and democratizing code generation with an open-weight AI model.",
+    "category": "LLM, Code Generation",
+    "pricing": "Open Source",
+    "url": "https://codestral.ai",
+    "official_website": "https://codestral.ai",
+    "tags": []
+  },
+  {
+    "id": "dc05bc15129d",
+    "name": "csm-1b",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/sesame/csm-1b",
+    "official_website": "https://huggingface.co/sesame/csm-1b",
+    "tags": []
+  },
+  {
+    "id": "dc7af732-9832-4c1c-99b4-187f5f2ae5bb",
+    "name": "Coursera",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://coursera.com",
+    "official_website": "https://coursera.com",
+    "tags": []
+  },
+  {
+    "id": "dc7d7a79-db2b-4959-a001-050634c2cdeb",
+    "name": "Cliptalk",
+    "description": "Cliptalk rapidly converts scripts into publish-ready videos, automating edits, captions, and B-roll, perfect for social media",
+    "category": "Video Generation",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/cliptalk",
+    "official_website": "https://link.aitoolsdirectory.com/cliptalk",
+    "tags": []
+  },
+  {
+    "id": "dca9a5ad-e499-439f-bebc-e6fb2e69c3a5",
+    "name": "CodeBERT",
+    "description": "Code representation learning",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "ddc58e0c898d",
+    "name": "C2S-Scale-Gemma-2-27B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B",
+    "official_website": "https://huggingface.co/vandijklab/C2S-Scale-Gemma-2-27B",
+    "tags": []
+  },
+  {
+    "id": "ddfd7b07-e5c3-4956-9776-855edf5c9d50",
+    "name": "Chroma",
+    "description": "AI-native vector database",
+    "category": "Search & Recommendations",
+    "pricing": "Freemium",
+    "url": "https://chroma.com",
+    "official_website": "https://chroma.com",
+    "tags": []
+  },
+  {
+    "id": "df39ca41-92b0-46bd-86cf-030f1cd67807",
+    "name": "CodePen",
+    "description": "Online code editor",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://codepen.com",
+    "official_website": "https://codepen.com",
+    "tags": []
+  },
+  {
+    "id": "e043513d-5e9b-4dc1-a204-669981a38f92",
+    "name": "Climate AI",
+    "description": "Agricultural AI platform",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://climatecorporation.com",
+    "official_website": "https://climatecorporation.com",
+    "tags": []
+  },
+  {
+    "id": "e0923204-923c-4d4e-a0dc-e6c7e2d2694f",
+    "name": "Command R+",
+    "description": "Most capable Cohere model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "e1b293960562",
+    "name": "CodeGeeX",
+    "description": "Practical AI coding assistant for code generation, translation between programming languages, and built-in AI chatbot functionality.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://codegeex.cn/",
+    "official_website": "https://codegeex.cn/",
+    "tags": [
+      "ai-chatbot",
+      "code-generation",
+      "jetbrains",
+      "language-translation",
+      "cross-language",
+      "vs-code"
+    ]
+  },
+  {
+    "id": "e20919903ac9",
+    "name": "Clicky",
+    "description": "Real-time web analytics platform enabling website owners to monitor and respond to visitor interactions as they occur. Features real-time analytics, heatmaps, uptime monitoring, on-site analytics, and privacy compliance with cookie-free tracking option.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://clicky.com/",
+    "official_website": "https://clicky.com/",
+    "tags": [
+      "cookie-free tracking",
+      "privacy compliance",
+      "uptime monitoring",
+      "on-site analytics",
+      "heatmaps",
+      "real-time analytics"
+    ]
+  },
+  {
+    "id": "e22e6a4dd860",
+    "name": "Chroma",
+    "description": "Open-source search and retrieval database for AI applications. The fastest way to build Python or JavaScript LLM apps with memory.",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://www.trychroma.com/",
+    "official_website": "https://www.trychroma.com/",
+    "tags": [
+      "Core API with 4 functions (add, query, get, delete)",
+      "Supports Sentence Transformers, OpenAI, Cohere embeddings",
+      "Open-source embedding database for LLM applications",
+      "Free & Open Source with Apache 2.0 License",
+      "Query filtering by metadata and document content",
+      "Integrations with LangChain (Python and JS) and LlamaIndex",
+      "Supports persistence and automatic tokenization, embedding, indexing",
+      "Chroma Cloud for serverless vector and full-text search",
+      "Consistent API from local notebooks to clusters"
+    ]
+  },
+  {
+    "id": "e265bf84-5e8c-4b13-b7c9-82676658313f",
+    "name": "Cloud Spanner AI",
+    "description": "Globally distributed database with AI-powered features",
+    "category": "Specialized APIs",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/spanner",
+    "official_website": "https://cloud.google.com/spanner",
+    "tags": []
+  },
+  {
+    "id": "e2fe7326-d4d9-4dae-bcd3-d91a0d8ae78b",
+    "name": "CrowdStrike Falcon",
+    "description": "AI-powered endpoint protection platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "crowdstrikefalcon",
+    "official_website": "crowdstrikefalcon",
+    "tags": []
+  },
+  {
+    "id": "e3ca20fe-3979-4980-b759-d01885328468",
+    "name": "Chronicle Security Operations",
+    "description": "Cloud-native security analytics and automation platform",
+    "category": "Security & Infrastructure",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/chronicle",
+    "official_website": "https://cloud.google.com/chronicle",
+    "tags": []
+  },
+  {
+    "id": "e3efc8e6-d3f9-4e27-b504-d3bdd28c9d58",
+    "name": "Cambridge AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.cambridge.edu",
+    "official_website": "https://ai.cambridge.edu",
+    "tags": []
+  },
+  {
+    "id": "e418c7b7-eb8a-449f-89f7-e2544de23b29",
+    "name": "Cloudflare Workers",
+    "description": "Serverless computing",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://cloudflare.com",
+    "official_website": "https://cloudflare.com",
+    "tags": []
+  },
+  {
+    "id": "e61319be-399a-4ec4-9836-bb1e75ed6047",
+    "name": "Cartesia",
+    "description": "Considered the best choice for many applications, balancing low latency (~200ms), high quality, and relatively low cost. Also offers voice cloning.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/cartesia",
+    "official_website": "https://www.producthunt.com/products/cartesia",
+    "tags": []
+  },
+  {
+    "id": "e66fb8fb-54d5-4689-8a01-bbc08237846c",
+    "name": "CoSchedule AI",
+    "description": "AI content marketing and social media",
+    "category": "AI Social Media",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "coscheduleai",
+    "official_website": "coscheduleai",
+    "tags": []
+  },
+  {
+    "id": "e6eae893de7e",
+    "name": "convnext-base-224",
+    "description": "ConvNeXt base model - modernized CNN architecture competitive with transformers.",
+    "category": "Computer Vision",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/convnext-base-224",
+    "official_website": "https://huggingface.co/facebook/convnext-base-224",
+    "tags": [
+      "pytorch",
+      "convnext",
+      "image-classification",
+      "computer-vision"
+    ]
+  },
+  {
+    "id": "e86b8af8eb1c",
+    "name": "Claude",
+    "description": "LLM for writing and editing, most-used S-tier tool.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://claude.ai/",
+    "official_website": "https://claude.ai/",
+    "tags": [
+      "editing",
+      "writing"
+    ]
+  },
+  {
+    "id": "ea494de3-2911-44e9-adbb-01251936880a",
+    "name": "Chat Prompt Genius",
+    "description": "Revolutionize AI interactions with customizable, industry-spanning prompt generation.",
+    "category": "Prompt Generators",
+    "pricing": "Unknown",
+    "url": "https://chatpromptgenius.com/",
+    "official_website": "https://chatpromptgenius.com/",
+    "tags": []
+  },
+  {
+    "id": "ea9396b3-b834-4294-9223-7ea1d5b97404",
+    "name": "Claude 3.5 Sonnet",
+    "description": "An excellent model which performs extremely well across a wide range of use cases. Many believe it has caught up to OpenAI in flagship model capabilities.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/claude-3-5-sonnet",
+    "official_website": "https://www.producthunt.com/products/claude-3-5-sonnet",
+    "tags": []
+  },
+  {
+    "id": "eade44bb-c5c5-4af0-b005-d6b9e1e10f32",
+    "name": "Cloud Security Command Center",
+    "description": "Security analytics platform for Google Cloud environments",
+    "category": "Security & Infrastructure",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/security-command-center",
+    "official_website": "https://cloud.google.com/security-command-center",
+    "tags": []
+  },
+  {
+    "id": "eafc5584-e29c-4bf2-93ca-c54caf65ea7d",
+    "name": "Coursera AI",
+    "description": "AI-enhanced online course platform",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "courseraai",
+    "official_website": "courseraai",
+    "tags": []
+  },
+  {
+    "id": "eb5011d02e12",
+    "name": "clip-vit-large-patch14-336",
+    "description": "AI model clip-vit-large-patch14-336 from openai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/clip-vit-large-patch14-336",
+    "official_website": "https://huggingface.co/openai/clip-vit-large-patch14-336",
+    "tags": []
+  },
+  {
+    "id": "ec305ea9-e77b-4be8-bf37-3cf42d03d0b6",
+    "name": "Codecademy AI",
+    "description": "AI-enhanced coding education platform",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "codecademyai",
+    "official_website": "codecademyai",
+    "tags": []
+  },
+  {
+    "id": "ec524891be51",
+    "name": "Coderbot Educational Chatbot",
+    "description": "Aplica\u00e7\u00e3o especializada em um chatbot educacional para o ensino de programa\u00e7\u00e3o. A modern educational chatbot for teaching programming.",
+    "category": "Natural Language Processing",
+    "pricing": "Not Specified",
+    "url": "https://github.com/Chatbot-educacional/Coderbot",
+    "official_website": "https://github.com/Chatbot-educacional/Coderbot",
+    "tags": [
+      "Suporte a m\u00faltiplas linguagens de programa\u00e7\u00e3o (Multiple programming language support)",
+      "Sele\u00e7\u00e3o de Turmas, Quadro de Atividades, Sistema de Anota\u00e7\u00f5es",
+      "Exerc\u00edcios pr\u00e1ticos e desafios (Practical exercises and challenges)",
+      "Dashboard Principal, Chat Educacional, Sistema de Autentica\u00e7\u00e3o",
+      "Tutoria personalizada em programa\u00e7\u00e3o (Personalized programming tutoring)",
+      "Feedback em tempo real (Real-time feedback)",
+      "Aprendizado colaborativo (Collaborative learning)"
+    ]
+  },
+  {
+    "id": "ec77e68955fe",
+    "name": "CapCut",
+    "description": "AI video editing platform with viral templates and comprehensive editing tools.",
+    "category": "Video Editing",
+    "pricing": "Freemium",
+    "url": "https://www.capcut.com/",
+    "official_website": "https://www.capcut.com/",
+    "tags": [
+      "editing",
+      "video"
+    ]
+  },
+  {
+    "id": "ecafd7177a09",
+    "name": "Crossplag",
+    "description": "Crossplag is an AI-powered tool that instantly identifies plagiarism across multiple languages, enabling seamless collaboration and content integrity assurance.",
+    "category": "Education & Learning, Plagiarism Detection",
+    "pricing": "Not specified",
+    "url": "https://crossplag.ai",
+    "official_website": "https://crossplag.ai",
+    "tags": []
+  },
+  {
+    "id": "ecf18d12-c626-43e3-8cf5-e673d70c0945",
+    "name": "Clarifai Moderation",
+    "description": "Visual content moderation",
+    "category": "Content Moderation",
+    "pricing": "Freemium",
+    "url": "https://clarifai.com",
+    "official_website": "https://clarifai.com",
+    "tags": []
+  },
+  {
+    "id": "ed3e6032-45a2-4ca5-a8bc-8f2b38174993",
+    "name": "Chatbot-Connectors",
+    "description": "A Python library for connecting to various chatbot APIs with a unified interface",
+    "category": "Natural Language Processing",
+    "pricing": "Unknown",
+    "url": "https://pypi.org/project/chatbot-connectors/",
+    "official_website": "https://pypi.org/project/chatbot-connectors/",
+    "tags": []
+  },
+  {
+    "id": "edce52cd-5419-4a23-bad8-9196d8b0714b",
+    "name": "Constitutional AI",
+    "description": "Framework for AI safety",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://anthropic.com",
+    "official_website": "https://anthropic.com",
+    "tags": []
+  },
+  {
+    "id": "edeae7b3-bcff-4879-a8a8-f5ed8abffef1",
+    "name": "Continue.dev",
+    "description": "Open-source AI code assistant providing completions, explanations, and custom agents with support for local models and VS Code/JetBrains integration.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://continue.dev/",
+    "official_website": "https://continue.dev/",
+    "tags": []
+  },
+  {
+    "id": "ee299bc8ac39",
+    "name": "Creatopy",
+    "description": "Automates ad creation using AI. It helps brands and agencies create, customize, and automate adverts and visual content production",
+    "category": "AI Ad Creation",
+    "pricing": "Not Specified",
+    "url": "https://creatopy.com/",
+    "official_website": "https://creatopy.com/",
+    "tags": [
+      "Transforms one asset into thousands of variations and sizes",
+      "Automates ad creation using AI"
+    ]
+  },
+  {
+    "id": "eeefa31a-95dd-4d0b-ae4d-c2334f4856f5",
+    "name": "Cellect",
+    "description": "Cellect is an AI-powered tool designed to automate and simplify spreadsheet tasks by using artificial intelligence to handle data cleanup extraction and analysis making it ideal for business analysts data scientists finance professionals and anyone who works extensively with spreadsheet data the AI agent at the heart of Cellect eliminates the need for complex formulas or manual data processing allowing users to streamline repetitive or intricate operations improve accuracy by minimizing human er",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cellect-ai",
+    "official_website": "https://futuretools.link/cellect-ai",
+    "tags": []
+  },
+  {
+    "id": "ef587167bbfb",
+    "name": "Cursor",
+    "description": "AI-enhanced coding tool for non-technical users.",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "url": "https://cursor.sh/",
+    "official_website": "https://cursor.sh/",
+    "tags": [
+      "development",
+      "coding"
+    ]
+  },
+  {
+    "id": "f0eb2ae2-cecc-4983-86bb-63864563844d",
+    "name": "Crisp AI",
+    "description": "AI-powered customer support platform",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "crispai",
+    "official_website": "crispai",
+    "tags": []
+  },
+  {
+    "id": "f130d287-b240-4246-bcc7-7f7c7c1a2394",
+    "name": "Curated List of AI Tools",
+    "description": "Over 140 AI tools with 44 different categories for AI business creators",
+    "category": "AI notetakers, AI Presentation Software, AI Code Editors, AI Code Testing, AI Coding Agents, AI Databases, Predictive AI, AI Characters, AI Generative Media",
+    "pricing": "Unknown",
+    "url": "https://searchingineer.gumroad.com/l/curated-list-of-ai-tools",
+    "official_website": "https://searchingineer.gumroad.com/l/curated-list-of-ai-tools",
+    "tags": []
+  },
+  {
+    "id": "f1cba32e-f2a8-4b6a-8a43-aba66049048c",
+    "name": "CapCut",
+    "description": "All-in-one AI video editor with script-to-video generation, AI dubbing/translation, video upscaling, and relighting capabilities. Available across desktop, mobile, and web platforms.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.capcut.com/",
+    "official_website": "https://www.capcut.com/",
+    "tags": []
+  },
+  {
+    "id": "f36836f8-ea87-455c-921d-b8af6e39d079",
+    "name": "CometAPI",
+    "description": "CometAPI offers developers access to over 500 AI models through a single unified API. These include popular and advanced models like Qwen3-Coder, Suno Music, Midjourney Video, Gemini 2.5, and many more. The platform allows users to integrate a wide range of AI capabilities\u2014text, code, image, video, music, and more\u2014into their applications with ease. CometAPI supports enterprise needs, provides detailed documentation, and includes tools for quick onboarding. For a limited time, new users receive o",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cometapi-com",
+    "official_website": "https://futuretools.link/cometapi-com",
+    "tags": []
+  },
+  {
+    "id": "f38d5b8f-b4a6-4c0a-ae05-7b7ae2686958",
+    "name": "Craiyon",
+    "description": "Free AI image generator",
+    "category": "AI Image Generation",
+    "pricing": "Free",
+    "url": "https://craiyon.com",
+    "official_website": "https://craiyon.com",
+    "tags": []
+  },
+  {
+    "id": "f452cb1b-a7a1-4170-9afc-dfce4ac51b7d",
+    "name": "Cruise",
+    "description": "Autonomous vehicle AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://generalmotors.com",
+    "official_website": "https://generalmotors.com",
+    "tags": []
+  },
+  {
+    "id": "f4645574939e",
+    "name": "Central by Zapier",
+    "description": "AI workspace for automating tasks across 6000+ apps with AI bots",
+    "category": "Automation/General",
+    "pricing": "Unknown",
+    "url": "https://zapier.com/ai",
+    "official_website": "https://zapier.com/ai",
+    "tags": []
+  },
+  {
+    "id": "f5a6e4e8-ef3a-485d-ad51-22e2d72e8be2",
+    "name": "Claude",
+    "description": "Anthropic AI assistant for complex tasks",
+    "category": "AI Chatbots",
+    "pricing": "Freemium",
+    "url": "https://claude.ai",
+    "official_website": "https://claude.ai",
+    "tags": []
+  },
+  {
+    "id": "f5acad0f-fd2f-4797-a9d9-8400bc29fc1f",
+    "name": "Craiyon",
+    "description": "Free AI image generator from text prompts",
+    "category": "AI Image Generation",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "craiyon",
+    "official_website": "craiyon",
+    "tags": []
+  },
+  {
+    "id": "f716bda0-9971-473b-b6e8-96b4afc3827b",
+    "name": "Continue VS Code",
+    "description": "Popular VS Code extension for Continue.dev providing open-source AI code assistance with support for local models and custom configurations.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Continue.continue",
+    "official_website": "https://marketplace.visualstudio.com/items?itemName=Continue.continue",
+    "tags": []
+  },
+  {
+    "id": "f757d208-d9d7-4269-a1ae-045222953546",
+    "name": "Canva Magic Write",
+    "description": "AI text generator integrated into Canva design platform, powered by OpenAI. Offers 25 queries free for users, 250/month for Pro/Teams, supports 20+ languages, and includes tools for brainstorming, outlining, rewriting, and content expansion within Canva ecosystem.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://www.canva.com/magic-write/",
+    "official_website": "https://www.canva.com/magic-write/",
+    "tags": []
+  },
+  {
+    "id": "f7c95aa6-a813-4a9f-a4d2-9a53b63109e9",
+    "name": "ClearML",
+    "description": "ML/Ops platform",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://clearml.com",
+    "official_website": "https://clearml.com",
+    "tags": []
+  },
+  {
+    "id": "f8ff738dddef",
+    "name": "Copy.ai",
+    "description": "Over 1 million people use our ai copywriting tools to help them write social media posts, website content, and blog posts in seconds.",
+    "category": "Marketing automation platforms, Lead generation, Writing assistants",
+    "pricing": "Not Specified",
+    "url": "https://copy.ai",
+    "official_website": "https://copy.ai",
+    "tags": []
+  },
+  {
+    "id": "f90284fd-b7c9-4266-89a0-42f6ac4d9fc8",
+    "name": "Claude",
+    "description": "Anthropic's AI assistant focused on helpful interactions",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "claude",
+    "official_website": "claude",
+    "tags": []
+  },
+  {
+    "id": "f93c839a-03e8-4886-b038-bef38ce5aa48",
+    "name": "ChatGPT Atlas",
+    "description": "No description available.",
+    "category": "AI Chatbots",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/chatgpt-comatlas",
+    "official_website": "https://futuretools.link/chatgpt-comatlas",
+    "tags": []
+  },
+  {
+    "id": "f9ff73df-13af-4ae2-bef5-43f43159f78f",
+    "name": "Crazy Egg AI",
+    "description": "AI-enhanced heatmap and analytics",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "crazyeggai",
+    "official_website": "crazyeggai",
+    "tags": []
+  },
+  {
+    "id": "fa02c49f-40af-44d4-b80a-4b0d1d5e1492",
+    "name": "Character.AI",
+    "description": "AI-powered conversational ai solution",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.character.ai.com",
+    "official_website": "https://www.character.ai.com",
+    "tags": []
+  },
+  {
+    "id": "faa745dbf329",
+    "name": "CodeDesign.ai",
+    "description": "AI website builder that builds full-blown websites in under a minute with AI-generated crisp, clean copy. Features automatic content adjustment, pre-optimized layout for mobile and SEO, and built-in metadata and keyword optimization prompts.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://codedesign.ai/",
+    "official_website": "https://codedesign.ai/",
+    "tags": [
+      "website builder",
+      "mvp",
+      "seo optimized",
+      "ultra-fast",
+      "metadata",
+      "responsive design"
+    ]
+  },
+  {
+    "id": "fae4d2cd0de8",
+    "name": "Claude 3",
+    "description": "Advanced AI assistant from Anthropic",
+    "category": "Text Chatbots",
+    "pricing": "Not Specified",
+    "url": "https://claude.ai/",
+    "official_website": "https://claude.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "fb02e900-8eaf-4bb0-86fa-8be284dd246b",
+    "name": "CoCounsel",
+    "description": "Large language model powered by OpenAI for legal research, drafting, and document analysis",
+    "category": "Legal",
+    "pricing": "Paid",
+    "url": "https://casetext.com/cocounsel",
+    "official_website": "https://casetext.com/cocounsel",
+    "tags": []
+  },
+  {
+    "id": "fc03e1dd-af18-4d23-81bb-d8211210f900",
+    "name": "Codex by OpenAI",
+    "description": "AI that writes code for you. OpenAI Codex is a new machine learning tool that translates your text in the English language into code. Codex is designed to speed up the work of professional programmers, as well as help amateurs get started coding.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/codex",
+    "official_website": "https://www.producthunt.com/products/codex",
+    "tags": []
+  },
+  {
+    "id": "fc129ae3-f63a-485b-a0bb-d62f4c95e1a7",
+    "name": "Cobot",
+    "description": "Cobot is an AI-powered productivity tool designed to handle tasks automatically once they are added, shifting them from \u201cdo\u201d to \u201cdone.\u201d It integrates with commonly used apps and allows users to discover third-party Cobots and workflows that seamlessly connect with their favorite tools. Cobot can summarize recent emails, highlight important calendar events, and provide morning briefings to help users start their day with clear priorities. It also assists in scheduling meetings by identifying avai",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/cobot-co",
+    "official_website": "https://futuretools.link/cobot-co",
+    "tags": []
+  },
+  {
+    "id": "fc45fe0181cb",
+    "name": "Color Magic App",
+    "description": "AI tool that generates harmonious color palettes based on specific themes or emotions. Allows uploading images or entering keywords to suggest color combinations aligned with brand or design goals.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://colormagic.app/",
+    "official_website": "https://colormagic.app/",
+    "tags": [
+      "brand alignment",
+      "color palettes",
+      "emotion-based",
+      "keyword suggestion",
+      "theme-based",
+      "harmonious colors"
+    ]
+  },
+  {
+    "id": "fc7c75dd-5ecd-4dc7-a205-eb013b4ef54a",
+    "name": "CREATOR AI",
+    "description": "Efficiently generates personalized, high-quality content for creators.",
+    "category": "Writing Generators",
+    "pricing": "Unknown",
+    "url": "https://fanhero.com/",
+    "official_website": "https://fanhero.com/",
+    "tags": []
+  },
+  {
+    "id": "fca7cdcd-f0a8-4507-aa33-9b055052aa23",
+    "name": "Code Llama",
+    "description": "Meta's AI model for code generation",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "codellama",
+    "official_website": "codellama",
+    "tags": []
+  },
+  {
+    "id": "fce4413f8118",
+    "name": "Claude",
+    "description": "AI assistant by Anthropic, praised by HackerNews for coding tasks",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://claude.ai",
+    "official_website": "https://claude.ai",
+    "tags": []
+  },
+  {
+    "id": "fdcd0ad3-8bbf-469a-8ef4-27b07fe2c812",
+    "name": "Copy.ai",
+    "description": "AI copywriter for marketing content",
+    "category": "AI Writing Tools",
+    "pricing": "Freemium",
+    "url": "https://copy.ai",
+    "official_website": "https://copy.ai",
+    "tags": []
+  },
+  {
+    "id": "fe513657-54d3-41b6-a09e-e3ce3b0834e6",
+    "name": "Crunchbase",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/crunchbase-com",
+    "official_website": "https://futuretools.link/crunchbase-com",
+    "tags": []
+  },
+  {
+    "id": "fe5e2b07baaf",
+    "name": "Cohere",
+    "description": "AI-powered assistant for research and academic applications",
+    "category": "AI Assistant",
+    "pricing": "Commercial",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "ffd38e749fce",
+    "name": "CoPilot \u2013 Cloudways by DigitalOcean",
+    "description": "Automated backups, 24/7 support, and global server locations for efficient hosting.",
+    "category": "Website Builder, Hosting",
+    "pricing": "Contact for Pricing",
+    "url": "https://cloudways.com",
+    "official_website": "https://cloudways.com",
+    "tags": []
+  },
+  {
+    "id": "ffe300fc7eb5",
+    "name": "convnext_large.fb_in22k_ft_in1k",
+    "description": "AI model convnext_large.fb_in22k_ft_in1k from timm on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/timm/convnext_large.fb_in22k_ft_in1k",
+    "official_website": "https://huggingface.co/timm/convnext_large.fb_in22k_ft_in1k",
+    "tags": []
+  }
+]

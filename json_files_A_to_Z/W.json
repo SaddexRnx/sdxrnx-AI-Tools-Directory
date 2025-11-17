@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "03f6d5c4-7439-4f6a-bfad-78b8ca1689cd",
+    "name": "Weebly AI",
+    "description": "AI-powered website and store builder",
+    "category": "AI E-commerce",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "weeblyai",
+    "official_website": "weeblyai",
+    "tags": []
+  },
+  {
+    "id": "04a8ccf9-28d8-4507-8fc0-0af500be4672",
+    "name": "WellSaid Labs",
+    "description": "AI voice generation platform specializing in natural-sounding voiceovers",
+    "category": "Content Creation",
+    "pricing": "Premium",
+    "url": "https://wellsaidlabs.com",
+    "official_website": "https://wellsaidlabs.com",
+    "tags": []
+  },
+  {
+    "id": "097b21eb-ed88-4ac3-b1f3-76820f17f24d",
+    "name": "WordPress AI Builder",
+    "description": "AI Website Builder that creates complete websites based on natural language descriptions. Integrated into WordPress.com offering AI-powered design and content generation for seamless website creation.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://wordpress.com/",
+    "official_website": "https://wordpress.com/",
+    "tags": []
+  },
+  {
+    "id": "0b1766c2cdc4",
+    "name": "WuAI",
+    "description": "Create & launch an AI agent on X in under 1 minute! Copy your digital footprint into your agent.",
+    "category": "AI Agents Platform, Social Media",
+    "pricing": "Paid",
+    "url": "https://wuai.ai",
+    "official_website": "https://wuai.ai",
+    "tags": []
+  },
+  {
+    "id": "0e33cad579d6",
+    "name": "Windsurf",
+    "description": "The first agentic IDE. Tomorrow's editor, today. Windsurf is an IDE that enables anyone to collaborate in lockstep with AI. Built by the Codeium team, the Windsurf Editor combines the best of copilot and agent systems to help you ship products faster.",
+    "category": "Code editors, AI Coding Agents, Vibe Coding Tools, AI Code Editors",
+    "pricing": "Not Specified",
+    "url": "https://codeium.com/windsurf",
+    "official_website": "https://codeium.com/windsurf",
+    "tags": []
+  },
+  {
+    "id": "10b7ab76-d406-48c4-a63e-3400b0e101ae",
+    "name": "Wavel AI",
+    "description": "Text-to-speech and dubbing platform with advanced voice cloning and built-in translation features. Suited for diverse multimedia production needs with complex voice manipulation capabilities.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://wavel.ai/",
+    "official_website": "https://wavel.ai/",
+    "tags": []
+  },
+  {
+    "id": "125c09220785",
+    "name": "WhisperSpeech",
+    "description": "An Open Source text-to-speech system built by inverting Whisper. Aims to be for speech what Stable Diffusion is for images.",
+    "category": "Audio and Speech AI",
+    "pricing": "Not Specified",
+    "url": "https://whisperspeech.github.io/WhisperSpeech/",
+    "official_website": "https://whisperspeech.github.io/WhisperSpeech/",
+    "tags": [
+      "One-click voice cloning functionality from audio samples",
+      "Seamless code-switching in English, Polish, and French",
+      "High-fidelity audio synthesis using Vocos neural vocoder",
+      "12x faster-than-real-time inference on RTX 4090 with optimizations",
+      "Comprehensive documentation and Colab notebooks for easy testing",
+      "Open-source text-to-speech system built by inverting OpenAI Whisper",
+      "Apache-2.0 / MIT licensed models trained on properly licensed data",
+      "SD-size S2A model for major speed-ups without quality sacrifice",
+      "Two-stage token-based pipeline architecture (semantic + acoustic)",
+      "Multilingual support and code-switching within sentences"
+    ]
+  },
+  {
+    "id": "13050c31-b708-4c40-835e-d6d4891b4af4",
+    "name": "Wan_2.2_ComfyUI_Repackaged",
+    "description": "UpdatedSep 24",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "official_website": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "tags": []
+  },
+  {
+    "id": "152dfa7569da",
+    "name": "WebLLM Playground",
+    "description": "Run large language models in your browser with WebGPU.",
+    "category": "LLM",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/mlc-ai/webllm-playground",
+    "official_website": "https://huggingface.co/spaces/mlc-ai/webllm-playground",
+    "tags": [
+      "llm",
+      "browser"
+    ]
+  },
+  {
+    "id": "16906453-8a5f-43cf-ac0a-6471ffb1e728",
+    "name": "WaveSpeed AI",
+    "description": "WaveSpeedAI is a high-performance AI media generation platform that transforms text, image, or audio prompts into professional-quality images in under 2 seconds and videos in under 2 minutes. Powered by state-of-the-art multimodal AI models, it enables marketers, content creators, game developers, and businesses to rapidly produce and iterate on creative content without sacrificing quality. The platform combines lightning-fast generation speeds with advanced editing capabilities like background",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/wavespeed-ai",
+    "official_website": "https://futuretools.link/wavespeed-ai",
+    "tags": []
+  },
+  {
+    "id": "171e80cf-9165-451f-aeb3-d6c36f664939",
+    "name": "wikitext-103",
+    "description": "WikiText-103 dataset - 103 million tokens from Wikipedia articles.",
+    "category": "Dataset",
+    "pricing": "{\"model\":\"Open Source\",\"details\":\"Open source models on Hugging Face\"}",
+    "url": "https://huggingface.co/datasets/wikitext",
+    "official_website": "https://huggingface.co/datasets/wikitext",
+    "tags": []
+  },
+  {
+    "id": "191f1ec6-aec5-4b74-9cbf-469367089cbb",
+    "name": "Wegic",
+    "description": "The first AI web designer & developer by your side",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/wegic",
+    "official_website": "https://www.producthunt.com/products/wegic",
+    "tags": []
+  },
+  {
+    "id": "2000938e-3098-485b-9bca-23f91fde8ac3",
+    "name": "Wealthfront Robo",
+    "description": "Automated wealth management",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://wealthfront.com",
+    "official_website": "https://wealthfront.com",
+    "tags": []
+  },
+  {
+    "id": "219a28d8a259",
+    "name": "WhisperSpeech",
+    "description": "High-quality text-to-speech generation with Whisper technology.",
+    "category": "Voice",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/collabora/WhisperSpeech",
+    "official_website": "https://huggingface.co/spaces/collabora/WhisperSpeech",
+    "tags": [
+      "voice",
+      "tts"
+    ]
+  },
+  {
+    "id": "2252aba0-aa40-409c-88aa-e083a4adfb6d",
+    "name": "Writitude",
+    "description": "Writitude is an AI-powered platform designed to help teams create share and enforce detailed custom writing guidelines ensuring all written content matches a consistent brand voice by analyzing text in real time AI automatically checks for over 100 adjustable style parameters such as tone formality inclusivity and use of keywords alerting writers instantly to misalignments and offering actionable feedback as they work making it invaluable for marketing content and brand teams looking to reduce m",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/writitude-com",
+    "official_website": "https://futuretools.link/writitude-com",
+    "tags": []
+  },
+  {
+    "id": "23c1513f-f344-4669-a21e-1509474f9517",
+    "name": "WizardLM",
+    "description": "Wizard instruction following",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "253d9895-3aee-45e8-b36e-b7b64906dd89",
+    "name": "Wordware",
+    "description": "Your tool for building AI agents with natural language",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/wordware",
+    "official_website": "https://www.producthunt.com/products/wordware",
+    "tags": []
+  },
+  {
+    "id": "2866e6e6bd25",
+    "name": "wandb",
+    "description": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.",
+    "category": "MLOps and Deployment",
+    "pricing": "Not Specified",
+    "url": "https://wandb.ai",
+    "official_website": "https://wandb.ai",
+    "tags": [
+      "Multiple hosting options: Multi-tenant Cloud, Dedicated Cloud, Self-Managed",
+      "Data and model versioning with comprehensive artifact management",
+      "Reporting and analysis with collaborative features",
+      "Visualization tools: precision/recall, feature importances, learning curves, ROC",
+      "Hyperparameter optimization with Sweeps for automated tuning",
+      "Integration with popular ML frameworks: PyTorch, TensorFlow, Hugging Face",
+      "Experiment tracking and visualization with automatic logging",
+      "Model registry management from experimentation to production",
+      "LLM app tracking and debugging with Weave integration",
+      "AI developer platform for training and fine-tuning models"
+    ]
+  },
+  {
+    "id": "2b2e4e268689",
+    "name": "Word",
+    "description": "Academic writing and documentation tools for research projects",
+    "category": "Academic Writing",
+    "pricing": "Free/Commercial",
+    "url": "https://word.com",
+    "official_website": "https://word.com",
+    "tags": []
+  },
+  {
+    "id": "2c22498b-7083-4d7c-a8ae-eaf9d569d131",
+    "name": "Windsurf",
+    "description": "The first agentic IDE. Tomorrow's editor, today. Windsurf is an IDE that enables anyone to collaborate in lockstep with AI. Built by the Codeium team, the Windsurf Editor combines the best of copilot and agent systems to help you ship products faster.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/windsurf",
+    "official_website": "https://www.producthunt.com/products/windsurf",
+    "tags": []
+  },
+  {
+    "id": "2e9ced726c54",
+    "name": "Woopra",
+    "description": "Customer journey analytics platform providing real-time, individualized tracking of user interactions across multiple touchpoints. Features real-time user tracking, customer journey mapping, cohort analysis, behavioral segmentation, and automated triggers.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://www.woopra.com/",
+    "official_website": "https://www.woopra.com/",
+    "tags": [
+      "real-time tracking",
+      "behavioral segmentation",
+      "customer journey",
+      "automated triggers",
+      "multi-touchpoint",
+      "cohort analysis"
+    ]
+  },
+  {
+    "id": "2ec5e412-cdce-4d72-aacc-1ad900210530",
+    "name": "WebNovel AI",
+    "description": "Structured writing platform that guides authors through the entire novel planning process",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Not specified\",\"details\":\"Pricing as listed in source\"}",
+    "url": "https://topai.tools/t/webnovel-ai",
+    "official_website": "https://topai.tools/t/webnovel-ai",
+    "tags": []
+  },
+  {
+    "id": "30648dfb3f27",
+    "name": "Watchman AI",
+    "description": "Watchman's AI agents capture your invisible B2B buyers \u2014 delivering endless pipelines of qualified accounts and enriched leads by automating the identification, research, and qualification of your anonymous web visitors.",
+    "category": "Lead generation software, Business intelligence software, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://watchman.ai",
+    "official_website": "https://watchman.ai",
+    "tags": []
+  },
+  {
+    "id": "308c8096-e558-40e7-b460-d2eede3f1b0a",
+    "name": "WebTracker AI",
+    "description": "Webtracker.ai is an AI-powered competitive intelligence platform that monitors competitor websites, pricing changes, and market trends in real time. The tool leverages artificial intelligence to automatically detect and analyze changes in competitors' websites, product offerings, and pricing strategies, then delivers instant alerts with actionable insights. Unlike manual tracking methods, Webtracker's AI algorithms prioritize findings based on business impact, providing concise summaries that ex",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/webtracker-ai",
+    "official_website": "https://futuretools.link/webtracker-ai",
+    "tags": []
+  },
+  {
+    "id": "30e6c3042de0",
+    "name": "wespeaker-voxceleb-resnet34-LM",
+    "description": "AI model wespeaker-voxceleb-resnet34-LM from pyannote on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
+    "official_website": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
+    "tags": []
+  },
+  {
+    "id": "31256aed3164",
+    "name": "Wuri",
+    "description": "Effortlessly create engaging videos with AI avatars.",
+    "category": "Video Editing, Video Generators",
+    "pricing": "Freemium",
+    "url": "https://www.wuri.ai/",
+    "official_website": "https://www.wuri.ai/",
+    "tags": []
+  },
+  {
+    "id": "31f152b8-17fd-49c9-b417-a69b2aa73a06",
+    "name": "Waydev AI",
+    "description": "AI developer tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/waydev",
+    "official_website": "https://www.producthunt.com/products/waydev",
+    "tags": []
+  },
+  {
+    "id": "32a4447bb728",
+    "name": "Waydev",
+    "description": "Waydev is a software engineering intelligence platform created for engineering leaders that leverages insights from the engineering stack to improve health, accelerate delivery, and enhance planning!",
+    "category": "AI Agent Automation",
+    "pricing": "Not Specified",
+    "url": "https://waydev.com",
+    "official_website": "https://waydev.com",
+    "tags": []
+  },
+  {
+    "id": "32ab40dd37b1",
+    "name": "Waydev AI",
+    "description": "AI developer tool",
+    "category": "Developer Tools",
+    "pricing": "Not Specified",
+    "url": "https://waydev.com",
+    "official_website": "https://waydev.com",
+    "tags": []
+  },
+  {
+    "id": "349ab303-02b6-4420-94f9-973fa0f1e3b9",
+    "name": "Whimsical AI",
+    "description": "AI-powered mind mapping and visualization tool powered by ChatGPT. Creates mind maps, flowcharts, and wireframes from text prompts with collaboration features.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://whimsical.com/ai/ai-mind-maps",
+    "official_website": "https://whimsical.com/ai/ai-mind-maps",
+    "tags": []
+  },
+  {
+    "id": "37abdf37-f9de-42a5-b2fe-5d76ab9fc56c",
+    "name": "Writesonic",
+    "description": "AI writing assistant for articles and ads",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "writesonic",
+    "official_website": "writesonic",
+    "tags": []
+  },
+  {
+    "id": "38098c1a-685b-4459-82c6-655317bfecea",
+    "name": "Warp",
+    "description": "Warp is the agentic development environment, built for coding with multiple AI agents.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/warp",
+    "official_website": "https://www.producthunt.com/products/warp",
+    "tags": []
+  },
+  {
+    "id": "38595741-a1b7-4101-a3f0-5e68ac1de31b",
+    "name": "Writesonic",
+    "description": "Boost productivity with AI: content, visuals, insights, and real-time data.",
+    "category": "Other",
+    "pricing": "Freemium",
+    "url": "https://www.futurepedia.io/tool/writesonic",
+    "official_website": "https://www.futurepedia.io/tool/writesonic",
+    "tags": []
+  },
+  {
+    "id": "38c4e69d-4b5c-4d8e-8d3c-741bb2d7d0c4",
+    "name": "Waymo",
+    "description": "Autonomous vehicle technology",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://alphabet.com",
+    "official_website": "https://alphabet.com",
+    "tags": []
+  },
+  {
+    "id": "3a2fbfdc-b680-4a54-9bed-517c0936fd62",
+    "name": "Wordtune",
+    "description": "AI-powered paraphrasing tool and writing assistant with 10M+ users worldwide. Offers rewriting, paraphrasing, grammar checking, tone switching, summarization, and multilingual translation to English. Available across desktop, mobile, and browser extensions.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://www.wordtune.com/",
+    "official_website": "https://www.wordtune.com/",
+    "tags": []
+  },
+  {
+    "id": "3bcc4285a08b",
+    "name": "wav2vec2-large-xlsr-53-russian",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+    "official_website": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+    "tags": []
+  },
+  {
+    "id": "3cf813f54bd2",
+    "name": "Warp",
+    "description": "Warp is the agentic development environment, built for coding with multiple AI agents.",
+    "category": "AI Coding Agents, Terminals, Command line tools",
+    "pricing": "Not Specified",
+    "url": "https://www.warp.dev",
+    "official_website": "https://www.warp.dev",
+    "tags": []
+  },
+  {
+    "id": "3e32f23c-0351-4673-b9db-01023818771e",
+    "name": "Weaviate",
+    "description": "Vector database",
+    "category": "Search & Recommendations",
+    "pricing": "Freemium",
+    "url": "https://weaviate.com",
+    "official_website": "https://weaviate.com",
+    "tags": []
+  },
+  {
+    "id": "3f6ff9982b69",
+    "name": "WTF Does This Company Do?",
+    "description": "Demystify corporate jargon with AI simplicity and a humorous twist.",
+    "category": "Fun Tools, Research",
+    "pricing": "Free",
+    "url": "https://wtfdoesthiscompanydo.vercel.app/",
+    "official_website": "https://wtfdoesthiscompanydo.vercel.app/",
+    "tags": []
+  },
+  {
+    "id": "407a17c7-5cb6-4cc7-ba3c-61b4c72df3f7",
+    "name": "Weka",
+    "description": "AI-powered data analytics solution",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.weka.com",
+    "official_website": "https://www.weka.com",
+    "tags": []
+  },
+  {
+    "id": "437fa46c-8977-4c02-96a2-ee85ec97105c",
+    "name": "Wix AI",
+    "description": "AI website and e-commerce builder",
+    "category": "AI E-commerce",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "wixai",
+    "official_website": "wixai",
+    "tags": []
+  },
+  {
+    "id": "45d87462ceeb",
+    "name": "Whatagraph",
+    "description": "AI-powered reporting tool that creates accurate, stunning, and scalable SEO reports for clients or executives in seconds. Features one-click integrations with 55+ marketing platforms, AI-powered report generation, and automated report delivery.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://whatagraph.com/",
+    "official_website": "https://whatagraph.com/",
+    "tags": [
+      "automated reports",
+      "client reporting",
+      "whatagraph iq",
+      "data integration",
+      "seo reports",
+      "reporting"
+    ]
+  },
+  {
+    "id": "4819392d-f1a9-4a65-9c79-0706bcfbef6f",
+    "name": "Waifu2x",
+    "description": "AI image upscaling for anime art",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "waifu2x",
+    "official_website": "waifu2x",
+    "tags": []
+  },
+  {
+    "id": "4934777c2022",
+    "name": "Weights & Biases",
+    "description": "ML experiment tracking and visualization",
+    "category": "ML Ops",
+    "pricing": "Not Specified",
+    "url": "https://wandb.ai/",
+    "official_website": "https://wandb.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "49f2742e-a8b6-435b-aa88-f5275c6e45dc",
+    "name": "Weights & Biases Experiments",
+    "description": "ML experiment tracking",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://weightsandbiases.com",
+    "official_website": "https://weightsandbiases.com",
+    "tags": []
+  },
+  {
+    "id": "4a278457-03df-4ef0-b4ca-3289b217f755",
+    "name": "WizardLM 13B v1.2",
+    "description": "Wizard of instructions",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "4a8db51e-a874-4177-90eb-0287a0136879",
+    "name": "Wix ADI",
+    "description": "One of the most comprehensive AI website builders with effective AI site designer via chatbot interaction, AI tool to create new sections, and Theme Assistant chatbot for look and feel changes. Offers a mature feature set including blogging, eCommerce, and booking capabilities.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://www.wix.com/",
+    "official_website": "https://www.wix.com/",
+    "tags": []
+  },
+  {
+    "id": "4b0496bd-e210-4c16-be9a-55bc840e6f6a",
+    "name": "Waydev AI",
+    "description": "AI developer tool",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://waydev.com",
+    "official_website": "https://waydev.com",
+    "tags": []
+  },
+  {
+    "id": "4b99b8bda0e9",
+    "name": "Wegic",
+    "description": "The first AI web designer & developer by your side",
+    "category": "Design Tools, Website Builder, Developer Tools",
+    "pricing": "Not Specified",
+    "url": "https://wegic.ai",
+    "official_website": "https://wegic.ai",
+    "tags": []
+  },
+  {
+    "id": "4d3efd02-4dad-4499-84a0-0d4e4823e8e5",
+    "name": "Workday",
+    "description": "Enterprise human resources platform with AI-powered workforce analytics and automation",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://workday.com",
+    "official_website": "https://workday.com",
+    "tags": []
+  },
+  {
+    "id": "4ed56006-ff78-435d-becd-4bfb96cdfbe6",
+    "name": "Woopra",
+    "description": "Customer journey analytics platform providing real-time, individualized tracking of user interactions across multiple touchpoints. Features real-time user tracking, customer journey mapping, cohort analysis, behavioral segmentation, and automated triggers.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://www.woopra.com/",
+    "official_website": "https://www.woopra.com/",
+    "tags": []
+  },
+  {
+    "id": "51c6e97367d9",
+    "name": "Wondercraft AI",
+    "description": "AI-native video studio with integrated podcast and voice generation features. Combines real editor functionality with AI agents for creative content production.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://www.wondercraft.ai/",
+    "official_website": "https://www.wondercraft.ai/",
+    "tags": [
+      "podcast-creation",
+      "ai-native",
+      "video-studio",
+      "creative-production",
+      "ai-agents"
+    ]
+  },
+  {
+    "id": "577664b2-68f1-48fc-b5e3-b26e365dc101",
+    "name": "Windsurf",
+    "description": "AI coding IDE by Codeium",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "windsurf",
+    "official_website": "windsurf",
+    "tags": []
+  },
+  {
+    "id": "59a7113e-b91a-4563-a080-480e5d112718",
+    "name": "WizardCoder",
+    "description": "Code instruction following",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "59cb53d3-805f-4f8a-a440-dc9acabf354d",
+    "name": "Wordvice AI",
+    "description": "AI grammar checker supporting 14+ languages with revision modes (Light, Standard, Intensive, Concise). Offers comprehensive grammar checking, paraphrasing, translation, and editorial comments. Integrates with Chrome extension and MS Word add-in for professional editing.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://wordvice.ai/tools/grammar-checker",
+    "official_website": "https://wordvice.ai/tools/grammar-checker",
+    "tags": []
+  },
+  {
+    "id": "59d32c3ceb90",
+    "name": "Wondershare Filmora",
+    "description": "Beginner-friendly AI video editor with powerful features including AI background removal, auto-reframe, smart scene detection, AI-powered text-to-speech, and voice enhancement.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://filmora.wondershare.com/",
+    "official_website": "https://filmora.wondershare.com/",
+    "tags": [
+      "beginner-friendly",
+      "ai-background-removal",
+      "auto-reframe",
+      "user-friendly",
+      "text-to-speech"
+    ]
+  },
+  {
+    "id": "5a06e98d-e669-4058-9ac5-8ef731a35a74",
+    "name": "Writesonic",
+    "description": "AI writer for SEO content",
+    "category": "AI Writing Tools",
+    "pricing": "Freemium",
+    "url": "https://writesonic.com",
+    "official_website": "https://writesonic.com",
+    "tags": []
+  },
+  {
+    "id": "5a1830fd3a94",
+    "name": "Weka",
+    "description": "Collection of ML algorithms for data mining tasks with visualization tools.",
+    "category": "ML Platform",
+    "pricing": "Open Source",
+    "url": "https://www.cs.waikato.ac.nz/ml/weka/",
+    "official_website": "https://www.cs.waikato.ac.nz/ml/weka/",
+    "tags": [
+      "data mining",
+      "ml platform"
+    ]
+  },
+  {
+    "id": "5b9b2dff-a275-4c3d-8ad3-6b563e92df7e",
+    "name": "Workato",
+    "description": "Enterprise workflow automation platform with 1000+ business application integrations, data orchestration capabilities, ETL functions, and comprehensive governance controls for large organizations.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://workato.com",
+    "official_website": "https://workato.com",
+    "tags": []
+  },
+  {
+    "id": "5be971e95ba9",
+    "name": "Wrike",
+    "description": "Enterprise project management platform with Wrike Intelligence using machine learning for risk prediction, project health indicators, AI-generated project assessments, and comprehensive workflow automation.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://wrike.com",
+    "official_website": "https://wrike.com",
+    "tags": [
+      "risk-prediction",
+      "enterprise",
+      "analytics",
+      "project-management",
+      "workflow-automation"
+    ]
+  },
+  {
+    "id": "5d85329c-f037-42a9-908c-925eed69a07a",
+    "name": "WebPurify",
+    "description": "Community moderation",
+    "category": "Content Moderation",
+    "pricing": "Freemium",
+    "url": "https://webpurify.com",
+    "official_website": "https://webpurify.com",
+    "tags": []
+  },
+  {
+    "id": "601bea30-3d2c-4d15-9a8d-390fe0643d34",
+    "name": "Writesonic SEO",
+    "description": "AI tool that speeds up SEO research and content creation with real-time data from SEO tools and multi-model AI agent. Features AI Article Writer, brand voice customization, and one-click publishing to WordPress and social media.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://writesonic.com/",
+    "official_website": "https://writesonic.com/",
+    "tags": []
+  },
+  {
+    "id": "604817f7ebd2",
+    "name": "WebChatGPT",
+    "description": "Augment ChatGPT with web results",
+    "category": "ChatGPT Extensions",
+    "pricing": "Not Specified",
+    "url": "https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn",
+    "official_website": "https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "6088577e02a5",
+    "name": "Windsurf",
+    "description": "Code editor with good free model suitable for autocomplete-level work",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://codeium.com/windsurf",
+    "official_website": "https://codeium.com/windsurf",
+    "tags": []
+  },
+  {
+    "id": "6174a7bd-4395-4602-8c4b-62f731529a7f",
+    "name": "waifu-diffusion",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/hakurei/waifu-diffusion",
+    "official_website": "https://huggingface.co/hakurei/waifu-diffusion",
+    "tags": []
+  },
+  {
+    "id": "6525bcdf-3273-4106-9318-2ea544fb5291",
+    "name": "Weights & Biases",
+    "description": "ML experiment tracking",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://weightsandbiases.com",
+    "official_website": "https://weightsandbiases.com",
+    "tags": []
+  },
+  {
+    "id": "6584d23d2a67",
+    "name": "WellSaid Labs",
+    "description": "Professional-grade AI voice platform focused on business-grade text-to-speech solutions. Offers hundreds of realistic voices, team collaboration features, enterprise security, and integration with creative tools.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.wellsaid.io/",
+    "official_website": "https://www.wellsaid.io/",
+    "tags": [
+      "business-grade",
+      "professional-voices",
+      "team-collaboration",
+      "enterprise-security"
+    ]
+  },
+  {
+    "id": "660e7b8d-7c64-4f1f-96c7-721af50795da",
+    "name": "wav2vec2-base-960h",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/facebook/wav2vec2-base-960h",
+    "official_website": "https://huggingface.co/facebook/wav2vec2-base-960h",
+    "tags": []
+  },
+  {
+    "id": "66d8d9c8-91b5-4d90-bc83-6f173bbe0194",
+    "name": "wav2vec2-large-xlsr-53-russian",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+    "official_website": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian",
+    "tags": []
+  },
+  {
+    "id": "67fb65a309f5",
+    "name": "Writesonic SEO",
+    "description": "AI tool that speeds up SEO research and content creation with real-time data from SEO tools and multi-model AI agent. Features AI Article Writer, brand voice customization, and one-click publishing to WordPress and social media.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://writesonic.com/",
+    "official_website": "https://writesonic.com/",
+    "tags": [
+      "real-time data",
+      "content creation",
+      "brand voice",
+      "seo research",
+      "wordpress publishing",
+      "article writer"
+    ]
+  },
+  {
+    "id": "6864f7a1294c",
+    "name": "whisper-large-v3-turbo",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/whisper-large-v3-turbo",
+    "official_website": "https://huggingface.co/openai/whisper-large-v3-turbo",
+    "tags": []
+  },
+  {
+    "id": "6ce1a056-84e8-4411-ac55-1ad467a6c1d8",
+    "name": "Wordtune",
+    "description": "AI writing companion for better expression",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "wordtune",
+    "official_website": "wordtune",
+    "tags": []
+  },
+  {
+    "id": "6fee965f-fc70-40fe-a7f9-f4ee715a1b7a",
+    "name": "Webroot AI",
+    "description": "AI-powered threat intelligence platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "webrootai",
+    "official_website": "webrootai",
+    "tags": []
+  },
+  {
+    "id": "70e3ed5e6f50",
+    "name": "Writer",
+    "description": "Enterprise AI writing platform using proprietary LLMs for brand-safe content creation, team collaboration features, and content consistency tools for large organizations.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://writer.com",
+    "official_website": "https://writer.com",
+    "tags": [
+      "brand-safety",
+      "content-consistency",
+      "team-collaboration",
+      "enterprise-writing",
+      "proprietary-llms"
+    ]
+  },
+  {
+    "id": "733d5db0b8fc",
+    "name": "Wordware",
+    "description": "Your tool for building AI agents with natural language",
+    "category": "Software Engineering, Developer Tools, Artificial Intelligence",
+    "pricing": "Not Specified",
+    "url": "https://www.wordware.ai",
+    "official_website": "https://www.wordware.ai",
+    "tags": []
+  },
+  {
+    "id": "73fbae4b13ad",
+    "name": "WordPress AI Builder",
+    "description": "AI Website Builder that creates complete websites based on natural language descriptions. Integrated into WordPress.com offering AI-powered design and content generation for seamless website creation.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://wordpress.com/",
+    "official_website": "https://wordpress.com/",
+    "tags": [
+      "natural language",
+      "complete websites",
+      "ai website builder",
+      "design automation",
+      "content generation",
+      "wordpress"
+    ]
+  },
+  {
+    "id": "74e25f45818b",
+    "name": "Writesonic",
+    "description": "Writesonic's AI writing assistant, you can generate high-quality, human-level blog posts, article, landing pages, emails, product descriptions, digital ads and more in seconds. All you have to do is to enter any topic of your choice and you're done.",
+    "category": "Email marketing, Writing assistants",
+    "pricing": "Not Specified",
+    "url": "https://writesonic.com",
+    "official_website": "https://writesonic.com",
+    "tags": []
+  },
+  {
+    "id": "768d2d270fa8",
+    "name": "Websim",
+    "description": "AI tool for generating websites from text-based ideas.",
+    "category": "Web Development",
+    "pricing": "Freemium",
+    "url": "https://websim.ai/",
+    "official_website": "https://websim.ai/",
+    "tags": [
+      "web development"
+    ]
+  },
+  {
+    "id": "79167009aa49",
+    "name": "Wan_2.2_ComfyUI_Repackaged",
+    "description": "UpdatedSep 24",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "official_website": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+    "tags": []
+  },
+  {
+    "id": "7be4278dea1b",
+    "name": "WayMore",
+    "description": "WayMore's AI-powered marketing automation drives 30% higher conversion rates by dynamically optimizing content, targeting, and messaging across the entire customer lifecycle.",
+    "category": "Marketing & SEO, Automation",
+    "pricing": "Not specified",
+    "url": "https://waymore.ai",
+    "official_website": "https://waymore.ai",
+    "tags": []
+  },
+  {
+    "id": "7be824ed-0e5e-4617-8e1d-d556c18c1da6",
+    "name": "whisper-large-v3-turbo",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/openai/whisper-large-v3-turbo",
+    "official_website": "https://huggingface.co/openai/whisper-large-v3-turbo",
+    "tags": []
+  },
+  {
+    "id": "80864209d0df",
+    "name": "Write Human",
+    "description": "Write Human is an AI-powered productivity tool that automates repetitive workflows and streamlines task management, empowering users to work more efficiently.",
+    "category": "Education & Learning, Workflow Automation",
+    "pricing": "Not specified",
+    "url": "https://writehuman.ai",
+    "official_website": "https://writehuman.ai",
+    "tags": []
+  },
+  {
+    "id": "8208c244-fb54-488e-9bc9-87c8e38b838f",
+    "name": "Weka",
+    "description": "Collection of machine learning algorithms",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "weka",
+    "official_website": "weka",
+    "tags": []
+  },
+  {
+    "id": "8482370f-a076-4f3e-97c8-d2ffd96226ad",
+    "name": "WhyLabs",
+    "description": "Data-centric AI platform",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://whylabs.com",
+    "official_website": "https://whylabs.com",
+    "tags": []
+  },
+  {
+    "id": "88303200-6733-47a0-abf6-dc3b900ed230",
+    "name": "WanVideo_comfy",
+    "description": "Updatedabout 5 hours ago",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Kijai/WanVideo_comfy",
+    "official_website": "https://huggingface.co/Kijai/WanVideo_comfy",
+    "tags": []
+  },
+  {
+    "id": "8897ffd2-06ce-4bb2-a803-d3b1c3fc4e53",
+    "name": "WorkBeaver",
+    "description": "WorkBeaver: Autopilot For Your Work is an AI-powered automation tool that eliminates repetitive computer tasks by watching and learning directly from your actions. Unlike traditional automation solutions that require coding or complex setup, WorkBeaver lets users simply demonstrate a workflow once by performing it naturally, then the AI replicates those exact actions automatically in the future. The system uses artificial intelligence to adapt to interface changes and works across any applicatio",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/workbeaver-com",
+    "official_website": "https://futuretools.link/workbeaver-com",
+    "tags": []
+  },
+  {
+    "id": "89d285a6-df72-4bdf-bb53-c9d00dc1ed03",
+    "name": "Warp",
+    "description": "Modern Rust-based terminal with AI-powered agent, block-based UI for structuring commands, and collaborative workflows for terminal automation.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://www.warp.dev/",
+    "official_website": "https://www.warp.dev/",
+    "tags": []
+  },
+  {
+    "id": "8c54dc53-1e48-452d-bd4f-1f1a3cf8912c",
+    "name": "Whisper by OpenAI",
+    "description": "A neural net for speech recognition",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/whisper-by-openai",
+    "official_website": "https://www.producthunt.com/products/whisper-by-openai",
+    "tags": []
+  },
+  {
+    "id": "8e94856b-ca8a-40f6-80ad-ab1feac4cc85",
+    "name": "Wondera AI",
+    "description": "AI-Powered Solutions to Enhance Your Workflow",
+    "category": "AI Productivity Tools",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/wondera-ai",
+    "official_website": "https://freeaitool.ai/tool/wondera-ai",
+    "tags": []
+  },
+  {
+    "id": "90129f0ff075",
+    "name": "Wan_2.1_ComfyUI_repackaged",
+    "description": "Updated24 days ago",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+    "official_website": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+    "tags": []
+  },
+  {
+    "id": "92e69470748b",
+    "name": "Warp",
+    "description": "First agentic development environment built for coding with multiple AI agents",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://warp.dev",
+    "official_website": "https://warp.dev",
+    "tags": []
+  },
+  {
+    "id": "95c2c661-6a34-41a7-9ce8-b5d010fea36b",
+    "name": "Writesonic",
+    "description": "Writesonic is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Design",
+    "pricing": "Premium",
+    "url": "https://futuretools.link/writesonic",
+    "official_website": "https://futuretools.link/writesonic",
+    "tags": []
+  },
+  {
+    "id": "98117e186085",
+    "name": "whisper-small",
+    "description": "Smaller Whisper model for automatic speech recognition with good performance.",
+    "category": "Audio/Speech",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/whisper-small",
+    "official_website": "https://huggingface.co/openai/whisper-small",
+    "tags": [
+      "pytorch",
+      "transformers",
+      "speech-recognition",
+      "automatic-speech-recognition"
+    ]
+  },
+  {
+    "id": "99dc673c-e17a-4d69-b5b9-7f15a17ecd6e",
+    "name": "Webflow AI",
+    "description": "AI-enhanced visual web development",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "webflowai",
+    "official_website": "webflowai",
+    "tags": []
+  },
+  {
+    "id": "9e3a4faf0c93",
+    "name": "WatchNow AI",
+    "description": "Personalize your movie discovery with AI-driven, user-tailored recommendations.",
+    "category": "productivity",
+    "pricing": "Free",
+    "url": "https://www.watchnowai.com",
+    "official_website": "https://www.watchnowai.com",
+    "tags": []
+  },
+  {
+    "id": "9ff9fa7c-29a2-4aff-a92c-8616894c01d0",
+    "name": "Workday AI",
+    "description": "AI-powered human capital management",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "workdayai",
+    "official_website": "workdayai",
+    "tags": []
+  },
+  {
+    "id": "a0c17e3b7849",
+    "name": "Warp",
+    "description": "Modern Rust-based terminal with AI-powered agent, block-based UI for structuring commands, and collaborative workflows for terminal automation.",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "url": "https://www.warp.dev/",
+    "official_website": "https://www.warp.dev/",
+    "tags": [
+      "terminal",
+      "rust-based",
+      "collaborative",
+      "block-ui",
+      "ai-agent",
+      "workflows"
+    ]
+  },
+  {
+    "id": "a2b9c8796d3e",
+    "name": "Wavel AI",
+    "description": "Text-to-speech and dubbing platform with advanced voice cloning and built-in translation features. Suited for diverse multimedia production needs with complex voice manipulation capabilities.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://wavel.ai/",
+    "official_website": "https://wavel.ai/",
+    "tags": [
+      "voice-cloning",
+      "complex-features",
+      "translation",
+      "dubbing",
+      "multimedia"
+    ]
+  },
+  {
+    "id": "a4a9e7cc3d27",
+    "name": "Wiza",
+    "description": "Wiza is the most powerful B2B contact database. Search 830m+ contacts with verified contact emails and phone numbers, set up real-time job change notifications via email and Slack, and automatically sync data to keep your CRM up to date.",
+    "category": "Lead generation software, Sales enablement, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://wiza.com",
+    "official_website": "https://wiza.com",
+    "tags": []
+  },
+  {
+    "id": "a4e2b5ab-a150-4b1e-af96-c3748a7e22e7",
+    "name": "WellSaid Labs",
+    "description": "Professional-grade AI voice platform focused on business-grade text-to-speech solutions. Offers hundreds of realistic voices, team collaboration features, enterprise security, and integration with creative tools.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.wellsaid.io/",
+    "official_website": "https://www.wellsaid.io/",
+    "tags": []
+  },
+  {
+    "id": "a5b9d84ebf43",
+    "name": "Windsurf",
+    "description": "AI-native code editor by Codeium featuring Cascade agent for collaborative coding, comprehensive codebase understanding, and prompt credit system.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://windsurf.com/",
+    "official_website": "https://windsurf.com/",
+    "tags": [
+      "collaborative-agent",
+      "codeium",
+      "ai-ide",
+      "prompt-credits",
+      "codebase-understanding"
+    ]
+  },
+  {
+    "id": "ad3a7cd1620c",
+    "name": "Writefull",
+    "description": "Writefull is an AI-powered writing assistant that dramatically boosts academic and professional productivity with real-time feedback and intelligent suggestions.",
+    "category": "Education & Learning, Writing Assistant",
+    "pricing": "Not specified",
+    "url": "https://writefull.com",
+    "official_website": "https://writefull.com",
+    "tags": []
+  },
+  {
+    "id": "aff032e9-cace-4a24-bc44-1214987de198",
+    "name": "Writesonic",
+    "description": "Writesonic's AI writing assistant, you can generate high-quality, human-level blog posts, article, landing pages, emails, product descriptions, digital ads and more in seconds. All you have to do is to enter any topic of your choice and you're done.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/writesonic",
+    "official_website": "https://www.producthunt.com/products/writesonic",
+    "tags": []
+  },
+  {
+    "id": "b0d1b63c-c25b-492b-9ce1-3522d3f7a3e2",
+    "name": "Wondercraft AI",
+    "description": "AI-native video studio with integrated podcast and voice generation features. Combines real editor functionality with AI agents for creative content production.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.wondercraft.ai/",
+    "official_website": "https://www.wondercraft.ai/",
+    "tags": []
+  },
+  {
+    "id": "b2c878938ea2",
+    "name": "Writesonic",
+    "description": "AI Search Visibility Tracking & Optimization Platform for 20,000+ teams. Tracks AI platform rankings across ChatGPT, Gemini, Claude, Perplexity, and 10+ other AI platforms. Provides AI-powered SEO, content creation, and optimization with enterprise security.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://writesonic.com/",
+    "official_website": "https://writesonic.com/",
+    "tags": [
+      "AI search visibility",
+      "GEO optimization",
+      "SEO",
+      "content optimization",
+      "enterprise security",
+      "AI platform tracking"
+    ]
+  },
+  {
+    "id": "b3185684-164a-453f-8abc-d66f360958a0",
+    "name": "Windsurf",
+    "description": "AI-native code editor by Codeium featuring Cascade agent for collaborative coding, comprehensive codebase understanding, and prompt credit system.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://windsurf.com/",
+    "official_website": "https://windsurf.com/",
+    "tags": []
+  },
+  {
+    "id": "b323b9789757",
+    "name": "waifu-diffusion",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/hakurei/waifu-diffusion",
+    "official_website": "https://huggingface.co/hakurei/waifu-diffusion",
+    "tags": []
+  },
+  {
+    "id": "b3cd5985-2680-448b-838f-5257532ecba2",
+    "name": "Writesonic",
+    "description": "AI Search Visibility Tracking & Optimization Platform for 20,000+ teams. Tracks AI platform rankings across ChatGPT, Gemini, Claude, Perplexity, and 10+ other AI platforms. Provides AI-powered SEO, content creation, and optimization with enterprise security.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://writesonic.com/",
+    "official_website": "https://writesonic.com/",
+    "tags": []
+  },
+  {
+    "id": "b877afa3-43de-4107-b2b5-c7fcd3c1846e",
+    "name": "Writitude",
+    "description": "A tool to create and enforce custom writing guidelines with analysis for consistent brand voice",
+    "category": "Copywriting",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/writitude",
+    "official_website": "https://www.futuretools.io/tools/writitude",
+    "tags": []
+  },
+  {
+    "id": "b9197dcb-e460-4f36-8ddb-8afb3b73bdda",
+    "name": "Watchman AI",
+    "description": "Watchman's AI agents capture your invisible B2B buyers \u2014 delivering endless pipelines of qualified accounts and enriched leads by automating the identification, research, and qualification of your anonymous web visitors.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/watchman-ai",
+    "official_website": "https://www.producthunt.com/products/watchman-ai",
+    "tags": []
+  },
+  {
+    "id": "b9bff2653329",
+    "name": "wav2vec2-large-xlsr-53-portuguese",
+    "description": "AI model wav2vec2-large-xlsr-53-portuguese from jonatasgrosman on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
+    "official_website": "https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-portuguese",
+    "tags": []
+  },
+  {
+    "id": "bf5de9995c92",
+    "name": "Workato",
+    "description": "Enterprise workflow automation platform with 1000+ business application integrations, data orchestration capabilities, ETL functions, and comprehensive governance controls for large organizations.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://workato.com",
+    "official_website": "https://workato.com",
+    "tags": [
+      "data-orchestration",
+      "etl",
+      "enterprise-automation",
+      "governance",
+      "business-applications"
+    ]
+  },
+  {
+    "id": "bff1ae76c28a",
+    "name": "WellPin",
+    "description": "Smart AI meeting and task planner for productivity.",
+    "category": "Productivity",
+    "pricing": "Not Specified",
+    "url": "https://saasaitools.com/wellpin",
+    "official_website": "https://saasaitools.com/wellpin",
+    "tags": [
+      "productivity",
+      "planning"
+    ]
+  },
+  {
+    "id": "c5b0dd1a-86dd-4387-b1cf-f04a379b3a59",
+    "name": "Wondershare Filmora",
+    "description": "Beginner-friendly AI video editor with powerful features including AI background removal, auto-reframe, smart scene detection, AI-powered text-to-speech, and voice enhancement.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://filmora.wondershare.com/",
+    "official_website": "https://filmora.wondershare.com/",
+    "tags": []
+  },
+  {
+    "id": "c72f94e3-89e5-4a78-a62c-7387e28ea1c6",
+    "name": "WooCommerce AI",
+    "description": "AI plugins for WooCommerce",
+    "category": "AI E-commerce",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "woocommerceai",
+    "official_website": "woocommerceai",
+    "tags": []
+  },
+  {
+    "id": "c9bb8bd61a9b",
+    "name": "Whimsical AI",
+    "description": "AI-powered mind mapping and visualization tool powered by ChatGPT. Creates mind maps, flowcharts, and wireframes from text prompts with collaboration features.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://whimsical.com/ai/ai-mind-maps",
+    "official_website": "https://whimsical.com/ai/ai-mind-maps",
+    "tags": [
+      "ideation",
+      "collaboration",
+      "flowcharts",
+      "mind-maps",
+      "visual-thinking"
+    ]
+  },
+  {
+    "id": "caa6ec56-9405-402e-8fa6-e53946c914d7",
+    "name": "Wan_2.1_ComfyUI_repackaged",
+    "description": "Updated24 days ago",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+    "official_website": "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged",
+    "tags": []
+  },
+  {
+    "id": "caaf6f87-be74-4b6e-a24d-211734e08654",
+    "name": "Wave AI",
+    "description": "AI-enhanced small business accounting",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "waveai",
+    "official_website": "waveai",
+    "tags": []
+  },
+  {
+    "id": "cccfe6283def",
+    "name": "What-If Tool",
+    "description": "Specialized AI tool for ai ethics applications",
+    "category": "AI Ethics",
+    "pricing": "Open Source",
+    "url": "https://what-iftool.com",
+    "official_website": "https://what-iftool.com",
+    "tags": []
+  },
+  {
+    "id": "ce0fd911-dc4a-4276-b141-17edf9aff8ce",
+    "name": "Wordtune",
+    "description": "AI writing companion for rewriting",
+    "category": "AI Writing Tools",
+    "pricing": "Freemium",
+    "url": "https://wordtune.com",
+    "official_website": "https://wordtune.com",
+    "tags": []
+  },
+  {
+    "id": "ce4af04d0e69",
+    "name": "Whisper WebGPU",
+    "description": "Convert spoken words into text using Whisper with WebGPU acceleration.",
+    "category": "Speech Recognition",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/Xenova/whisper-webgpu",
+    "official_website": "https://huggingface.co/spaces/Xenova/whisper-webgpu",
+    "tags": [
+      "recognition",
+      "speech"
+    ]
+  },
+  {
+    "id": "da0663ad-36cb-46fc-812b-861c448ec0ff",
+    "name": "Whimsical AI",
+    "description": "AI mind mapping and diagrams",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "whimsicalai",
+    "official_website": "whimsicalai",
+    "tags": []
+  },
+  {
+    "id": "db3228f41d66",
+    "name": "Wix ADI",
+    "description": "One of the most comprehensive AI website builders with effective AI site designer via chatbot interaction, AI tool to create new sections, and Theme Assistant chatbot for look and feel changes. Offers a mature feature set including blogging, eCommerce, and booking capabilities.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://www.wix.com/",
+    "official_website": "https://www.wix.com/",
+    "tags": [
+      "website builder",
+      "drag-and-drop",
+      "responsive",
+      "ecommerce",
+      "templates",
+      "ai assistant"
+    ]
+  },
+  {
+    "id": "dd2355474ad4",
+    "name": "Wordtune",
+    "description": "AI-powered paraphrasing tool and writing assistant with 10M+ users worldwide. Offers rewriting, paraphrasing, grammar checking, tone switching, summarization, and multilingual translation to English. Available across desktop, mobile, and browser extensions.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://www.wordtune.com/",
+    "official_website": "https://www.wordtune.com/",
+    "tags": [
+      "fact checking",
+      "cross-platform",
+      "summarization",
+      "grammar checking",
+      "paraphrasing",
+      "multilingual",
+      "tone adjustment"
+    ]
+  },
+  {
+    "id": "df710f842b40",
+    "name": "Wordvice AI",
+    "description": "AI grammar checker supporting 14+ languages with revision modes (Light, Standard, Intensive, Concise). Offers comprehensive grammar checking, paraphrasing, translation, and editorial comments. Integrates with Chrome extension and MS Word add-in for professional editing.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://wordvice.ai/tools/grammar-checker",
+    "official_website": "https://wordvice.ai/tools/grammar-checker",
+    "tags": [
+      "multilingual grammar",
+      "academic writing",
+      "revision modes",
+      "translation",
+      "editorial feedback",
+      "MS Word integration"
+    ]
+  },
+  {
+    "id": "e1cf2213-f7bf-4d88-b002-08bc623a9c66",
+    "name": "Wiza",
+    "description": "Wiza is the most powerful B2B contact database. Search 830m+ contacts with verified contact emails and phone numbers, set up real-time job change notifications via email and Slack, and automatically sync data to keep your CRM up to date.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/wiza",
+    "official_website": "https://www.producthunt.com/products/wiza",
+    "tags": []
+  },
+  {
+    "id": "e3924fb0-8b88-4a6d-b744-47ae6f3e84bb",
+    "name": "Writer",
+    "description": "Enterprise AI writing platform using proprietary LLMs for brand-safe content creation, team collaboration features, and content consistency tools for large organizations.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://writer.com",
+    "official_website": "https://writer.com",
+    "tags": []
+  },
+  {
+    "id": "e7b9bc14-bd34-4e90-9200-015a2e843711",
+    "name": "WordStream AI",
+    "description": "AI PPC optimization and management",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "wordstreamai",
+    "official_website": "wordstreamai",
+    "tags": []
+  },
+  {
+    "id": "e7cf4961b04e",
+    "name": "wikitext",
+    "description": "AI model wikitext from datasets on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/datasets/wikitext",
+    "official_website": "https://huggingface.co/datasets/wikitext",
+    "tags": []
+  },
+  {
+    "id": "ea0fe241-471e-4860-90a3-591e36398fe7",
+    "name": "Wrike",
+    "description": "Enterprise project management platform with Wrike Intelligence using machine learning for risk prediction, project health indicators, AI-generated project assessments, and comprehensive workflow automation.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://wrike.com",
+    "official_website": "https://wrike.com",
+    "tags": []
+  },
+  {
+    "id": "ec6ec867a012",
+    "name": "Whisper by OpenAI",
+    "description": "A neural net for speech recognition",
+    "category": "AI Voice Agents, Text-to-Speech Software",
+    "pricing": "Not Specified",
+    "url": "https://openai.com/research/whisper",
+    "official_website": "https://openai.com/research/whisper",
+    "tags": []
+  },
+  {
+    "id": "ee2cf8f3-91e8-4b28-a4d3-7f196026dc0b",
+    "name": "WellSaid Labs",
+    "description": "AI voice platform for enterprises",
+    "category": "AI Voice",
+    "pricing": "Premium",
+    "url": "https://wellsaidlabs.com",
+    "official_website": "https://wellsaidlabs.com",
+    "tags": []
+  },
+  {
+    "id": "ee8103ee9139",
+    "name": "wav2vec2-base-960h",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/wav2vec2-base-960h",
+    "official_website": "https://huggingface.co/facebook/wav2vec2-base-960h",
+    "tags": []
+  },
+  {
+    "id": "ef2666f1-de9a-452a-9793-3f4525d331b1",
+    "name": "Whatagraph",
+    "description": "AI-powered reporting tool that creates accurate, stunning, and scalable SEO reports for clients or executives in seconds. Features one-click integrations with 55+ marketing platforms, AI-powered report generation, and automated report delivery.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://whatagraph.com/",
+    "official_website": "https://whatagraph.com/",
+    "tags": []
+  },
+  {
+    "id": "f16b29bedf0b",
+    "name": "WanVideo_comfy",
+    "description": "Updatedabout 5 hours ago",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Kijai/WanVideo_comfy",
+    "official_website": "https://huggingface.co/Kijai/WanVideo_comfy",
+    "tags": []
+  },
+  {
+    "id": "f1c96e54-22a7-4e28-a8f7-ba8925932f32",
+    "name": "wikitext2",
+    "description": "Wikipedia text dataset",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "f1d52aefaa35",
+    "name": "whisper-large-v3",
+    "description": "Whisper is a state-of-the-art model for automatic speech recognition (ASR) and speech translation.",
+    "category": "Audio/Speech",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/openai/whisper-large-v3",
+    "official_website": "https://huggingface.co/openai/whisper-large-v3",
+    "tags": [
+      "pytorch",
+      "transformers",
+      "speech-recognition",
+      "automatic-speech-recognition"
+    ]
+  },
+  {
+    "id": "f5854f4cb8da",
+    "name": "Windsurf",
+    "description": "Windsurf AI is an advanced AI-powered integrated development environment (IDE) featuring an intelligent coding agent called Cascade.",
+    "category": "IDE, Coding Agents",
+    "pricing": "Free",
+    "url": "https://windsurf.com",
+    "official_website": "https://windsurf.com",
+    "tags": []
+  }
+]

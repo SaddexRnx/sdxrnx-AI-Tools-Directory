@@ -1,0 +1,873 @@
+[
+  {
+    "id": "087adab2-454b-4655-a5aa-a1ce8dedb904",
+    "name": "Qwen2.5-Math-1.5B",
+    "description": "AI model Qwen2.5-Math-1.5B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-Math-1.5B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-Math-1.5B",
+    "tags": []
+  },
+  {
+    "id": "0b4f2b36-339a-483c-9119-465af1cd7d76",
+    "name": "QuillBot",
+    "description": "AI paraphrasing and summarization tool",
+    "category": "AI Paraphrasing",
+    "pricing": "Freemium",
+    "url": "https://quillbot.com",
+    "official_website": "https://quillbot.com",
+    "tags": []
+  },
+  {
+    "id": "0f4173ad-68ef-4b8f-9e02-cfcd4e120e5d",
+    "name": "Qwen3-0.6B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "tags": []
+  },
+  {
+    "id": "0f76c48a-f511-4c99-940d-e93c13fca2b4",
+    "name": "Qodo Gen",
+    "description": "Quality-first AI coding platform focusing on code integrity, test generation, and automated code reviews with agentic workflows.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.qodo.ai/products/qodo-gen/",
+    "official_website": "https://www.qodo.ai/products/qodo-gen/",
+    "tags": []
+  },
+  {
+    "id": "1579180c-a488-408d-96d0-5952d6bcb2b7",
+    "name": "QwQ-32B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/QwQ-32B",
+    "official_website": "https://huggingface.co/Qwen/QwQ-32B",
+    "tags": []
+  },
+  {
+    "id": "157ac4a02b6b",
+    "name": "Quantexa",
+    "description": "AI-powered data analytics for financial institutions and fraud detection.",
+    "category": "Analytics",
+    "pricing": "Enterprise",
+    "url": "https://quantexa.com/",
+    "official_website": "https://quantexa.com/",
+    "tags": [
+      "finance",
+      "analytics"
+    ]
+  },
+  {
+    "id": "18a85c65-d6b0-4585-97ed-54a069753451",
+    "name": "Qdrant Cloud Inference",
+    "description": "Unify embeddings and vector search across modalities. Generates embeddings for text, image, and sparse data directly inside your managed Qdrant cluster.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/qdrant-cloud-inference",
+    "official_website": "https://www.producthunt.com/products/qdrant-cloud-inference",
+    "tags": []
+  },
+  {
+    "id": "19670cceed84",
+    "name": "Qwen2.5-0.5B-Instruct",
+    "description": "AI model Qwen2.5-0.5B-Instruct from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "23fb06a6e7a6",
+    "name": "Qwen3-Embedding-0.6B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
+    "tags": []
+  },
+  {
+    "id": "2513157e-cfd1-4199-816c-c7c39a395d96",
+    "name": "Qure.ai TB",
+    "description": "Tuberculosis screening AI",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://qure.ai.com",
+    "official_website": "https://qure.ai.com",
+    "tags": []
+  },
+  {
+    "id": "275208c57cb2",
+    "name": "Qwen3-0.6B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-0.6B",
+    "tags": []
+  },
+  {
+    "id": "27bccdcd-5033-4500-aa88-521e0b4f1720",
+    "name": "Quick, Draw!",
+    "description": "Interactive doodling game powered by machine learning",
+    "category": "Experiments & Demos",
+    "pricing": "Unknown",
+    "url": "https://quickdraw.withgoogle.com/",
+    "official_website": "https://quickdraw.withgoogle.com/",
+    "tags": []
+  },
+  {
+    "id": "28bbc97a-5ad7-48b4-af03-096096bd8e63",
+    "name": "Qwen2.5-VL-3B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "2d706671-9375-4091-8a43-2eda8c6f3cf4",
+    "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "description": "AI model Qwen3-Coder-30B-A3B-Instruct-GGUF from unsloth on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "official_website": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "tags": []
+  },
+  {
+    "id": "32631c36-86a1-4d3e-be5a-afaa5640e173",
+    "name": "QuantConnect Algorithmic",
+    "description": "Algorithmic trading platform",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://quantconnect.com",
+    "official_website": "https://quantconnect.com",
+    "tags": []
+  },
+  {
+    "id": "3298fd16-651f-489a-bcb8-55bba4e1f265",
+    "name": "Qwen3-30B-A3B-FP4",
+    "description": "AI model Qwen3-30B-A3B-FP4 from nvidia on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/nvidia/Qwen3-30B-A3B-FP4",
+    "official_website": "https://huggingface.co/nvidia/Qwen3-30B-A3B-FP4",
+    "tags": []
+  },
+  {
+    "id": "33f08cded641",
+    "name": "Qwen3-Coder-REAP-25B-A3B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B",
+    "official_website": "https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B",
+    "tags": []
+  },
+  {
+    "id": "399d9b91-9a42-4f53-9a51-10ae7e589c5b",
+    "name": "QuickBooks AI",
+    "description": "AI-powered accounting and finance",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "quickbooksai",
+    "official_website": "quickbooksai",
+    "tags": []
+  },
+  {
+    "id": "39db53d5-7048-4727-8815-cd4f6ffb5955",
+    "name": "Qualtrics",
+    "description": "Specialized AI tool for psychology research applications",
+    "category": "Psychology Research",
+    "pricing": "Open Source",
+    "url": "https://qualtrics.com",
+    "official_website": "https://qualtrics.com",
+    "tags": []
+  },
+  {
+    "id": "3a0c996a-420c-4555-9fb6-9559f52fd587",
+    "name": "Qwen3-Coder-REAP-25B-A3B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B",
+    "official_website": "https://huggingface.co/cerebras/Qwen3-Coder-REAP-25B-A3B",
+    "tags": []
+  },
+  {
+    "id": "3c3c0af7cb3a",
+    "name": "QIIME 2",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://qiime 2.org",
+    "official_website": "https://qiime 2.org",
+    "tags": []
+  },
+  {
+    "id": "3dd3b5f591ab",
+    "name": "Qwen-Image",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen-Image",
+    "official_website": "https://huggingface.co/Qwen/Qwen-Image",
+    "tags": []
+  },
+  {
+    "id": "41e7eb7d6e6c",
+    "name": "Qualtrics",
+    "description": "Specialized AI tool for psychology research applications",
+    "category": "Psychology Research",
+    "pricing": "Open Source",
+    "url": "https://qualtrics.com",
+    "official_website": "https://qualtrics.com",
+    "tags": []
+  },
+  {
+    "id": "42067f55-a7e1-4c96-8079-1c4e22bbeb79",
+    "name": "Quizlet AI",
+    "description": "AI-enhanced learning and test prep",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "quizletai",
+    "official_website": "quizletai",
+    "tags": []
+  },
+  {
+    "id": "482f32dc-38e0-42e0-b6a7-898da18e0678",
+    "name": "Qwen2.5-7B-Instruct",
+    "description": "AI model Qwen2.5-7B-Instruct from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "4bdaca6c-877e-4340-8d46-b11bd4b77e84",
+    "name": "Quibim",
+    "description": "AI medical imaging platform",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "quibim",
+    "official_website": "quibim",
+    "tags": []
+  },
+  {
+    "id": "4daacd37-5a7d-4fbd-8e50-1e0464e30969",
+    "name": "Quarto",
+    "description": "Scientific and technical publishing",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://posit.com",
+    "official_website": "https://posit.com",
+    "tags": []
+  },
+  {
+    "id": "546724c1-ff49-40ab-a94b-4189d003f57f",
+    "name": "Quash",
+    "description": "Quash is an AI-powered platform for mobile app testing and quality assurance that automates the entire QA process from generating tests based on product requirements to logging and prioritizing bugs with detailed reports including logs and screenshots using advanced AI algorithms Quash mimics real user behaviors to perform comprehensive functional visual and accessibility tests ensuring apps meet high standards without manual scripting or repetitive effort Developers QA engineers and product tea",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/quashbugs-com",
+    "official_website": "https://futuretools.link/quashbugs-com",
+    "tags": []
+  },
+  {
+    "id": "568f70ba-a1aa-4bc0-ba77-16639084408d",
+    "name": "Qwen3-Coder-30B-A3B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "5a1e3600e690",
+    "name": "QuillBot",
+    "description": "AI-powered paraphrasing tool for writing assistance and grammar improvement.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://quillbot.com/",
+    "official_website": "https://quillbot.com/",
+    "tags": [
+      "paraphrasing",
+      "writing"
+    ]
+  },
+  {
+    "id": "5b291e47-5ca1-49e1-91c5-e839117a5b8a",
+    "name": "QuickBooks Payroll",
+    "description": "Payroll software with AI-powered tax calculations and compliance automation",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://quickbooks.intuit.com",
+    "official_website": "https://quickbooks.intuit.com",
+    "tags": []
+  },
+  {
+    "id": "5e5db33bc147",
+    "name": "qRaptor",
+    "description": "qRaptor is a revolutionary no-code platform for building agent-native AI applications. Create intelligent multi-agent systems with drag-and-drop simplicity. Perfect for enterprises and developers looking to build AI-powered applications quickly.",
+    "category": "AI Agent Automation",
+    "pricing": "Not Specified",
+    "url": "https://qraptor.com",
+    "official_website": "https://qraptor.com",
+    "tags": []
+  },
+  {
+    "id": "5f7470c9-5564-40f2-bac8-1379a289472f",
+    "name": "Qwen-Image",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen-Image",
+    "official_website": "https://huggingface.co/Qwen/Qwen-Image",
+    "tags": []
+  },
+  {
+    "id": "609d19c5349a",
+    "name": "Qwen2.5-1.5B",
+    "description": "AI model Qwen2.5-1.5B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
+    "tags": []
+  },
+  {
+    "id": "64f9a349c71c",
+    "name": "Qwen2.5-7B-Instruct",
+    "description": "AI model Qwen2.5-7B-Instruct from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "6b4515d684ac",
+    "name": "Qwen3-Coder",
+    "description": "Very good coding model with 1000 free requests/day via CLI for 405b model",
+    "category": "Coding/Development",
+    "pricing": "Unknown",
+    "url": "https://qwenlm.ai",
+    "official_website": "https://qwenlm.ai",
+    "tags": []
+  },
+  {
+    "id": "6e685ee1-9267-4b0b-9f90-ca4d6c3e8fb0",
+    "name": "Quizify",
+    "description": "Create smart quizzes with zero effort.",
+    "category": "Education",
+    "pricing": "Free + from $9/mo",
+    "url": "https://quizify.io/ai-quiz-maker",
+    "official_website": "https://quizify.io/ai-quiz-maker",
+    "tags": []
+  },
+  {
+    "id": "7419a0f2-e497-488a-b555-10a1d7144013",
+    "name": "Qure.ai",
+    "description": "AI diagnostic tools for medical imaging in radiology, cardiology, and pulmonology",
+    "category": "Healthcare",
+    "pricing": "Enterprise",
+    "url": "https://www.qure.ai",
+    "official_website": "https://www.qure.ai",
+    "tags": []
+  },
+  {
+    "id": "7742a0f1163a",
+    "name": "Qdrant Cloud Inference",
+    "description": "Unify embeddings and vector search across modalities. Generates embeddings for text, image, and sparse data directly inside your managed Qdrant cluster.",
+    "category": "AI Infrastructure Tools, AI Databases",
+    "pricing": "Not Specified",
+    "url": "https://qdrant.tech",
+    "official_website": "https://qdrant.tech",
+    "tags": []
+  },
+  {
+    "id": "776a470b3a8d",
+    "name": "Qwen3-235B-A22B-Thinking-2507",
+    "description": "AI model Qwen3-235B-A22B-Thinking-2507 from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "tags": []
+  },
+  {
+    "id": "7a7056e08536",
+    "name": "Qwen3-30B-A3B-FP4",
+    "description": "AI model Qwen3-30B-A3B-FP4 from nvidia on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/nvidia/Qwen3-30B-A3B-FP4",
+    "official_website": "https://huggingface.co/nvidia/Qwen3-30B-A3B-FP4",
+    "tags": []
+  },
+  {
+    "id": "83a168f90bf7",
+    "name": "Qwen2.5-1.5B-Instruct",
+    "description": "AI model Qwen2.5-1.5B-Instruct from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "856181eed585",
+    "name": "Qwen2.5-3B",
+    "description": "AI model Qwen2.5-3B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-3B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-3B",
+    "tags": []
+  },
+  {
+    "id": "86303201-6778-445a-8b24-2ed1da3d3ba4",
+    "name": "Qwen3-Next-80B-A3B-Instruct-GGUF",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF",
+    "official_website": "https://huggingface.co/lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF",
+    "tags": []
+  },
+  {
+    "id": "87521b56d848",
+    "name": "Qwen3-30B-A3B-Thinking-2507",
+    "description": "AI model Qwen3-30B-A3B-Thinking-2507 from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507",
+    "tags": []
+  },
+  {
+    "id": "8d0169d9-47f4-4ef7-b70b-1857643e74e0",
+    "name": "Qwen3-4B-Instruct-2507",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+    "tags": []
+  },
+  {
+    "id": "91762570ec9d",
+    "name": "Qodo",
+    "description": "A quality-first AI code integrity platform for reviewing, testing, and writing code across the entire development lifecycle.",
+    "category": "Code Quality, Testing",
+    "pricing": "Free",
+    "url": "https://www.qodo.ai",
+    "official_website": "https://www.qodo.ai",
+    "tags": []
+  },
+  {
+    "id": "935cb467-028f-4c6f-b778-eb8535c22c55",
+    "name": "Quickads",
+    "description": "AI ad generator with a 20M+ ad library, fast image and video creation, and direct publishing tools for small businesses, agencies, and marketing teams",
+    "category": "Advertising",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/quickads",
+    "official_website": "https://link.aitoolsdirectory.com/quickads",
+    "tags": []
+  },
+  {
+    "id": "95d48711-77b6-4a4d-88f9-e18d58dd45e9",
+    "name": "QuillBot",
+    "description": "Comprehensive AI writing platform with 35M+ users in 180+ countries. Offers paraphrasing, grammar checking, AI detection, plagiarism checking, summarization, translation, citation generation, and AI humanizer. Made at UIUC, part of Learneo Inc.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://quillbot.com/",
+    "official_website": "https://quillbot.com/",
+    "tags": []
+  },
+  {
+    "id": "980afef949df",
+    "name": "QGIS",
+    "description": "Specialized AI tool for geographic analysis applications",
+    "category": "Geographic Analysis",
+    "pricing": "Open Source",
+    "url": "https://qgis.com",
+    "official_website": "https://qgis.com",
+    "tags": []
+  },
+  {
+    "id": "99ad8ed9-e01b-4c86-b49c-8cd03eab5f76",
+    "name": "QIIME 2",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://qiime 2.org",
+    "official_website": "https://qiime 2.org",
+    "tags": []
+  },
+  {
+    "id": "9e9a1e4a-752c-4a7b-b97b-ad9fbb4143c6",
+    "name": "Qlik Sense",
+    "description": "Advanced analytics platform with associative data model, AI-powered insights, augmented analytics, self-service capabilities, and flexible cloud/on-premise deployment. Known for innovative associative engine technology.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://www.qlik.com/",
+    "official_website": "https://www.qlik.com/",
+    "tags": []
+  },
+  {
+    "id": "9f6a5f9e-486b-4356-a7c2-1654f5e31433",
+    "name": "Quibim",
+    "description": "AI-powered healthcare solution",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.quibim.com",
+    "official_website": "https://www.quibim.com",
+    "tags": []
+  },
+  {
+    "id": "a7f2f4c1-f3cf-4232-9c8d-56e6d9c58a38",
+    "name": "Qlik AI",
+    "description": "AI-enhanced business intelligence platform",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "qlikai",
+    "official_website": "qlikai",
+    "tags": []
+  },
+  {
+    "id": "a8d32448f3c2",
+    "name": "Qwen3-32B",
+    "description": "AI model Qwen3-32B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-32B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-32B",
+    "tags": []
+  },
+  {
+    "id": "a912f4a65424",
+    "name": "Qwen3-Next-80B-A3B-Instruct-GGUF",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF",
+    "official_website": "https://huggingface.co/lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF",
+    "tags": []
+  },
+  {
+    "id": "ae75b3c6-9be7-43e4-b5dc-f3cd75cfe755",
+    "name": "Qwen2.5-0.5B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
+    "tags": []
+  },
+  {
+    "id": "ae8a2d9592ad",
+    "name": "QwQ-32B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/QwQ-32B",
+    "official_website": "https://huggingface.co/Qwen/QwQ-32B",
+    "tags": []
+  },
+  {
+    "id": "b53798c0-2085-4a39-8b13-7c767f6464b5",
+    "name": "Qwen2.5-0.5B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Gensyn/Qwen2.5-0.5B-Instruct",
+    "official_website": "https://huggingface.co/Gensyn/Qwen2.5-0.5B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "b662aeeaffae",
+    "name": "Qwen2.5-3B-Instruct",
+    "description": "AI model Qwen2.5-3B-Instruct from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "b9fc771aadd4",
+    "name": "Qodo Gen",
+    "description": "Quality-first AI coding platform focusing on code integrity, test generation, and automated code reviews with agentic workflows.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.qodo.ai/products/qodo-gen/",
+    "official_website": "https://www.qodo.ai/products/qodo-gen/",
+    "tags": [
+      "test-generation",
+      "code-integrity",
+      "testing",
+      "agentic-workflow",
+      "quality-focused",
+      "code-reviews"
+    ]
+  },
+  {
+    "id": "b9ffd969-d341-4504-93a9-25426c085219",
+    "name": "Qwen3-8B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen3-8B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-8B",
+    "tags": []
+  },
+  {
+    "id": "bf720edc-e1b0-4f0f-b6c6-8114e7ac772f",
+    "name": "Qwen2.5-1.5B",
+    "description": "AI model Qwen2.5-1.5B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-1.5B",
+    "tags": []
+  },
+  {
+    "id": "c55755943288",
+    "name": "Qwen3-4B-Thinking-2507",
+    "description": "AI model Qwen3-4B-Thinking-2507 from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507",
+    "tags": []
+  },
+  {
+    "id": "c647b2b3ede6",
+    "name": "Qwen2.5-Math-1.5B",
+    "description": "AI model Qwen2.5-Math-1.5B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-Math-1.5B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-Math-1.5B",
+    "tags": []
+  },
+  {
+    "id": "c897ad19-64ae-42ad-9032-8d0779d3abc6",
+    "name": "Qwen3-Embedding-0.6B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
+    "tags": []
+  },
+  {
+    "id": "c94b6bb5-bea3-429f-9252-6de8590833c4",
+    "name": "Qwen 2.5 72B Instruct",
+    "description": "High performance multilingual model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "c95c35c5faee",
+    "name": "Qwen3-Coder-30B-A3B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "d18d639162f7",
+    "name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "description": "AI model Qwen3-Coder-30B-A3B-Instruct-GGUF from unsloth on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "official_website": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "tags": []
+  },
+  {
+    "id": "d21553630cf1",
+    "name": "Qwen3-8B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-8B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-8B",
+    "tags": []
+  },
+  {
+    "id": "d3985f8f147a",
+    "name": "Qwen3-14B",
+    "description": "AI model Qwen3-14B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-14B",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-14B",
+    "tags": []
+  },
+  {
+    "id": "d80f11ff902f",
+    "name": "Qwen2.5-0.5B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-0.5B",
+    "tags": []
+  },
+  {
+    "id": "dad3edf17170",
+    "name": "Qwen3-235B-A22B-Instruct-2507",
+    "description": "AI model Qwen3-235B-A22B-Instruct-2507 from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507",
+    "tags": []
+  },
+  {
+    "id": "dbb63ec7-1b3c-463d-b44d-c001061f279f",
+    "name": "Quillbot",
+    "description": "AI tool for paraphrasing, summarizing, and enhancing writing effortlessly.",
+    "category": "Other",
+    "pricing": "Freemium",
+    "url": "https://try.quillbot.com/futurepedia",
+    "official_website": "https://try.quillbot.com/futurepedia",
+    "tags": []
+  },
+  {
+    "id": "dd2b72fe7dab",
+    "name": "Qwen3-4B-Instruct-2507",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+    "tags": []
+  },
+  {
+    "id": "df601d27de3b",
+    "name": "Qwen2.5-0.5B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Gensyn/Qwen2.5-0.5B-Instruct",
+    "official_website": "https://huggingface.co/Gensyn/Qwen2.5-0.5B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "e902b2dd11cd",
+    "name": "Qlik Sense",
+    "description": "Advanced analytics platform with associative data model, AI-powered insights, augmented analytics, self-service capabilities, and flexible cloud/on-premise deployment. Known for innovative associative engine technology.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://www.qlik.com/",
+    "official_website": "https://www.qlik.com/",
+    "tags": [
+      "cloud-deployment",
+      "associative-engine",
+      "self-service",
+      "interactive-exploration",
+      "augmented-analytics"
+    ]
+  },
+  {
+    "id": "ea35762ce880",
+    "name": "QuillBot",
+    "description": "AI-powered paraphrasing tool",
+    "category": "Writing Assistants",
+    "pricing": "Not Specified",
+    "url": "https://quillbot.com",
+    "official_website": "https://quillbot.com",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "ec1c2a953c01",
+    "name": "Qwen2.5-VL-3B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "ec1f7acf-48af-4870-b17b-c232edf47af5",
+    "name": "QuillBot",
+    "description": "AI-powered paraphrasing tool",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "quillbot",
+    "official_website": "quillbot",
+    "tags": []
+  },
+  {
+    "id": "ef8d5a1c-a830-4b6c-b2e0-995e838853cb",
+    "name": "Quiki.io",
+    "description": "Quiki.io is an AI-powered command center that transforms the way users manage and analyze their saved videos across TikTok, YouTube, and Instagram. Instead of endlessly scrolling through cluttered libraries, Quiki.io centralizes content into one searchable hub where any video can be found in seconds. Its AI scans videos to deliver instant summaries, key insights, and detailed reports that help users uncover trends, track performance, and extract actionable strategies. From marketing intelligence",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/quiki-io",
+    "official_website": "https://futuretools.link/quiki-io",
+    "tags": []
+  },
+  {
+    "id": "f0c9fc3e-8984-4e97-845e-3933e904be69",
+    "name": "Qwen3-235B-A22B-Thinking-2507",
+    "description": "AI model Qwen3-235B-A22B-Thinking-2507 from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "official_website": "https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507",
+    "tags": []
+  },
+  {
+    "id": "f115017d8dbc",
+    "name": "Qodo",
+    "description": "Automates code reviews, test generation, and quality assurance.",
+    "category": "Code Assistant, Education",
+    "pricing": "Freemium",
+    "url": "https://qodo.ai",
+    "official_website": "https://qodo.ai",
+    "tags": []
+  },
+  {
+    "id": "f927d715788f",
+    "name": "Qwen2.5-7B",
+    "description": "AI model Qwen2.5-7B from Qwen on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-7B",
+    "official_website": "https://huggingface.co/Qwen/Qwen2.5-7B",
+    "tags": []
+  },
+  {
+    "id": "fb6ea762-e00c-4f0a-8c90-37abe1fd4df4",
+    "name": "Qdrant",
+    "description": "Vector database",
+    "category": "Search & Recommendations",
+    "pricing": "Freemium",
+    "url": "https://qdrant.com",
+    "official_website": "https://qdrant.com",
+    "tags": []
+  }
+]

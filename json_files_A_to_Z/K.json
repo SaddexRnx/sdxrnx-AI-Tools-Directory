@@ -1,0 +1,1200 @@
+[
+  {
+    "id": "01638aa814c8",
+    "name": "Kazimir.ai",
+    "description": "Search engine for AI-generated images",
+    "category": "Search Engines",
+    "pricing": "Not Specified",
+    "url": "https://kazimir.ai/",
+    "official_website": "https://kazimir.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "021d94b33d59",
+    "name": "KORMo-10B-sft",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/KORMo-Team/KORMo-10B-sft",
+    "official_website": "https://huggingface.co/KORMo-Team/KORMo-10B-sft",
+    "tags": []
+  },
+  {
+    "id": "02fc2a59-8dcb-43b8-bd65-bf34c833e055",
+    "name": "Kajabi AI",
+    "description": "All-in-one platform providing tools to build courses, podcasts, coaching programs, and more. Features built-in CRM, landing page and funnel builder, email marketing tools, and AI functionalities for generating landing page copy and lesson outlines.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://kajabi.com/",
+    "official_website": "https://kajabi.com/",
+    "tags": []
+  },
+  {
+    "id": "047ebd59a83c",
+    "name": "kubeflow/kfserving",
+    "description": "Serverless framework to deploy and monitor machine learning models in Kubernetes",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/kubeflow/kfserving",
+    "official_website": "https://github.com/kubeflow/kfserving",
+    "tags": []
+  },
+  {
+    "id": "0a83f25cf80f",
+    "name": "kubeflow/katib",
+    "description": "A Kubernetes-based system for Hyperparameter Tuning and Neural Architecture Search",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/kubeflow/katib",
+    "official_website": "https://github.com/kubeflow/katib",
+    "tags": []
+  },
+  {
+    "id": "0f2fed86-0ee6-496d-8dce-680051680e64",
+    "name": "KUSE AI",
+    "description": "Kuse is an AI-powered visual workspace that transforms how users organize and process information by combining an infinite canvas with advanced artificial intelligence capabilities. The platform allows users to gather diverse content types including text, images, files, and AI conversations in one collaborative space, then leverage multiple AI models to analyze, organize, and transform this information into structured, actionable deliverables. Unlike traditional document tools or generic AI chat",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/kuse-ai",
+    "official_website": "https://futuretools.link/kuse-ai",
+    "tags": []
+  },
+  {
+    "id": "120d920d-c823-4992-8def-0553d7fab19e",
+    "name": "Kagi",
+    "description": "AI-powered search and research solution",
+    "category": "AI Search & Research",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.kagi.com",
+    "official_website": "https://www.kagi.com",
+    "tags": []
+  },
+  {
+    "id": "12b2f96b3750",
+    "name": "Kaggle Datasets",
+    "description": "Curated collection of thousands of datasets on Kaggle with community contributions",
+    "category": "Dataset Tool",
+    "pricing": "Free",
+    "url": "https://www.kaggle.com/datasets",
+    "official_website": "https://www.kaggle.com/datasets",
+    "tags": []
+  },
+  {
+    "id": "1554b8eb-d881-4c9d-a76d-093c2656c661",
+    "name": "Komos AI",
+    "description": "A tool to turn screen demos into automated workflows",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/komos-ai",
+    "official_website": "https://www.futuretools.io/tools/komos-ai",
+    "tags": []
+  },
+  {
+    "id": "18006cf27926",
+    "name": "Kissmetrics",
+    "description": "Customer engagement automation platform combining behavioral analytics, segmentation, and email campaign automation. Features robust cohort analysis, seamless integrations with marketing tools, and intuitive dashboard for customer journey understanding.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://www.kissmetrics.com/",
+    "official_website": "https://www.kissmetrics.com/",
+    "tags": [
+      "customer engagement",
+      "behavioral analytics",
+      "customer journey",
+      "email automation",
+      "segmentation",
+      "cohort analysis"
+    ]
+  },
+  {
+    "id": "181dc211-a03b-439c-8c7e-ff2b74980238",
+    "name": "Kronologic",
+    "description": "AI scheduling platform built specifically for sales teams with automated lead scheduling, high-density outreach capabilities, natural language rescheduling, and conversion rate optimization.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.kronologic.ai",
+    "official_website": "https://www.kronologic.ai",
+    "tags": []
+  },
+  {
+    "id": "24370cc2-bbf5-4e9e-8b05-773ab9dbe033",
+    "name": "Kensho Finance",
+    "description": "Financial analytics and research",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://sandpglobal.com",
+    "official_website": "https://sandpglobal.com",
+    "tags": []
+  },
+  {
+    "id": "25e37cd55d4b",
+    "name": "Komo AI",
+    "description": "AI search engine for quick answers",
+    "category": "Search Engines",
+    "pricing": "Not Specified",
+    "url": "https://komo.ai/",
+    "official_website": "https://komo.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "25f4bf92-1719-4984-9b4f-5c0430ad0bde",
+    "name": "Keras",
+    "description": "User-friendly deep learning framework built on heavyweight platforms",
+    "category": "AI Development Frameworks",
+    "pricing": "Free",
+    "url": "https://keras.io",
+    "official_website": "https://keras.io",
+    "tags": []
+  },
+  {
+    "id": "29557633-1d5a-44f1-bb44-0ac73554ab02",
+    "name": "Khan Academy",
+    "description": "Free educational platform with AI-powered personalized learning recommendations",
+    "category": "Business Growth",
+    "pricing": "Free",
+    "url": "https://khanacademy.org",
+    "official_website": "https://khanacademy.org",
+    "tags": []
+  },
+  {
+    "id": "296d2615-9d13-4531-bb07-6c24d274b719",
+    "name": "Khanmigo",
+    "description": "Khan Academy's AI-powered teaching assistant and tutor for students, offering personalized learning experiences",
+    "category": "Education",
+    "pricing": "Freemium",
+    "url": "https://www.khanmigo.ai",
+    "official_website": "https://www.khanmigo.ai",
+    "tags": []
+  },
+  {
+    "id": "29e78934-fe09-4a1d-8e68-8ebc6dc6e8fb",
+    "name": "KaneAI",
+    "description": "AI development tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/lambdatest",
+    "official_website": "https://www.producthunt.com/products/lambdatest",
+    "tags": []
+  },
+  {
+    "id": "2a59a98c-1a89-4428-ae1f-fe9a65f9db91",
+    "name": "Kapwing",
+    "description": "AI-powered video editing platform",
+    "category": "AI Video & Media",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kapwing",
+    "official_website": "kapwing",
+    "tags": []
+  },
+  {
+    "id": "304c79087a3a",
+    "name": "Kite",
+    "description": "AI code completions for Python",
+    "category": "Code Assistant",
+    "pricing": "Not Specified",
+    "url": "https://kite.com/",
+    "official_website": "https://kite.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "30bad517cdfd",
+    "name": "Kronologic",
+    "description": "AI scheduling platform built specifically for sales teams with automated lead scheduling, high-density outreach capabilities, natural language rescheduling, and conversion rate optimization.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.kronologic.ai",
+    "official_website": "https://www.kronologic.ai",
+    "tags": [
+      "lead-automation",
+      "nlp-rescheduling",
+      "conversion-optimization",
+      "sales-scheduling",
+      "high-density-outreach"
+    ]
+  },
+  {
+    "id": "337fd828-f52e-449d-a14f-2e11867e1b6d",
+    "name": "Kaspersky AI",
+    "description": "AI-powered cybersecurity solutions",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kasperskyai",
+    "official_website": "kasperskyai",
+    "tags": []
+  },
+  {
+    "id": "3b5e724e-2d5d-404a-8de3-b3cd016a49a5",
+    "name": "Komiko",
+    "description": "Create Professional Comics and Anime with AI",
+    "category": "AI Manga & Comic",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/komiko",
+    "official_website": "https://freeaitool.ai/tool/komiko",
+    "tags": []
+  },
+  {
+    "id": "3b85c0e0-5fdd-43ac-ae55-492ac480258b",
+    "name": "Keywords.am",
+    "description": "AI for Amazon listings that rank higher and sell more",
+    "category": "Business",
+    "pricing": "Free + from $30/mo",
+    "url": "https://keywords.am/",
+    "official_website": "https://keywords.am/",
+    "tags": []
+  },
+  {
+    "id": "3f5019a563df",
+    "name": "keras-team/keras-tuner",
+    "description": "Easy-to-use, distributable hyperparameter optimisation framework",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/keras-team/keras-tuner",
+    "official_website": "https://github.com/keras-team/keras-tuner",
+    "tags": []
+  },
+  {
+    "id": "404618a8-da5e-41fc-b697-a6d6d3dc99f9",
+    "name": "Kernel Memory",
+    "description": "RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://microsoft.github.io/kernel-memory",
+    "official_website": "https://microsoft.github.io/kernel-memory",
+    "tags": []
+  },
+  {
+    "id": "406f346f-da0f-4e2a-b711-92c78cea4e61",
+    "name": "Knewton AI",
+    "description": "AI adaptive learning technology",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "knewtonai",
+    "official_website": "knewtonai",
+    "tags": []
+  },
+  {
+    "id": "43860b680026",
+    "name": "K-Wave",
+    "description": "Specialized AI and simulation tool for specific research domains",
+    "category": "Model Library",
+    "pricing": "Open Source",
+    "url": "https://k-wave.org",
+    "official_website": "https://k-wave.org",
+    "tags": []
+  },
+  {
+    "id": "442002aaadc4",
+    "name": "kengz/awesome-deep-rl",
+    "description": "Deep reinforcement learning resources including libraries, benchmarks, environments",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/kengz/awesome-deep-rl",
+    "official_website": "https://github.com/kengz/awesome-deep-rl",
+    "tags": []
+  },
+  {
+    "id": "46857f94-0820-4535-b32e-dbc11daa3d28",
+    "name": "Khan Academy Khanmigo",
+    "description": "AI tutoring assistant for personalized learning",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "khanacademykhanmigo",
+    "official_website": "khanacademykhanmigo",
+    "tags": []
+  },
+  {
+    "id": "4778ba58-41ca-4dd5-984d-0b04c3c21e7d",
+    "name": "Kissmetrics",
+    "description": "Customer engagement automation platform combining behavioral analytics, segmentation, and email campaign automation. Features robust cohort analysis, seamless integrations with marketing tools, and intuitive dashboard for customer journey understanding.",
+    "category": "Website",
+    "pricing": "Premium",
+    "url": "https://www.kissmetrics.com/",
+    "official_website": "https://www.kissmetrics.com/",
+    "tags": []
+  },
+  {
+    "id": "4b78a0e0d26d",
+    "name": "Kajabi AI",
+    "description": "All-in-one platform providing tools to build courses, podcasts, coaching programs, and more. Features built-in CRM, landing page and funnel builder, email marketing tools, and AI functionalities for generating landing page copy and lesson outlines.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://kajabi.com/",
+    "official_website": "https://kajabi.com/",
+    "tags": [
+      "crm",
+      "funnel builder",
+      "course builder",
+      "ai copy",
+      "email marketing",
+      "landing page"
+    ]
+  },
+  {
+    "id": "4c2c8d41-6fab-4950-905e-34d0f146b82a",
+    "name": "Keras",
+    "description": "High-level neural networks API",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "4de52fd620b7",
+    "name": "Krisp",
+    "description": "AI meeting assistant focused on audio quality improvement, providing noise cancellation, real-time transcription, accent localization, and operates locally without cloud processing for privacy.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://krisp.ai",
+    "official_website": "https://krisp.ai",
+    "tags": [
+      "noise-cancellation",
+      "transcription",
+      "privacy",
+      "local-processing",
+      "audio-quality"
+    ]
+  },
+  {
+    "id": "4f152cb3-bb48-4460-afe6-7e9b94097cc7",
+    "name": "Kofax",
+    "description": "AI-powered business and finance solution",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.kofax.com",
+    "official_website": "https://www.kofax.com",
+    "tags": []
+  },
+  {
+    "id": "54b1ed03-7a7b-49c2-b537-6639f153d847",
+    "name": "Kubeflow",
+    "description": "ML toolkit for Kubernetes",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "565eb31c1c46",
+    "name": "kserve",
+    "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+    "category": "MLOps and Deployment",
+    "pricing": "Not Specified",
+    "url": "https://kserve.github.io/website/",
+    "official_website": "https://kserve.github.io/website/",
+    "tags": [
+      "Multi-framework support: TensorFlow, PyTorch, scikit-learn, XGBoost, ONNX",
+      "KV cache offloading to CPU/disk for handling longer sequences",
+      "Request-based autoscaling optimized for generative workloads",
+      "GPU acceleration with optimized memory management for large models",
+      "LLM-optimized inference with OpenAI-compatible protocol",
+      "Built-in model explainability and feature attribution",
+      "CNCF incubating project with enterprise-ready features",
+      "Native support for Hugging Face models with streamlined deployment",
+      "Advanced deployments with canary rollouts and inference pipelines",
+      "Intelligent model caching to reduce loading times and improve response latency"
+    ]
+  },
+  {
+    "id": "570a91bf-54f3-4c56-b66f-fae65823563a",
+    "name": "Kavout",
+    "description": "AI financial research agents and investing tools for smarter trading with instant insights across 11,000+ stocks, crypto, forex",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "url": "https://www.kavout.com",
+    "official_website": "https://www.kavout.com",
+    "tags": []
+  },
+  {
+    "id": "5b26cff75053",
+    "name": "kserve",
+    "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/kserve/kserve",
+    "official_website": "https://github.com/kserve/kserve",
+    "tags": []
+  },
+  {
+    "id": "5ee31fc2872b",
+    "name": "kubeflow",
+    "description": "Machine Learning Toolkit for Kubernetes",
+    "category": "MLOps and Deployment",
+    "pricing": "Not Specified",
+    "url": "https://www.kubeflow.org/",
+    "official_website": "https://www.kubeflow.org/",
+    "tags": [
+      "Full AI Reference Platform with central dashboard and management tools",
+      "Multiple installation methods including packaged distributions and manifests",
+      "Kubernetes-native ecosystem covering every AI lifecycle stage",
+      "AI Platform Foundation on Kubernetes",
+      "Support for diverse AI use cases for practitioners and administrators",
+      "Individual projects: KServe, Katib, Model Registry, Notebooks, Pipelines, Spark Operator",
+      "Portable and scalable across different Kubernetes environments",
+      "Composable and modular architecture for flexible AI platform building"
+    ]
+  },
+  {
+    "id": "6298211d-d8a4-4a72-899b-8aa6e6a45110",
+    "name": "Kodezi",
+    "description": "AI development automation platform",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kodezi",
+    "official_website": "kodezi",
+    "tags": []
+  },
+  {
+    "id": "63034b6a-b0a5-48d5-870f-c9030d2612ae",
+    "name": "Kira Systems",
+    "description": "AI-powered legal solution",
+    "category": "AI Legal",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.kirasystems.com",
+    "official_website": "https://www.kirasystems.com",
+    "tags": []
+  },
+  {
+    "id": "63dafd82-9ae1-434c-a7c2-82bd603c49ff",
+    "name": "Kilo Code",
+    "description": "AI coding agent for VS Code and JetBrains providing code generation, task automation, and intelligent suggestions for enhanced productivity.",
+    "category": "AI Code Assistant",
+    "pricing": "Free",
+    "url": "https://kilocode.ai/",
+    "official_website": "https://kilocode.ai/",
+    "tags": []
+  },
+  {
+    "id": "6522d168-8210-43b0-81e2-0c0ab9152f1c",
+    "name": "Kaggle Kernels",
+    "description": "Kaggle's ML environment",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://kaggle.com",
+    "official_website": "https://kaggle.com",
+    "tags": []
+  },
+  {
+    "id": "699ad812bbb3",
+    "name": "Kilo Code",
+    "description": "AI coding agent for VS Code and JetBrains providing code generation, task automation, and intelligent suggestions for enhanced productivity.",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "url": "https://kilocode.ai/",
+    "official_website": "https://kilocode.ai/",
+    "tags": [
+      "task-automation",
+      "productivity",
+      "coding-agent",
+      "jetbrains",
+      "intelligent-suggestions",
+      "vs-code"
+    ]
+  },
+  {
+    "id": "69cd8f7f-7f03-4f3a-a53c-5cf1156966ba",
+    "name": "Kustomer AI",
+    "description": "AI-powered customer service platform",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kustomerai",
+    "official_website": "kustomerai",
+    "tags": []
+  },
+  {
+    "id": "6f0428b9ca3b",
+    "name": "KaneAI",
+    "description": "AI development tool",
+    "category": "Artificial Intelligence, Developer Tools, SaaS",
+    "pricing": "Not Specified",
+    "url": "https://kaneai.com",
+    "official_website": "https://kaneai.com",
+    "tags": []
+  },
+  {
+    "id": "75b024adb487",
+    "name": "Kaggle",
+    "description": "Online community platform for data scientists and machine learning practitioners to explore datasets, models, and compete in competitions",
+    "category": "Research Platform",
+    "pricing": "Free",
+    "url": "https://kaggle.com",
+    "official_website": "https://kaggle.com",
+    "tags": []
+  },
+  {
+    "id": "79fd5caf-be46-49a9-91e1-8b69c0621163",
+    "name": "KaneAI",
+    "description": "AI development tool",
+    "category": "Artificial Intelligence, Developer Tools, SaaS",
+    "pricing": "Unknown",
+    "url": "https://kaneai.com",
+    "official_website": "https://kaneai.com",
+    "tags": []
+  },
+  {
+    "id": "7a6983ffd380",
+    "name": "Kimi K2",
+    "description": "Good AI model mentioned as alternative to GLM-4.5",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://kimi.moonshot.cn",
+    "official_website": "https://kimi.moonshot.cn",
+    "tags": []
+  },
+  {
+    "id": "7a9acff9-d355-42b4-b27d-d51b04b04798",
+    "name": "Kokoro-82M",
+    "description": "AI model Kokoro-82M from hexgrad on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "official_website": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "tags": []
+  },
+  {
+    "id": "7b5ab53caff2",
+    "name": "Klarops",
+    "description": "AI-powered productivity & risk insights for engineering teams \u2014 without micromanagement.",
+    "category": "Tracking, AI Agent",
+    "pricing": "Paid",
+    "url": "https://klarops.com/",
+    "official_website": "https://klarops.com/",
+    "tags": []
+  },
+  {
+    "id": "7bf2ec5be3b9",
+    "name": "Keras",
+    "description": "Python-based open-source library for neural networks as TensorFlow interface.",
+    "category": "Deep Learning",
+    "pricing": "Open Source",
+    "url": "https://keras.io/",
+    "official_website": "https://keras.io/",
+    "tags": [
+      "deep learning",
+      "python"
+    ]
+  },
+  {
+    "id": "7d3ae53c-daf2-4be1-9a0a-0355afc0ab8f",
+    "name": "K Health",
+    "description": "Virtual primary care platform with AI-powered diagnostic tools for underserved areas",
+    "category": "Healthcare",
+    "pricing": "Paid",
+    "url": "https://khealth.com",
+    "official_website": "https://khealth.com",
+    "tags": []
+  },
+  {
+    "id": "7dd67b61e826",
+    "name": "K2-Think",
+    "description": "AI model K2-Think from LLM360 on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/LLM360/K2-Think",
+    "official_website": "https://huggingface.co/LLM360/K2-Think",
+    "tags": []
+  },
+  {
+    "id": "81bfb6f7-37a1-4b3d-bbbc-4c65e124b6b5",
+    "name": "Keysight AI",
+    "description": "Electronic design AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://keysight.com",
+    "official_website": "https://keysight.com",
+    "tags": []
+  },
+  {
+    "id": "8432785d0bf9",
+    "name": "Khan Academy",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://khanacademy.com",
+    "official_website": "https://khanacademy.com",
+    "tags": []
+  },
+  {
+    "id": "8c5dff58-35e9-45df-bb9f-45f2e3ec8261",
+    "name": "Killer SaaS",
+    "description": "AI-powered productivity solution",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.killersaas.com",
+    "official_website": "https://www.killersaas.com",
+    "tags": []
+  },
+  {
+    "id": "8f24cd6328c7",
+    "name": "koelectra-small-v2-distilled-korquad-384",
+    "description": "AI model koelectra-small-v2-distilled-korquad-384 from monologg on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/monologg/koelectra-small-v2-distilled-korquad-384",
+    "official_website": "https://huggingface.co/monologg/koelectra-small-v2-distilled-korquad-384",
+    "tags": []
+  },
+  {
+    "id": "8fe8079e-62f9-450b-a027-39538f6c04c0",
+    "name": "KORMo-10B-sft",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/KORMo-Team/KORMo-10B-sft",
+    "official_website": "https://huggingface.co/KORMo-Team/KORMo-10B-sft",
+    "tags": []
+  },
+  {
+    "id": "91c3f0fb520b",
+    "name": "Kernel Memory",
+    "description": "RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://microsoft.github.io/kernel-memory",
+    "official_website": "https://microsoft.github.io/kernel-memory",
+    "tags": [
+      "Extensible with various AI services and vector stores",
+      "Multiple vector stores support (Azure AI Search, Postgres, Qdrant, etc.)",
+      "Track sources and show citations for all responses",
+      "Index and query any data using LLM and natural language",
+      "Two operational modes: remote scalable Memory Service and local embedded",
+      "Supports Azure OpenAI, OpenAI, ONNX, Ollama, Anthropic",
+      "Natural Language querying with filtering and token usage reports",
+      "Data lineage and citations for all responses",
+      "Available as Web Service, Docker container, Plugin for ChatGPT/Copilot",
+      "RAG architecture with multi-modal AI service for efficient dataset indexing"
+    ]
+  },
+  {
+    "id": "963e4fbf7abe",
+    "name": "Klipfolio",
+    "description": "Real-time dashboard platform with easy integrations and cloud-based architecture. Designed for startups and SMBs to create and share interactive dashboards across teams.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://www.klipfolio.com/",
+    "official_website": "https://www.klipfolio.com/",
+    "tags": [
+      "startup-friendly",
+      "real-time-dashboards",
+      "smb-focused",
+      "easy-integrations",
+      "cloud-based"
+    ]
+  },
+  {
+    "id": "9cb2f9bb759e",
+    "name": "Kokoro TTS",
+    "description": "Text-to-speech generation with upgraded v1.0 capabilities.",
+    "category": "Voice",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
+    "official_website": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
+    "tags": [
+      "voice",
+      "tts"
+    ]
+  },
+  {
+    "id": "9dc4cad0cced",
+    "name": "Krisp.ai",
+    "description": "An automatic transcription tool with AI-powered noise cancellation",
+    "category": "AI Transcription",
+    "pricing": "Free with premium plan at $8 per month",
+    "url": "https://krisp.ai/",
+    "official_website": "https://krisp.ai/",
+    "tags": [
+      "Transcribes meetings in platforms like Zoom, Teams, Google Meet without AI 'bots'",
+      "AI-powered noise cancellation removing background noises"
+    ]
+  },
+  {
+    "id": "9f651d1e-012f-4484-95ca-57d56ec18685",
+    "name": "Kimi-K2-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+    "official_website": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+    "tags": []
+  },
+  {
+    "id": "a035a2680090",
+    "name": "Kickresume",
+    "description": "AI-powered CV builder with experience and education input, industry tailoring, scoring system, learning resource recommendations, and AI-powered CV critique.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://kickresume.com",
+    "official_website": "https://kickresume.com",
+    "tags": [
+      "industry-tailoring",
+      "scoring-system",
+      "cv-builder",
+      "learning-resources",
+      "ai-critique"
+    ]
+  },
+  {
+    "id": "a1acf4e1b305",
+    "name": "Kling AI",
+    "description": "High-quality AI video generator known for competitive results compared to Sora and Veo 3. Offers advanced video generation capabilities with professional-grade output quality.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://kling.kuaishou.com/",
+    "official_website": "https://kling.kuaishou.com/",
+    "tags": [
+      "cinematic",
+      "text-to-video",
+      "professional",
+      "competitive",
+      "high-quality"
+    ]
+  },
+  {
+    "id": "a3176ce2-32bf-4a8a-b375-a49d15ae0c05",
+    "name": "Khan Academy",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://khanacademy.com",
+    "official_website": "https://khanacademy.com",
+    "tags": []
+  },
+  {
+    "id": "a3d0bde3-6721-43fc-9fe9-7838208aef54",
+    "name": "KDDI AI",
+    "description": "Telecom AI services",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://kddi.com",
+    "official_website": "https://kddi.com",
+    "tags": []
+  },
+  {
+    "id": "a6265d16-d31d-494d-b977-480b364c011d",
+    "name": "Kaiber AI",
+    "description": "Music-synced video generation",
+    "category": "Video Generation & Processing",
+    "pricing": "Freemium",
+    "url": "https://kaiber.com",
+    "official_website": "https://kaiber.com",
+    "tags": []
+  },
+  {
+    "id": "a870bb1d53cb",
+    "name": "Kopernio",
+    "description": "Browser extension that automatically provides legal full-text versions of research papers",
+    "category": "Research Platform",
+    "pricing": "Free",
+    "url": "https://kopernio.com",
+    "official_website": "https://kopernio.com",
+    "tags": []
+  },
+  {
+    "id": "ad69191d-3878-40a2-8be3-ab63d2646e61",
+    "name": "Kuki AI",
+    "description": "AI-powered customer support solution",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.kukiai.com",
+    "official_website": "https://www.kukiai.com",
+    "tags": []
+  },
+  {
+    "id": "af3611fdcd3c",
+    "name": "Khroma AI",
+    "description": "AI color palette generator that helps web designers quickly create visually appealing color schemes. Analyzes trends and preferences to create color palettes that resonate with target audiences and streamline color selection process.",
+    "category": "Design",
+    "pricing": "Free",
+    "url": "https://www.khroma.co/",
+    "official_website": "https://www.khroma.co/",
+    "tags": [
+      "target audience",
+      "visual appeal",
+      "color palette",
+      "streamlined selection",
+      "trend analysis",
+      "color schemes"
+    ]
+  },
+  {
+    "id": "b230bc9f-a1a8-46ec-a0a0-e186890e5eb9",
+    "name": "Krisp AI",
+    "description": "AI-powered noise cancellation for calls",
+    "category": "AI Audio",
+    "pricing": "Freemium",
+    "url": "https://krisp.ai",
+    "official_website": "https://krisp.ai",
+    "tags": []
+  },
+  {
+    "id": "b417743f-9cd8-4531-a183-f519fb90052b",
+    "name": "Klipfolio",
+    "description": "Real-time dashboard platform with easy integrations and cloud-based architecture. Designed for startups and SMBs to create and share interactive dashboards across teams.",
+    "category": "AI Analytics",
+    "pricing": "Free",
+    "url": "https://www.klipfolio.com/",
+    "official_website": "https://www.klipfolio.com/",
+    "tags": []
+  },
+  {
+    "id": "b6bdfc25-6916-40e9-820c-b32beb959de1",
+    "name": "Kling AI",
+    "description": "High-quality AI video generator known for competitive results compared to Sora and Veo 3. Offers advanced video generation capabilities with professional-grade output quality.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://kling.kuaishou.com/",
+    "official_website": "https://kling.kuaishou.com/",
+    "tags": []
+  },
+  {
+    "id": "b7288bfb-9b34-42c5-abef-2b84e9d52663",
+    "name": "Khan Academy Khanmigo",
+    "description": "AI-powered education solution",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.khanacademykhanmigo.com",
+    "official_website": "https://www.khanacademykhanmigo.com",
+    "tags": []
+  },
+  {
+    "id": "b9ccc5e8-0829-42d2-9798-9cf306053823",
+    "name": "Kiro",
+    "description": "Kiro is an AI-powered agentic integrated development environment (IDE) that transforms software development through specification-driven workflows. Unlike traditional code assistants, Kiro guides developers through structured requirements gathering, technical design documentation, and task breakdown before generating code, ensuring alignment between specifications and implementation. The tool leverages intelligent AI agents that understand your entire codebase and project context to provide high",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/kiro-dev",
+    "official_website": "https://futuretools.link/kiro-dev",
+    "tags": []
+  },
+  {
+    "id": "baecfbf6-2587-4a8e-9573-b7996ba8c1a8",
+    "name": "KNIME",
+    "description": "Open-source analytics platform with visual workflow editor, built-in machine learning, and integration with Python, R, TensorFlow, and Spark. Popular for no-code data science and analytics workflows.",
+    "category": "AI Analytics",
+    "pricing": "Free",
+    "url": "https://www.knime.com/",
+    "official_website": "https://www.knime.com/",
+    "tags": []
+  },
+  {
+    "id": "bee0f8df65a1",
+    "name": "kyegomez/swarms",
+    "description": "Swarms is an enterprise grade and production ready multi-agent collaboration framework",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/kyegomez/swarms",
+    "official_website": "https://github.com/kyegomez/swarms",
+    "tags": []
+  },
+  {
+    "id": "c3c54e9d6fba",
+    "name": "kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "official_website": "https://github.com/kubernetes/kubernetes",
+    "tags": []
+  },
+  {
+    "id": "c5b79824-b10b-4fa9-9f6a-871420a4c1b4",
+    "name": "Kite",
+    "description": "AI code completion (discontinued)",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kite",
+    "official_website": "kite",
+    "tags": []
+  },
+  {
+    "id": "c62a4de5b16e",
+    "name": "Kubernetes",
+    "description": "Research infrastructure and development tools for academic projects",
+    "category": "Research Infrastructure",
+    "pricing": "Free/Commercial",
+    "url": "https://kubernetes.com",
+    "official_website": "https://kubernetes.com",
+    "tags": []
+  },
+  {
+    "id": "c787ecf8-403f-4eee-8264-1fe9ef3c1fd5",
+    "name": "Kuki AI",
+    "description": "AI conversational agent platform",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kukiai",
+    "official_website": "kukiai",
+    "tags": []
+  },
+  {
+    "id": "c9da2b15-0223-4df2-bc58-dbccf305fb7b",
+    "name": "Kapwing",
+    "description": "AI-powered video and media solution",
+    "category": "AI Video & Media",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.kapwing.com",
+    "official_website": "https://www.kapwing.com",
+    "tags": []
+  },
+  {
+    "id": "d09e100a749c",
+    "name": "Kimi-K2-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+    "official_website": "https://huggingface.co/moonshotai/Kimi-K2-Instruct",
+    "tags": []
+  },
+  {
+    "id": "d10fbccb-99a9-4096-b221-a60f0b9eceeb",
+    "name": "Kissmetrics AI",
+    "description": "AI-powered customer analytics",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kissmetricsai",
+    "official_website": "kissmetricsai",
+    "tags": []
+  },
+  {
+    "id": "d15f22cc-1453-4f42-b3d3-3d8ebbbd3223",
+    "name": "Khroma AI",
+    "description": "AI color palette generator that helps web designers quickly create visually appealing color schemes. Analyzes trends and preferences to create color palettes that resonate with target audiences and streamline color selection process.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://www.khroma.co/",
+    "official_website": "https://www.khroma.co/",
+    "tags": []
+  },
+  {
+    "id": "d2aa815e-cb96-490a-9a26-782dbaa22204",
+    "name": "KNIME",
+    "description": "Open source data analytics platform",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "knime",
+    "official_website": "knime",
+    "tags": []
+  },
+  {
+    "id": "d60b8703-7db2-428d-bd29-dfa92f7cfbba",
+    "name": "Krisp",
+    "description": "AI meeting assistant focused on audio quality improvement, providing noise cancellation, real-time transcription, accent localization, and operates locally without cloud processing for privacy.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://krisp.ai",
+    "official_website": "https://krisp.ai",
+    "tags": []
+  },
+  {
+    "id": "d9fa534d8523",
+    "name": "keon/awesome-nlp",
+    "description": "A curated list of awesome Natural Language Processing resources",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/keon/awesome-nlp",
+    "official_website": "https://github.com/keon/awesome-nlp",
+    "tags": []
+  },
+  {
+    "id": "dd6a6c3d86e5",
+    "name": "Kokoro-82M",
+    "description": "AI model Kokoro-82M from hexgrad on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "official_website": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "tags": []
+  },
+  {
+    "id": "df45c91c-f3d0-46c3-a4a3-ec89c0acafb0",
+    "name": "Klaviyo AI",
+    "description": "AI-powered e-commerce marketing",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "klaviyoai",
+    "official_website": "klaviyoai",
+    "tags": []
+  },
+  {
+    "id": "dffd3aa9c05c",
+    "name": "Klap",
+    "description": "AI transforms long videos into viral short clips effortlessly.",
+    "category": "Video Editing, Social Media",
+    "pricing": "Free Trial",
+    "url": "https://klap.app/",
+    "official_website": "https://klap.app/",
+    "tags": []
+  },
+  {
+    "id": "e0932ae0-3926-4e3b-89fd-a0111ae0f4af",
+    "name": "Komos AI",
+    "description": "Komos AI converts a short on-screen demo into a fully functional, repeatable workflow using computer vision and AI. It observes user actions and voice narration to automatically build a deterministic, editable process that can be executed safely and consistently. Users can visually modify steps, add logic like loops and conditional branches, and securely manage credentials through encrypted storage. Integrations include webhooks, REST APIs, emails, and spreadsheet exports. Designed for productio",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/komos-ai",
+    "official_website": "https://futuretools.link/komos-ai",
+    "tags": []
+  },
+  {
+    "id": "e77df67e-43d9-45be-9936-c46d9a7dd9c3",
+    "name": "Kofax",
+    "description": "AI-powered intelligent automation",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "kofax",
+    "official_website": "kofax",
+    "tags": []
+  },
+  {
+    "id": "eb910043e2db",
+    "name": "KNIME",
+    "description": "Open-source data analytics platform for creating visual workflows.",
+    "category": "Data Analytics",
+    "pricing": "Open Source",
+    "url": "https://www.knime.com/",
+    "official_website": "https://www.knime.com/",
+    "tags": [
+      "visualization",
+      "data analytics"
+    ]
+  },
+  {
+    "id": "f28767bc-85cb-486c-b6b9-e1eb4875b2a9",
+    "name": "KubeRay",
+    "description": "A toolkit to run Ray applications on Kubernetes - official Kubernetes operator for Ray",
+    "category": "LLM Frameworks",
+    "pricing": "Unknown",
+    "url": "https://docs.ray.io/en/latest/cluster/kubernetes/",
+    "official_website": "https://docs.ray.io/en/latest/cluster/kubernetes/",
+    "tags": []
+  },
+  {
+    "id": "f483e9ae-f588-47a8-9097-e0c2844725e8",
+    "name": "Kapwing",
+    "description": "Online video editor with AI features",
+    "category": "AI Video Creation",
+    "pricing": "Freemium",
+    "url": "https://kapwing.com",
+    "official_website": "https://kapwing.com",
+    "tags": []
+  },
+  {
+    "id": "f5e0e089cfc0",
+    "name": "kiro",
+    "description": "AI tool available for free to early users",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://kiro.ai",
+    "official_website": "https://kiro.ai",
+    "tags": []
+  },
+  {
+    "id": "f614081e-8995-4365-9809-c92ba69b7d17",
+    "name": "Korpi AI",
+    "description": "Generate viral clips in seconds",
+    "category": "Video Generation",
+    "pricing": "From $7.75/mo",
+    "url": "https://korpi.ai/",
+    "official_website": "https://korpi.ai/",
+    "tags": []
+  },
+  {
+    "id": "f7d48166-303b-464f-ac75-5fb4af0ceaec",
+    "name": "Kickresume",
+    "description": "AI-powered CV builder with experience and education input, industry tailoring, scoring system, learning resource recommendations, and AI-powered CV critique.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://kickresume.com",
+    "official_website": "https://kickresume.com",
+    "tags": []
+  },
+  {
+    "id": "f90ad51d07e5",
+    "name": "KubeRay",
+    "description": "A toolkit to run Ray applications on Kubernetes - official Kubernetes operator for Ray",
+    "category": "LLM Frameworks",
+    "pricing": "Not Specified",
+    "url": "https://docs.ray.io/en/latest/cluster/kubernetes/",
+    "official_website": "https://docs.ray.io/en/latest/cluster/kubernetes/",
+    "tags": [
+      "Three custom resource definitions: RayCluster, RayJob, RayService",
+      "Integration with observability tools (Prometheus, Grafana, py-spy)",
+      "RayService for zero-downtime upgrades and high availability",
+      "Integration with queuing systems (Volcano, Apache YuniKorn, Kueue)",
+      "Kubectl plugin for simplified deployment workflows",
+      "RayCluster lifecycle management with autoscaling and fault tolerance",
+      "RayJob for automatic cluster creation and job submission",
+      "KubeRay APIServer for simplified configuration layer",
+      "KubeRay Dashboard for viewing and managing resources",
+      "Official, fully-maintained Kubernetes operator for Ray applications"
+    ]
+  },
+  {
+    "id": "f94f25e5-7b17-4fc6-a40c-dca7019c9bae",
+    "name": "Krisp",
+    "description": "Krisp is the only AI Meeting Assistant that combines recording, transcription, and breakthrough voice technology \u2014 all without bots joining your calls.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/krisp",
+    "official_website": "https://www.producthunt.com/products/krisp",
+    "tags": []
+  },
+  {
+    "id": "faf01818b4bd",
+    "name": "kubeflow/kubeflow",
+    "description": "The MLOps platform on Kubernetes",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/kubeflow/kubeflow",
+    "official_website": "https://github.com/kubeflow/kubeflow",
+    "tags": []
+  },
+  {
+    "id": "fc2435cf-751b-483f-913f-d54aa2020363",
+    "name": "K-Wave",
+    "description": "Specialized AI and simulation tool for specific research domains",
+    "category": "Model Library",
+    "pricing": "Open Source",
+    "url": "https://k-wave.org",
+    "official_website": "https://k-wave.org",
+    "tags": []
+  },
+  {
+    "id": "fd56d303-9c80-4a43-83f2-d5ac09fc1b0b",
+    "name": "Krisp",
+    "description": "AI noise cancellation and meeting insights",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "krisp",
+    "official_website": "krisp",
+    "tags": []
+  },
+  {
+    "id": "fe733675-236b-405f-b430-c9a7c0fd4dc0",
+    "name": "Keyword Grid",
+    "description": "Rank higher in AI answers",
+    "category": "Business",
+    "pricing": "From $39/mo",
+    "url": "https://keywordgrid.com/",
+    "official_website": "https://keywordgrid.com/",
+    "tags": []
+  },
+  {
+    "id": "feb749fa-d238-4779-ab42-ba9302b6e8db",
+    "name": "K2-Think",
+    "description": "AI model K2-Think from LLM360 on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/LLM360/K2-Think",
+    "official_website": "https://huggingface.co/LLM360/K2-Think",
+    "tags": []
+  }
+]

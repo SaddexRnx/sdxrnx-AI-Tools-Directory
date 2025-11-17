@@ -1,0 +1,718 @@
+[
+  {
+    "id": "022875ca-5395-4d26-8bec-b9773fcc228f",
+    "name": "Jimdo AI",
+    "description": "Long-running website builder and early adopter of AI website building (Jimdo Dolphin, launched 2017). AI-powered site creation suggesting style, color palette, and necessary pages while generating two starting draft sites.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://www.jimdo.com/",
+    "official_website": "https://www.jimdo.com/",
+    "tags": []
+  },
+  {
+    "id": "047197e2cc80",
+    "name": "JetBrains AI",
+    "description": "Supercharge your IDE \u2014 context-aware AI coding and autonomous agents integrated directly into your development environment.",
+    "category": "IDE, Context-aware",
+    "pricing": "Free",
+    "url": "https://www.jetbrains.com/ai/",
+    "official_website": "https://www.jetbrains.com/ai/",
+    "tags": []
+  },
+  {
+    "id": "086f462af5e9",
+    "name": "Journey.io",
+    "description": "Optimize customer lifecycle with unified engagement, sales, and onboarding platform.",
+    "category": "Sales Assistant, Marketing",
+    "pricing": "Freemium",
+    "url": "https://journey.io/",
+    "official_website": "https://journey.io/",
+    "tags": []
+  },
+  {
+    "id": "0a08fb61c9ed",
+    "name": "jamovi",
+    "description": "Statistical analysis software for research applications",
+    "category": "Statistical Analysis",
+    "pricing": "Open Source",
+    "url": "https://jamovi.org",
+    "official_website": "https://jamovi.org",
+    "tags": []
+  },
+  {
+    "id": "0a30b57b-5713-4b99-9aa5-97545aa63e5d",
+    "name": "Jupyter Notebooks",
+    "description": "Open-source web application for creating and sharing documents with live code, equations, visualizations, and narrative text. Supports multiple programming languages including Python, R, and Julia.",
+    "category": "AI Analytics",
+    "pricing": "Free",
+    "url": "https://jupyter.org/",
+    "official_website": "https://jupyter.org/",
+    "tags": []
+  },
+  {
+    "id": "139db9fe-0a57-48d3-953f-c26265f3de6d",
+    "name": "Japanese Whisper",
+    "description": "Japanese speech recognition",
+    "category": "Speech & Audio Processing",
+    "pricing": "Freemium",
+    "url": "https://nict.com",
+    "official_website": "https://nict.com",
+    "tags": []
+  },
+  {
+    "id": "1d60ca40af5a",
+    "name": "Jan-nano",
+    "description": "AI model Jan-nano from Menlo on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Menlo/Jan-nano",
+    "official_website": "https://huggingface.co/Menlo/Jan-nano",
+    "tags": []
+  },
+  {
+    "id": "1fadfa6b5151",
+    "name": "Jotform AI Agents",
+    "description": "The future of customer service with AI-powered agents.",
+    "category": "Customer Service",
+    "pricing": "Not Specified",
+    "url": "https://saasaitools.com/jotform-ai-agents",
+    "official_website": "https://saasaitools.com/jotform-ai-agents",
+    "tags": [
+      "customer service",
+      "support"
+    ]
+  },
+  {
+    "id": "20ef6bf1-66f6-484a-9241-bfe5ac6adde3",
+    "name": "JAX",
+    "description": "Framework for high-performance ML research with automatic differentiation",
+    "category": "AI Development Frameworks",
+    "pricing": "Free",
+    "url": "https://jax.readthedocs.io",
+    "official_website": "https://jax.readthedocs.io",
+    "tags": []
+  },
+  {
+    "id": "21113639-bbe0-466e-9626-9c1403293d75",
+    "name": "JobHire.AI",
+    "description": "AI platform that optimizes and automates job applications",
+    "category": "AI General",
+    "pricing": "Paid",
+    "url": "https://jobhire.ai",
+    "official_website": "https://jobhire.ai",
+    "tags": []
+  },
+  {
+    "id": "2141b976-3cb3-4335-a52a-2b473b2c48c9",
+    "name": "Jasper AI",
+    "description": "AI content creation for marketing teams",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "jasperai",
+    "official_website": "jasperai",
+    "tags": []
+  },
+  {
+    "id": "25052692e7dc",
+    "name": "Jasper AI",
+    "description": "Intelligent marketing AI platform built for marketing operations. Unifies brand voice, connects workflows, and automates the entire content lifecycle through intelligent Content Pipelines. Features AI agents, Canvas workspace, Brand Voice, and 100+ marketing apps.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://www.jasper.ai/",
+    "official_website": "https://www.jasper.ai/",
+    "tags": [
+      "enterprise",
+      "content pipelines",
+      "marketing automation",
+      "campaigns",
+      "brand voice",
+      "AI agents",
+      "marketing AI"
+    ]
+  },
+  {
+    "id": "2a9a01b990e7",
+    "name": "Jan",
+    "description": "Open-source ChatGPT alternative that runs fully offline",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://jan.ai",
+    "official_website": "https://jan.ai",
+    "tags": []
+  },
+  {
+    "id": "2b64596b-d1a7-493d-9e39-39a719b71195",
+    "name": "Jeeva AI",
+    "description": "From prospecting to enrichment to personalized outreach, Jeeva automates the grunt work so you can focus on building relationships and closing deals. With 2.0, Jeeva now sorts your inbox, preps you instantly for every call, manages your follow-ups, and even takes notes for you.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/jeeva-ai",
+    "official_website": "https://www.producthunt.com/products/jeeva-ai",
+    "tags": []
+  },
+  {
+    "id": "2b925e9fb45d",
+    "name": "Jenni",
+    "description": "Ultimate writing assistant",
+    "category": "Writing Assistants",
+    "pricing": "Not Specified",
+    "url": "https://jenni.ai/",
+    "official_website": "https://jenni.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "36b72109-92bd-4671-8826-c3b5fc4e17aa",
+    "name": "Jan-nano",
+    "description": "AI model Jan-nano from Menlo on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Menlo/Jan-nano",
+    "official_website": "https://huggingface.co/Menlo/Jan-nano",
+    "tags": []
+  },
+  {
+    "id": "380b1060325f",
+    "name": "Jimdo AI",
+    "description": "Long-running website builder and early adopter of AI website building (Jimdo Dolphin, launched 2017). AI-powered site creation suggesting style, color palette, and necessary pages while generating two starting draft sites.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://www.jimdo.com/",
+    "official_website": "https://www.jimdo.com/",
+    "tags": [
+      "website builder",
+      "style suggestions",
+      "color palette",
+      "guided setup",
+      "early ai adoption"
+    ]
+  },
+  {
+    "id": "3ec34ad4-43bf-4fc0-a05f-aff15a80e750",
+    "name": "Jarts",
+    "description": "A platform that tracks and improves your brand's visibility in AI-generated search results",
+    "category": "Marketing",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/jarts",
+    "official_website": "https://www.futuretools.io/tools/jarts",
+    "tags": []
+  },
+  {
+    "id": "3ef9d87a09df",
+    "name": "Jupyter Notebooks",
+    "description": "Open-source web application for creating and sharing documents with live code, equations, visualizations, and narrative text. Supports multiple programming languages including Python, R, and Julia.",
+    "category": "Analytics",
+    "pricing": "Free",
+    "url": "https://jupyter.org/",
+    "official_website": "https://jupyter.org/",
+    "tags": [
+      "multiple-languages",
+      "data-science-workflows",
+      "visualization",
+      "narrative-text",
+      "reproducibility",
+      "interactive-coding"
+    ]
+  },
+  {
+    "id": "403516bca7fb",
+    "name": "Jeeva AI",
+    "description": "From prospecting to enrichment to personalized outreach, Jeeva automates the grunt work so you can focus on building relationships and closing deals. With 2.0, Jeeva now sorts your inbox, preps you instantly for every call, manages your follow-ups, and even takes notes for you.",
+    "category": "Sales enablement, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://jeeva.ai",
+    "official_website": "https://jeeva.ai",
+    "tags": []
+  },
+  {
+    "id": "4191671d-261b-4686-96a4-86d4eac9f3dd",
+    "name": "Junie",
+    "description": "AI-powered Jupyter extension",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "junie",
+    "official_website": "junie",
+    "tags": []
+  },
+  {
+    "id": "419b018cba89",
+    "name": "JetBrains",
+    "description": "WebStorm: The JavaScript and TypeScript IDE, by JetBrains. Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies.",
+    "category": "Code editors, AI Coding Agents",
+    "pricing": "Not Specified",
+    "url": "https://www.jetbrains.com/webstorm/",
+    "official_website": "https://www.jetbrains.com/webstorm/",
+    "tags": []
+  },
+  {
+    "id": "4288421c7fe2",
+    "name": "jina-ai/jina",
+    "description": "Cloud native search framework that supports deep learning/state of the art AI models for search",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/jina-ai/jina",
+    "official_website": "https://github.com/jina-ai/jina",
+    "tags": []
+  },
+  {
+    "id": "449a4e8a-628a-4543-9e3e-72062458d726",
+    "name": "Jukebox",
+    "description": "OpenAI's neural music generation model for creating raw audio",
+    "category": "Content Creation",
+    "pricing": "Free",
+    "url": "https://openai.com/research/jukebox",
+    "official_website": "https://openai.com/research/jukebox",
+    "tags": []
+  },
+  {
+    "id": "4593ca58a922",
+    "name": "Jobright AI",
+    "description": "Your AI job search copilot",
+    "category": "Productivity, Artificial Intelligence, Career",
+    "pricing": "Not Specified",
+    "url": "https://jobright.ai",
+    "official_website": "https://jobright.ai",
+    "tags": []
+  },
+  {
+    "id": "45c2294e-4be4-43c1-8489-75cd15495f1d",
+    "name": "Jarts",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/jarts-io",
+    "official_website": "https://futuretools.link/jarts-io",
+    "tags": []
+  },
+  {
+    "id": "472306ab-9edb-415c-a2d2-a2b368fd53c1",
+    "name": "JetBrains",
+    "description": "WebStorm: The JavaScript and TypeScript IDE, by JetBrains. Make development more productive and enjoyable with WebStorm, the IDE for JavaScript and related technologies.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/jetbrains-webstorm",
+    "official_website": "https://www.producthunt.com/products/jetbrains-webstorm",
+    "tags": []
+  },
+  {
+    "id": "4fd06e9328d7",
+    "name": "jina-embeddings-v3",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/jinaai/jina-embeddings-v3",
+    "official_website": "https://huggingface.co/jinaai/jina-embeddings-v3",
+    "tags": []
+  },
+  {
+    "id": "528be672-1a9b-4e94-a406-368fbc18fa31",
+    "name": "Janus Pro 7B",
+    "description": "Unified Multimodal AI Model for Understanding and Generation",
+    "category": "Large Language Models",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/janus-pro-7b",
+    "official_website": "https://freeaitool.ai/tool/janus-pro-7b",
+    "tags": []
+  },
+  {
+    "id": "52973be0421d",
+    "name": "Jupyter AI",
+    "description": "AI-powered extension for JupyterLab that provides a UI for chatting with generative AI models",
+    "category": "Research Platform",
+    "pricing": "Open Source",
+    "url": "https://github.com/jupyterlab/jupyter-ai",
+    "official_website": "https://github.com/jupyterlab/jupyter-ai",
+    "tags": []
+  },
+  {
+    "id": "55719cb8-0b4e-44ca-97cd-35cc75caa2c3",
+    "name": "JAX",
+    "description": "High-performance machine learning research",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://google.com",
+    "official_website": "https://google.com",
+    "tags": []
+  },
+  {
+    "id": "5d70526d417e",
+    "name": "Jenni AI",
+    "description": "AI research and academic writing assistant for 5M+ academics worldwide. Supports 2,600+ citation styles, integrates with Zotero and Mendeley, offers AI autocomplete, agentic chat, source-based generation, and exports to multiple formats (.docx, .tex, .html).",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://jenni.ai/",
+    "official_website": "https://jenni.ai/",
+    "tags": [
+      "research assistant",
+      "citations",
+      "academic writing",
+      "bibliography",
+      "PDF processing",
+      "academic papers",
+      "Zotero integration"
+    ]
+  },
+  {
+    "id": "611083c1-bbd7-4e59-ac60-41b598980aac",
+    "name": "JupyterLab",
+    "description": "Next-gen Jupyter notebook",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://projectjupyter.com",
+    "official_website": "https://projectjupyter.com",
+    "tags": []
+  },
+  {
+    "id": "611de2ab2596",
+    "name": "JupyterLab",
+    "description": "Web-based user interface for Jupyter notebooks, code, and data that allows researchers to work in a flexible, integrated environment",
+    "category": "Research Platform",
+    "pricing": "Open Source",
+    "url": "https://jupyterlab.readthedocs.io",
+    "official_website": "https://jupyterlab.readthedocs.io",
+    "tags": []
+  },
+  {
+    "id": "6bb7dfe3-1063-4a62-b736-48f42cdf51ba",
+    "name": "Jogg AI",
+    "description": "A tool to create avatar-based videos from text or photos",
+    "category": "Avatar",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/jogg-ai",
+    "official_website": "https://www.futuretools.io/tools/jogg-ai",
+    "tags": []
+  },
+  {
+    "id": "6cd11da1-b251-49f2-ac8a-55dd51fa96b9",
+    "name": "jina-embeddings-v3",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/jinaai/jina-embeddings-v3",
+    "official_website": "https://huggingface.co/jinaai/jina-embeddings-v3",
+    "tags": []
+  },
+  {
+    "id": "6fc29b8d-c6de-44f7-9be9-086c439b5f3f",
+    "name": "Juniper AI",
+    "description": "AI-powered network security platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "juniperai",
+    "official_website": "juniperai",
+    "tags": []
+  },
+  {
+    "id": "6fd783f5-46e4-453d-b841-92f9ed407c81",
+    "name": "Jobright AI",
+    "description": "Your AI job search copilot",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/jobright-ai",
+    "official_website": "https://www.producthunt.com/products/jobright-ai",
+    "tags": []
+  },
+  {
+    "id": "71f48391-80e3-40d4-9c0f-58176a652a80",
+    "name": "JD.com AI",
+    "description": "E-commerce logistics AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://jd.com.com",
+    "official_website": "https://jd.com.com",
+    "tags": []
+  },
+  {
+    "id": "74e61bc6-3b32-42d4-a3ab-7a995aefa5f5",
+    "name": "jsPsych",
+    "description": "Specialized AI tool for psychology research applications",
+    "category": "Psychology Research",
+    "pricing": "Open Source",
+    "url": "https://jspsych.com",
+    "official_website": "https://jspsych.com",
+    "tags": []
+  },
+  {
+    "id": "79d6eca0-93dd-4b3e-b086-7f7e1b216793",
+    "name": "JSFiddle",
+    "description": "Online code snippet tool",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://jsfiddle.com",
+    "official_website": "https://jsfiddle.com",
+    "tags": []
+  },
+  {
+    "id": "7a2853d16316",
+    "name": "josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software by language",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "official_website": "https://github.com/josephmisiti/awesome-machine-learning",
+    "tags": []
+  },
+  {
+    "id": "871a61bed88e",
+    "name": "Jupyter Agent",
+    "description": "Generate interactive Jupyter notebooks with AI assistance.",
+    "category": "Development",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/jupyter-agent/jupyter-agent",
+    "official_website": "https://huggingface.co/spaces/jupyter-agent/jupyter-agent",
+    "tags": [
+      "development",
+      "jupyter"
+    ]
+  },
+  {
+    "id": "87d54523521f",
+    "name": "JobHire.AI",
+    "description": "Elevate your job search with JobHire.AI, an AI platform that optimizes and automates applications.",
+    "category": "Productivity, Job Search",
+    "pricing": "Paid",
+    "url": "https://jobhire.ai",
+    "official_website": "https://jobhire.ai",
+    "tags": []
+  },
+  {
+    "id": "8ac918b5-256c-4a7b-98e6-6a0dbfb5d806",
+    "name": "Jason AI",
+    "description": "AI-powered assistant for B2B sales outreach",
+    "category": "Business",
+    "pricing": "From $500/mo",
+    "url": "https://theresanaiforthat.com/ai/jason-ai",
+    "official_website": "https://theresanaiforthat.com/ai/jason-ai",
+    "tags": []
+  },
+  {
+    "id": "8baef4b1-c1d9-459c-aab8-c40d27a4df34",
+    "name": "Jenni AI",
+    "description": "AI research and academic writing assistant for 5M+ academics worldwide. Supports 2,600+ citation styles, integrates with Zotero and Mendeley, offers AI autocomplete, agentic chat, source-based generation, and exports to multiple formats (.docx, .tex, .html).",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://jenni.ai/",
+    "official_website": "https://jenni.ai/",
+    "tags": []
+  },
+  {
+    "id": "99196f55f089",
+    "name": "Jupyter Notebook",
+    "description": "Open-source web application for creating and sharing documents with live code, equations, visualizations and narrative text",
+    "category": "Research Platform",
+    "pricing": "Open Source",
+    "url": "https://jupyter.org",
+    "official_website": "https://jupyter.org",
+    "tags": []
+  },
+  {
+    "id": "a15901d1-d662-42b7-9b93-65c50216a0dd",
+    "name": "Jasper",
+    "description": "AI content creation platform with dozens of templates, internet connectivity for research, AI image generation, and enterprise-grade content quality for high-volume content needs.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.jasper.ai",
+    "official_website": "https://www.jasper.ai",
+    "tags": []
+  },
+  {
+    "id": "a4c55227910d",
+    "name": "Junia",
+    "description": "Generate article variations, create engaging content with AI-writer accuracy, and optimize for SEO visibility.",
+    "category": "Content Creator, SEO",
+    "pricing": "Paid",
+    "url": "https://junia.ai",
+    "official_website": "https://junia.ai",
+    "tags": []
+  },
+  {
+    "id": "a86a71a7e653",
+    "name": "jbhuang0604/awesome-computer-vision",
+    "description": "A curated list of awesome Computer Vision resources",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "official_website": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "tags": []
+  },
+  {
+    "id": "acd37c29-ad24-40e0-8969-a655e0bdcb01",
+    "name": "Japanese BERT",
+    "description": "Japanese BERT model",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://nict.com",
+    "official_website": "https://nict.com",
+    "tags": []
+  },
+  {
+    "id": "ae60c90bc707",
+    "name": "Julius AI",
+    "description": "Unleash AI-driven data analysis with real-time insights and automated processing.",
+    "category": "Marketing, Research",
+    "pricing": "Paid",
+    "url": "https://julius.ai/",
+    "official_website": "https://julius.ai/",
+    "tags": []
+  },
+  {
+    "id": "b5362ec0aca7",
+    "name": "jina-ai/fastapi-serve",
+    "description": "Deploy FastAPI applications with auto-scaling, HTTPS, OAuth2, and more",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/jina-ai/fastapi-serve",
+    "official_website": "https://github.com/jina-ai/fastapi-serve",
+    "tags": []
+  },
+  {
+    "id": "ba9a3e1a-0382-4467-81c7-e92ce85285f5",
+    "name": "Jan Local ChatGPT",
+    "description": "Local ChatGPT alternative",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://jan.com",
+    "official_website": "https://jan.com",
+    "tags": []
+  },
+  {
+    "id": "ce9bd6d0cd7f",
+    "name": "JASP",
+    "description": "Statistical analysis software for research applications",
+    "category": "Statistical Analysis",
+    "pricing": "Open Source",
+    "url": "https://jasp.org",
+    "official_website": "https://jasp.org",
+    "tags": []
+  },
+  {
+    "id": "cf59202166df",
+    "name": "jina-ai/serve",
+    "description": "Build AI-driven server programs with cloud-native, real-time streaming and multimodal capabilities.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/jina-ai/serve",
+    "official_website": "https://github.com/jina-ai/serve",
+    "tags": []
+  },
+  {
+    "id": "d0086f7d-7e9a-4386-b28f-9169d0e1121b",
+    "name": "Jupyter Notebook",
+    "description": "Interactive computing environment",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://projectjupyter.com",
+    "official_website": "https://projectjupyter.com",
+    "tags": []
+  },
+  {
+    "id": "d26de15f0c0a",
+    "name": "jtoy/awesome-tensorflow",
+    "description": "A curated list of awesome TensorFlow experiments, libraries, and projects",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/jtoy/awesome-tensorflow",
+    "official_website": "https://github.com/jtoy/awesome-tensorflow",
+    "tags": []
+  },
+  {
+    "id": "dbcc4908-7570-4996-aa68-736b7ed955ae",
+    "name": "Jasper AI",
+    "description": "AI content platform for marketing",
+    "category": "AI Writing Tools",
+    "pricing": "Premium",
+    "url": "https://jasper.ai",
+    "official_website": "https://jasper.ai",
+    "tags": []
+  },
+  {
+    "id": "df1287d17379",
+    "name": "Jasper",
+    "description": "AI content creation platform with dozens of templates, internet connectivity for research, AI image generation, and enterprise-grade content quality for high-volume content needs.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.jasper.ai",
+    "official_website": "https://www.jasper.ai",
+    "tags": [
+      "content-creation",
+      "research-capability",
+      "ai-images",
+      "enterprise-grade",
+      "templates"
+    ]
+  },
+  {
+    "id": "e088975fd184",
+    "name": "jsPsych",
+    "description": "Specialized AI tool for psychology research applications",
+    "category": "Psychology Research",
+    "pricing": "Open Source",
+    "url": "https://jspsych.com",
+    "official_website": "https://jspsych.com",
+    "tags": []
+  },
+  {
+    "id": "e11b4d01-5d55-4cf9-b47a-49fa9632b316",
+    "name": "Jasper AI",
+    "description": "Intelligent marketing AI platform built for marketing operations. Unifies brand voice, connects workflows, and automates the entire content lifecycle through intelligent Content Pipelines. Features AI agents, Canvas workspace, Brand Voice, and 100+ marketing apps.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://www.jasper.ai/",
+    "official_website": "https://www.jasper.ai/",
+    "tags": []
+  },
+  {
+    "id": "e19bf9f2-4847-46c7-89c5-657f89de0083",
+    "name": "Jina",
+    "description": "Neural search framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://jina.com",
+    "official_website": "https://jina.com",
+    "tags": []
+  },
+  {
+    "id": "e1c397fbbe98",
+    "name": "Jasper",
+    "description": "AI writing tool for social media, blogs, marketing copy, and long-form content.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "url": "https://www.jasper.ai/",
+    "official_website": "https://www.jasper.ai/",
+    "tags": [
+      "marketing",
+      "writing"
+    ]
+  },
+  {
+    "id": "e838a9e3-78e1-4d35-a0d5-e6ab3ef79dd6",
+    "name": "Jogg AI",
+    "description": "JoggAI is an AI-powered video generation platform that allows users to create realistic avatar-based videos without filming or editing. It enables marketers, creators, and businesses to quickly produce high-quality videos for ads, social media, and other digital uses by generating lifelike AI avatars that deliver messages naturally. Users can turn text, photos, or custom avatars into fully produced videos in minutes, complete with accurate lip-syncing, AI voices, captions, and built-in editing t",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/jogg-ai",
+    "official_website": "https://futuretools.link/jogg-ai",
+    "tags": []
+  },
+  {
+    "id": "ec243a8e-720b-4276-b3b1-4f02df02b4fc",
+    "name": "Jenni AI",
+    "description": "AI writing assistant for academic writing",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "jenniai",
+    "official_website": "jenniai",
+    "tags": []
+  },
+  {
+    "id": "f087980c-672e-47b6-a95f-ca143db35a66",
+    "name": "Jasper AI",
+    "description": "Jasper AI is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://futuretools.link/jasper-ai",
+    "official_website": "https://futuretools.link/jasper-ai",
+    "tags": []
+  }
+]

@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "006c3fb1-35fc-48a0-a92e-fe00fa674fcc",
+    "name": "EdgeComputing Tool 10",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing10.com",
+    "official_website": "https://edgecomputing10.com",
+    "tags": []
+  },
+  {
+    "id": "02f3ed7e-879f-4c7a-9c37-feae780d1b7d",
+    "name": "EdgeComputing Tool 41",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing41.com",
+    "official_website": "https://edgecomputing41.com",
+    "tags": []
+  },
+  {
+    "id": "085a230f87df",
+    "name": "emotion_text_classifier",
+    "description": "AI model emotion_text_classifier from michellejieli on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/michellejieli/emotion_text_classifier",
+    "official_website": "https://huggingface.co/michellejieli/emotion_text_classifier",
+    "tags": []
+  },
+  {
+    "id": "08fd4f59e463",
+    "name": "Elicit",
+    "description": "Automate research workflows",
+    "category": "Academia",
+    "pricing": "Not Specified",
+    "url": "https://elicit.org/",
+    "official_website": "https://elicit.org/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "0c8957340066",
+    "name": "Eightify",
+    "description": "AI video localization tool",
+    "category": "Video Generation",
+    "pricing": "Not Specified",
+    "url": "https://eightify.app/",
+    "official_website": "https://eightify.app/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "0cf21f45657d",
+    "name": "Elicit",
+    "description": "AI research assistant that finds papers, extracts key information, and synthesizes research questions",
+    "category": "Research Platform",
+    "pricing": "Academic",
+    "url": "https://elicit.org",
+    "official_website": "https://elicit.org",
+    "tags": []
+  },
+  {
+    "id": "0dcb1361-6145-4aef-b485-d169368c082f",
+    "name": "Equal Time",
+    "description": "AI meeting assistant focused on promoting inclusive meetings with real-time participation tracking, inclusion score calculations, sentiment analysis, and post-meeting breakdowns with improvement tips.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://equaltime.io",
+    "official_website": "https://equaltime.io",
+    "tags": []
+  },
+  {
+    "id": "119e5d68-288f-49e5-8577-383c7cd57d80",
+    "name": "Endex",
+    "description": "Endex is an AI-powered Excel assistant that automates complex financial workflows directly within Microsoft Excel, leveraging advanced AI models from OpenAI. The tool functions as a digital analyst capable of autonomously retrieving, analyzing, and synthesizing financial data from both internal documents and external sources like SEC filings, all while providing structured citations for transparency. Finance professionals at investment firms, hedge funds, and consulting companies use Endex to dr",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/endex-ai",
+    "official_website": "https://futuretools.link/endex-ai",
+    "tags": []
+  },
+  {
+    "id": "147dfc9eafb3",
+    "name": "enso",
+    "description": "Easy-to-use business AI Agents adapt to your business needs.",
+    "category": "Social Media, AI Agents",
+    "pricing": "Free Trial",
+    "url": "https://enso.go2cloud.org/aff_c?offer_id=3&aff_id=1007",
+    "official_website": "https://enso.go2cloud.org/aff_c?offer_id=3&aff_id=1007",
+    "tags": []
+  },
+  {
+    "id": "16885b705023",
+    "name": "EbSynth",
+    "description": "Transform videos by editing a single frame.",
+    "category": "Video Editing, Video Generators",
+    "pricing": "Freemium",
+    "url": "https://ebsynth.com/",
+    "official_website": "https://ebsynth.com/",
+    "tags": []
+  },
+  {
+    "id": "177094cea2bb",
+    "name": "Edison Mail",
+    "description": "AI-enhanced email client with on-device generative AI for drafting, security features like spy pixel blocking, smart spam filtering, and privacy controls for sensitive email management.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.edisonmail.com",
+    "official_website": "https://www.edisonmail.com",
+    "tags": [
+      "email-client",
+      "security",
+      "spam-filtering",
+      "privacy",
+      "on-device-ai"
+    ]
+  },
+  {
+    "id": "185ae7e4-547b-4f5d-a049-c0c2f092d08d",
+    "name": "EdgeComputing Tool 35",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing35.com",
+    "official_website": "https://edgecomputing35.com",
+    "tags": []
+  },
+  {
+    "id": "19a54d27-cfaf-4112-8ce3-3b1e7420a3a6",
+    "name": "EdgeComputing Tool 12",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing12.com",
+    "official_website": "https://edgecomputing12.com",
+    "tags": []
+  },
+  {
+    "id": "19ef5b141a8c",
+    "name": "edX",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://edx.com",
+    "official_website": "https://edx.com",
+    "tags": []
+  },
+  {
+    "id": "1a84495f-4fd9-4845-ab33-03d499430c4a",
+    "name": "EdgeComputing Tool 14",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing14.com",
+    "official_website": "https://edgecomputing14.com",
+    "tags": []
+  },
+  {
+    "id": "22582fbf-431c-4ad2-b7ff-adbb0ec4d808",
+    "name": "edX AI",
+    "description": "AI-powered education solution",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.edxai.com",
+    "official_website": "https://www.edxai.com",
+    "tags": []
+  },
+  {
+    "id": "239080c8-b829-4907-8cb7-1e0be90079b9",
+    "name": "EdgeComputing Tool 21",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing21.com",
+    "official_website": "https://edgecomputing21.com",
+    "tags": []
+  },
+  {
+    "id": "23cfa357-b56d-4461-b59e-225753f6dd47",
+    "name": "ETH Zurich AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.eth.edu",
+    "official_website": "https://ai.eth.edu",
+    "tags": []
+  },
+  {
+    "id": "2542934e-c87d-4b06-826c-710040ccf053",
+    "name": "Exabeam",
+    "description": "AI-powered security solution",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.exabeam.com",
+    "official_website": "https://www.exabeam.com",
+    "tags": []
+  },
+  {
+    "id": "2601dac2-5885-4f6b-bfdc-d4ab5c6d9a79",
+    "name": "EdgeComputing Tool 8",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing8.com",
+    "official_website": "https://edgecomputing8.com",
+    "tags": []
+  },
+  {
+    "id": "2700462a-74a8-48c5-b16f-65fcad895e69",
+    "name": "Engagico",
+    "description": "Engagico is an AI-powered platform that helps users audit, clean, and format their contact lists for seamless CRM import. It offers flexible, pay-per-contact pricing with no subscriptions or hidden fees, allowing users to buy credits only when needed. Users can run a free audit to identify potential issues in their lists, then apply various workflow tiers based on complexity and cost. The platform charges only for successful operations, and credits can be mixed and matched across workflows. Enga",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/engagico-com",
+    "official_website": "https://futuretools.link/engagico-com",
+    "tags": []
+  },
+  {
+    "id": "28ed950d-b650-41ea-86c7-69b051b694d9",
+    "name": "Elasticsearch AI",
+    "description": "AI-powered search engine",
+    "category": "Search & Recommendations",
+    "pricing": "Freemium",
+    "url": "https://elastic.com",
+    "official_website": "https://elastic.com",
+    "tags": []
+  },
+  {
+    "id": "291fdf19-9afc-44e1-bf7c-55df0c3e1b86",
+    "name": "esmfold_v1",
+    "description": "AI model esmfold_v1 from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/facebook/esmfold_v1",
+    "official_website": "https://huggingface.co/facebook/esmfold_v1",
+    "tags": []
+  },
+  {
+    "id": "3114257c-d936-4c4a-aaed-da9c4e4117d9",
+    "name": "EdgeComputing Tool 19",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing19.com",
+    "official_website": "https://edgecomputing19.com",
+    "tags": []
+  },
+  {
+    "id": "3232b965-edce-48ee-8efe-b2b42ad79e8b",
+    "name": "EdgeComputing Tool 23",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing23.com",
+    "official_website": "https://edgecomputing23.com",
+    "tags": []
+  },
+  {
+    "id": "32507990-3a9b-4710-814d-43802123ae26",
+    "name": "EdgeComputing Tool 37",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing37.com",
+    "official_website": "https://edgecomputing37.com",
+    "tags": []
+  },
+  {
+    "id": "342075d2-bdf3-4b60-bc65-6b142baa5dae",
+    "name": "ElevenLabs Voice Cloning",
+    "description": "Clone voices with AI",
+    "category": "Creative AI Tools",
+    "pricing": "Freemium",
+    "url": "https://elevenlabs.com",
+    "official_website": "https://elevenlabs.com",
+    "tags": []
+  },
+  {
+    "id": "344a85e2-23bb-4965-b220-2e071dd976e2",
+    "name": "EdgeComputing Tool 1",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing1.com",
+    "official_website": "https://edgecomputing1.com",
+    "tags": []
+  },
+  {
+    "id": "374cae119872",
+    "name": "endymecy/awesome-deeplearning-resources",
+    "description": "Collection of deep learning frameworks, libraries, neural network tools and applications",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/endymecy/awesome-deeplearning-resources",
+    "official_website": "https://github.com/endymecy/awesome-deeplearning-resources",
+    "tags": []
+  },
+  {
+    "id": "37fcb6ee5753",
+    "name": "Elementor AI",
+    "description": "WordPress plugin that integrates AI-powered capabilities for enhanced content creation and customization. Generates page copy, refines existing content, automatically translates texts into 29 languages, and generates CSS and HTML code for customization.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://elementor.com/",
+    "official_website": "https://elementor.com/",
+    "tags": [
+      "css html generation",
+      "wordpress plugin",
+      "ai content",
+      "page copy",
+      "translation",
+      "multilingual"
+    ]
+  },
+  {
+    "id": "383f5e7c-d9b2-434e-9e58-a69d54bed731",
+    "name": "Enjo.ai",
+    "description": "Enjo AI is an intelligent support automation platform that leverages advanced artificial intelligence to autonomously handle 20-80% of customer and employee support requests. The AI-powered system integrates seamlessly with workplace tools like Slack, Microsoft Teams, Jira and Confluence, providing instant, context-aware responses by drawing information from knowledge bases and ticketing systems in real-time. Enjo's generative AI capabilities extend beyond simple question answering to include au",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/enjo-ai",
+    "official_website": "https://futuretools.link/enjo-ai",
+    "tags": []
+  },
+  {
+    "id": "39640da3-e785-476e-b90d-8ace1dda12c4",
+    "name": "ExaMD Imaging",
+    "description": "Medical imaging platform",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://examd.com",
+    "official_website": "https://examd.com",
+    "tags": []
+  },
+  {
+    "id": "42e6129b1315",
+    "name": "Everyday",
+    "description": "AI productivity tool",
+    "category": "Artificial Intelligence, Productivity, SaaS",
+    "pricing": "Not Specified",
+    "url": "https://everyday.ai",
+    "official_website": "https://everyday.ai",
+    "tags": []
+  },
+  {
+    "id": "4357bf5d-c1f2-4ac6-95c9-bd767fdd255b",
+    "name": "EdgeComputing Tool 29",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing29.com",
+    "official_website": "https://edgecomputing29.com",
+    "tags": []
+  },
+  {
+    "id": "43aec1e7-04e4-45ac-86dc-b4eccae6cc1f",
+    "name": "EdgeComputing Tool 11",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing11.com",
+    "official_website": "https://edgecomputing11.com",
+    "tags": []
+  },
+  {
+    "id": "44f21458-20fd-4676-82f6-2ab304dd8000",
+    "name": "EdgeComputing Tool 26",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing26.com",
+    "official_website": "https://edgecomputing26.com",
+    "tags": []
+  },
+  {
+    "id": "451e7b7b4630",
+    "name": "epistasislab/tpot",
+    "description": "Automation of sklearn pipeline creation including feature selection, pre-processor",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/epistasislab/tpot",
+    "official_website": "https://github.com/epistasislab/tpot",
+    "tags": []
+  },
+  {
+    "id": "46184c63-aa22-4e43-95dc-ae3143befdca",
+    "name": "Evaligo",
+    "description": "Evaligo is an AI-driven platform designed for developers and teams to test optimize and deploy prompts for language models offering automated feedback comparison tools and real-time analytics powered by artificial intelligence Users can experiment with and evaluate prompt performance through an interactive playground while AI algorithms provide instant suggestions on improving outputs Facilitate end-to-end prompt management with versioning monitoring and CI/CD integration Evaligo helps streamlin",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/evaligo-com",
+    "official_website": "https://futuretools.link/evaligo-com",
+    "tags": []
+  },
+  {
+    "id": "4a245c93-d05d-4455-ac66-be01499100a8",
+    "name": "EdgeComputing Tool 43",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing43.com",
+    "official_website": "https://edgecomputing43.com",
+    "tags": []
+  },
+  {
+    "id": "4a4ecf1c-ed58-4c92-8bba-9dbba4ee272a",
+    "name": "EmailConnect",
+    "description": "EmailConnect.eu is an inbound-only email processing service that transforms received emails into structured JSON data delivered via webhooks making it easier for developers and businesses to integrate email content into their automated workflows and systems without manual intervention while the service itself doesnt explicitly mention AI capabilities its functionality aligns with modern data processing pipelines that often feed into AI systems by converting unstructured email content into struct",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/emailconnect-eu",
+    "official_website": "https://futuretools.link/emailconnect-eu",
+    "tags": []
+  },
+  {
+    "id": "4c9d81e77c0b",
+    "name": "EasyChair",
+    "description": "Conference and publication management tools for academic events",
+    "category": "Conference Management",
+    "pricing": "Free/Commercial",
+    "url": "https://easychair.com",
+    "official_website": "https://easychair.com",
+    "tags": []
+  },
+  {
+    "id": "4cb05f00-af52-4d91-8579-1470ba1f5c84",
+    "name": "EdgeComputing Tool 31",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing31.com",
+    "official_website": "https://edgecomputing31.com",
+    "tags": []
+  },
+  {
+    "id": "4dcc39b0-60a9-4ca5-9c68-a8cb40f93250",
+    "name": "ElevenLabs",
+    "description": "AI-powered audio and voice solution",
+    "category": "AI Audio & Voice",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.elevenlabs.com",
+    "official_website": "https://www.elevenlabs.com",
+    "tags": []
+  },
+  {
+    "id": "504b8970e762",
+    "name": "esm2_t33_650M_UR50D",
+    "description": "AI model esm2_t33_650M_UR50D from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/esm2_t33_650M_UR50D",
+    "official_website": "https://huggingface.co/facebook/esm2_t33_650M_UR50D",
+    "tags": []
+  },
+  {
+    "id": "5226f75f65c9",
+    "name": "elan-mt-bt-en-ja",
+    "description": "AI model elan-mt-bt-en-ja from Mitsua on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Mitsua/elan-mt-bt-en-ja",
+    "official_website": "https://huggingface.co/Mitsua/elan-mt-bt-en-ja",
+    "tags": []
+  },
+  {
+    "id": "52378af1-5c9b-418a-8700-7f53118f5290",
+    "name": "EdgeComputing Tool 13",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing13.com",
+    "official_website": "https://edgecomputing13.com",
+    "tags": []
+  },
+  {
+    "id": "530c2dd532c8",
+    "name": "emotion-english-distilroberta-base",
+    "description": "AI model emotion-english-distilroberta-base from j-hartmann on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/j-hartmann/emotion-english-distilroberta-base",
+    "official_website": "https://huggingface.co/j-hartmann/emotion-english-distilroberta-base",
+    "tags": []
+  },
+  {
+    "id": "56840e03-36e4-4194-8ef2-7a71e0ad6215",
+    "name": "ElevenLabs",
+    "description": "AI voice generation and cloning",
+    "category": "AI Voice",
+    "pricing": "Freemium",
+    "url": "https://elevenlabs.io",
+    "official_website": "https://elevenlabs.io",
+    "tags": []
+  },
+  {
+    "id": "56fa26cb5104",
+    "name": "Explee",
+    "description": "Find thousands of potential customers in seconds with AI-generated verified contact lists.",
+    "category": "Business",
+    "pricing": "Not Specified",
+    "url": "https://go.explee.com/aixploria",
+    "official_website": "https://go.explee.com/aixploria",
+    "tags": [
+      "prospecting",
+      "business",
+      "sales"
+    ]
+  },
+  {
+    "id": "570edb0f-3501-4bc7-becc-b06cd8f1075b",
+    "name": "ELECTRA Small",
+    "description": "Efficiently learning encoder representations",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "579a3e53-d2fa-4103-8c47-c014859a9626",
+    "name": "EdgeComputing Tool 39",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing39.com",
+    "official_website": "https://edgecomputing39.com",
+    "tags": []
+  },
+  {
+    "id": "5c1f6cc2-4ebf-4f10-bbea-718a4b045d1b",
+    "name": "ElevenLabs",
+    "description": "AI voice cloning and text-to-speech platform",
+    "category": "AI Audio & Voice",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "elevenlabs",
+    "official_website": "elevenlabs",
+    "tags": []
+  },
+  {
+    "id": "5d29e258-745c-4b20-8811-584f8fd626c0",
+    "name": "Embed Multilingual",
+    "description": "Multilingual text embeddings",
+    "category": "Data Analysis & Machine Learning",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "5fd47f74-8ea4-4f3a-bfa4-419f505c1a9a",
+    "name": "ElevenLabs",
+    "description": "Create natural AI voices instantly in any language",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/elevenlabs",
+    "official_website": "https://www.producthunt.com/products/elevenlabs",
+    "tags": []
+  },
+  {
+    "id": "5fdc214075da",
+    "name": "ELI5",
+    "description": "Specialized AI tool for ai ethics applications",
+    "category": "AI Ethics",
+    "pricing": "Open Source",
+    "url": "https://eli5.com",
+    "official_website": "https://eli5.com",
+    "tags": []
+  },
+  {
+    "id": "645ca6c5-fcb6-462d-8125-544fec0fbadd",
+    "name": "Evernote",
+    "description": "Classic note-taking application with robust AI editing features including summarizing, rephrasing, tone changes, comprehensive search across all content types, and powerful task management.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://evernote.com",
+    "official_website": "https://evernote.com",
+    "tags": []
+  },
+  {
+    "id": "67240c3e6afa",
+    "name": "Emilio",
+    "description": "Email prioritization and automation",
+    "category": "Productivity",
+    "pricing": "Not Specified",
+    "url": "https://getemil.io/",
+    "official_website": "https://getemil.io/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "681bd272-7545-4f27-bd43-eba955bee339",
+    "name": "emotion_text_classifier",
+    "description": "AI model emotion_text_classifier from michellejieli on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/michellejieli/emotion_text_classifier",
+    "official_website": "https://huggingface.co/michellejieli/emotion_text_classifier",
+    "tags": []
+  },
+  {
+    "id": "6cf189b7f12d",
+    "name": "Evernote",
+    "description": "Classic note-taking application with robust AI editing features including summarizing, rephrasing, tone changes, comprehensive search across all content types, and powerful task management.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://evernote.com",
+    "official_website": "https://evernote.com",
+    "tags": [
+      "ai-editing",
+      "note-taking",
+      "document-management",
+      "task-management",
+      "search"
+    ]
+  },
+  {
+    "id": "6f011a57-d47f-4a22-b8b3-bc3e338dc1ef",
+    "name": "EdgeComputing Tool 36",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing36.com",
+    "official_website": "https://edgecomputing36.com",
+    "tags": []
+  },
+  {
+    "id": "6f78fc45-d491-4a92-8df2-467bc91ae38f",
+    "name": "EdgeComputing Tool 34",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing34.com",
+    "official_website": "https://edgecomputing34.com",
+    "tags": []
+  },
+  {
+    "id": "70d083e5-74f3-469c-8730-ece28767738a",
+    "name": "EdgeComputing Tool 27",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing27.com",
+    "official_website": "https://edgecomputing27.com",
+    "tags": []
+  },
+  {
+    "id": "72d84b9e8885",
+    "name": "Editorial Manager",
+    "description": "Conference and publication management tools for academic events",
+    "category": "Conference Management",
+    "pricing": "Free/Commercial",
+    "url": "https://editorial manager.com",
+    "official_website": "https://editorial manager.com",
+    "tags": []
+  },
+  {
+    "id": "72f6c875-a1e8-433f-a652-50c9abe81ccb",
+    "name": "Ecwid AI",
+    "description": "AI-enhanced e-commerce platform",
+    "category": "AI E-commerce",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "ecwidai",
+    "official_website": "ecwidai",
+    "tags": []
+  },
+  {
+    "id": "73da185a-264f-43ab-b2f0-69ae1a4285f0",
+    "name": "EdgeComputing Tool 9",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing9.com",
+    "official_website": "https://edgecomputing9.com",
+    "tags": []
+  },
+  {
+    "id": "788b6073-9d56-478c-b702-70e8fb575646",
+    "name": "EdgeComputing Tool 32",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing32.com",
+    "official_website": "https://edgecomputing32.com",
+    "tags": []
+  },
+  {
+    "id": "78be5d7c-188e-4470-a756-ce87e92a4abf",
+    "name": "EDSR",
+    "description": "AI enhanced deep super-resolution",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "edsr",
+    "official_website": "edsr",
+    "tags": []
+  },
+  {
+    "id": "7c850da4-58da-4c94-b8b1-dde9fe89faac",
+    "name": "EdgeComputing Tool 30",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing30.com",
+    "official_website": "https://edgecomputing30.com",
+    "tags": []
+  },
+  {
+    "id": "7ffbc408-ee45-42f1-a572-47a81fde79ef",
+    "name": "EdgeComputing Tool 22",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing22.com",
+    "official_website": "https://edgecomputing22.com",
+    "tags": []
+  },
+  {
+    "id": "80c2f341-c8db-404d-88e9-df51ebaf4e98",
+    "name": "EdgeComputing Tool 40",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing40.com",
+    "official_website": "https://edgecomputing40.com",
+    "tags": []
+  },
+  {
+    "id": "85a09be57e34",
+    "name": "Elevenlabs",
+    "description": "AI text-to-speech and voice cloning with mobile app.",
+    "category": "Voice",
+    "pricing": "Freemium",
+    "url": "https://elevenlabs.io/",
+    "official_website": "https://elevenlabs.io/",
+    "tags": [
+      "voice",
+      "tts"
+    ]
+  },
+  {
+    "id": "872cde072356",
+    "name": "esm2_t6_8M_UR50D",
+    "description": "AI model esm2_t6_8M_UR50D from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/esm2_t6_8M_UR50D",
+    "official_website": "https://huggingface.co/facebook/esm2_t6_8M_UR50D",
+    "tags": []
+  },
+  {
+    "id": "89bff8c9-eaa8-49d9-b0cc-519772119cf5",
+    "name": "Emma AI",
+    "description": "AI-powered email marketing platform that provides intelligent campaign optimization, audience insights, and automation tools.",
+    "category": "AI Email Marketing",
+    "pricing": "Contact sales for pricing",
+    "url": "https://myemma.com",
+    "official_website": "https://myemma.com",
+    "tags": []
+  },
+  {
+    "id": "8b881603-ede7-4dbe-8e96-3fee9cd0c630",
+    "name": "Eaton AI",
+    "description": "Power management AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://eaton.com",
+    "official_website": "https://eaton.com",
+    "tags": []
+  },
+  {
+    "id": "8c654f03-a5d2-4a65-9bc4-4b7d78f3b661",
+    "name": "EdgeComputing Tool 15",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing15.com",
+    "official_website": "https://edgecomputing15.com",
+    "tags": []
+  },
+  {
+    "id": "8d345754-13f9-46bc-8311-239baa7a4f61",
+    "name": "EdgeComputing Tool 3",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing3.com",
+    "official_website": "https://edgecomputing3.com",
+    "tags": []
+  },
+  {
+    "id": "916d64af-0423-4686-a0d6-0ea267d40ba8",
+    "name": "Experimently",
+    "description": "Experimently is a no-code AI-powered landing page builder designed to help users quickly create, test, and validate ideas. By simply describing a concept or choosing a template, users can generate a complete landing page with a built-in lead form in seconds. The visual WYSIWYG editor allows easy customization without coding, while advanced users can import their own HTML or CSS. Experimently includes features like flicker-free A/B testing with configurable weighted routing, custom domain support",
+    "category": "General",
+    "pricing": "Free",
+    "url": "https://futuretools.link/experimently-io",
+    "official_website": "https://futuretools.link/experimently-io",
+    "tags": []
+  },
+  {
+    "id": "917b3bf0-52d5-41b9-9940-15d2143aafd8",
+    "name": "EdgeComputing Tool 20",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing20.com",
+    "official_website": "https://edgecomputing20.com",
+    "tags": []
+  },
+  {
+    "id": "9236ce03d842",
+    "name": "esm2_t36_3B_UR50D",
+    "description": "AI model esm2_t36_3B_UR50D from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/esm2_t36_3B_UR50D",
+    "official_website": "https://huggingface.co/facebook/esm2_t36_3B_UR50D",
+    "tags": []
+  },
+  {
+    "id": "92a92667-3e6b-4695-880e-846b14f0ee8d",
+    "name": "Everyday",
+    "description": "AI productivity tool",
+    "category": "Artificial Intelligence, Productivity, SaaS",
+    "pricing": "Unknown",
+    "url": "https://everyday.ai",
+    "official_website": "https://everyday.ai",
+    "tags": []
+  },
+  {
+    "id": "93105e3991ca",
+    "name": "espnet",
+    "description": "End-to-End Speech Processing Toolkit",
+    "category": "Audio and Speech AI",
+    "pricing": "Not Specified",
+    "url": "https://espnet.github.io/espnet/",
+    "official_website": "https://espnet.github.io/espnet/",
+    "tags": [
+      "Kaldi-style complete recipes for various speech processing experiments",
+      "Support for multiple architectures: Transformer, Conformer, Branchformer, E-Branchformer",
+      "Integration with neural vocoders (Parallel WaveGAN, HiFiGAN, StyleMelGAN)",
+      "OpenAI Whisper model integration for robust ASR",
+      "State-of-the-art performance in multiple ASR benchmarks",
+      "Support for endangered language documentation and speech recognition",
+      "ESPnet2 with distributed training and multi-node support",
+      "Multi-speaker and multi-language extensions with speaker embeddings",
+      "End-to-end speech processing covering ASR, TTS, speech translation, enhancement",
+      "Real-time demo with Gradio and Hugging Face Spaces integration"
+    ]
+  },
+  {
+    "id": "93c8261c-eeb9-4ad7-8e3f-6f928d24d1de",
+    "name": "Everyday",
+    "description": "AI productivity tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/everyday-4",
+    "official_website": "https://www.producthunt.com/products/everyday-4",
+    "tags": []
+  },
+  {
+    "id": "9a5a7c77-1340-4cd5-9655-43f309626a24",
+    "name": "Extend AI",
+    "description": "Extend is an AI-powered document processing platform that uses advanced large language models and multimodal AI to transform unstructured documents like PDFs with tables handwriting signatures and images into structured high quality data with exceptional accuracy making it ideal for technical teams and organizations in industries such as fintech real estate and healthcare seeking to automate and scale complex document workflows unlike legacy OCR solutions Extend offers customizable APIs for rapi",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/extend-ai",
+    "official_website": "https://futuretools.link/extend-ai",
+    "tags": []
+  },
+  {
+    "id": "9a5de238aab3",
+    "name": "Everywhere",
+    "description": "Context-aware AI assistant for desktop with multiple LLM integration",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://github.com/everywhere-ai/everywhere",
+    "official_website": "https://github.com/everywhere-ai/everywhere",
+    "tags": []
+  },
+  {
+    "id": "9ac6467771aa",
+    "name": "Enhancv",
+    "description": "AI resume optimization platform with LinkedIn import, AI rewriting assistance, ATS checking, resume scoring, and industry-specific optimization recommendations.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://enhancv.com",
+    "official_website": "https://enhancv.com",
+    "tags": [
+      "ai-rewriting",
+      "ats-checking",
+      "industry-specific",
+      "linkedin-import",
+      "resume-optimization"
+    ]
+  },
+  {
+    "id": "9d885ce0-9212-46dd-a371-11201ef07cf3",
+    "name": "Everyday",
+    "description": "Everyday is an AI-powered productivity assistant that automates daily tasks and complex workflows to help users stay organized and focused. It manages emails, schedules, and work processes, turning intentions into completed outcomes effortlessly. By handling both simple and multi-step actions, Everyday frees up time for more meaningful work. The platform continuously streamlines operations, keeping projects and communications moving efficiently. With community-driven workflow examples and a user",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/everyday-new",
+    "official_website": "https://futuretools.link/everyday-new",
+    "tags": []
+  },
+  {
+    "id": "9f3a9ffa-19dd-43b8-82b8-444a363670fd",
+    "name": "Emerson AI",
+    "description": "Industrial automation AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://emerson.com",
+    "official_website": "https://emerson.com",
+    "tags": []
+  },
+  {
+    "id": "9f9de56c-2d07-4562-8f65-1791d710b0cc",
+    "name": "Edison Mail",
+    "description": "AI-enhanced email client with on-device generative AI for drafting, security features like spy pixel blocking, smart spam filtering, and privacy controls for sensitive email management.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.edisonmail.com",
+    "official_website": "https://www.edisonmail.com",
+    "tags": []
+  },
+  {
+    "id": "a2a590b2da6b",
+    "name": "electra_large_discriminator_squad2_512",
+    "description": "AI model electra_large_discriminator_squad2_512 from ahotrod on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/ahotrod/electra_large_discriminator_squad2_512",
+    "official_website": "https://huggingface.co/ahotrod/electra_large_discriminator_squad2_512",
+    "tags": []
+  },
+  {
+    "id": "a3eb62db-4360-4ca4-a9b5-b93c3a06dabc",
+    "name": "edX AI",
+    "description": "AI-enhanced online learning platform",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "edxai",
+    "official_website": "edxai",
+    "tags": []
+  },
+  {
+    "id": "a8b6d4eb1b50",
+    "name": "esmfold_v1",
+    "description": "AI model esmfold_v1 from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/esmfold_v1",
+    "official_website": "https://huggingface.co/facebook/esmfold_v1",
+    "tags": []
+  },
+  {
+    "id": "a925e36a-f450-4f4e-a1ce-1f3038249e8e",
+    "name": "Emerson Plantweb",
+    "description": "Plant optimization AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://emerson.com",
+    "official_website": "https://emerson.com",
+    "tags": []
+  },
+  {
+    "id": "a9ad6052-6a54-4c99-9b5d-0a8f16d2a693",
+    "name": "EdgeComputing Tool 5",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing5.com",
+    "official_website": "https://edgecomputing5.com",
+    "tags": []
+  },
+  {
+    "id": "ab9474a076d4",
+    "name": "EPFL AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.epfl.edu",
+    "official_website": "https://ai.epfl.edu",
+    "tags": []
+  },
+  {
+    "id": "ac429c4d1da2",
+    "name": "ERNIE-4.5-21B-A3B-Thinking",
+    "description": "AI model ERNIE-4.5-21B-A3B-Thinking from baidu on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking",
+    "official_website": "https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking",
+    "tags": []
+  },
+  {
+    "id": "ad92f27e-fa7f-4774-a996-24035243eefe",
+    "name": "Enhancv",
+    "description": "AI resume optimization platform with LinkedIn import, AI rewriting assistance, ATS checking, resume scoring, and industry-specific optimization recommendations.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://enhancv.com",
+    "official_website": "https://enhancv.com",
+    "tags": []
+  },
+  {
+    "id": "ae8c649fbcf5",
+    "name": "Explee",
+    "description": "Find thousands of potential customers in seconds. Simply describe your ideal prospect, and AI will provide you a list of verified, ready-to-use contacts.",
+    "category": "Business, Lead Generation",
+    "pricing": "Freemium",
+    "url": "https://www.aixploria.com/out/Explee",
+    "official_website": "https://www.aixploria.com/out/Explee",
+    "tags": []
+  },
+  {
+    "id": "b08bfc4f2d92",
+    "name": "EuroLLM-1.7B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/utter-project/EuroLLM-1.7B",
+    "official_website": "https://huggingface.co/utter-project/EuroLLM-1.7B",
+    "tags": []
+  },
+  {
+    "id": "b10d9d3a-62ca-4f5d-8817-94361866d642",
+    "name": "EdgeComputing Tool 38",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing38.com",
+    "official_website": "https://edgecomputing38.com",
+    "tags": []
+  },
+  {
+    "id": "b321b2ce-fa8f-4b95-b92a-7303213834cb",
+    "name": "EdgeComputing Tool 25",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing25.com",
+    "official_website": "https://edgecomputing25.com",
+    "tags": []
+  },
+  {
+    "id": "b3302c0d-545f-449e-a415-112652175b57",
+    "name": "Empromptu.ai",
+    "description": "Empromptu is a no-code platform for building complete AI applications with integrated models, retrieval-augmented generation, and infrastructure. It focuses on creating production-ready solutions with up to 98% accuracy from the start, using proprietary optimization technology to ensure reliability in real-world scenarios. The platform supports connecting to APIs, databases, and external services while providing LLMOps tools for ongoing optimization and control. Designed for enterprise-grade dep",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/empromptu-ai",
+    "official_website": "https://futuretools.link/empromptu-ai",
+    "tags": []
+  },
+  {
+    "id": "b3776adc-b088-40b1-b348-eaf19125a34a",
+    "name": "ESET AI",
+    "description": "AI-powered cybersecurity solutions",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "esetai",
+    "official_website": "esetai",
+    "tags": []
+  },
+  {
+    "id": "b3ddf946-4bea-421e-9ad9-0914b44cec2b",
+    "name": "EchoPixel",
+    "description": "AI 3D visualization for healthcare",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "echopixel",
+    "official_website": "echopixel",
+    "tags": []
+  },
+  {
+    "id": "b53b82f7-7d64-40eb-894b-cbcf2ba8d4d4",
+    "name": "EdgeComputing Tool 16",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing16.com",
+    "official_website": "https://edgecomputing16.com",
+    "tags": []
+  },
+  {
+    "id": "b6841f3c-d32c-4471-9c26-92f1156e43fd",
+    "name": "EdgeComputing Tool 24",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing24.com",
+    "official_website": "https://edgecomputing24.com",
+    "tags": []
+  },
+  {
+    "id": "b901087d-315c-4899-93fd-9757e724b6bc",
+    "name": "Extend AI",
+    "description": "A platform that converts unstructured documents into structured data with customizable APIs",
+    "category": "Research",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/extend-ai",
+    "official_website": "https://www.futuretools.io/tools/extend-ai",
+    "tags": []
+  },
+  {
+    "id": "ba71de1c-8015-4c17-98b0-2b03b4ca516d",
+    "name": "edX",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://edx.com",
+    "official_website": "https://edx.com",
+    "tags": []
+  },
+  {
+    "id": "be025c4925f5",
+    "name": "electra-base-discriminator",
+    "description": "AI model electra-base-discriminator from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/electra-base-discriminator",
+    "official_website": "https://huggingface.co/google/electra-base-discriminator",
+    "tags": []
+  },
+  {
+    "id": "bfb1b9c4-f449-425c-9af6-4a3f3f298d0f",
+    "name": "Elementor AI",
+    "description": "WordPress plugin that integrates AI-powered capabilities for enhanced content creation and customization. Generates page copy, refines existing content, automatically translates texts into 29 languages, and generates CSS and HTML code for customization.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://elementor.com/",
+    "official_website": "https://elementor.com/",
+    "tags": []
+  },
+  {
+    "id": "c5da1025-8647-463a-a816-558f49e8e9e1",
+    "name": "Epsillion",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/epsillion-com",
+    "official_website": "https://futuretools.link/epsillion-com",
+    "tags": []
+  },
+  {
+    "id": "c6537f6a-c468-4425-b7d7-8c1885fee35a",
+    "name": "Elicit",
+    "description": "AI-powered search and research solution",
+    "category": "AI Search & Research",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.elicit.com",
+    "official_website": "https://www.elicit.com",
+    "tags": []
+  },
+  {
+    "id": "c6a9971b-9ca4-4fe2-a4c4-f5870a186827",
+    "name": "Embed English",
+    "description": "English text embeddings",
+    "category": "Data Analysis & Machine Learning",
+    "pricing": "Freemium",
+    "url": "https://cohere.com",
+    "official_website": "https://cohere.com",
+    "tags": []
+  },
+  {
+    "id": "c7181616-5ba6-4c67-b524-f16d7d75b169",
+    "name": "EdgeComputing Tool 2",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing2.com",
+    "official_website": "https://edgecomputing2.com",
+    "tags": []
+  },
+  {
+    "id": "c8a91a46-3482-4135-b058-d9b726ff99f8",
+    "name": "EPFL AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.epfl.edu",
+    "official_website": "https://ai.epfl.edu",
+    "tags": []
+  },
+  {
+    "id": "c8ec6d2c-13a0-40bd-916a-73266fa1ca07",
+    "name": "Elvity AI",
+    "description": "Elvity is an AI-powered no-code platform that enables non-technical teams to create explainable data pipelines using natural language. It connects to over 100 data sources, including Salesforce, QuickBooks, Snowflake, and HubSpot, allowing users to merge, clean, and manage data without coding skills. Every automation is transparent and fully auditable, ensuring no black box behavior. By processing commands in plain English, Elvity simplifies complex data operations like deduplication, integratio",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/elvity-ai",
+    "official_website": "https://futuretools.link/elvity-ai",
+    "tags": []
+  },
+  {
+    "id": "c908ee31-2fb0-47ec-b79b-77f2c86d1ce0",
+    "name": "EdgeComputing Tool 17",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing17.com",
+    "official_website": "https://edgecomputing17.com",
+    "tags": []
+  },
+  {
+    "id": "c9f29217-4cfc-459f-a487-d6a9a887b480",
+    "name": "Eightfold AI",
+    "description": "Advanced AI talent intelligence platform for talent acquisition and workforce development",
+    "category": "HR & Recruiting",
+    "pricing": "Enterprise",
+    "url": "https://eightfold.ai",
+    "official_website": "https://eightfold.ai",
+    "tags": []
+  },
+  {
+    "id": "cae8cf9a-46b0-4a6f-b3a6-d1890cf63665",
+    "name": "Emergent",
+    "description": "AI coding tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/emergent-2",
+    "official_website": "https://www.producthunt.com/products/emergent-2",
+    "tags": []
+  },
+  {
+    "id": "cbaf12aacdcf",
+    "name": "ETH Zurich AI Research",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.eth.edu",
+    "official_website": "https://ai.eth.edu",
+    "tags": []
+  },
+  {
+    "id": "cc8f5dfc-18d4-42e0-b60b-d47731c79518",
+    "name": "Enhanced Video Quality Tools",
+    "description": "Collection of AI-powered video enhancement tools offering color correction, noise reduction, stabilization, and quality improvement for various video formats and sources.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.videoprocessingtools.com/",
+    "official_website": "https://www.videoprocessingtools.com/",
+    "tags": []
+  },
+  {
+    "id": "cd5cd6ce-1ab6-4c32-90b6-393497bf3402",
+    "name": "ElevenLabs",
+    "description": "Advanced AI voice generation platform offering hyper-realistic voice cloning and text-to-speech with emotional expression. Features instant voice cloning, multilingual support (70+ languages), and professional API access. Known for exceptional voice quality and natural intonation.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://elevenlabs.io/",
+    "official_website": "https://elevenlabs.io/",
+    "tags": []
+  },
+  {
+    "id": "cda8e2527135",
+    "name": "Excel Formula Bot",
+    "description": "Generate Excel formulas from natural language effortlessly.",
+    "category": "Spreadsheets, Code Assistant",
+    "pricing": "Freemium",
+    "url": "https://excelformulabot.com/",
+    "official_website": "https://excelformulabot.com/",
+    "tags": []
+  },
+  {
+    "id": "cdaae36c-efa2-4adb-a682-350e9683fd16",
+    "name": "elan-mt-bt-en-ja",
+    "description": "AI model elan-mt-bt-en-ja from Mitsua on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/Mitsua/elan-mt-bt-en-ja",
+    "official_website": "https://huggingface.co/Mitsua/elan-mt-bt-en-ja",
+    "tags": []
+  },
+  {
+    "id": "cf6f0c4ea794",
+    "name": "Equal Time",
+    "description": "AI meeting assistant focused on promoting inclusive meetings with real-time participation tracking, inclusion score calculations, sentiment analysis, and post-meeting breakdowns with improvement tips.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://equaltime.io",
+    "official_website": "https://equaltime.io",
+    "tags": [
+      "participation-tracking",
+      "analytics",
+      "meeting-inclusion",
+      "diversity",
+      "equity"
+    ]
+  },
+  {
+    "id": "cf83a67f-fe0b-453e-8eb7-1b42e0fc619f",
+    "name": "EdgeComputing Tool 33",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing33.com",
+    "official_website": "https://edgecomputing33.com",
+    "tags": []
+  },
+  {
+    "id": "d362d63230ff",
+    "name": "eugeneyan/testing-ml",
+    "description": "How to Test Machine Learning Code and Systems",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/eugeneyan/testing-ml",
+    "official_website": "https://github.com/eugeneyan/testing-ml",
+    "tags": []
+  },
+  {
+    "id": "d536a833-2305-4e8c-8ad1-e70195d446ad",
+    "name": "Emergent",
+    "description": "AI coding tool",
+    "category": "Artificial Intelligence, Vibe coding",
+    "pricing": "Unknown",
+    "url": "https://emergent.dev",
+    "official_website": "https://emergent.dev",
+    "tags": []
+  },
+  {
+    "id": "da8bfd8e-39db-4869-9488-e7eb08681208",
+    "name": "EdgeComputing Tool 6",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing6.com",
+    "official_website": "https://edgecomputing6.com",
+    "tags": []
+  },
+  {
+    "id": "da97ed3c-9cef-47eb-bad8-a6e9e2cf2622",
+    "name": "EvolveDev",
+    "description": "EvolveDev is an AI-powered software engineering intelligence platform that provides engineering leaders with comprehensive visibility across their development teams and projects. The tool seamlessly integrates with existing engineering tools like GitHub, Jira, and Slack to automatically collect and analyze engineering data, delivering actionable insights without manual reporting effort. Using artificial intelligence algorithms, EvolveDev identifies workflow bottlenecks, suggests optimization opp",
+    "category": "General",
+    "pricing": "Free",
+    "url": "https://futuretools.link/evolvedev-io",
+    "official_website": "https://futuretools.link/evolvedev-io",
+    "tags": []
+  },
+  {
+    "id": "dc27435b-918f-4400-a1fd-616ddc56616b",
+    "name": "EdgeComputing Tool 42",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing42.com",
+    "official_website": "https://edgecomputing42.com",
+    "tags": []
+  },
+  {
+    "id": "ddd07356-d419-43d9-b233-b0225bc6eff0",
+    "name": "Epsillion",
+    "description": "A tool to automate Excel, Word, and PDF document creation",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/epsillion",
+    "official_website": "https://www.futuretools.io/tools/epsillion",
+    "tags": []
+  },
+  {
+    "id": "dff9ccdb-9ea1-452c-b7d8-804390ca38dd",
+    "name": "ESRGAN",
+    "description": "AI super-resolution generative network",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "esrgan",
+    "official_website": "esrgan",
+    "tags": []
+  },
+  {
+    "id": "e11aee95-ddef-477c-b0be-91fb84324f3e",
+    "name": "Emplifi AI",
+    "description": "AI social media analytics and management",
+    "category": "AI Social Media",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "emplifiai",
+    "official_website": "emplifiai",
+    "tags": []
+  },
+  {
+    "id": "e17bdca3-581c-4fa9-9d39-a028cf5c8e87",
+    "name": "EdgeComputing Tool 18",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing18.com",
+    "official_website": "https://edgecomputing18.com",
+    "tags": []
+  },
+  {
+    "id": "e22ba67e-3527-4b1e-895f-1aee21b59220",
+    "name": "EuroLLM-1.7B",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/utter-project/EuroLLM-1.7B",
+    "official_website": "https://huggingface.co/utter-project/EuroLLM-1.7B",
+    "tags": []
+  },
+  {
+    "id": "e2a2885b-1c1d-430f-b40b-1dfe3766cf58",
+    "name": "ERNIE-4.5-21B-A3B-Thinking",
+    "description": "AI model ERNIE-4.5-21B-A3B-Thinking from baidu on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking",
+    "official_website": "https://huggingface.co/baidu/ERNIE-4.5-21B-A3B-Thinking",
+    "tags": []
+  },
+  {
+    "id": "e8716bcb6ca4",
+    "name": "Emergent",
+    "description": "AI coding tool",
+    "category": "Artificial Intelligence, Vibe coding",
+    "pricing": "Not Specified",
+    "url": "https://emergent.dev",
+    "official_website": "https://emergent.dev",
+    "tags": []
+  },
+  {
+    "id": "ebad654e3dce",
+    "name": "ElevenLabs",
+    "description": "Create natural AI voices instantly in any language",
+    "category": "AI Voice Agents, Text-to-Speech Software",
+    "pricing": "Not Specified",
+    "url": "https://elevenlabs.io",
+    "official_website": "https://elevenlabs.io",
+    "tags": []
+  },
+  {
+    "id": "ed80bb92-2067-4519-a4b8-8c4e8fc2e75f",
+    "name": "EdgeComputing Tool 7",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing7.com",
+    "official_website": "https://edgecomputing7.com",
+    "tags": []
+  },
+  {
+    "id": "f0d0f56b4d61",
+    "name": "EthicalML/awesome-production-machine-learning",
+    "description": "Awesome production machine learning: State of MLOps Tools and Frameworks",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "official_website": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "tags": []
+  },
+  {
+    "id": "f144d221476f",
+    "name": "Enhanced Video Quality Tools",
+    "description": "Collection of AI-powered video enhancement tools offering color correction, noise reduction, stabilization, and quality improvement for various video formats and sources.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://www.videoprocessingtools.com/",
+    "official_website": "https://www.videoprocessingtools.com/",
+    "tags": [
+      "noise-reduction",
+      "stabilization",
+      "quality-improvement",
+      "color-correction"
+    ]
+  },
+  {
+    "id": "f30ad724-6e33-4d63-b72d-5bee5981ef76",
+    "name": "EchoPixel",
+    "description": "AI-powered healthcare solution",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.echopixel.com",
+    "official_website": "https://www.echopixel.com",
+    "tags": []
+  },
+  {
+    "id": "f8ab73e6-0f9e-4c26-ae2b-555dd1fb2087",
+    "name": "ESPCN",
+    "description": "AI efficient sub-pixel convolutional network",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "espcn",
+    "official_website": "espcn",
+    "tags": []
+  },
+  {
+    "id": "f95aaf59-a63d-4116-b72b-ef1d97dcc570",
+    "name": "EdgeComputing Tool 4",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing4.com",
+    "official_website": "https://edgecomputing4.com",
+    "tags": []
+  },
+  {
+    "id": "f9c88f6d3715",
+    "name": "Elephas",
+    "description": "Personal AI writing assistant for Mac",
+    "category": "Productivity",
+    "pricing": "Not Specified",
+    "url": "https://elephas.app/",
+    "official_website": "https://elephas.app/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "fa3c3b42-a095-4dc9-b93a-ead05d72ce2a",
+    "name": "Exabeam",
+    "description": "AI-enhanced security analytics platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "exabeam",
+    "official_website": "exabeam",
+    "tags": []
+  },
+  {
+    "id": "fbbc298c-9264-43b7-bff3-78df5e2b111b",
+    "name": "EdgeComputing Tool 28",
+    "description": "Specialized ai edge computing solution for enterprise and personal use",
+    "category": "AI Edge Computing",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://edgecomputing28.com",
+    "official_website": "https://edgecomputing28.com",
+    "tags": []
+  }
+]

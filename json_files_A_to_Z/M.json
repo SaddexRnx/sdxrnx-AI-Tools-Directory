@@ -1,0 +1,4169 @@
+[
+  {
+    "id": "00dfdb0f8eeb",
+    "name": "MiniMax-M2-GGUF",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/cturan/MiniMax-M2-GGUF",
+    "official_website": "https://huggingface.co/cturan/MiniMax-M2-GGUF",
+    "tags": []
+  },
+  {
+    "id": "01bd22a04d32",
+    "name": "Me.bot",
+    "description": "The inspiring companion for your life",
+    "category": "Productivity, Artificial Intelligence, Quantified Self",
+    "pricing": "Not Specified",
+    "url": "https://me.bot",
+    "official_website": "https://me.bot",
+    "tags": []
+  },
+  {
+    "id": "01efdede-b4f5-4bee-94df-f9d8663ddc62",
+    "name": "Microsoft Power BI",
+    "description": "Leading business intelligence platform with AI-powered Copilot assistance, advanced AI visualizations, and deep Microsoft ecosystem integration. Offers natural language querying, self-service analytics, and seamless integration with Azure services.",
+    "category": "AI Analytics",
+    "pricing": "Free",
+    "url": "https://powerbi.microsoft.com/",
+    "official_website": "https://powerbi.microsoft.com/",
+    "tags": []
+  },
+  {
+    "id": "01f595c8438a",
+    "name": "MacWhisper",
+    "description": "High-quality text transcription using OpenAI's Whisper on Mac",
+    "category": "Audio/Transcription",
+    "pricing": "Unknown",
+    "url": "https://goodsnoob.gumroad.com",
+    "official_website": "https://goodsnoob.gumroad.com",
+    "tags": []
+  },
+  {
+    "id": "0310d11c-d1b5-4c51-87a6-891f9374166b",
+    "name": "MachineLearning Tool 31",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning31.com",
+    "official_website": "https://machinelearning31.com",
+    "tags": []
+  },
+  {
+    "id": "034c3970a426",
+    "name": "Mode Analytics",
+    "description": "Modern analytics platform combining SQL, Python, and R for data analysis. Features real-time reporting, visualization, and collaboration tools for data teams and developers.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://mode.com/",
+    "official_website": "https://mode.com/",
+    "tags": [
+      "python",
+      "real-time-reporting",
+      "collaboration",
+      "r",
+      "sql",
+      "data-teams"
+    ]
+  },
+  {
+    "id": "038c1540-c281-44dc-afa5-1881ca0d2c29",
+    "name": "Mureka AI",
+    "description": "Generate royalty-free songs with vocals, lyrics, and full instrumentation from prompts, references, or uploaded vocals",
+    "category": "Music",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/mureka",
+    "official_website": "https://link.aitoolsdirectory.com/mureka",
+    "tags": []
+  },
+  {
+    "id": "044486d7d98d",
+    "name": "MobileLLM-R1-950M",
+    "description": "AI model MobileLLM-R1-950M from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/MobileLLM-R1-950M",
+    "official_website": "https://huggingface.co/facebook/MobileLLM-R1-950M",
+    "tags": []
+  },
+  {
+    "id": "05909cf6-279c-45b7-b761-f245ce2c10fb",
+    "name": "Maastr",
+    "description": "Maastr is an AI-powered online audio mastering platform that uses advanced algorithms crafted by professional sound engineers to quickly enhance the loudness clarity and dynamic balance of audio tracks particularly for guitar-forward genres like punk metal and hardcore without flattening or over-compressing the music making it ideal for musicians producers and engineers who want fast affordable studio-quality results without needing deep technical skills or expensive software AI is central to th",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/maastr-io",
+    "official_website": "https://futuretools.link/maastr-io",
+    "tags": []
+  },
+  {
+    "id": "05dc8db2bd59",
+    "name": "m2m100_418M",
+    "description": "AI model m2m100_418M from Xenova on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Xenova/m2m100_418M",
+    "official_website": "https://huggingface.co/Xenova/m2m100_418M",
+    "tags": []
+  },
+  {
+    "id": "07e0fe6d9bae",
+    "name": "MagnivOrg/prompt-layer-library",
+    "description": "PromptLayer helps developers maintain a log of their prompts and LLM API requests",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/MagnivOrg/prompt-layer-library",
+    "official_website": "https://github.com/MagnivOrg/prompt-layer-library",
+    "tags": []
+  },
+  {
+    "id": "087b5216-97be-4a94-aa3c-0c0d72af02da",
+    "name": "Minitab",
+    "description": "Statistical software package for data analysis, statistical modeling, and quality improvement. Features comprehensive statistical tests, graphics capabilities, and workflow automation for analytical projects.",
+    "category": "Ai Analytics",
+    "pricing": "Premium",
+    "url": "https://minitab.com/",
+    "official_website": "https://minitab.com/",
+    "tags": []
+  },
+  {
+    "id": "08b74f1f80a0",
+    "name": "ms-marco-MiniLM-L6-v2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
+    "official_website": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
+    "tags": []
+  },
+  {
+    "id": "08bb6424-0d9d-4c35-9e58-11529b5bc075",
+    "name": "ms-marco-MiniLM-L6-v2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
+    "official_website": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
+    "tags": []
+  },
+  {
+    "id": "0a198cbfce57",
+    "name": "multi-qa-mpnet-base-dot-v1",
+    "description": "AI model multi-qa-mpnet-base-dot-v1 from sentence-transformers on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1",
+    "official_website": "https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1",
+    "tags": []
+  },
+  {
+    "id": "0a2a988c-50b1-4f61-a514-0a49d2c2823e",
+    "name": "MachineLearning Tool 14",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning14.com",
+    "official_website": "https://machinelearning14.com",
+    "tags": []
+  },
+  {
+    "id": "0b9387105a69",
+    "name": "MicroStrategy",
+    "description": "Enterprise-grade business intelligence platform with HyperIntelligence, mobile analytics, AI-driven recommendations, and advanced predictive analytics. Cloud-ready with flexible deployment options.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://www.microstrategy.com/",
+    "official_website": "https://www.microstrategy.com/",
+    "tags": [
+      "mobile-analytics",
+      "cloud-ready",
+      "hyperintelligence",
+      "hybrid-deployment",
+      "enterprise-grade",
+      "ai-recommendations"
+    ]
+  },
+  {
+    "id": "0db58f77-e0a5-4313-924a-2e6869593631",
+    "name": "Midjourney V6",
+    "description": "Advanced AI image generation",
+    "category": "Creative AI Tools",
+    "pricing": "Freemium",
+    "url": "https://midjourney.com",
+    "official_website": "https://midjourney.com",
+    "tags": []
+  },
+  {
+    "id": "0e35ae02e184",
+    "name": "madlad400-3b-mt",
+    "description": "AI model madlad400-3b-mt from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/madlad400-3b-mt",
+    "official_website": "https://huggingface.co/google/madlad400-3b-mt",
+    "tags": []
+  },
+  {
+    "id": "0ea92d88-b799-446b-8af2-e4566517d917",
+    "name": "MachineLearning Tool 18",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning18.com",
+    "official_website": "https://machinelearning18.com",
+    "tags": []
+  },
+  {
+    "id": "0eff7d19-5452-421a-92d0-4d5691138621",
+    "name": "Microsoft Bot Framework",
+    "description": "Microsoft's AI chatbot development platform",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "microsoftbotframework",
+    "official_website": "microsoftbotframework",
+    "tags": []
+  },
+  {
+    "id": "0f39e937-ae6d-4d95-930a-259da7215eda",
+    "name": "MegEngine",
+    "description": "Deep learning framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://megvii.com",
+    "official_website": "https://megvii.com",
+    "tags": []
+  },
+  {
+    "id": "1142311c5107",
+    "name": "mbart-large-50-many-to-many-mmt",
+    "description": "AI model mbart-large-50-many-to-many-mmt from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt",
+    "official_website": "https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt",
+    "tags": []
+  },
+  {
+    "id": "125b5a2d-c7ee-41e8-aff2-d2b83fe34e3b",
+    "name": "MacWhisper",
+    "description": "Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/macwhisper",
+    "official_website": "https://www.producthunt.com/products/macwhisper",
+    "tags": []
+  },
+  {
+    "id": "126108b1-50ca-4784-9b43-2ba89d59f49b",
+    "name": "Mode Analytics",
+    "description": "Modern analytics platform combining SQL, Python, and R for data analysis. Features real-time reporting, visualization, and collaboration tools for data teams and developers.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://mode.com/",
+    "official_website": "https://mode.com/",
+    "tags": []
+  },
+  {
+    "id": "12da862b-6223-4c5c-b5c5-f4949bf8bfd2",
+    "name": "Merlin",
+    "description": "Merlin AI is an AI Assistant app and Chrome extension that brings AI-powered assistance to your browser, helping you create social media content, summarize videos and blogs, chat with websites, debug code, write emails, and respond to Google queries",
+    "category": "Chat",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/merlin",
+    "official_website": "https://link.aitoolsdirectory.com/merlin",
+    "tags": []
+  },
+  {
+    "id": "12dfd6de-3eb2-40e0-864c-a9476ed0ba64",
+    "name": "Merlin",
+    "description": "AI Assistant app and Chrome extension for AI-powered assistance",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Paid\",\"details\":\"Pricing as listed in source\"}",
+    "url": "https://merlin-ai.com",
+    "official_website": "https://merlin-ai.com",
+    "tags": []
+  },
+  {
+    "id": "136a25a0-4674-4106-ad28-e104fa1b73df",
+    "name": "MarketMuse",
+    "description": "AI software for planning, writing, and optimizing website content using machine learning to optimize topic clusters and individual page performance. Streamlines content planning and optimization with automated content audit process.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.marketmuse.com/",
+    "official_website": "https://www.marketmuse.com/",
+    "tags": []
+  },
+  {
+    "id": "146f7de4350d",
+    "name": "MetaAI Research",
+    "description": "Specialized AI tool for emerging ai applications",
+    "category": "Emerging AI",
+    "pricing": "Open Source",
+    "url": "https://metaairesearch.com",
+    "official_website": "https://metaairesearch.com",
+    "tags": []
+  },
+  {
+    "id": "14dd32a3-d1ad-43e3-a0f5-23d6895770a2",
+    "name": "Macaron",
+    "description": "Macaron is an AI-powered personal assistant that uses reinforcement learning to deeply understand its users and create personalized mini-apps directly within conversations. The tool crafts custom applications such as fitness trackers, travel planners, reading companions and mini-games without requiring any coding knowledge or technical setup from the user. Unlike traditional AI assistants focused solely on productivity, Macaron functions as a thoughtful digital companion that remembers user pref",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/macaron-im",
+    "official_website": "https://futuretools.link/macaron-im",
+    "tags": []
+  },
+  {
+    "id": "16e5688ad480",
+    "name": "Mailchimp",
+    "description": "Email marketing with AI",
+    "category": "Email Marketing",
+    "pricing": "Not Specified",
+    "url": "https://mailchimp.com/",
+    "official_website": "https://mailchimp.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "175b6738-99f4-4b1d-a9fe-d91940b04f11",
+    "name": "MetaAI Research",
+    "description": "Specialized AI tool for emerging ai applications",
+    "category": "Emerging AI",
+    "pricing": "Open Source",
+    "url": "https://metaairesearch.com",
+    "official_website": "https://metaairesearch.com",
+    "tags": []
+  },
+  {
+    "id": "17bba7f1-c1f3-4408-ad3b-352a236b182e",
+    "name": "Mixmax AI",
+    "description": "AI-enhanced sales communications",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mixmaxai",
+    "official_website": "mixmaxai",
+    "tags": []
+  },
+  {
+    "id": "181d25adf356",
+    "name": "Mistral AI",
+    "description": "Open and portable generative AI for devs and businesses. Committed to empower the AI community with open technology.",
+    "category": "LLMs, AI Chatbots, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://mistral.ai",
+    "official_website": "https://mistral.ai",
+    "tags": []
+  },
+  {
+    "id": "18de76fd-0b57-4da8-8ead-d107d367fa67",
+    "name": "Midjourney",
+    "description": "AI art generator for stunning images",
+    "category": "AI Image Generation",
+    "pricing": "Premium",
+    "url": "https://midjourney.com",
+    "official_website": "https://midjourney.com",
+    "tags": []
+  },
+  {
+    "id": "196ef065-035a-46e3-895a-dc7e21eab583",
+    "name": "ModernBERT-base",
+    "description": "AI model ModernBERT-base from answerdotai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/answerdotai/ModernBERT-base",
+    "official_website": "https://huggingface.co/answerdotai/ModernBERT-base",
+    "tags": []
+  },
+  {
+    "id": "19c06f37-c40e-41ad-b64f-091b4d40459d",
+    "name": "Manus AI",
+    "description": "AI-powered tool for AI Automation that helps users streamline workflows and enhance productivity.",
+    "category": "AI Automation",
+    "pricing": "Not specified",
+    "url": "https://topai.tools/t/manus-im",
+    "official_website": "https://topai.tools/t/manus-im",
+    "tags": []
+  },
+  {
+    "id": "19e883d0d09f",
+    "name": "MaxKB",
+    "description": "Open-source platform for building enterprise-grade intelligent agents",
+    "category": "Enterprise/Agents",
+    "pricing": "Unknown",
+    "url": "https://maxkb.ai",
+    "official_website": "https://maxkb.ai",
+    "tags": []
+  },
+  {
+    "id": "19f1851c-b7c4-47f1-8d72-37a8e41f2e52",
+    "name": "MachineLearning Tool 40",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning40.com",
+    "official_website": "https://machinelearning40.com",
+    "tags": []
+  },
+  {
+    "id": "19f1b9375158",
+    "name": "MyDetector",
+    "description": "Comprehensive AI-powered detection suite including AI detection and grammar correction.",
+    "category": "AI Tools",
+    "pricing": "Not Specified",
+    "url": "https://mydetector.ai/",
+    "official_website": "https://mydetector.ai/",
+    "tags": [
+      "detection",
+      "grammar"
+    ]
+  },
+  {
+    "id": "1c7bf7e3cc21",
+    "name": "mobilevit-small",
+    "description": "AI model mobilevit-small from apple on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/apple/mobilevit-small",
+    "official_website": "https://huggingface.co/apple/mobilevit-small",
+    "tags": []
+  },
+  {
+    "id": "1cb8cc74044a",
+    "name": "Microsoft Clipchamp",
+    "description": "Browser-based AI video editor with extensive AI features including AI voiceovers, auto-subtitles, background noise removal, and HD exports without watermarks. Part of Microsoft 365 ecosystem.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://clipchamp.com/",
+    "official_website": "https://clipchamp.com/",
+    "tags": [
+      "ai-voiceover",
+      "hd-export",
+      "microsoft-365",
+      "browser-based",
+      "auto-subtitles"
+    ]
+  },
+  {
+    "id": "1cdf3ddb5b70",
+    "name": "Modelcard Creator",
+    "description": "Create model cards for Hugging Face Hub documentation.",
+    "category": "Development",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool",
+    "official_website": "https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool",
+    "tags": [
+      "models",
+      "documentation"
+    ]
+  },
+  {
+    "id": "1d45f534-b46f-411a-ab90-1231a9b783e2",
+    "name": "MIT OpenCourseWare",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://mitopencourseware.com",
+    "official_website": "https://mitopencourseware.com",
+    "tags": []
+  },
+  {
+    "id": "1d7c468f57df",
+    "name": "minilm-uncased-squad2",
+    "description": "AI model minilm-uncased-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/deepset/minilm-uncased-squad2",
+    "official_website": "https://huggingface.co/deepset/minilm-uncased-squad2",
+    "tags": []
+  },
+  {
+    "id": "1e57e1f8a121",
+    "name": "Mindgrasp",
+    "description": "Mindgrasp's AI-powered transcription and summarization capabilities instantly capture key insights from any document, video, or audio file.",
+    "category": "Education & Learning, Transcription",
+    "pricing": "Not specified",
+    "url": "https://mindgrasp.ai",
+    "official_website": "https://mindgrasp.ai",
+    "tags": []
+  },
+  {
+    "id": "1efc45d8-e7d0-416b-b7eb-f6d5f3f4a5bc",
+    "name": "MSCI Analytics",
+    "description": "Investment decision tools",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://msci.com",
+    "official_website": "https://msci.com",
+    "tags": []
+  },
+  {
+    "id": "1f13dbd1-259f-4f8c-9570-ef9944e6d847",
+    "name": "MathWorks AI",
+    "description": "Engineering and scientific computing",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://mathworks.com",
+    "official_website": "https://mathworks.com",
+    "tags": []
+  },
+  {
+    "id": "1f4742a7-e812-4fbd-844f-b6b5cab0d71c",
+    "name": "Movable Type",
+    "description": "MovableType.ai is an AI-powered writing platform that transforms simple ideas into complete book manuscripts in minutes. The tool leverages artificial intelligence to generate up to 35,000 words of high-quality, personalized content that matches your unique writing style and voice. Beyond manuscript creation, MovableType.ai offers a comprehensive suite of AI-driven features including book proposal generation, marketing plans, SEO optimization, and direct publishing integration. Authors, subject",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/movabletype-ai",
+    "official_website": "https://futuretools.link/movabletype-ai",
+    "tags": []
+  },
+  {
+    "id": "2032c788-bac5-4067-a62d-7a2bfebe146c",
+    "name": "MeetGeek",
+    "description": "Automate, summarize, and integrate meetings for peak productivity.",
+    "category": "Other",
+    "pricing": "Free",
+    "url": "https://get.meetgeek.ai/futurepedia",
+    "official_website": "https://get.meetgeek.ai/futurepedia",
+    "tags": []
+  },
+  {
+    "id": "203a16e77eb8",
+    "name": "Monica AI Podcast",
+    "description": "Free AI podcast generator that transforms various content formats (web pages, YouTube videos, PDFs, text) into podcasts instantly. Features easy content conversion and voice synthesis.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://monica.im/en/ai-podcast",
+    "official_website": "https://monica.im/en/ai-podcast",
+    "tags": [
+      "podcast-generation",
+      "youtube",
+      "pdf",
+      "instant-creation",
+      "content-conversion"
+    ]
+  },
+  {
+    "id": "20f6302340bc",
+    "name": "Microsoft 365 Copilot",
+    "description": "Microsoft's flagship AI tool, offering a suite of AI-powered features integrated across Microsoft 365 applications",
+    "category": "Productivity AI",
+    "pricing": "Not Specified",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/category/microsoft-copilot/",
+    "official_website": "https://www.microsoft.com/en-us/microsoft-365/blog/category/microsoft-copilot/",
+    "tags": [
+      "Chat supports multiturn interactions with image uploads",
+      "Copilot Control System framework for managing agents",
+      "Summarization of high-priority emails in Outlook and entire PowerPoint presentations",
+      "Enhanced metrics for Intelligent Recap meetings in Teams",
+      "Copilot in Excel for analyzing tens of thousands of rows",
+      "Ability to convert documents, meetings, and files into podcast-style audio overviews",
+      "More photo-realistic image generation and improved text spelling accuracy"
+    ]
+  },
+  {
+    "id": "21ff7353-98c3-4b76-b190-f158acdcf31a",
+    "name": "MachineLearning Tool 38",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning38.com",
+    "official_website": "https://machinelearning38.com",
+    "tags": []
+  },
+  {
+    "id": "221a7c5c51ce",
+    "name": "Magic Studio",
+    "description": "Unleash AI to edit, upscale, and create images effortlessly.",
+    "category": "Image Editing, Image Generators",
+    "pricing": "Freemium",
+    "url": "https://magicstudio.com/",
+    "official_website": "https://magicstudio.com/",
+    "tags": []
+  },
+  {
+    "id": "224aa0ef-98fc-4faa-82c0-035134692e67",
+    "name": "Migma AI",
+    "description": "AI design platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/migma-ai",
+    "official_website": "https://www.producthunt.com/products/migma-ai",
+    "tags": []
+  },
+  {
+    "id": "2251fee8a319",
+    "name": "MyNextInk",
+    "description": "AI tattoo generator for finding and creating tattoo designs.",
+    "category": "Creative",
+    "pricing": "Not Specified",
+    "url": "https://saasaitools.com/mynextink",
+    "official_website": "https://saasaitools.com/mynextink",
+    "tags": [
+      "tattoo",
+      "creative"
+    ]
+  },
+  {
+    "id": "23ec2fbfea68",
+    "name": "MeetMinutes",
+    "description": "MeetMinutes is the 1st Agentic AI Meeting Management tool with Bill Gates' Note-Taking method to capture key points, questions, and tasks. With custom integrations, multilingual support, and your Personal Secretary, it enables teams to be 4x productive.",
+    "category": "AI Chatbots, AI notetakers, AI sales tools",
+    "pricing": "Not Specified",
+    "url": "https://meetminutes.ai",
+    "official_website": "https://meetminutes.ai",
+    "tags": []
+  },
+  {
+    "id": "26007025-9818-4385-bd01-80c0f2cc4590",
+    "name": "ML Kit",
+    "description": "Mobile machine learning SDK for Android and iOS apps",
+    "category": "Mobile AI",
+    "pricing": "Unknown",
+    "url": "https://developers.google.com/ml-kit",
+    "official_website": "https://developers.google.com/ml-kit",
+    "tags": []
+  },
+  {
+    "id": "268902c08f65",
+    "name": "MythoMax-L2-13B-GPTQ",
+    "description": "AI model MythoMax-L2-13B-GPTQ from TheBloke on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ",
+    "official_website": "https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ",
+    "tags": []
+  },
+  {
+    "id": "28949d490bdc",
+    "name": "mT5_multilingual_XLSum",
+    "description": "AI model mT5_multilingual_XLSum from csebuetnlp on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum",
+    "official_website": "https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum",
+    "tags": []
+  },
+  {
+    "id": "291b56e612e2",
+    "name": "modelscope/modelscope-agent",
+    "description": "Modelscope-Agent is a customizable and scalable agent framework",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/modelscope/modelscope-agent",
+    "official_website": "https://github.com/modelscope/modelscope-agent",
+    "tags": []
+  },
+  {
+    "id": "2a220faf-2f61-4135-98d7-b31f146be3aa",
+    "name": "MuseNet",
+    "description": "AI model for generating music with multiple instruments",
+    "category": "Experiments & Demos",
+    "pricing": "Unknown",
+    "url": "https://openai.com/research/musenet",
+    "official_website": "https://openai.com/research/musenet",
+    "tags": []
+  },
+  {
+    "id": "2bf1272f-35e8-4c82-aad6-3e6ae151fe8f",
+    "name": "Murf AI",
+    "description": "Professional AI voice generator with 200+ realistic voices across 30+ languages. Offers voice generation for e-learning, podcasts, videos, and business presentations. Features unlimited voice styles, full HD export, and commercial rights.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://murf.ai/",
+    "official_website": "https://murf.ai/",
+    "tags": []
+  },
+  {
+    "id": "2cdc13a7-a5b7-4105-b743-1f8b066b2955",
+    "name": "MachineLearning Tool 43",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning43.com",
+    "official_website": "https://machinelearning43.com",
+    "tags": []
+  },
+  {
+    "id": "2d267860-7d57-4e7a-b4ee-c209c55f9367",
+    "name": "MDLive AI",
+    "description": "AI-enhanced telehealth platform",
+    "category": "AI Healthcare",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mdliveai",
+    "official_website": "mdliveai",
+    "tags": []
+  },
+  {
+    "id": "2ef276d8ede6",
+    "name": "MIT OpenCourseWare",
+    "description": "Online learning platform for academic education and skill development",
+    "category": "Educational Platform",
+    "pricing": "Free/Commercial",
+    "url": "https://mitopencourseware.com",
+    "official_website": "https://mitopencourseware.com",
+    "tags": []
+  },
+  {
+    "id": "2f62f521-4306-420a-a763-10038ad001c1",
+    "name": "MindSpore",
+    "description": "Deep learning framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://huawei.com",
+    "official_website": "https://huawei.com",
+    "tags": []
+  },
+  {
+    "id": "31c683eb-3880-4cea-8ae5-f531a5b41bb9",
+    "name": "minilm-uncased-squad2",
+    "description": "AI model minilm-uncased-squad2 from deepset on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/deepset/minilm-uncased-squad2",
+    "official_website": "https://huggingface.co/deepset/minilm-uncased-squad2",
+    "tags": []
+  },
+  {
+    "id": "31e2ec3de8c2",
+    "name": "Murf AI",
+    "description": "Professional AI voice generator with 200+ realistic voices across 30+ languages. Offers voice generation for e-learning, podcasts, videos, and business presentations. Features unlimited voice styles, full HD export, and commercial rights.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://murf.ai/",
+    "official_website": "https://murf.ai/",
+    "tags": [
+      "voice-over",
+      "e-learning",
+      "commercial-rights",
+      "professional",
+      "business",
+      "multilingual"
+    ]
+  },
+  {
+    "id": "32413cb8-a49f-4f83-a160-7c96b1e762d1",
+    "name": "Media Translation API",
+    "description": "Real-time translation for video and audio content",
+    "category": "Cloud AI Services",
+    "pricing": "Unknown",
+    "url": "https://cloud.google.com/media-translation",
+    "official_website": "https://cloud.google.com/media-translation",
+    "tags": []
+  },
+  {
+    "id": "32fdc3b42f8c",
+    "name": "meta-llama/PurpleLlama",
+    "description": "Purple Llama is a set of tools to assess and improve LLM security for building responsible GenAI models",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/meta-llama/PurpleLlama",
+    "official_website": "https://github.com/meta-llama/PurpleLlama",
+    "tags": []
+  },
+  {
+    "id": "3368b726-9c94-4230-957b-46bb4ae7a6e0",
+    "name": "Mistral AI",
+    "description": "Open and portable generative AI for devs and businesses. Committed to empower the AI community with open technology.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/mistral-ai",
+    "official_website": "https://www.producthunt.com/products/mistral-ai",
+    "tags": []
+  },
+  {
+    "id": "342f31a7-ce57-4b8b-8b90-6a4a2d6f7775",
+    "name": "Mistral 7B Instruct v0.2",
+    "description": "Efficient language model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "34e57f2bc126",
+    "name": "Magic Hour AI",
+    "description": "Free AI Face Swap Online for Photos & Videos (No Sign-Up)",
+    "category": "AI Video Agents, Face Swap",
+    "pricing": "Free",
+    "url": "https://magichour.ai",
+    "official_website": "https://magichour.ai",
+    "tags": []
+  },
+  {
+    "id": "3782ad0f1576",
+    "name": "MarsX",
+    "description": "Unleash rapid app development with AI, NoCode, and MicroApps ecosystem.",
+    "category": "No-Code, Code Assistant",
+    "pricing": "Free",
+    "url": "https://www.marsx.dev/",
+    "official_website": "https://www.marsx.dev/",
+    "tags": []
+  },
+  {
+    "id": "37957ce3-1973-499a-a842-3a8d7f291ced",
+    "name": "Modeltion",
+    "description": "Modeltion is an AI workflow playground designed for experimenting with prompts, images, and automations in a single visual canvas. Instead of building boilerplate apps, users can sketch multi-step AI flows, connect text, image, and API nodes, and instantly preview results as they adjust prompts. It supports provider-flex experimentation by allowing integration with Gemini, Groq, or any HTTP endpoint using personal API keys, enabling side-by-side model comparisons. With reusable templates for mar",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/modeltion-com",
+    "official_website": "https://futuretools.link/modeltion-com",
+    "tags": []
+  },
+  {
+    "id": "38238e5a-497e-4f71-9193-bb015d4e5885",
+    "name": "Montra",
+    "description": "Montra is an AI-powered creation tool designed to make video production simple and accessible without the need for cameras or traditional filming equipment. It enables users to create high quality, multi-scene videos entirely through AI, handling the process from concept to final output in an efficient way. By removing the technical barriers of video production, Montra allows anyone to generate professional-looking content quickly. This makes it suitable for individuals, businesses, or creators",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/montra-com",
+    "official_website": "https://futuretools.link/montra-com",
+    "tags": []
+  },
+  {
+    "id": "38bd4bf5-3246-4ab7-8f86-9e943c66aa1b",
+    "name": "Monday.com AI",
+    "description": "AI-powered productivity solution",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.monday.comai.com",
+    "official_website": "https://www.monday.comai.com",
+    "tags": []
+  },
+  {
+    "id": "38eb58574ea2",
+    "name": "Meta AI Research",
+    "description": "AI research tools and publications from Meta including PyTorch, PyTorch Lightning, and AI research papers",
+    "category": "Research Lab Tools",
+    "pricing": "Open Source",
+    "url": "https://ai.facebook.com/research",
+    "official_website": "https://ai.facebook.com/research",
+    "tags": []
+  },
+  {
+    "id": "38fd9f26-af0f-491d-8fff-1ae914dc81e5",
+    "name": "Midjourney",
+    "description": "Independent research lab and AI art generation platform known for exceptional artistic results. Popular among artists, designers, and creators for high-quality visual content generation from text prompts.",
+    "category": "AI Design",
+    "pricing": "Premium",
+    "url": "https://www.midjourney.com/",
+    "official_website": "https://www.midjourney.com/",
+    "tags": []
+  },
+  {
+    "id": "39971f9b-8db9-44f4-9fd1-1e6a70a62404",
+    "name": "Modal",
+    "description": "A serverless platform designed for running Python code in the cloud, suitable for model fine-tuning, hosting fine-tuned models, big batch jobs, and voice-to-voice AI experiments.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/modal",
+    "official_website": "https://www.producthunt.com/products/modal",
+    "tags": []
+  },
+  {
+    "id": "3abab82a-e353-4cc2-9200-9c1ddfaad4dc",
+    "name": "Milvus",
+    "description": "Vector database",
+    "category": "Search & Recommendations",
+    "pricing": "Freemium",
+    "url": "https://zilliz.com",
+    "official_website": "https://zilliz.com",
+    "tags": []
+  },
+  {
+    "id": "3be85258-a9d9-4dc3-87b1-54d06798b173",
+    "name": "MachineLearning Tool 2",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning2.com",
+    "official_website": "https://machinelearning2.com",
+    "tags": []
+  },
+  {
+    "id": "3d27951627e7",
+    "name": "Modin",
+    "description": "Specialized AI tool for data analysis applications",
+    "category": "Data Analysis",
+    "pricing": "Open Source",
+    "url": "https://modin.com",
+    "official_website": "https://modin.com",
+    "tags": []
+  },
+  {
+    "id": "3dba073e0ecf",
+    "name": "microsoft/prompty",
+    "description": "Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for AI applications",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/microsoft/prompty",
+    "official_website": "https://github.com/microsoft/prompty",
+    "tags": []
+  },
+  {
+    "id": "3e2f0bdf-9dee-4664-bd63-172f6203896f",
+    "name": "MLflow",
+    "description": "ML lifecycle management",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://databricks.com",
+    "official_website": "https://databricks.com",
+    "tags": []
+  },
+  {
+    "id": "3e36cda2d08d",
+    "name": "Microsoft Power Automate",
+    "description": "Business process automation",
+    "category": "Automation",
+    "pricing": "Not Specified",
+    "url": "https://powerautomate.microsoft.com/",
+    "official_website": "https://powerautomate.microsoft.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "3ea39247-3e12-44e1-9c07-08e02b239d60",
+    "name": "Miro AI",
+    "description": "AI-enhanced collaborative whiteboarding",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "miroai",
+    "official_website": "miroai",
+    "tags": []
+  },
+  {
+    "id": "3f4fe446-86cf-4951-9c94-97e427a66bb4",
+    "name": "Mintlify",
+    "description": "AI-powered documentation writer",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mintlify",
+    "official_website": "mintlify",
+    "tags": []
+  },
+  {
+    "id": "3f9f638b7db7",
+    "name": "moshiko-pytorch-bf16",
+    "description": "AI model moshiko-pytorch-bf16 from kyutai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/kyutai/moshiko-pytorch-bf16",
+    "official_website": "https://huggingface.co/kyutai/moshiko-pytorch-bf16",
+    "tags": []
+  },
+  {
+    "id": "413ff24f-0f3e-4702-8705-381c99c171e8",
+    "name": "Monica",
+    "description": "A browser-based AI assistant that combines multiple AI models to help professionals with writing, research, and analysis tasks. Works directly in your browser with a clean, minimal interface",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/monica",
+    "official_website": "https://link.aitoolsdirectory.com/monica",
+    "tags": []
+  },
+  {
+    "id": "41eea009-5620-4ffe-83bf-c450bbe2d58a",
+    "name": "Make",
+    "description": "AI-powered business and finance solution",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.make.com",
+    "official_website": "https://www.make.com",
+    "tags": []
+  },
+  {
+    "id": "4281024e-92f7-4ba6-b7a5-e389bffb2b36",
+    "name": "Magical",
+    "description": "AI-focused Chrome extension for browser-based data entry automation with text expansion capabilities, workflow automation features, and integration with form-based applications.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://getmagical.com",
+    "official_website": "https://getmagical.com",
+    "tags": []
+  },
+  {
+    "id": "42ebf908e643",
+    "name": "MeetGeek",
+    "description": "AI meeting assistant that records, transcribes, summarizes",
+    "category": "Editor's Choice",
+    "pricing": "Not Specified",
+    "url": "https://get.meetgeek.ai/zmrnb5xlyfs9",
+    "official_website": "https://get.meetgeek.ai/zmrnb5xlyfs9",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "43bd1793-bb24-40ef-86ca-6d0991bd47cd",
+    "name": "Microsoft Teams AI",
+    "description": "AI-enhanced team collaboration",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "microsoftteamsai",
+    "official_website": "microsoftteamsai",
+    "tags": []
+  },
+  {
+    "id": "442fec19-1456-49c2-aa7d-a475fc1fc86e",
+    "name": "Mobirise AI",
+    "description": "AI website builder offering both web version and desktop app with 'Describe your website' text box. Generates four different layout options with extensive customization including over 11,800 themes and extensions, plus direct HTML/CSS code editor access.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://mobirise.com/",
+    "official_website": "https://mobirise.com/",
+    "tags": []
+  },
+  {
+    "id": "445b239a-9b0c-4240-968d-bf8233232028",
+    "name": "Mailchimp AI",
+    "description": "AI-powered email marketing optimization",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mailchimpai",
+    "official_website": "mailchimpai",
+    "tags": []
+  },
+  {
+    "id": "44a44c21-7f5e-4eb3-8619-57122936bd0b",
+    "name": "Mem0",
+    "description": "A tool that adds long-term, personalized memory to AI apps and maintain context across sessions",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://www.futuretools.io/tools/mem0-175a4",
+    "official_website": "https://www.futuretools.io/tools/mem0-175a4",
+    "tags": []
+  },
+  {
+    "id": "457c8539-648f-418a-9e50-f66a22a403a4",
+    "name": "Mintlify",
+    "description": "AI-powered documentation generator that creates living documentation with intelligent search, usage analytics, and multi-model support.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://mintlify.com/",
+    "official_website": "https://mintlify.com/",
+    "tags": []
+  },
+  {
+    "id": "45adb48ee31c",
+    "name": "MIT AI Research Tools",
+    "description": "Comprehensive collection of AI research tools and platforms from Massachusetts Institute of Technology",
+    "category": "University Platform",
+    "pricing": "Academic",
+    "url": "https://www.csail.mit.edu/research/artificial-intelligence",
+    "official_website": "https://www.csail.mit.edu/research/artificial-intelligence",
+    "tags": []
+  },
+  {
+    "id": "46e71d1b-2522-4ab7-82b3-920d466f0381",
+    "name": "Morningstar Investment",
+    "description": "Investment research and analytics",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://morningstar.com",
+    "official_website": "https://morningstar.com",
+    "tags": []
+  },
+  {
+    "id": "4804e5c76d82",
+    "name": "MuleSoft Anypoint Platform",
+    "description": "Integration platform that connects enterprise applications, data, and devices using APIs and integrations. Includes AI-powered integration recommendations and automated API management capabilities.",
+    "category": "AI Integration & APIs",
+    "pricing": "Subscription",
+    "url": "https://www.mulesoft.com/platform/anypoint-platform",
+    "official_website": "https://www.mulesoft.com/platform/anypoint-platform",
+    "tags": []
+  },
+  {
+    "id": "4a62890c-709a-4cc1-84dd-3bc43aa1c28a",
+    "name": "MemNet",
+    "description": "AI memory network for image restoration",
+    "category": "AI Design",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "memnet",
+    "official_website": "memnet",
+    "tags": []
+  },
+  {
+    "id": "4a686a02-3fbe-4fb7-89a7-fe557a9072c1",
+    "name": "Mubert AI Music",
+    "description": "AI music generation",
+    "category": "Creative AI Tools",
+    "pricing": "Freemium",
+    "url": "https://mubert.com",
+    "official_website": "https://mubert.com",
+    "tags": []
+  },
+  {
+    "id": "4a693e63-0d60-4d27-b8c8-3b9e7ff16194",
+    "name": "MachineLearning Tool 36",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning36.com",
+    "official_website": "https://machinelearning36.com",
+    "tags": []
+  },
+  {
+    "id": "4b4ef5f0-6b4a-492c-9eed-90922bbb32c3",
+    "name": "Magento AI",
+    "description": "AI-enhanced e-commerce platform",
+    "category": "AI E-commerce",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "magentoai",
+    "official_website": "magentoai",
+    "tags": []
+  },
+  {
+    "id": "4bb208b1-7fe9-4dac-84eb-3127f9c16e07",
+    "name": "MLflow Tracking",
+    "description": "ML experiment tracking",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://mlflow.com",
+    "official_website": "https://mlflow.com",
+    "tags": []
+  },
+  {
+    "id": "4c81e61b-bb20-42a7-97c4-b7c74dc45bda",
+    "name": "MasterClass",
+    "description": "Online learning platform with AI-powered personalized lesson recommendations",
+    "category": "Business Growth",
+    "pricing": "Premium",
+    "url": "https://masterclass.com",
+    "official_website": "https://masterclass.com",
+    "tags": []
+  },
+  {
+    "id": "4d6fba6c4cec",
+    "name": "Mendeley",
+    "description": "Academic reference manager and social network that helps organize research, collaborate online, and discover the latest research",
+    "category": "Reference Management",
+    "pricing": "Free/Commercial",
+    "url": "https://www.mendeley.com",
+    "official_website": "https://www.mendeley.com",
+    "tags": []
+  },
+  {
+    "id": "4fd46e0b32c0",
+    "name": "Make.com",
+    "description": "Visual automation platform (formerly Integromat) with powerful workflow builder, advanced branching logic, shared connections for agencies, and comprehensive integration capabilities.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.make.com/en",
+    "official_website": "https://www.make.com/en",
+    "tags": [
+      "integration-platform",
+      "visual-automation",
+      "complex-workflows",
+      "branching-logic",
+      "agencies"
+    ]
+  },
+  {
+    "id": "50baeb5c2339",
+    "name": "MLflow",
+    "description": "Research infrastructure and development tools for academic projects",
+    "category": "Research Infrastructure",
+    "pricing": "Free/Commercial",
+    "url": "https://mlflow.com",
+    "official_website": "https://mlflow.com",
+    "tags": []
+  },
+  {
+    "id": "513b08e9-092f-4628-9841-0d7b5051db9c",
+    "name": "MachineLearning Tool 10",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning10.com",
+    "official_website": "https://machinelearning10.com",
+    "tags": []
+  },
+  {
+    "id": "5197e831-2388-419f-95b6-13884a807384",
+    "name": "MythoMax-L2-13B-GPTQ",
+    "description": "AI model MythoMax-L2-13B-GPTQ from TheBloke on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ",
+    "official_website": "https://huggingface.co/TheBloke/MythoMax-L2-13B-GPTQ",
+    "tags": []
+  },
+  {
+    "id": "5300a50a3c97",
+    "name": "Make (Integromat)",
+    "description": "Scenario builder with AI",
+    "category": "Automation",
+    "pricing": "Not Specified",
+    "url": "https://www.make.com/",
+    "official_website": "https://www.make.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "5388e706-14fb-424d-a990-89716290391f",
+    "name": "Midjourney SREF Codes",
+    "description": "Enhance Your Midjourney Images with Style Reference Codes",
+    "category": "AI Art Generator",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/midjourney-sref-codes",
+    "official_website": "https://freeaitool.ai/tool/midjourney-sref-codes",
+    "tags": []
+  },
+  {
+    "id": "538b271d-e303-462b-a08b-5d9de8f13948",
+    "name": "madlad400-10b-mt",
+    "description": "AI model madlad400-10b-mt from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/google/madlad400-10b-mt",
+    "official_website": "https://huggingface.co/google/madlad400-10b-mt",
+    "tags": []
+  },
+  {
+    "id": "53ab40f41063",
+    "name": "MarketAlerts.ai",
+    "description": "AI-powered tool delivers real-time market alerts and insights.",
+    "category": "Finance, Stock Trading",
+    "pricing": "Contact for Pricing",
+    "url": "https://www.marketalerts.com/",
+    "official_website": "https://www.marketalerts.com/",
+    "tags": []
+  },
+  {
+    "id": "54deefe6f00b",
+    "name": "Motion",
+    "description": "AI-powered productivity suite offering AI Projects, Tasks, Calendar, Notes, Docs, SOPs, Search, and Reports. Features dynamic scheduling that automatically slots tasks on your calendar based on priorities, deadlines, and team availability.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://www.usemotion.com",
+    "official_website": "https://www.usemotion.com",
+    "tags": [
+      "scheduling",
+      "project-management",
+      "calendar",
+      "task-management",
+      "ai-automation"
+    ]
+  },
+  {
+    "id": "54efa7b4-7c2c-4cdc-87b8-5be608838dd5",
+    "name": "MiniMax-M2-GGUF",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/cturan/MiniMax-M2-GGUF",
+    "official_website": "https://huggingface.co/cturan/MiniMax-M2-GGUF",
+    "tags": []
+  },
+  {
+    "id": "5984a709ef43",
+    "name": "MiniMaxText01",
+    "description": "Generate responses to text and images in a chat interface.",
+    "category": "Multimodal",
+    "pricing": "Free",
+    "url": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-Text-01",
+    "official_website": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-Text-01",
+    "tags": [
+      "chat",
+      "multimodal"
+    ]
+  },
+  {
+    "id": "5a3efbd20153",
+    "name": "MCP Registry",
+    "description": "Discover and integrate external tools",
+    "category": "AI CODE CREATION",
+    "pricing": "Not Specified",
+    "url": "https://github.com/mcp",
+    "official_website": "https://github.com/mcp",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "5b0a3df1-968e-48c2-a843-7f0fd7745f72",
+    "name": "MachineLearning Tool 17",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning17.com",
+    "official_website": "https://machinelearning17.com",
+    "tags": []
+  },
+  {
+    "id": "5bad7788-e712-495d-a077-d845a6941dd8",
+    "name": "MachineLearning Tool 13",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning13.com",
+    "official_website": "https://machinelearning13.com",
+    "tags": []
+  },
+  {
+    "id": "5c3611e2c2a5",
+    "name": "Microsoft Azure Synapse Analytics",
+    "description": "Integrated analytics service that brings together enterprise data warehousing and Big Data analytics. Features near real-time analytics, machine learning integration, and hybrid deployment.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://azure.microsoft.com/en-us/services/synapse-analytics/",
+    "official_website": "https://azure.microsoft.com/en-us/services/synapse-analytics/",
+    "tags": [
+      "machine-learning",
+      "near-real-time",
+      "hybrid-deployment",
+      "integrated-analytics",
+      "enterprise-data-warehousing",
+      "big-data-analytics"
+    ]
+  },
+  {
+    "id": "5c51d99bd28a",
+    "name": "Migma AI",
+    "description": "AI design platform",
+    "category": "Design Tools",
+    "pricing": "Not Specified",
+    "url": "https://migma.ai",
+    "official_website": "https://migma.ai",
+    "tags": []
+  },
+  {
+    "id": "5c5cfad4-9f2f-498f-978f-7b9120d79279",
+    "name": "MindMaze Stroke",
+    "description": "Stroke rehabilitation AI",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://mindmaze.com",
+    "official_website": "https://mindmaze.com",
+    "tags": []
+  },
+  {
+    "id": "5ca52823f69c",
+    "name": "MagicForm AI",
+    "description": "AI-driven tool for 24/7 lead qualification and conversion.",
+    "category": "Sales Assistant, E-commerce",
+    "pricing": "Freemium",
+    "url": "https://www.magicform.ai/",
+    "official_website": "https://www.magicform.ai/",
+    "tags": []
+  },
+  {
+    "id": "5d85c4fbff07",
+    "name": "Mintlify",
+    "description": "AI-powered documentation generator that creates living documentation with intelligent search, usage analytics, and multi-model support.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://mintlify.com/",
+    "official_website": "https://mintlify.com/",
+    "tags": [
+      "documentation",
+      "usage-analytics",
+      "multi-model",
+      "ai-generation",
+      "intelligent-search",
+      "living-docs"
+    ]
+  },
+  {
+    "id": "5db4c96c-8ba5-499d-8cac-9cb3c52be817",
+    "name": "Missive",
+    "description": "Unified inbox platform integrating email and messages with team collaboration features, AI-powered drafting/editing/summarization/translation, and seamless OpenAI integration.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://missiveapp.com",
+    "official_website": "https://missiveapp.com",
+    "tags": []
+  },
+  {
+    "id": "5e712f264e22",
+    "name": "Meshcapade",
+    "description": "AI-powered 3D modeling platform focused on human body and avatar creation with advanced mesh generation, realistic rendering, and applications in gaming and VR.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://meshcapade.com",
+    "official_website": "https://meshcapade.com",
+    "tags": [
+      "avatar-creation",
+      "gaming-vr",
+      "3d-human-modeling",
+      "mesh-generation",
+      "realistic-rendering"
+    ]
+  },
+  {
+    "id": "5ea25ab45e1a",
+    "name": "MetaGPT",
+    "description": "Multi-agent framework that turns GPT into a software company",
+    "category": "Agents",
+    "pricing": "Unknown",
+    "url": "https://github.com/geekan/MetaGPT",
+    "official_website": "https://github.com/geekan/MetaGPT",
+    "tags": []
+  },
+  {
+    "id": "5f22cd330504",
+    "name": "Microsoft Azure Machine Learning",
+    "description": "Fully managed cloud service for building, deploying, and managing ML projects.",
+    "category": "ML Platform",
+    "pricing": "Pay-per-use",
+    "url": "https://azure.microsoft.com/en-us/services/machine-learning/",
+    "official_website": "https://azure.microsoft.com/en-us/services/machine-learning/",
+    "tags": [
+      "cloud",
+      "ml platform"
+    ]
+  },
+  {
+    "id": "6033e242-6b2c-46a5-9b8d-68046f5e922a",
+    "name": "MobileLLM-R1-950M",
+    "description": "AI model MobileLLM-R1-950M from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/facebook/MobileLLM-R1-950M",
+    "official_website": "https://huggingface.co/facebook/MobileLLM-R1-950M",
+    "tags": []
+  },
+  {
+    "id": "6052d582-795f-4d24-afa7-6d05aee4f541",
+    "name": "MachineLearning Tool 12",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning12.com",
+    "official_website": "https://machinelearning12.com",
+    "tags": []
+  },
+  {
+    "id": "619480257907",
+    "name": "Merlin",
+    "description": "Enhance web productivity with AI: write, summarize, code, translate effortlessly.",
+    "category": "AI Chatbots, Email Assistant",
+    "pricing": "Free",
+    "url": "https://merlin.foyer.work/",
+    "official_website": "https://merlin.foyer.work/",
+    "tags": []
+  },
+  {
+    "id": "63374b0f-ef1c-41e4-aff9-ed30cafce72b",
+    "name": "Malwarebytes AI",
+    "description": "AI-powered malware detection and removal",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "malwarebytesai",
+    "official_website": "malwarebytesai",
+    "tags": []
+  },
+  {
+    "id": "634e6f02-328e-4a7e-a547-c4c4ca26cc71",
+    "name": "MachineLearning Tool 16",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning16.com",
+    "official_website": "https://machinelearning16.com",
+    "tags": []
+  },
+  {
+    "id": "6442fe70-cef2-4740-b855-6e092c017f98",
+    "name": "MedGPT Medical Model",
+    "description": "Medical language model",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://openai.com",
+    "official_website": "https://openai.com",
+    "tags": []
+  },
+  {
+    "id": "64b4d997ef28",
+    "name": "MYPEAS.ai",
+    "description": "AI roadmaps tailored to any job description.",
+    "category": "productivity",
+    "pricing": "Freemium",
+    "url": "https://mypeas.ai",
+    "official_website": "https://mypeas.ai",
+    "tags": []
+  },
+  {
+    "id": "64de0e0a858b",
+    "name": "MemeGen AI",
+    "description": "MemeGen AI's advanced computer vision and language models transform ordinary photos into viral video memes in seconds.",
+    "category": "Content Creation, Social Media",
+    "pricing": "Not specified",
+    "url": "https://memegen.ai",
+    "official_website": "https://memegen.ai",
+    "tags": []
+  },
+  {
+    "id": "65ad481f8c00",
+    "name": "MIT CSAIL",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.mit.edu",
+    "official_website": "https://ai.mit.edu",
+    "tags": []
+  },
+  {
+    "id": "6637614bec22",
+    "name": "Miro Assist",
+    "description": "AI-powered feature within Miro's collaborative whiteboard platform. Automates organization of sticky notes, mind maps, and project plans while suggesting logical groupings and connections for enhanced real-time collaboration.",
+    "category": "Design",
+    "pricing": "Freemium",
+    "url": "https://miro.com/",
+    "official_website": "https://miro.com/",
+    "tags": [
+      "project plans",
+      "whiteboard ai",
+      "mind maps",
+      "sticky notes",
+      "logical grouping",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "66d60a6dfe86",
+    "name": "Magic Patterns",
+    "description": "Design your product ideas with AI.",
+    "category": "AI Designer",
+    "pricing": "Not Specified",
+    "url": "https://www.magicpatterns.co",
+    "official_website": "https://www.magicpatterns.co",
+    "tags": []
+  },
+  {
+    "id": "67528617-cd4d-451e-9737-1386f7384a56",
+    "name": "MachineLearning Tool 3",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning3.com",
+    "official_website": "https://machinelearning3.com",
+    "tags": []
+  },
+  {
+    "id": "6752ed20-3e96-45af-b769-f7212af3ab66",
+    "name": "Microsoft PhotoDNA",
+    "description": "Child safety detection",
+    "category": "Content Moderation",
+    "pricing": "Freemium",
+    "url": "https://microsoft.com",
+    "official_website": "https://microsoft.com",
+    "tags": []
+  },
+  {
+    "id": "680469c41799",
+    "name": "Mistral-7B-v0.1",
+    "description": "AI model Mistral-7B-v0.1 from mistralai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/mistralai/Mistral-7B-v0.1",
+    "official_website": "https://huggingface.co/mistralai/Mistral-7B-v0.1",
+    "tags": []
+  },
+  {
+    "id": "6929dba5bf6f",
+    "name": "Metabase",
+    "description": "Open-source business intelligence tool with visual query builder, automated reporting, and interactive dashboards. Connects to over 20 data sources with both drag-and-drop and SQL interfaces.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://www.metabase.com/",
+    "official_website": "https://www.metabase.com/",
+    "tags": [
+      "multiple-data-sources",
+      "visual-query-builder",
+      "open-source",
+      "automated-reporting",
+      "interactive-dashboards"
+    ]
+  },
+  {
+    "id": "6ab29174-3863-4a79-9f52-b47400844f10",
+    "name": "Mention AI",
+    "description": "AI social media monitoring platform",
+    "category": "AI Social Media",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mentionai",
+    "official_website": "mentionai",
+    "tags": []
+  },
+  {
+    "id": "6b511bba-1bd5-4998-b2d0-9eb10625435e",
+    "name": "Microsoft Copilot",
+    "description": "Microsoft's AI assistant integrated across Office 365, Windows, and web services. Offers writing assistance, content generation, research capabilities, and integration with Microsoft Office applications for productivity and content creation.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://copilot.microsoft.com/",
+    "official_website": "https://copilot.microsoft.com/",
+    "tags": []
+  },
+  {
+    "id": "6cd5d098c661",
+    "name": "Microsoft Bing",
+    "description": "AI-enhanced precision searches with personalized, multimedia-rich results.",
+    "category": "productivity",
+    "pricing": "Free",
+    "url": "https://www.bing.com",
+    "official_website": "https://www.bing.com",
+    "tags": []
+  },
+  {
+    "id": "6eac6a45-5c83-4983-81b3-15ebe1a89362",
+    "name": "Mem",
+    "description": "AI-powered note-taking and knowledge management platform that automatically tags and connects notes, provides AI Chat sidebar for querying notes, and offers fast intuitive note creation.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://mem.ai",
+    "official_website": "https://mem.ai",
+    "tags": []
+  },
+  {
+    "id": "6ec9f000e0a1",
+    "name": "MiniMax M2",
+    "description": "Open-source LLM with 200 billion parameters, 2x faster and 8x cheaper than competitors.",
+    "category": "LLM",
+    "pricing": "Open Source",
+    "url": "https://www.aixploria.com/out/MiniMaxM2",
+    "official_website": "https://www.aixploria.com/out/MiniMaxM2",
+    "tags": [
+      "llm",
+      "open source"
+    ]
+  },
+  {
+    "id": "6ef2fa245e7b",
+    "name": "Moonbeam",
+    "description": "Better blogs in a fraction of the time",
+    "category": "Writing Assistants",
+    "pricing": "Not Specified",
+    "url": "https://www.gomoonbeam.com/",
+    "official_website": "https://www.gomoonbeam.com/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "6f89e2acaea0",
+    "name": "MLOps.toys",
+    "description": "Curated list of MLOps projects",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://mlops.toys/",
+    "official_website": "https://mlops.toys/",
+    "tags": []
+  },
+  {
+    "id": "70e2c1fb-8cb7-4cef-ba85-93235afafc6f",
+    "name": "MachineLearning Tool 7",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning7.com",
+    "official_website": "https://machinelearning7.com",
+    "tags": []
+  },
+  {
+    "id": "713b891f99df",
+    "name": "ModernBERT-base",
+    "description": "AI model ModernBERT-base from answerdotai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/answerdotai/ModernBERT-base",
+    "official_website": "https://huggingface.co/answerdotai/ModernBERT-base",
+    "tags": []
+  },
+  {
+    "id": "734f9ba6-e4f3-47de-b1a1-667392d26562",
+    "name": "MeterIQ AI",
+    "description": "Meter data analytics",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://meteriq.com",
+    "official_website": "https://meteriq.com",
+    "tags": []
+  },
+  {
+    "id": "73a0da9e-4897-44b6-a0a9-2fe43ffa5a97",
+    "name": "modl.ai",
+    "description": "AI engine for game development with automated testing, bug discovery, and player behavior analysis",
+    "category": "Gaming",
+    "pricing": "Enterprise",
+    "url": "https://modl.ai",
+    "official_website": "https://modl.ai",
+    "tags": []
+  },
+  {
+    "id": "73d010d0e6b8",
+    "name": "Magical",
+    "description": "AI-focused Chrome extension for browser-based data entry automation with text expansion capabilities, workflow automation features, and integration with form-based applications.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://getmagical.com",
+    "official_website": "https://getmagical.com",
+    "tags": [
+      "text-expansion",
+      "browser-automation",
+      "chrome-extension",
+      "data-entry",
+      "form-automation"
+    ]
+  },
+  {
+    "id": "740adba3-037f-42db-8c2a-bfdb5547e15c",
+    "name": "MeetGeek",
+    "description": "MeetGeek is an AI meeting assistant that records, transcribes, and summarizes your calls, turning them into tasks and insights while syncing with your CRM and other tools",
+    "category": "Productivity",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/meetgeek",
+    "official_website": "https://link.aitoolsdirectory.com/meetgeek",
+    "tags": []
+  },
+  {
+    "id": "756f6ad14d85",
+    "name": "Microsoft Computer Vision Recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision",
+    "category": "Computer Vision",
+    "pricing": "Not Specified",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "official_website": "https://github.com/microsoft/computervision-recipes",
+    "tags": [
+      "Base scenarios: Image Classification, Image Similarity, Object Detection, Keypoint Detection, Image Segmentation, Action Recognition, Tracking",
+      "Contrib scenarios: Crowd Counting",
+      "Tools and examples leveraging recent advances in Computer Vision algorithms",
+      "PyTorch-based implementation",
+      "Integration with Azure services for computer vision",
+      "Best practice guidelines and code samples for building computer vision systems",
+      "Utilities for loading image data, optimizing and evaluating models",
+      "Scaling to cloud capabilities",
+      "Examples in Jupyter notebooks with common utility functions"
+    ]
+  },
+  {
+    "id": "75a7224b-7bca-4499-863f-f2e64b42658e",
+    "name": "Matrix Game 2.0",
+    "description": "Matrix-Game 2.0 is an open-source AI foundation model that generates interactive real-time video in virtual environments at an impressive 25 frames per second. This tool allows users to control characters and camera movements with simple keyboard commands, creating coherent minute-long video sequences across diverse visual styles and scenarios. Matrix-Game leverages advanced AI techniques to maintain physical consistency in character movements while adapting to various environments, making it in",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/matrix-game-2",
+    "official_website": "https://futuretools.link/matrix-game-2",
+    "tags": []
+  },
+  {
+    "id": "75d3891e-0b65-4680-be21-b6dfda6f21a5",
+    "name": "MIT CSAIL",
+    "description": "AI research laboratory with tools and frameworks for artificial intelligence research",
+    "category": "AI Research",
+    "pricing": "Open Source",
+    "url": "https://ai.mit.edu",
+    "official_website": "https://ai.mit.edu",
+    "tags": []
+  },
+  {
+    "id": "774dbe26b809",
+    "name": "MEGA",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://mega.com",
+    "official_website": "https://mega.com",
+    "tags": []
+  },
+  {
+    "id": "77ade79e-146b-47aa-a19e-38f2cd11c5c3",
+    "name": "Midjourney Prompt Helper",
+    "description": "Unleash AI artistry with intuitive prompt crafting and optimization.",
+    "category": "Prompt Generators",
+    "pricing": "Unknown",
+    "url": "https://prompt.noonshot.com/",
+    "official_website": "https://prompt.noonshot.com/",
+    "tags": []
+  },
+  {
+    "id": "78335adad598",
+    "name": "Mistral-7B-Instruct-v0.3",
+    "description": "7B",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3",
+    "official_website": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3",
+    "tags": []
+  },
+  {
+    "id": "785c7197-73c2-4f6d-a597-3e68ae29f434",
+    "name": "Murf AI",
+    "description": "AI voiceover generator with lifelike voices",
+    "category": "AI Audio & Voice",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "murfai",
+    "official_website": "murfai",
+    "tags": []
+  },
+  {
+    "id": "789a3ecc-0cc2-44ea-93a7-07593f8e1aa7",
+    "name": "Mistral-7B-Instruct-v0.3",
+    "description": "7B",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3",
+    "official_website": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3",
+    "tags": []
+  },
+  {
+    "id": "78ce9e6a-1ba5-4104-9589-8d96baebb604",
+    "name": "MachineLearning Tool 27",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning27.com",
+    "official_website": "https://machinelearning27.com",
+    "tags": []
+  },
+  {
+    "id": "793f499db4e3",
+    "name": "Merge",
+    "description": "Fast, secure integrations for your products and agents",
+    "category": "Unified API, AI Agent Automation",
+    "pricing": "Not Specified",
+    "url": "https://merge.dev",
+    "official_website": "https://merge.dev",
+    "tags": []
+  },
+  {
+    "id": "7a3316d9-2039-4349-89e7-bbb62cb6c8ca",
+    "name": "Memories AI",
+    "description": "Memories.ai is an advanced AI-powered video analysis platform that transforms unstructured video content into searchable, actionable insights. The tool uses artificial intelligence to automatically analyze video footage, enabling users to extract specific scenes, search across video archives using natural language queries, and generate summaries of large video collections. Its AI capabilities include scene recognition, character tracking, action detection, and even automated video editing throug",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/memories-ai",
+    "official_website": "https://futuretools.link/memories-ai",
+    "tags": []
+  },
+  {
+    "id": "7b005e83-28f3-4777-8f99-85eb5f74052d",
+    "name": "mobilebert-uncased-squad-v2",
+    "description": "AI model mobilebert-uncased-squad-v2 from csarron on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/csarron/mobilebert-uncased-squad-v2",
+    "official_website": "https://huggingface.co/csarron/mobilebert-uncased-squad-v2",
+    "tags": []
+  },
+  {
+    "id": "7bd3c841-8708-4438-b0f5-9ddb75eb3bf8",
+    "name": "Monday.com AI",
+    "description": "AI-enhanced work management platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "https://monday.comai",
+    "official_website": "https://monday.comai",
+    "tags": []
+  },
+  {
+    "id": "7cba54dbcd82",
+    "name": "microsoft/MLOps",
+    "description": "MLOps empowers data scientists and app developers to bring ML models to production",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/microsoft/MLOps",
+    "official_website": "https://github.com/microsoft/MLOps",
+    "tags": []
+  },
+  {
+    "id": "7d1acfaf5fda",
+    "name": "Microsoft Clarity",
+    "description": "Free user behavior analytics tool providing insights into website interactions through session replays and heatmaps. Features heatmaps, session recordings up to 100,000 per day, automatic rage click detection, and segmentation capabilities.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://clarity.microsoft.com/",
+    "official_website": "https://clarity.microsoft.com/",
+    "tags": [
+      "free tool",
+      "session replays",
+      "heatmaps",
+      "rage click detection",
+      "behavior analytics",
+      "segmentation"
+    ]
+  },
+  {
+    "id": "7e8923167df2",
+    "name": "mindsdb",
+    "description": "Federated query engine for AI and MCP Server",
+    "category": "Developer Tools",
+    "pricing": "Unknown",
+    "url": "https://mindsdb.com",
+    "official_website": "https://mindsdb.com",
+    "tags": []
+  },
+  {
+    "id": "7eac6dbf-29cd-4cbb-86e6-c2d006372277",
+    "name": "MachineLearning Tool 32",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning32.com",
+    "official_website": "https://machinelearning32.com",
+    "tags": []
+  },
+  {
+    "id": "7ee7b564-68e3-4a42-a739-8d5c8634530e",
+    "name": "MCP.so",
+    "description": "The world's largest MCP directory.",
+    "category": "Code",
+    "pricing": "Unknown",
+    "url": "https://aihubs.ai/item/mcpso",
+    "official_website": "https://aihubs.ai/item/mcpso",
+    "tags": []
+  },
+  {
+    "id": "7f50b1c022ce",
+    "name": "Mem",
+    "description": "AI-powered workspace personalized to you",
+    "category": "Productivity",
+    "pricing": "Not Specified",
+    "url": "https://mem.ai/",
+    "official_website": "https://mem.ai/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "7fd146c8c37e",
+    "name": "Mistral Large 2",
+    "description": "European AI provider with good free tier for balanced performance",
+    "category": "Assistants",
+    "pricing": "Unknown",
+    "url": "https://mistral.ai",
+    "official_website": "https://mistral.ai",
+    "tags": []
+  },
+  {
+    "id": "80320560-6857-47cd-b3a0-823170955f78",
+    "name": "mbart-large-50-many-to-many-mmt",
+    "description": "AI model mbart-large-50-many-to-many-mmt from facebook on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt",
+    "official_website": "https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt",
+    "tags": []
+  },
+  {
+    "id": "806a8c25-fcf4-4043-bc38-ce068b22bd2c",
+    "name": "Meta-Llama-3-8B",
+    "description": "AI model Meta-Llama-3-8B from meta-llama on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+    "official_website": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+    "tags": []
+  },
+  {
+    "id": "81551fab582c",
+    "name": "microsoft/autogen",
+    "description": "AutoGen is an open-source framework for building AI agent systems",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/microsoft/autogen",
+    "official_website": "https://github.com/microsoft/autogen",
+    "tags": []
+  },
+  {
+    "id": "840b276a-5b45-47d1-b9df-df45d267c1df",
+    "name": "Manzoni",
+    "description": "Private AI For Writers: Amplify Your Writing Without Giving Away Your Data",
+    "category": "Writing",
+    "pricing": "Free + from $35",
+    "url": "https://manzoni.app/",
+    "official_website": "https://manzoni.app/",
+    "tags": []
+  },
+  {
+    "id": "84cacd17-dab9-4f6e-a65c-2eee8171ca7f",
+    "name": "Mixmax",
+    "description": "AI sales communication platform",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mixmax",
+    "official_website": "mixmax",
+    "tags": []
+  },
+  {
+    "id": "8538a726-2db9-4573-9b3b-fc5fee211586",
+    "name": "Magenta",
+    "description": "Open-source research project exploring machine learning in art and music",
+    "category": "Experiments & Demos",
+    "pricing": "Unknown",
+    "url": "https://magenta.tensorflow.org/",
+    "official_website": "https://magenta.tensorflow.org/",
+    "tags": []
+  },
+  {
+    "id": "85724ae3d2d4",
+    "name": "mit-b3",
+    "description": "AI model mit-b3 from nvidia on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/nvidia/mit-b3",
+    "official_website": "https://huggingface.co/nvidia/mit-b3",
+    "tags": []
+  },
+  {
+    "id": "875651f5-d280-414f-bdb7-7ef690fa0bd9",
+    "name": "Mapify",
+    "description": "Mapify is an AI-powered mind mapping tool that automatically transforms various content sources like documents, websites, videos, PDFs, and audio into visually structured mind maps. The platform leverages artificial intelligence to analyze and extract key information, organizing it into intuitive diagrams that highlight relationships between concepts. Users can input text prompts or upload files, and Mapify's AI engine processes the content, identifies important points, and arranges them in a hi",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/mapify-so",
+    "official_website": "https://futuretools.link/mapify-so",
+    "tags": []
+  },
+  {
+    "id": "87862d44bd6a",
+    "name": "Mem",
+    "description": "The AI-Powered Notes App That Keeps You Organized",
+    "category": "Productivity, Note-Taking",
+    "pricing": "Not specified",
+    "url": "https://get.mem.ai",
+    "official_website": "https://get.mem.ai",
+    "tags": []
+  },
+  {
+    "id": "8798cf16-6ced-46e1-aa47-344b3557748d",
+    "name": "MasterClass AI",
+    "description": "AI-enhanced celebrity-led education",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "masterclassai",
+    "official_website": "masterclassai",
+    "tags": []
+  },
+  {
+    "id": "87d4f72c3458",
+    "name": "modelscope/agentscope",
+    "description": "AgentScope is a multi-agent platform designed to empower developers to build multi-agent applications",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/modelscope/agentscope",
+    "official_website": "https://github.com/modelscope/agentscope",
+    "tags": []
+  },
+  {
+    "id": "8a86f5b3-1874-4bd9-a633-0e60f6cf2043",
+    "name": "Magic Type AI",
+    "description": "Elevate writing with AI: real-time assistance, content generation, multilingual support.",
+    "category": "Writing Generators",
+    "pricing": "Unknown",
+    "url": "https://www.magictype.ai",
+    "official_website": "https://www.magictype.ai",
+    "tags": []
+  },
+  {
+    "id": "8e550c3f-2750-4ce5-87f4-bac2436b58a8",
+    "name": "Microsoft Azure Speech Services",
+    "description": "Comprehensive speech services suite including speech-to-text, text-to-speech, speech translation, and speaker recognition. Features neural voices, custom voice creation, and enterprise-grade deployment options.",
+    "category": "AI Voice",
+    "pricing": "Free",
+    "url": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
+    "official_website": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
+    "tags": []
+  },
+  {
+    "id": "8e84c973-e039-474a-b015-ad37be714450",
+    "name": "MMAudio",
+    "description": "Transform Silent Videos with AI-Generated Audio",
+    "category": "AI Audio Enhancer",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/mmaudio",
+    "official_website": "https://freeaitool.ai/tool/mmaudio",
+    "tags": []
+  },
+  {
+    "id": "904de692b6f4",
+    "name": "Mexty",
+    "description": "AI-powered platform for personalized, interactive lessons.",
+    "category": "Education",
+    "pricing": "Not Specified",
+    "url": "https://saasaitools.com/mexty",
+    "official_website": "https://saasaitools.com/mexty",
+    "tags": [
+      "education",
+      "lessons"
+    ]
+  },
+  {
+    "id": "90d6ac6bae1e",
+    "name": "marin-32b-base",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/marin-community/marin-32b-base",
+    "official_website": "https://huggingface.co/marin-community/marin-32b-base",
+    "tags": []
+  },
+  {
+    "id": "91db1a192039",
+    "name": "Midjourney",
+    "description": "Unlock true digital artistry.",
+    "category": "Image Generators, Image Editing",
+    "pricing": "Paid",
+    "url": "https://www.midjourney.com/home/",
+    "official_website": "https://www.midjourney.com/home/",
+    "tags": []
+  },
+  {
+    "id": "920e159f-9889-48ee-94c4-925844dbf65b",
+    "name": "Meta AI",
+    "description": "AI assistant across Meta's family of apps",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "metaai",
+    "official_website": "metaai",
+    "tags": []
+  },
+  {
+    "id": "922783651f5b",
+    "name": "Mailmodo AI",
+    "description": "AI email marketing tool",
+    "category": "Marketing",
+    "pricing": "Not Specified",
+    "url": "https://mailmodo.ai",
+    "official_website": "https://mailmodo.ai",
+    "tags": []
+  },
+  {
+    "id": "92c4b26d-c99a-4eba-8acd-6493d025e49a",
+    "name": "ManyChat",
+    "description": "AI chatbot platform for Facebook Messenger",
+    "category": "AI Customer Support",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "manychat",
+    "official_website": "manychat",
+    "tags": []
+  },
+  {
+    "id": "9345ffec63a0",
+    "name": "Meta-Llama-3-8B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+    "official_website": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "9371cf0c-63d5-47c8-b70f-cebe2f441302",
+    "name": "MachineLearning Tool 37",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning37.com",
+    "official_website": "https://machinelearning37.com",
+    "tags": []
+  },
+  {
+    "id": "94320bf0-79c8-45d6-a03d-25e1d94bb646",
+    "name": "MyFaceSwap AI",
+    "description": "Free Online Face Swapping and Lip Sync for Videos",
+    "category": "AI Face Swap Generator",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/myfaceswap-ai",
+    "official_website": "https://freeaitool.ai/tool/myfaceswap-ai",
+    "tags": []
+  },
+  {
+    "id": "9554f04b-1351-4afa-9c10-7400ee52cb50",
+    "name": "Microsoft IntelliCode",
+    "description": "AI-assisted development for Visual Studio",
+    "category": "AI Development & Coding",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "microsoftintellicode",
+    "official_website": "microsoftintellicode",
+    "tags": []
+  },
+  {
+    "id": "95f84c90-02ae-4b83-8dbb-a64b9f854cae",
+    "name": "MachineLearning Tool 23",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning23.com",
+    "official_website": "https://machinelearning23.com",
+    "tags": []
+  },
+  {
+    "id": "96a012f17659",
+    "name": "Minitab",
+    "description": "Statistical software package for data analysis, statistical modeling, and quality improvement. Features comprehensive statistical tests, graphics capabilities, and workflow automation for analytical projects.",
+    "category": "Analytics",
+    "pricing": "Premium",
+    "url": "https://www.minitab.com/",
+    "official_website": "https://www.minitab.com/",
+    "tags": [
+      "statistical-software",
+      "workflow-automation",
+      "comprehensive-tests",
+      "quality-improvement",
+      "data-analysis",
+      "statistical-modeling"
+    ]
+  },
+  {
+    "id": "976bac695967",
+    "name": "MailTester.AI",
+    "description": "AI email testing tool",
+    "category": "Marketing",
+    "pricing": "Not Specified",
+    "url": "https://mailtester.ai",
+    "official_website": "https://mailtester.ai",
+    "tags": []
+  },
+  {
+    "id": "97c02707-d75b-497c-b9c7-b24fd2efb654",
+    "name": "MicroStrategy",
+    "description": "Enterprise-grade business intelligence platform with HyperIntelligence, mobile analytics, AI-driven recommendations, and advanced predictive analytics. Cloud-ready with flexible deployment options.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://www.microstrategy.com/",
+    "official_website": "https://www.microstrategy.com/",
+    "tags": []
+  },
+  {
+    "id": "97f82048-e7e8-4746-b6b8-c061e850bb0f",
+    "name": "Meilisearch",
+    "description": "Fast search engine",
+    "category": "Search & Recommendations",
+    "pricing": "Freemium",
+    "url": "https://meilisearch.com",
+    "official_website": "https://meilisearch.com",
+    "tags": []
+  },
+  {
+    "id": "97fa593c-ed0e-4cc6-95ba-297839bf116f",
+    "name": "Mailmodo AI",
+    "description": "AI email marketing tool",
+    "category": "Marketing",
+    "pricing": "Unknown",
+    "url": "https://mailmodo.ai",
+    "official_website": "https://mailmodo.ai",
+    "tags": []
+  },
+  {
+    "id": "98ccb1c17973",
+    "name": "Matplotlib",
+    "description": "Data visualization and plotting library for research applications",
+    "category": "Data Visualization",
+    "pricing": "Commercial",
+    "url": "https://matplotlib.org",
+    "official_website": "https://matplotlib.org",
+    "tags": []
+  },
+  {
+    "id": "9ac48bc6e3ff",
+    "name": "Magic Type AI",
+    "description": "Elevate writing with AI: real-time assistance, content generation, multilingual support.",
+    "category": "Writing Generators, Email Assistant",
+    "pricing": "Free",
+    "url": "https://www.magictype.ai/",
+    "official_website": "https://www.magictype.ai/",
+    "tags": []
+  },
+  {
+    "id": "9b3db68e-f684-4c9d-84d0-28ff91b4f7b5",
+    "name": "MPT-7B",
+    "description": "Mosaic Pretrained Transformer",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://mosaicml.com",
+    "official_website": "https://mosaicml.com",
+    "tags": []
+  },
+  {
+    "id": "9c6aa943-24f7-4c5c-8c1a-a5b8fad1df9c",
+    "name": "MarketingCopy AI",
+    "description": "AI-powered marketing copywriter with 70+ built-in tools for generating high-converting marketing copy. Creates content for ads, social media, websites, blogs, emails in 25+ languages with features for product descriptions, sales copy, and long-form writing assistance.",
+    "category": "AI Writing Tools",
+    "pricing": "Free",
+    "url": "https://www.marketingcopy.ai/",
+    "official_website": "https://www.marketingcopy.ai/",
+    "tags": []
+  },
+  {
+    "id": "9c7aa88b-9810-423a-b177-d596e37c7c93",
+    "name": "mParticle AI",
+    "description": "AI-enhanced mobile analytics",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mparticleai",
+    "official_website": "mparticleai",
+    "tags": []
+  },
+  {
+    "id": "9cdf455c-0bfc-42b8-bf57-e920d13a325c",
+    "name": "Motion",
+    "description": "AI-powered productivity suite offering AI Projects, Tasks, Calendar, Notes, Docs, SOPs, Search, and Reports. Features dynamic scheduling that automatically slots tasks on your calendar based on priorities, deadlines, and team availability.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.usemotion.com",
+    "official_website": "https://www.usemotion.com",
+    "tags": []
+  },
+  {
+    "id": "9cee3462a2ae",
+    "name": "ml-tooling/ml-workspace",
+    "description": "All-in-one web-based IDE specialized for machine learning and data science.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/ml-tooling/ml-workspace",
+    "official_website": "https://github.com/ml-tooling/ml-workspace",
+    "tags": []
+  },
+  {
+    "id": "9dd279b189ab",
+    "name": "MacWhisper",
+    "description": "Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper.",
+    "category": "AI Dictation Apps",
+    "pricing": "Not Specified",
+    "url": "https://goodsnooze.gumroad.com/l/macwhisper",
+    "official_website": "https://goodsnooze.gumroad.com/l/macwhisper",
+    "tags": []
+  },
+  {
+    "id": "9e43340a-1e49-4a4d-87e9-30ccf0e94924",
+    "name": "Mirror Networking",
+    "description": "Networking library for Unity",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://mirror.com",
+    "official_website": "https://mirror.com",
+    "tags": []
+  },
+  {
+    "id": "9ea2539f56a3",
+    "name": "MarketMuse",
+    "description": "AI software for planning, writing, and optimizing website content using machine learning to optimize topic clusters and individual page performance. Streamlines content planning and optimization with automated content audit process.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.marketmuse.com/",
+    "official_website": "https://www.marketmuse.com/",
+    "tags": [
+      "topic clusters",
+      "machine learning",
+      "automated audit",
+      "content planning",
+      "content optimization",
+      "performance optimization"
+    ]
+  },
+  {
+    "id": "9f1ef366-6cc4-40e1-b6d5-f0b2f9891d69",
+    "name": "MemU",
+    "description": "MemU is an agentic memory layer built for LLM-based applications, especially AI companions. It acts like an intelligent file system that autonomously organizes, links, and evolves stored information, creating a connected knowledge graph over time. Designed for developers, it integrates with major AI platforms like OpenAI, Anthropic, Gemini, and others via Python, JavaScript, or REST API. The system supports autonomous memory management, continuous improvement, and fast, accurate retrieval of sto",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/memu-pro",
+    "official_website": "https://futuretools.link/memu-pro",
+    "tags": []
+  },
+  {
+    "id": "9f60701f-817d-4bc5-a940-07ad80425ea7",
+    "name": "MachineLearning Tool 22",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning22.com",
+    "official_website": "https://machinelearning22.com",
+    "tags": []
+  },
+  {
+    "id": "9fbd7370-ef7e-4bd5-bbeb-d270f7796b27",
+    "name": "Microsoft Clipchamp",
+    "description": "Browser-based AI video editor with extensive AI features including AI voiceovers, auto-subtitles, background noise removal, and HD exports without watermarks. Part of Microsoft 365 ecosystem.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://clipchamp.com/",
+    "official_website": "https://clipchamp.com/",
+    "tags": []
+  },
+  {
+    "id": "a1cf6b707db0",
+    "name": "Motion",
+    "description": "Revolutionize Your Productivity with AI-Powered Scheduling",
+    "category": "Productivity, Project Management",
+    "pricing": "Not specified",
+    "url": "https://usemotion.com",
+    "official_website": "https://usemotion.com",
+    "tags": []
+  },
+  {
+    "id": "a1e7eab4-0598-4489-9782-c8b16cb222cf",
+    "name": "MarketingBlocks",
+    "description": "Unleash AI-powered content, design, and marketing efficiency in one platform.",
+    "category": "Other",
+    "pricing": "Freemium",
+    "url": "https://www.futurepedia.io/tool/marketingblock-ai",
+    "official_website": "https://www.futurepedia.io/tool/marketingblock-ai",
+    "tags": []
+  },
+  {
+    "id": "a2a1abd0-950f-45b3-a4c5-8511cabdcedf",
+    "name": "Microsoft Copilot Pro",
+    "description": "AI assistant integrated into Microsoft 365 suite providing email drafting, thread summarization with clickable sources, communication coaching, and cross-application AI features for Office apps.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://copilot.cloud.microsoft/en-us/copilot-pro",
+    "official_website": "https://copilot.cloud.microsoft/en-us/copilot-pro",
+    "tags": []
+  },
+  {
+    "id": "a2b07b48-6f2f-40da-ae90-b807239f3392",
+    "name": "Microsoft Azure Machine Learning",
+    "description": "Cloud-based machine learning platform with automated ML, drag-and-drop interface, MLOps capabilities, and deep integration with Microsoft ecosystem and Azure services.",
+    "category": "AI Analytics",
+    "pricing": "Premium",
+    "url": "https://azure.microsoft.com/en-us/services/machine-learning/",
+    "official_website": "https://azure.microsoft.com/en-us/services/machine-learning/",
+    "tags": []
+  },
+  {
+    "id": "a39a7ab3-ad47-4fa5-8405-7def9ea03461",
+    "name": "MEGA",
+    "description": "Specialized AI tool for bioinformatics applications",
+    "category": "Bioinformatics",
+    "pricing": "Open Source",
+    "url": "https://mega.com",
+    "official_website": "https://mega.com",
+    "tags": []
+  },
+  {
+    "id": "a420267665ff",
+    "name": "Microsoft Power BI",
+    "description": "Leading business intelligence platform with AI-powered Copilot assistance, advanced AI visualizations, and deep Microsoft ecosystem integration. Offers natural language querying, self-service analytics, and seamless integration with Azure services.",
+    "category": "Analytics",
+    "pricing": "Freemium",
+    "url": "https://powerbi.microsoft.com/",
+    "official_website": "https://powerbi.microsoft.com/",
+    "tags": [
+      "nlq",
+      "self-service",
+      "enterprise",
+      "business-intelligence",
+      "ai-powered",
+      "microsoft-ecosystem"
+    ]
+  },
+  {
+    "id": "a42f135f-d72b-4ae4-80aa-32e064ec4eab",
+    "name": "MarketMuse",
+    "description": "AI content planning and optimization",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "marketmuse",
+    "official_website": "marketmuse",
+    "tags": []
+  },
+  {
+    "id": "a448a2a8-e7e5-4e50-bd4d-6f71aacd2b7d",
+    "name": "Monica AI Podcast",
+    "description": "Free AI podcast generator that transforms various content formats (web pages, YouTube videos, PDFs, text) into podcasts instantly. Features easy content conversion and voice synthesis.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://monica.im/en/ai-podcast",
+    "official_website": "https://monica.im/en/ai-podcast",
+    "tags": []
+  },
+  {
+    "id": "a52ca86c-2eea-4c80-8281-7a931c7d2516",
+    "name": "MachineLearning Tool 9",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning9.com",
+    "official_website": "https://machinelearning9.com",
+    "tags": []
+  },
+  {
+    "id": "a5cd86cb-97b7-47f2-960a-7478737923f6",
+    "name": "MachineLearning Tool 30",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning30.com",
+    "official_website": "https://machinelearning30.com",
+    "tags": []
+  },
+  {
+    "id": "a5e22cc7-a2f2-45ff-94f0-d6c64203d7a1",
+    "name": "Microsoft Copilot",
+    "description": "AI assistant integrated across Microsoft products",
+    "category": "AI Conversational AI",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "microsoftcopilot",
+    "official_website": "microsoftcopilot",
+    "tags": []
+  },
+  {
+    "id": "a63c0117-69d1-4a64-924f-27354ba1fb77",
+    "name": "marin-32b-base",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/marin-community/marin-32b-base",
+    "official_website": "https://huggingface.co/marin-community/marin-32b-base",
+    "tags": []
+  },
+  {
+    "id": "a6addee6-8ca7-46f2-9cc6-90c68fe083fd",
+    "name": "Make",
+    "description": "AI-powered workflow automation",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "make",
+    "official_website": "make",
+    "tags": []
+  },
+  {
+    "id": "a71139d3-553b-4dd0-8829-0d0fc46b5a56",
+    "name": "Metaphor",
+    "description": "AI-powered search and research solution",
+    "category": "AI Search & Research",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.metaphor.com",
+    "official_website": "https://www.metaphor.com",
+    "tags": []
+  },
+  {
+    "id": "a72ba48c11a3",
+    "name": "mlflow/mlflow",
+    "description": "Open source platform for managing the end-to-end machine learning lifecycle",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/mlflow/mlflow",
+    "official_website": "https://github.com/mlflow/mlflow",
+    "tags": []
+  },
+  {
+    "id": "a80ea5e1-caad-4b6d-b114-68c98e00cc52",
+    "name": "Mobile Video Enhancement Apps",
+    "description": "Mobile-first AI video enhancement applications offering real-time processing, instant upscaling, and social media optimization directly on smartphones and tablets.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.mobileai.video/",
+    "official_website": "https://www.mobileai.video/",
+    "tags": []
+  },
+  {
+    "id": "a81f23e0-d72e-411d-b16f-ddb60203711e",
+    "name": "Mixpanel",
+    "description": "Advanced product analytics platform that monitors user interactions within digital products capturing events and associating them with user profiles. Features event tracking, segmentation, funnel analysis, retention reports, and A/B testing with Spark AI queries.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://mixpanel.com/",
+    "official_website": "https://mixpanel.com/",
+    "tags": []
+  },
+  {
+    "id": "a8314d6a-da59-4ee1-9a8d-3bef426c9507",
+    "name": "McGraw Hill AI",
+    "description": "AI-enhanced educational content",
+    "category": "AI Education",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mcgrawhillai",
+    "official_website": "mcgrawhillai",
+    "tags": []
+  },
+  {
+    "id": "a96d6a53-6b8b-4d06-aa26-72321a3b9c58",
+    "name": "MachineLearning Tool 15",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning15.com",
+    "official_website": "https://machinelearning15.com",
+    "tags": []
+  },
+  {
+    "id": "a97c6193-f4a3-4530-82f5-9e7e2d875070",
+    "name": "Migma AI",
+    "description": "AI design platform",
+    "category": "Design Tools",
+    "pricing": "Unknown",
+    "url": "https://migma.ai",
+    "official_website": "https://migma.ai",
+    "tags": []
+  },
+  {
+    "id": "aa92adc1-e777-43c1-9f25-9b329cb6c3a2",
+    "name": "Mixtral 8x7B Instruct v0.1",
+    "description": "Mixture of experts model",
+    "category": "LLM & Text Generation",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "ab40f04c-c7c7-4ba5-953c-6a0e1d5b39ec",
+    "name": "Memory Plugin",
+    "description": "MemoryPlugin is a browser extension that adds long-term memory to AI assistants like ChatGPT, Claude, and Gemini, allowing them to remember details about you and your conversations across sessions when they would normally forget everything. The AI-powered tool automatically detects and stores important information from your chats in a secure personal database, which it can intelligently reference in future conversations regardless of which AI platform you use. Users can organize memories into di",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/memoryplugin-com",
+    "official_website": "https://futuretools.link/memoryplugin-com",
+    "tags": []
+  },
+  {
+    "id": "ab5e5b02-d591-46b5-bc7f-d58b26717557",
+    "name": "MachineLearning Tool 42",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning42.com",
+    "official_website": "https://machinelearning42.com",
+    "tags": []
+  },
+  {
+    "id": "ab703a83-9bab-4439-8f73-6930d74ae8f1",
+    "name": "Maestra",
+    "description": "Comprehensive AI video translation tool supporting 125+ languages with voice cloning, lip sync, automatic subtitles, and enterprise-grade features for content localization.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://maestra.ai/tools/video-translator",
+    "official_website": "https://maestra.ai/tools/video-translator",
+    "tags": []
+  },
+  {
+    "id": "abd438cd-657b-4d09-a8d9-6cebf3893254",
+    "name": "MachineLearning Tool 34",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning34.com",
+    "official_website": "https://machinelearning34.com",
+    "tags": []
+  },
+  {
+    "id": "ac20a04d-1ba9-4174-a046-7f59e3835c87",
+    "name": "MiniMax",
+    "description": "Advanced AI video generation platform offering specialized tools for subject reference and advanced camera movement control. Part of the next generation of video AI tools.",
+    "category": "AI Video Creation",
+    "pricing": "Free",
+    "url": "https://www.minimaxi.com/",
+    "official_website": "https://www.minimaxi.com/",
+    "tags": []
+  },
+  {
+    "id": "ac371156e8f6",
+    "name": "Murf",
+    "description": "An AI-powered virtual assistant designed to enhance meeting productivity by taking notes, generating action items, and sharing summaries",
+    "category": "AI Meeting Assistant",
+    "pricing": "Not Specified",
+    "url": "https://murf.ai/",
+    "official_website": "https://murf.ai/",
+    "tags": [
+      "Automatic summary and action items",
+      "Real-time transcription of meetings",
+      "Integrates with top video conferencing tools"
+    ]
+  },
+  {
+    "id": "ac86e9ef-a693-405b-889c-0f8874b02e0b",
+    "name": "MachineLearning Tool 28",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning28.com",
+    "official_website": "https://machinelearning28.com",
+    "tags": []
+  },
+  {
+    "id": "ad766bea20e0",
+    "name": "Monica",
+    "description": "AI assistant revolutionizing chat, writing, coding, and more.",
+    "category": "AI Chatbots, Code Assistant",
+    "pricing": "Freemium",
+    "url": "https://monica.im/",
+    "official_website": "https://monica.im/",
+    "tags": []
+  },
+  {
+    "id": "ad87faf4-cf42-4d1e-b906-87ba217d5a93",
+    "name": "Mixpanel AI",
+    "description": "AI-powered product analytics",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mixpanelai",
+    "official_website": "mixpanelai",
+    "tags": []
+  },
+  {
+    "id": "aded410c-054f-44b0-a5d4-9baf8f303547",
+    "name": "Microsoft Power Automate",
+    "description": "Workflow automation tool within Microsoft ecosystem with deep Office 365 integrations, administrative controls, approval workflows, and native connection to Microsoft services.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://www.microsoft.com/en-us/power-platform/products/power-automate",
+    "official_website": "https://www.microsoft.com/en-us/power-platform/products/power-automate",
+    "tags": []
+  },
+  {
+    "id": "adf3b221-c3ad-4abe-b4cb-9ce581cb32ec",
+    "name": "Mirai",
+    "description": "Mirai is an Apple Inference SDK that empowers developers to run AI models directly on iOS and Mac devices with exceptional speed and efficiency. By intelligently leveraging Apple's Neural Engine and GPU hardware, Mirai enables local AI processing without cloud dependencies, allowing applications to perform complex machine learning tasks with significantly reduced latency. The SDK optimizes AI inference for Apple's architecture, making it possible to deploy sophisticated models for image recognit",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/trymirai-com",
+    "official_website": "https://futuretools.link/trymirai-com",
+    "tags": []
+  },
+  {
+    "id": "adf69f87-b04d-44be-a098-6564a7a106d2",
+    "name": "Meshcapade",
+    "description": "AI-powered 3D modeling platform focused on human body and avatar creation with advanced mesh generation, realistic rendering, and applications in gaming and VR.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://meshcapade.com",
+    "official_website": "https://meshcapade.com",
+    "tags": []
+  },
+  {
+    "id": "af244aa3-e219-4fdc-b43f-48a087b89c72",
+    "name": "Mastt",
+    "description": "Mastt is an AI-powered construction project management platform that centralizes and automates critical project controls including financial tracking, contract management, scheduling, and risk assessment. The software leverages artificial intelligence to eliminate manual data entry, automate reporting, and provide predictive insights for construction professionals, reducing administrative workload by over 50%. Project owners, managers, and consultants use Mastt to gain real-time visibility acros",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/mastt-com",
+    "official_website": "https://futuretools.link/mastt-com",
+    "tags": []
+  },
+  {
+    "id": "afad7392445e",
+    "name": "MLflow",
+    "description": "Open source ML lifecycle management",
+    "category": "ML Ops",
+    "pricing": "Not Specified",
+    "url": "https://mlflow.org/",
+    "official_website": "https://mlflow.org/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "b003d2401ff9",
+    "name": "Mapbox",
+    "description": "Specialized AI tool for geographic analysis applications",
+    "category": "Geographic Analysis",
+    "pricing": "Open Source",
+    "url": "https://mapbox.com",
+    "official_website": "https://mapbox.com",
+    "tags": []
+  },
+  {
+    "id": "b01d282c-dfa6-4134-8807-79f071f84ffd",
+    "name": "Memara",
+    "description": "Memara is an AI Memory Sanctuary that provides persistent memory capabilities for AI agents like Claude and ChatGPT. This innovative tool serves as a specialized memory layer for AI systems, allowing them to retain information across multiple sessions and conversations through semantic search functionality. Unlike standard AI implementations that forget previous interactions, Memara enables continuity and contextual awareness by giving AI systems the ability to remember facts, preferences, and p",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/memara-io",
+    "official_website": "https://futuretools.link/memara-io",
+    "tags": []
+  },
+  {
+    "id": "b04adf4c-0b4a-4cfe-af1e-cb0a1a1bee32",
+    "name": "MachineLearning Tool 35",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning35.com",
+    "official_website": "https://machinelearning35.com",
+    "tags": []
+  },
+  {
+    "id": "b0af73c9-1df3-4464-a3b1-e7b58dd820f4",
+    "name": "Midjourney",
+    "description": "Create AI generated images from a text prompt. Create images, paintings, digital art, logos and much more simply by writing a prompt.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/midjourney",
+    "official_website": "https://www.producthunt.com/products/midjourney",
+    "tags": []
+  },
+  {
+    "id": "b17ffd91-7326-45d6-99e1-2dd45301f947",
+    "name": "MachineLearning Tool 39",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning39.com",
+    "official_website": "https://machinelearning39.com",
+    "tags": []
+  },
+  {
+    "id": "b1f3fb6de353",
+    "name": "madlad400-10b-mt",
+    "description": "AI model madlad400-10b-mt from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/google/madlad400-10b-mt",
+    "official_website": "https://huggingface.co/google/madlad400-10b-mt",
+    "tags": []
+  },
+  {
+    "id": "b27b1ff1f135",
+    "name": "microsoft/BitBLAS",
+    "description": "BitBLAS is a library to support mixed-precision BLAS operations on GPUs",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/microsoft/BitBLAS",
+    "official_website": "https://github.com/microsoft/BitBLAS",
+    "tags": []
+  },
+  {
+    "id": "b3574b96-e851-4317-90a7-fb2389066e08",
+    "name": "Microsoft Clarity",
+    "description": "Free user behavior analytics tool providing insights into website interactions through session replays and heatmaps. Features heatmaps, session recordings up to 100,000 per day, automatic rage click detection, and segmentation capabilities.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://clarity.microsoft.com/",
+    "official_website": "https://clarity.microsoft.com/",
+    "tags": []
+  },
+  {
+    "id": "b37b64d8-835a-4dab-898f-02728b5db8e8",
+    "name": "Mem",
+    "description": "AI-powered personal knowledge workspace",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mem",
+    "official_website": "mem",
+    "tags": []
+  },
+  {
+    "id": "b489973f-786a-46ec-9a05-d4d75649dcaa",
+    "name": "Maskara AI",
+    "description": "Maskara is an AI-powered platform that facilitates live debates between top AI models, automatically delivering the winning answer without requiring users to master complex prompt engineering. The tool streamlines the often challenging process of comparing AI outputs by simultaneously running multiple leading models on a single query and intelligently analyzing their responses to determine the most effective answer. Professionals, researchers, content creators, and business users benefit from Ma",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/maskara-ai",
+    "official_website": "https://futuretools.link/maskara-ai",
+    "tags": []
+  },
+  {
+    "id": "b4fe14ce-3470-4f65-8eb9-3c9053788bb2",
+    "name": "Moonbeam",
+    "description": "AI writing assistant for long-form content",
+    "category": "AI Writing & Content",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "moonbeam",
+    "official_website": "moonbeam",
+    "tags": []
+  },
+  {
+    "id": "b5eabaf9-cdfe-4741-b63e-fabd3aa49893",
+    "name": "Microsoft Azure Synapse Analytics",
+    "description": "Integrated analytics service that brings together enterprise data warehousing and Big Data analytics. Features near real-time analytics, machine learning integration, and hybrid deployment.",
+    "category": "Ai Analytics",
+    "pricing": "Premium",
+    "url": "https://azure.microsoft.com/en-us/services/synapse-analytics",
+    "official_website": "https://azure.microsoft.com/en-us/services/synapse-analytics",
+    "tags": []
+  },
+  {
+    "id": "b630c53083cf",
+    "name": "mlflow",
+    "description": "The open source developer platform to build AI/LLM applications and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform.",
+    "category": "MLOps and Deployment",
+    "pricing": "Not Specified",
+    "url": "https://mlflow.org",
+    "official_website": "https://mlflow.org",
+    "tags": [
+      "Deployment tools for Docker, Kubernetes, Azure ML, and AWS SageMaker",
+      "Experiment tracking for models, parameters, metrics, and evaluation results",
+      "Interactive UI for comparing ML experiments",
+      "End-to-end tracking for AI/LLM applications with tracing and observability",
+      "Prompt management with version tracking and reuse capabilities",
+      "Centralized Model Registry for collaborative ML model lifecycle management",
+      "Managed service offerings from major cloud providers",
+      "LLM evaluation suite with automated model evaluation tools",
+      "App version tracking for models, prompts, tools, and code with lineage",
+      "Multi-language support (Python, TypeScript/JavaScript, Java, R)"
+    ]
+  },
+  {
+    "id": "b6faa19c-8e9e-4283-afbe-8f9326f7fe71",
+    "name": "Make.com",
+    "description": "Visual automation platform (formerly Integromat) with powerful workflow builder, advanced branching logic, shared connections for agencies, and comprehensive integration capabilities.",
+    "category": "AI Productivity",
+    "pricing": "Free",
+    "url": "https://www.make.com/en",
+    "official_website": "https://www.make.com/en",
+    "tags": []
+  },
+  {
+    "id": "b7854c58-e59d-42ef-9064-36a4f4420b50",
+    "name": "MagicTrips",
+    "description": "Generate Custom Travel Itineraries in Seconds",
+    "category": "AI Trip Planner",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/magictrips",
+    "official_website": "https://freeaitool.ai/tool/magictrips",
+    "tags": []
+  },
+  {
+    "id": "b8484118d8f1",
+    "name": "Mixpanel",
+    "description": "Advanced product analytics platform that monitors user interactions within digital products capturing events and associating them with user profiles. Features event tracking, segmentation, funnel analysis, retention reports, and A/B testing with Spark AI queries.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://mixpanel.com/",
+    "official_website": "https://mixpanel.com/",
+    "tags": [
+      "product analytics",
+      "user segmentation",
+      "funnel analysis",
+      "event tracking",
+      "retention reports",
+      "spark ai"
+    ]
+  },
+  {
+    "id": "b85c8daa-51bf-4185-8af6-bb0511a01b87",
+    "name": "MachineLearning Tool 8",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning8.com",
+    "official_website": "https://machinelearning8.com",
+    "tags": []
+  },
+  {
+    "id": "b8c115a7-6dd0-48ce-8059-fbf57f0c205e",
+    "name": "MicroStrategy AI",
+    "description": "AI-enhanced enterprise analytics",
+    "category": "AI Data Analytics",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "microstrategyai",
+    "official_website": "microstrategyai",
+    "tags": []
+  },
+  {
+    "id": "b8ceee64-3c9c-431a-9e01-bf4baafab3de",
+    "name": "Mythic Text",
+    "description": "Mythic Text is a powerful AI-enabled content transformation platform that converts markdown and plain text into professionally formatted, marketing-ready outputs. The tool uses intelligent processing to analyze content structure and automatically apply appropriate formatting rules across more than 50 output formats including emails, blog posts, newsletters, and documents. Marketing teams, developers, and enterprise users leverage Mythic Text to save countless hours of manual formatting work whil",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/mythictext-com",
+    "official_website": "https://futuretools.link/mythictext-com",
+    "tags": []
+  },
+  {
+    "id": "b9f25c37-7702-41d6-bf96-417668bc8fa3",
+    "name": "MachineLearning Tool 41",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning41.com",
+    "official_website": "https://machinelearning41.com",
+    "tags": []
+  },
+  {
+    "id": "bad816e7-e297-4374-a1b0-43d54c1be3df",
+    "name": "Mendix",
+    "description": "Low-code platform with AI-powered development assistance and application lifecycle management",
+    "category": "Business Growth",
+    "pricing": "Free",
+    "url": "https://mendix.com",
+    "official_website": "https://mendix.com",
+    "tags": []
+  },
+  {
+    "id": "bba9cebb-c0b5-401a-8934-778a6dec8100",
+    "name": "MXNet",
+    "description": "Deep learning framework",
+    "category": "AI Development Platforms",
+    "pricing": "Freemium",
+    "url": "https://apache.com",
+    "official_website": "https://apache.com",
+    "tags": []
+  },
+  {
+    "id": "bc8ad305-cae6-4e1c-a3ea-93d5607bfe86",
+    "name": "myNeutron",
+    "description": "myNeutron is a digital memory platform designed to capture, organize, and make knowledge easily retrievable across scattered sources like Gmail, Google Drive, and the web. Instead of repeatedly searching or re-explaining information to AI, users can save content with one click, which is then automatically turned into organized \u201cseeds.\u201d These seeds can be queried directly with AI or dropped into platforms like ChatGPT, Claude, or Gemini for contextual interactions. With built-in privacy, security",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/myneutron-ai",
+    "official_website": "https://futuretools.link/myneutron-ai",
+    "tags": []
+  },
+  {
+    "id": "bcebc255-06f6-4ada-99b0-cfc42795cd44",
+    "name": "moshiko-pytorch-bf16",
+    "description": "AI model moshiko-pytorch-bf16 from kyutai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/kyutai/moshiko-pytorch-bf16",
+    "official_website": "https://huggingface.co/kyutai/moshiko-pytorch-bf16",
+    "tags": []
+  },
+  {
+    "id": "be7549d7-88ba-4149-820a-1303d13228c3",
+    "name": "Magnifi AI",
+    "description": "AI investment assistant for portfolio management and market analysis",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "url": "https://magnifi.com",
+    "official_website": "https://magnifi.com",
+    "tags": []
+  },
+  {
+    "id": "bf1739d8-3e23-4c8b-805a-76e0b2d88bd6",
+    "name": "Mapster",
+    "description": "Mapster is a platform designed to help businesses measure, understand, and improve product-market fit with precision. Instead of relying solely on lagging indicators like churn, growth stalls, or revenue plateaus, it uses targeted surveys as leading indicators to predict shifts before they affect performance. With its PMF measurement dashboard, companies can identify who their biggest fans are, broken down by geography, customer type, usage patterns, or acquisition channels. The tool provides ac",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/mapster-io",
+    "official_website": "https://futuretools.link/mapster-io",
+    "tags": []
+  },
+  {
+    "id": "bfe36366bf40",
+    "name": "mobilebert-uncased-squad-v2",
+    "description": "AI model mobilebert-uncased-squad-v2 from csarron on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/csarron/mobilebert-uncased-squad-v2",
+    "official_website": "https://huggingface.co/csarron/mobilebert-uncased-squad-v2",
+    "tags": []
+  },
+  {
+    "id": "bff4ea16-290e-4fa5-86a8-08d4c8fe732a",
+    "name": "Mitsubishi Electric AI",
+    "description": "Automation AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://mitsubishielectric.com",
+    "official_website": "https://mitsubishielectric.com",
+    "tags": []
+  },
+  {
+    "id": "c0309194-1131-4a08-b1bc-98b3d4e1bbb5",
+    "name": "MachineLearning Tool 4",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning4.com",
+    "official_website": "https://machinelearning4.com",
+    "tags": []
+  },
+  {
+    "id": "c0863751b9d2",
+    "name": "MarketingCopy AI",
+    "description": "AI-powered marketing copywriter with 70+ built-in tools for generating high-converting marketing copy. Creates content for ads, social media, websites, blogs, emails in 25+ languages with features for product descriptions, sales copy, and long-form writing assistance.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "url": "https://www.marketingcopy.ai/",
+    "official_website": "https://www.marketingcopy.ai/",
+    "tags": [
+      "product descriptions",
+      "social media",
+      "blog writing",
+      "marketing copy",
+      "multi-language",
+      "sales copy",
+      "conversion optimization"
+    ]
+  },
+  {
+    "id": "c15935ddf764",
+    "name": "Murf AI",
+    "description": "Create voiceover with the most lifelike AI voices",
+    "category": "Editor's Choice",
+    "pricing": "Not Specified",
+    "url": "https://get.murf.ai/v8i9to5ad4oq",
+    "official_website": "https://get.murf.ai/v8i9to5ad4oq",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "c5316024-b1ae-4156-9471-b20fa241d94c",
+    "name": "MobileBERT",
+    "description": "BERT optimized for mobile",
+    "category": "Natural Language Processing",
+    "pricing": "Freemium",
+    "url": "https://huggingface.com",
+    "official_website": "https://huggingface.com",
+    "tags": []
+  },
+  {
+    "id": "c55abfe1-d78a-426d-b2d0-6a04735f06b4",
+    "name": "Mailmodo AI",
+    "description": "AI email marketing with AMP emails",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mailmodoai",
+    "official_website": "mailmodoai",
+    "tags": []
+  },
+  {
+    "id": "c5d3370b-23ac-40ce-95a9-4293e15e53e7",
+    "name": "Munch",
+    "description": "AI-powered video repurposing tool that automatically extracts highlights from long videos and adapts them for social media with trending topic analysis.",
+    "category": "AI Video Creation",
+    "pricing": "Premium",
+    "url": "https://www.getmunch.com/",
+    "official_website": "https://www.getmunch.com/",
+    "tags": []
+  },
+  {
+    "id": "c61e2de58217",
+    "name": "microsoft/ML-For-Beginners",
+    "description": "Machine Learning for Beginners - A Curriculum",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "official_website": "https://github.com/microsoft/ML-For-Beginners",
+    "tags": []
+  },
+  {
+    "id": "c67ccd8544cd",
+    "name": "MATTERMARK",
+    "description": "AI-driven company and investor data with ML, web crawlers, and NLP.",
+    "category": "Market Intelligence",
+    "pricing": "$49/month",
+    "url": "https://mattermark.com/",
+    "official_website": "https://mattermark.com/",
+    "tags": [
+      "market",
+      "intelligence"
+    ]
+  },
+  {
+    "id": "c6af6f90-df48-4566-9aa0-53a9849168a5",
+    "name": "Matomo",
+    "description": "Open-source web analytics platform focusing on user privacy and data ownership allowing organizations to host analytics on their own servers. Features self-hosting capability, heatmaps, session recordings, A/B testing, and GDPR compliance.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://matomo.org/",
+    "official_website": "https://matomo.org/",
+    "tags": []
+  },
+  {
+    "id": "c7597eb6-783d-4404-9046-b70a2ea3e982",
+    "name": "MLC Llama 2",
+    "description": "Browser-based Llama 2",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://mlc.com",
+    "official_website": "https://mlc.com",
+    "tags": []
+  },
+  {
+    "id": "c7a6e9c8-9df0-44ac-a32d-8ee32df59237",
+    "name": "Mexty AI",
+    "description": "Mexty.ai is an AI-powered platform that enables educators and content creators to build interactive, personalized learning experiences quickly and efficiently. Users can create SCORM-compliant lessons, quizzes, and assessments with ease, supporting adaptive learning paths tailored to individual needs. The platform supports multilingual content, auto-generates quizzes and summaries, and allows full customization. Mexty also offers templates, AI-assisted content generation, and compatibility with",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/mexty-ai",
+    "official_website": "https://futuretools.link/mexty-ai",
+    "tags": []
+  },
+  {
+    "id": "c81ea009-1946-4d4d-af37-51a50a8e02f4",
+    "name": "Magic Patterns",
+    "description": "Design your product ideas with AI.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/magic-patterns",
+    "official_website": "https://www.producthunt.com/products/magic-patterns",
+    "tags": []
+  },
+  {
+    "id": "c82a7fbb-b409-4216-a22e-201a95bcef0e",
+    "name": "MachineLearning Tool 25",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning25.com",
+    "official_website": "https://machinelearning25.com",
+    "tags": []
+  },
+  {
+    "id": "c89e4752f20e",
+    "name": "Metaphor",
+    "description": "Language model powered search",
+    "category": "Search Engines",
+    "pricing": "Not Specified",
+    "url": "https://metaphor.systems/",
+    "official_website": "https://metaphor.systems/",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "c8f0c71d-f0e5-45f0-9091-47b9a8be8b55",
+    "name": "Me.bot",
+    "description": "The inspiring companion for your life",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/mebot",
+    "official_website": "https://www.producthunt.com/products/mebot",
+    "tags": []
+  },
+  {
+    "id": "c9296a3a1906",
+    "name": "Munger AI",
+    "description": "Scale cold email campaigns with AI execution from beginning to end.",
+    "category": "Email Marketing",
+    "pricing": "Not Specified",
+    "url": "https://saasaitools.com/munger-ai",
+    "official_website": "https://saasaitools.com/munger-ai",
+    "tags": [
+      "email",
+      "cold outreach"
+    ]
+  },
+  {
+    "id": "c9431a3c-7d66-47bd-9264-117b7b2b6538",
+    "name": "McAfee AI",
+    "description": "AI-enhanced cybersecurity platform",
+    "category": "AI Security",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mcafeeai",
+    "official_website": "mcafeeai",
+    "tags": []
+  },
+  {
+    "id": "c94a9ea1d7e6",
+    "name": "Midjourney",
+    "description": "Artistic AI image generator known for dreamlike visuals and distinct style.",
+    "category": "Image",
+    "pricing": "Paid",
+    "url": "https://www.midjourney.com/",
+    "official_website": "https://www.midjourney.com/",
+    "tags": [
+      "image generation"
+    ]
+  },
+  {
+    "id": "c954374743e2",
+    "name": "Mistral-7B-Instruct-v0.2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
+    "official_website": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
+    "tags": []
+  },
+  {
+    "id": "c97f50b3e561",
+    "name": "Mixo AI",
+    "description": "AI website builder specifically designed for extremely fast website generation from simple prompts. Automatically fills core sections like about, registration CTA, and contact forms with clean UI handling padding, alignment, and breakpoints automatically.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://www.mixo.io/",
+    "official_website": "https://www.mixo.io/",
+    "tags": [
+      "website builder",
+      "minimalist",
+      "startup",
+      "no-tinkering",
+      "ultra-fast",
+      "landing page"
+    ]
+  },
+  {
+    "id": "ca9545a4-4e1c-4ae8-8e37-e496fb0e38d7",
+    "name": "MachineLearning Tool 33",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning33.com",
+    "official_website": "https://machinelearning33.com",
+    "tags": []
+  },
+  {
+    "id": "cb7d93f3-7303-4867-b2ba-46c4e37bbb10",
+    "name": "Merge",
+    "description": "Fast, secure integrations for your products and agents",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/merge-2",
+    "official_website": "https://www.producthunt.com/products/merge-2",
+    "tags": []
+  },
+  {
+    "id": "cbdb59d914d9",
+    "name": "Mobile Video Enhancement Apps",
+    "description": "Mobile-first AI video enhancement applications offering real-time processing, instant upscaling, and social media optimization directly on smartphones and tablets.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://www.mobileai.video/",
+    "official_website": "https://www.mobileai.video/",
+    "tags": [
+      "mobile-first",
+      "social-media",
+      "real-time",
+      "instant",
+      "smartphones"
+    ]
+  },
+  {
+    "id": "cc1fa572-0485-4c66-a49a-b1ee6903a7aa",
+    "name": "Mistral-7B-Instruct-v0.2",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
+    "official_website": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
+    "tags": []
+  },
+  {
+    "id": "cc4b52da4b30",
+    "name": "Munch",
+    "description": "Maximize video impact with AI-driven, trend-optimized social media clips.",
+    "category": "Video Editing, Social Media",
+    "pricing": "Active Deal",
+    "url": "https://www.getmunch.com",
+    "official_website": "https://www.getmunch.com",
+    "tags": []
+  },
+  {
+    "id": "cc99fcdb-147b-4f36-98f6-629a6d01660a",
+    "name": "Moz AI Content Optimizer",
+    "description": "AI content optimization tool by Moz",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "mozaicontentoptimizer",
+    "official_website": "mozaicontentoptimizer",
+    "tags": []
+  },
+  {
+    "id": "cce8a5971aed",
+    "name": "MemFree",
+    "description": "Open Source Hybrid AI Search Engine",
+    "category": "Local Search",
+    "pricing": "Not Specified",
+    "url": "https://github.com/memfreeme/memfree",
+    "official_website": "https://github.com/memfreeme/memfree",
+    "tags": [
+      "GitHub Community"
+    ]
+  },
+  {
+    "id": "cd29b141-3d0f-4f96-b931-fb0f62c29d14",
+    "name": "MachineLearning Tool 24",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning24.com",
+    "official_website": "https://machinelearning24.com",
+    "tags": []
+  },
+  {
+    "id": "cfd9f5ec-921c-4235-a8bb-157d449fccf1",
+    "name": "Mural AI",
+    "description": "AI-powered collaborative workspaces",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "muralai",
+    "official_website": "muralai",
+    "tags": []
+  },
+  {
+    "id": "cffb29a731c0",
+    "name": "MedRxiv",
+    "description": "Academic publishing and research data platform for scholarly communication",
+    "category": "Research Infrastructure",
+    "pricing": "Free",
+    "url": "https://www.medrxiv.org",
+    "official_website": "https://www.medrxiv.org",
+    "tags": []
+  },
+  {
+    "id": "d07e64c7-3060-4b8c-b8e7-abe76bdd1aa8",
+    "name": "MachineLearning Tool 19",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning19.com",
+    "official_website": "https://machinelearning19.com",
+    "tags": []
+  },
+  {
+    "id": "d0cdc6ae2d5b",
+    "name": "Matomo",
+    "description": "Open-source web analytics platform focusing on user privacy and data ownership allowing organizations to host analytics on their own servers. Features self-hosting capability, heatmaps, session recordings, A/B testing, and GDPR compliance.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://matomo.org/",
+    "official_website": "https://matomo.org/",
+    "tags": [
+      "self-hosting",
+      "gdpr compliance",
+      "privacy-focused",
+      "heatmaps",
+      "open-source",
+      "session recordings"
+    ]
+  },
+  {
+    "id": "d0fe9b7e-68b6-4831-9395-b38adeaf3d80",
+    "name": "Mandiant Incident Response",
+    "description": "AI-powered threat intelligence and incident response service",
+    "category": "Security & Infrastructure",
+    "pricing": "Unknown",
+    "url": "https://www.mandiant.com/incident-response",
+    "official_website": "https://www.mandiant.com/incident-response",
+    "tags": []
+  },
+  {
+    "id": "d14dffea-6584-48f2-9ceb-3ae0fa6e9a16",
+    "name": "Metabase",
+    "description": "Open-source business intelligence tool with visual query builder, automated reporting, and interactive dashboards. Connects to over 20 data sources with both drag-and-drop and SQL interfaces.",
+    "category": "AI Analytics",
+    "pricing": "Free",
+    "url": "https://www.metabase.com/",
+    "official_website": "https://www.metabase.com/",
+    "tags": []
+  },
+  {
+    "id": "d403ccc45194",
+    "name": "medical_summarization",
+    "description": "AI model medical_summarization from Falconsai on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/Falconsai/medical_summarization",
+    "official_website": "https://huggingface.co/Falconsai/medical_summarization",
+    "tags": []
+  },
+  {
+    "id": "d4067426-a704-46f7-a8df-52ba64c9a654",
+    "name": "Munch",
+    "description": "Munch extracts the most engaging, contextual nuggets from long-form content and presents them as catchy, shareable clips. It uses GPT3, OCR, and NLP to analyze the clip's content and match it with social and marketing trends",
+    "category": "Short Form Video",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/munch",
+    "official_website": "https://link.aitoolsdirectory.com/munch",
+    "tags": []
+  },
+  {
+    "id": "d432be42-c2f7-45e6-9168-6f305ce6903d",
+    "name": "Marketo AI",
+    "description": "AI marketing automation by Adobe",
+    "category": "AI Marketing & SEO",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "marketoai",
+    "official_website": "marketoai",
+    "tags": []
+  },
+  {
+    "id": "d4420e35ce5c",
+    "name": "Mobirise AI",
+    "description": "AI website builder offering both web version and desktop app with 'Describe your website' text box. Generates four different layout options with extensive customization including over 11,800 themes and extensions, plus direct HTML/CSS code editor access.",
+    "category": "Website",
+    "pricing": "Freemium",
+    "url": "https://mobirise.com/",
+    "official_website": "https://mobirise.com/",
+    "tags": [
+      "website builder",
+      "themes",
+      "extensions",
+      "code editor",
+      "block system",
+      "export options"
+    ]
+  },
+  {
+    "id": "d74ab1da-d77e-4b55-8fce-f7f1cd4788b1",
+    "name": "Monetate AI",
+    "description": "AI personalization platform",
+    "category": "AI E-commerce",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "monetateai",
+    "official_website": "monetateai",
+    "tags": []
+  },
+  {
+    "id": "d75af7dcc245",
+    "name": "Maestra",
+    "description": "Comprehensive AI video translation tool supporting 125+ languages with voice cloning, lip sync, automatic subtitles, and enterprise-grade features for content localization.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://maestra.ai/tools/video-translator",
+    "official_website": "https://maestra.ai/tools/video-translator",
+    "tags": [
+      "enterprise",
+      "voice-cloning",
+      "auto-subtitles",
+      "125-languages",
+      "lip-sync"
+    ]
+  },
+  {
+    "id": "d897c0d1cc1e",
+    "name": "mosaicml/composer",
+    "description": "Composer is a PyTorch library that enables you to train neural networks faster, at lower cost",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/mosaicml/composer",
+    "official_website": "https://github.com/mosaicml/composer",
+    "tags": []
+  },
+  {
+    "id": "da05bf589fb4",
+    "name": "Memex",
+    "description": "AI research tool for gathering and organizing information from multiple sources.",
+    "category": "Research",
+    "pricing": "Paid",
+    "url": "https://memex.tech/",
+    "official_website": "https://memex.tech/",
+    "tags": [
+      "information",
+      "research"
+    ]
+  },
+  {
+    "id": "da06b62e339d",
+    "name": "markusschanta/awesome-keras",
+    "description": "A curated list of Keras projects, libraries and resources",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/markusschanta/awesome-keras",
+    "official_website": "https://github.com/markusschanta/awesome-keras",
+    "tags": []
+  },
+  {
+    "id": "dba2fa70-4361-4e93-9b5c-32c18ec23fb9",
+    "name": "Magic Studio",
+    "description": "Unleash AI to edit, upscale, and create images effortlessly.",
+    "category": "Image Generators",
+    "pricing": "Unknown",
+    "url": "https://magicstudio.com/",
+    "official_website": "https://magicstudio.com/",
+    "tags": []
+  },
+  {
+    "id": "dc460846-6726-49f8-9499-612d3cf5695b",
+    "name": "Meta-Llama-3-8B-Instruct",
+    "description": "\u2022",
+    "category": "Model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+    "official_website": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+    "tags": []
+  },
+  {
+    "id": "dca03dcf-12c1-4532-a1cf-74f34e2285a0",
+    "name": "mobilenetv3_small_100.lamb_in1k",
+    "description": "AI model mobilenetv3_small_100.lamb_in1k from timm on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+    "official_website": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+    "tags": []
+  },
+  {
+    "id": "dcb24dfd75eb",
+    "name": "microsoft/FLAML",
+    "description": "FLAML is a fast library for automated machine learning & tuning",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/microsoft/FLAML",
+    "official_website": "https://github.com/microsoft/FLAML",
+    "tags": []
+  },
+  {
+    "id": "dccccd3c-b5a6-4bda-8185-ad2e9ad10255",
+    "name": "MeetGeek",
+    "description": "AI meeting assistant that records, transcribes, and summarizes your calls",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Pricing as listed in source\"}",
+    "url": "https://meetgeek.ai",
+    "official_website": "https://meetgeek.ai",
+    "tags": []
+  },
+  {
+    "id": "dcd21a04456f",
+    "name": "mobilenetv3_small_100.lamb_in1k",
+    "description": "AI model mobilenetv3_small_100.lamb_in1k from timm on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+    "official_website": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+    "tags": []
+  },
+  {
+    "id": "dce453fe1e01",
+    "name": "Modal",
+    "description": "A serverless platform designed for running Python code in the cloud, suitable for model fine-tuning, hosting fine-tuned models, big batch jobs, and voice-to-voice AI experiments.",
+    "category": "Serverless Platform, Python-focused, Model Fine-tuning, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://modal.com",
+    "official_website": "https://modal.com",
+    "tags": []
+  },
+  {
+    "id": "dd1a3fb32550",
+    "name": "MentionMoose",
+    "description": "An AI tool designed to help users find and engage with their audience on Reddit.",
+    "category": "Social Media, Community Engagement",
+    "pricing": "Free",
+    "url": "https://mentionmoose.com",
+    "official_website": "https://mentionmoose.com",
+    "tags": []
+  },
+  {
+    "id": "dd4837c2-9dfd-4da4-9062-f2198b582ea1",
+    "name": "Murf",
+    "description": "Voice generator for professional-quality audio. Use Murf's lifelike AI voices for podcasts, videos, and all your professional presentations",
+    "category": "Text-to-Voice",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/murf",
+    "official_website": "https://link.aitoolsdirectory.com/murf",
+    "tags": []
+  },
+  {
+    "id": "de6be2cc9560",
+    "name": "Munch",
+    "description": "AI-powered video repurposing tool that automatically extracts highlights from long videos and adapts them for social media with trending topic analysis.",
+    "category": "Video",
+    "pricing": "Premium",
+    "url": "https://www.getmunch.com/",
+    "official_website": "https://www.getmunch.com/",
+    "tags": [
+      "trending",
+      "social-media",
+      "highlights",
+      "repurposing",
+      "automated"
+    ]
+  },
+  {
+    "id": "df0482a42515",
+    "name": "mem0ai/mem0",
+    "description": "Mem0 enhances AI assistants and agents with an intelligent memory layer",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/mem0ai/mem0",
+    "official_website": "https://github.com/mem0ai/mem0",
+    "tags": []
+  },
+  {
+    "id": "df8e9dd1ecdb",
+    "name": "mahseema/awesome-ai-tools",
+    "description": "Extracted 40+ AI tools including ChatGPT, Claude, Gemini, Llama, writing assistants, developer tools",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/mahseema/awesome-ai-tools",
+    "official_website": "https://github.com/mahseema/awesome-ai-tools",
+    "tags": []
+  },
+  {
+    "id": "dfaef0ae-bd16-499b-b87b-bbd2aea933f4",
+    "name": "Mem0",
+    "description": "No description available.",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://futuretools.link/mem0-ai",
+    "official_website": "https://futuretools.link/mem0-ai",
+    "tags": []
+  },
+  {
+    "id": "dfdb5aa8e0b1",
+    "name": "Missive",
+    "description": "Unified inbox platform integrating email and messages with team collaboration features, AI-powered drafting/editing/summarization/translation, and seamless OpenAI integration.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://missiveapp.com",
+    "official_website": "https://missiveapp.com",
+    "tags": [
+      "ai-translation",
+      "unified-inbox",
+      "workflow-automation",
+      "openai-integration",
+      "team-collaboration"
+    ]
+  },
+  {
+    "id": "e00e22e6-1982-4f28-b17b-ba2aac5f16d0",
+    "name": "Murf AI",
+    "description": "AI-powered audio and voice solution",
+    "category": "AI Audio & Voice",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://www.murfai.com",
+    "official_website": "https://www.murfai.com",
+    "tags": []
+  },
+  {
+    "id": "e051ec7b-f0ce-4e14-992f-3f0e57956ce5",
+    "name": "MailTester.AI",
+    "description": "AI email testing tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/mailtester-ai",
+    "official_website": "https://www.producthunt.com/products/mailtester-ai",
+    "tags": []
+  },
+  {
+    "id": "e05e9cb64edc",
+    "name": "MAXQDA",
+    "description": "Specialized AI tool for qualitative analysis applications",
+    "category": "Qualitative Analysis",
+    "pricing": "Open Source",
+    "url": "https://maxqda.com",
+    "official_website": "https://maxqda.com",
+    "tags": []
+  },
+  {
+    "id": "e0afbe42-0e1a-4208-baeb-53f4b898fc46",
+    "name": "MeetMinutes",
+    "description": "MeetMinutes is the 1st Agentic AI Meeting Management tool with Bill Gates' Note-Taking method to capture key points, questions, and tasks. With custom integrations, multilingual support, and your Personal Secretary, it enables teams to be 4x productive.",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/meetminutes",
+    "official_website": "https://www.producthunt.com/products/meetminutes",
+    "tags": []
+  },
+  {
+    "id": "e0d96b1f-edc1-46a9-a532-e65e1685f05e",
+    "name": "Microsoft Healthcare Bot",
+    "description": "Healthcare conversational AI",
+    "category": "Healthcare AI APIs",
+    "pricing": "Freemium",
+    "url": "https://microsoftazure.com",
+    "official_website": "https://microsoftazure.com",
+    "tags": []
+  },
+  {
+    "id": "e1a8f1cb345c",
+    "name": "Make",
+    "description": "Specialized AI tool for research automation applications",
+    "category": "Research Automation",
+    "pricing": "Open Source",
+    "url": "https://make.com",
+    "official_website": "https://make.com",
+    "tags": []
+  },
+  {
+    "id": "e2222f67-80dd-415f-8ef3-4205baa4da75",
+    "name": "Microsoft Computer Vision Recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision",
+    "category": "Computer Vision",
+    "pricing": "Unknown",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "official_website": "https://github.com/microsoft/computervision-recipes",
+    "tags": []
+  },
+  {
+    "id": "e2a101b2-bc77-45ae-b1d2-921fe70c5f06",
+    "name": "Moonbeam",
+    "description": "Revolutionize long-form writing with AI-driven coherence and style versatility.",
+    "category": "Writing Generators",
+    "pricing": "Unknown",
+    "url": "https://gomoonbeam.com",
+    "official_website": "https://gomoonbeam.com",
+    "tags": []
+  },
+  {
+    "id": "e593e955-b41c-45aa-add3-f2ac5e83ec43",
+    "name": "MakeUGC",
+    "description": "Generate short-form ad videos in minutes using AI avatars, auto-written scripts, and multilingual voiceovers. Ideal for brands testing UGC-style ads at scale",
+    "category": "Short Form Video",
+    "pricing": "Unknown",
+    "url": "https://link.aitoolsdirectory.com/makeugc",
+    "official_website": "https://link.aitoolsdirectory.com/makeugc",
+    "tags": []
+  },
+  {
+    "id": "e687da1b-1326-4c2e-a1c7-e4ea02d77c65",
+    "name": "Microsoft Dynamics AI",
+    "description": "AI-enhanced business applications",
+    "category": "AI Business & Finance",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "microsoftdynamicsai",
+    "official_website": "microsoftdynamicsai",
+    "tags": []
+  },
+  {
+    "id": "e6d50c3c3ae2",
+    "name": "Meta-Llama-3-8B",
+    "description": "AI model Meta-Llama-3-8B from meta-llama on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Not Specified",
+    "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+    "official_website": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+    "tags": []
+  },
+  {
+    "id": "e6fe95f90035",
+    "name": "Monohire",
+    "description": "AI Powered Applicant Screening Software",
+    "category": "Enterprise & Startups, HR Tech",
+    "pricing": "Not specified",
+    "url": "https://monohire.ai",
+    "official_website": "https://monohire.ai",
+    "tags": []
+  },
+  {
+    "id": "e848dd56-1459-4b0f-a8fc-532dfff20109",
+    "name": "MachineLearning Tool 44",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning44.com",
+    "official_website": "https://machinelearning44.com",
+    "tags": []
+  },
+  {
+    "id": "e8bb9bd2-8107-4865-ae76-a431226b44a2",
+    "name": "Murf AI",
+    "description": "AI voice generator for voiceovers",
+    "category": "AI Voice",
+    "pricing": "Premium",
+    "url": "https://murf.ai",
+    "official_website": "https://murf.ai",
+    "tags": []
+  },
+  {
+    "id": "e965f42c-c124-4c03-907d-19e83e26c12d",
+    "name": "Midjourney",
+    "description": "Midjourney is an advanced AI-powered tool designed to enhance productivity and streamline workflows. It offers cutting-edge features and capabilities to help users achieve better results faster.",
+    "category": "AI Productivity",
+    "pricing": "Premium",
+    "url": "https://futuretools.link/midjourney",
+    "official_website": "https://futuretools.link/midjourney",
+    "tags": []
+  },
+  {
+    "id": "e9c06de9-1eee-46eb-8234-26a802209532",
+    "name": "MachineLearning Tool 21",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning21.com",
+    "official_website": "https://machinelearning21.com",
+    "tags": []
+  },
+  {
+    "id": "ead4313d1c9b",
+    "name": "Microsoft Power Automate",
+    "description": "Workflow automation tool within Microsoft ecosystem with deep Office 365 integrations, administrative controls, approval workflows, and native connection to Microsoft services.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://www.microsoft.com/en-us/power-platform/products/power-automate",
+    "official_website": "https://www.microsoft.com/en-us/power-platform/products/power-automate",
+    "tags": [
+      "approvals",
+      "administrative-controls",
+      "native-integrations",
+      "office-365",
+      "microsoft-ecosystem"
+    ]
+  },
+  {
+    "id": "eadfe58c-e6f6-4294-952c-81de1cad0077",
+    "name": "Monobot AI",
+    "description": "Automate Your Social Media Growth with AI-Powered Tools",
+    "category": "AI Social Media Assistant",
+    "pricing": "Unknown",
+    "url": "https://freeaitool.ai/tool/monobot-ai",
+    "official_website": "https://freeaitool.ai/tool/monobot-ai",
+    "tags": []
+  },
+  {
+    "id": "ed044c2b6d37",
+    "name": "MadcowD/ell",
+    "description": "ell is a language model programming library that treats prompts as programs",
+    "category": "General",
+    "pricing": "Unknown",
+    "url": "https://github.com/MadcowD/ell",
+    "official_website": "https://github.com/MadcowD/ell",
+    "tags": []
+  },
+  {
+    "id": "edefa236-a30e-4c78-ba3f-92a849387848",
+    "name": "Miro Assist",
+    "description": "AI-powered feature within Miro's collaborative whiteboard platform. Automates organization of sticky notes, mind maps, and project plans while suggesting logical groupings and connections for enhanced real-time collaboration.",
+    "category": "AI Design",
+    "pricing": "Free",
+    "url": "https://miro.com/",
+    "official_website": "https://miro.com/",
+    "tags": []
+  },
+  {
+    "id": "ee554834-efb3-4a21-b165-84e98503d1cf",
+    "name": "MLC CodeLlama",
+    "description": "Browser CodeLlama model",
+    "category": "Free & Open Source",
+    "pricing": "Freemium",
+    "url": "https://mlc.com",
+    "official_website": "https://mlc.com",
+    "tags": []
+  },
+  {
+    "id": "f06390ad-c26a-4203-9056-0ac423149f55",
+    "name": "Mailmodo AI",
+    "description": "AI email marketing tool",
+    "category": "AI Productivity",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tool\"}",
+    "url": "https://www.producthunt.com/products/mailmodo",
+    "official_website": "https://www.producthunt.com/products/mailmodo",
+    "tags": []
+  },
+  {
+    "id": "f17a933a-4ae1-4741-b777-e2c5233712f6",
+    "name": "MachineLearning Tool 5",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning5.com",
+    "official_website": "https://machinelearning5.com",
+    "tags": []
+  },
+  {
+    "id": "f1aae95d-7e88-43bb-839d-4a2912a1d260",
+    "name": "MedRxiv",
+    "description": "Academic publishing and research data platform for scholarly communication",
+    "category": "Research Infrastructure",
+    "pricing": "Free",
+    "url": "https://www.medrxiv.org",
+    "official_website": "https://www.medrxiv.org",
+    "tags": []
+  },
+  {
+    "id": "f1d9c06f-6905-47e1-b01b-fc0de94779eb",
+    "name": "Midjourney",
+    "description": "Leading AI art generator creating stunning images",
+    "category": "AI Image Generation",
+    "pricing": "{\"model\":\"Freemium\",\"details\":\"Free tier available with premium plans\"}",
+    "url": "midjourney",
+    "official_website": "midjourney",
+    "tags": []
+  },
+  {
+    "id": "f2616bd2-1e6b-4a32-8737-a49c0e143c18",
+    "name": "MachineLearning Tool 6",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning6.com",
+    "official_website": "https://machinelearning6.com",
+    "tags": []
+  },
+  {
+    "id": "f279efb2-140b-40f4-ba5c-93417ef88fcd",
+    "name": "MachineLearning Tool 29",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning29.com",
+    "official_website": "https://machinelearning29.com",
+    "tags": []
+  },
+  {
+    "id": "f5f295ae9963",
+    "name": "Mixus AI",
+    "description": "Enhance Your Conversations with AI-Human Collaboration.",
+    "category": "Conversation Enhancement, AI-Human Collaboration",
+    "pricing": "Not specified",
+    "url": "https://mixus.ai",
+    "official_website": "https://mixus.ai",
+    "tags": []
+  },
+  {
+    "id": "f6240ab42a52",
+    "name": "Microsoft Copilot Pro",
+    "description": "AI assistant integrated into Microsoft 365 suite providing email drafting, thread summarization with clickable sources, communication coaching, and cross-application AI features for Office apps.",
+    "category": "Productivity",
+    "pricing": "Premium",
+    "url": "https://copilot.cloud.microsoft/en-us/copilot-pro",
+    "official_website": "https://copilot.cloud.microsoft/en-us/copilot-pro",
+    "tags": [
+      "coaching",
+      "summarization",
+      "office-integration",
+      "microsoft-365",
+      "email-assistant"
+    ]
+  },
+  {
+    "id": "f69185323839",
+    "name": "Midjourney",
+    "description": "Create AI generated images from a text prompt. Create images, paintings, digital art, logos and much more simply by writing a prompt.",
+    "category": "Design inspiration websites, AI Generative Media, AI Infrastructure Tools",
+    "pricing": "Not Specified",
+    "url": "https://midjourney.com",
+    "official_website": "https://midjourney.com",
+    "tags": []
+  },
+  {
+    "id": "f753c1b49fa3",
+    "name": "MiniMax",
+    "description": "Advanced AI video generation platform offering specialized tools for subject reference and advanced camera movement control. Part of the next generation of video AI tools.",
+    "category": "Video",
+    "pricing": "Freemium",
+    "url": "https://www.minimaxi.com/",
+    "official_website": "https://www.minimaxi.com/",
+    "tags": [
+      "text-to-video",
+      "advanced",
+      "next-gen",
+      "subject-reference",
+      "camera-control"
+    ]
+  },
+  {
+    "id": "f795c85f-64d6-44cb-8cd2-77cfac337e49",
+    "name": "MachineLearning Tool 1",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning1.com",
+    "official_website": "https://machinelearning1.com",
+    "tags": []
+  },
+  {
+    "id": "f7c84642-161d-4818-93f6-320cc5b59890",
+    "name": "Mercari AI",
+    "description": "Marketplace AI",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://mercari.com",
+    "official_website": "https://mercari.com",
+    "tags": []
+  },
+  {
+    "id": "f94d305b-6b1a-4938-8711-7d61eb5eb279",
+    "name": "MachineLearning Tool 11",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning11.com",
+    "official_website": "https://machinelearning11.com",
+    "tags": []
+  },
+  {
+    "id": "f95ea27786a8",
+    "name": "Microsoft Copilot",
+    "description": "Free AI assistant for information, writing assistance, and image understanding.",
+    "category": "Chatbot",
+    "pricing": "Free",
+    "url": "https://copilot.microsoft.com/",
+    "official_website": "https://copilot.microsoft.com/",
+    "tags": [
+      "productivity",
+      "chatbot"
+    ]
+  },
+  {
+    "id": "f9a4a3d9-eff3-4fd3-9020-e050a9ce75b9",
+    "name": "Mixo AI",
+    "description": "AI website builder specifically designed for extremely fast website generation from simple prompts. Automatically fills core sections like about, registration CTA, and contact forms with clean UI handling padding, alignment, and breakpoints automatically.",
+    "category": "Website",
+    "pricing": "Free",
+    "url": "https://www.mixo.io/",
+    "official_website": "https://www.mixo.io/",
+    "tags": []
+  },
+  {
+    "id": "fa088ca5-b93d-4117-91e5-4ae73a4b06d2",
+    "name": "MusicLM",
+    "description": "Google's AI model for generating high-quality music from text descriptions",
+    "category": "Content Creation",
+    "pricing": "Free",
+    "url": "https://google-research.github.io/seanet/musiclm/examples/",
+    "official_website": "https://google-research.github.io/seanet/musiclm/examples/",
+    "tags": []
+  },
+  {
+    "id": "fa3b36ec-5d43-4a34-b930-40059a521878",
+    "name": "MailTester.AI",
+    "description": "AI email testing tool",
+    "category": "Marketing",
+    "pricing": "Unknown",
+    "url": "https://mailtester.ai",
+    "official_website": "https://mailtester.ai",
+    "tags": []
+  },
+  {
+    "id": "fa423e2e-debc-43c4-b2b4-3557f7639868",
+    "name": "Mint Financial",
+    "description": "Personal finance management",
+    "category": "Specialized AI Services",
+    "pricing": "Freemium",
+    "url": "https://intuit.com",
+    "official_website": "https://intuit.com",
+    "tags": []
+  },
+  {
+    "id": "fa985c0e-aa1a-498a-8114-c280c0896988",
+    "name": "MachineLearning Tool 26",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning26.com",
+    "official_website": "https://machinelearning26.com",
+    "tags": []
+  },
+  {
+    "id": "fb803c8c-1ab7-4d98-9a3e-0e2e642acb7c",
+    "name": "MachineLearning Tool 20",
+    "description": "Specialized ai machine learning solution for enterprise and personal use",
+    "category": "AI Machine Learning",
+    "pricing": "{\"model\":\"Varies\",\"details\":\"Pricing varies by tier and usage\"}",
+    "url": "https://machinelearning20.com",
+    "official_website": "https://machinelearning20.com",
+    "tags": []
+  },
+  {
+    "id": "fd0f96d8e417",
+    "name": "Microsoft Azure Speech Services",
+    "description": "Comprehensive speech services suite including speech-to-text, text-to-speech, speech translation, and speaker recognition. Features neural voices, custom voice creation, and enterprise-grade deployment options.",
+    "category": "Voice",
+    "pricing": "Freemium",
+    "url": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
+    "official_website": "https://azure.microsoft.com/services/cognitive-services/speech-services/",
+    "tags": [
+      "azure",
+      "enterprise",
+      "comprehensive",
+      "speaker-recognition",
+      "cloud-service",
+      "speech-translation"
+    ]
+  },
+  {
+    "id": "fdaa25d6-b31f-486b-90c4-8eadbc6151d7",
+    "name": "mT5_multilingual_XLSum",
+    "description": "AI model mT5_multilingual_XLSum from csebuetnlp on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum",
+    "official_website": "https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum",
+    "tags": []
+  },
+  {
+    "id": "fe66e19d-7268-4326-a02d-727d522040f3",
+    "name": "Mistral Chat",
+    "description": "Mistral AI conversational model",
+    "category": "AI Chatbots",
+    "pricing": "Free",
+    "url": "https://chat.mistral.ai",
+    "official_website": "https://chat.mistral.ai",
+    "tags": []
+  },
+  {
+    "id": "ff8dbfac-c1b6-4745-8278-eec36e539f95",
+    "name": "madlad400-3b-mt",
+    "description": "AI model madlad400-3b-mt from google on Hugging Face Hub",
+    "category": "ai-model",
+    "pricing": "Unknown",
+    "url": "https://huggingface.co/google/madlad400-3b-mt",
+    "official_website": "https://huggingface.co/google/madlad400-3b-mt",
+    "tags": []
+  }
+]
