@@ -14,4 +14,4 @@ En attendant, veuillez vous référer au [README en anglais](../README.md) pour 
 
 Ceci est un effort communautaire ! Nous serions ravis de recevoir votre aide pour traduire les noms et descriptions des outils.
 
-Si vous êtes un locuteur natif et souhaitez contribuer à l'effort de traduction, veuillez contacter le responsable sur Telegram : **@saddex.x** 💬
+Si vous êtes un locuteur natif et souhaitez contribuer à l'effort de traduction, veuillez contacter le responsable sur Telegram : [**Saddex__x**](https://t.me/Saddex_x)
