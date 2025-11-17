@@ -2,7 +2,7 @@
 
 **This repository contains a curated list of 6,638 AI tools.**
 
-**⚠️ Need more tools?** Due to the massive size of the database, this repository only hosts a selection. For the **full database of over 59k tools**, please visit our official website: [**https://sdxrnx.site**](https://sdxrnx.site) ✨
+**⚠️ Need more tools?** Due to the massive size of the database, this repository only hosts a selection. For the **full database of over 59k tools**, please visit our official website: [**sdxrnx AI Tools Directory**](https://sdxrnx.site) ✨
 
 ---
 
