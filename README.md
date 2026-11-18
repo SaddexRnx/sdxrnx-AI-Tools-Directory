@@ -4,6 +4,10 @@ A categorized list of about 6,600 AI tools, organized so you can find something 
 
 The full searchable catalog (59k+ tools) is at [sdxrnx.site](https://sdxrnx.site). This repo is a smaller curated subset.
 
+## About
+
+I put this together for myself, then kept adding tools until it turned into a proper directory. The full searchable version lives on my site because GitHub was never meant to hold sixty thousand links. I'm Saddek, a developer in Algeria. More at [saddexrnx.github.io](https://saddexrnx.github.io) and [@Saddex_x](https://t.me/Saddex_x) on Telegram.
+
 ## Languages
 
 | English | العربية | 中文 | हिन्दी | Español | Français |
